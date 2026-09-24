@@ -2,9 +2,9 @@
  "snapshots": [
   {
    "date": "2026-09-24",
-   "updatedAt": "2026-09-24T17:47:52+09:00",
+   "updatedAt": "2026-09-24T18:07:33+09:00",
    "fx": {
-    "usdkrw": 1369.27,
+    "usdkrw": 1370.19,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -201,6 +201,58 @@
      "qty": 2,
      "price": 191.79,
      "chgPct": 3.68,
+     "asOf": "2026-09-23"
+    },
+    {
+     "id": "irp-rise-semi-bond",
+     "name": "RISE 삼성전자SK하이닉스채권혼합50",
+     "label": "삼성·하닉 채권혼합",
+     "group": "퇴직연금",
+     "ticker": "0162Z0",
+     "market": "KR",
+     "currency": "KRW",
+     "qty": 110,
+     "price": 14030.0,
+     "chgPct": 1.01,
+     "asOf": "2026-09-23"
+    },
+    {
+     "id": "irp-kodex-sp500",
+     "name": "KODEX 미국S&P500",
+     "label": "KODEX S&P500",
+     "group": "퇴직연금",
+     "ticker": "379800",
+     "market": "KR",
+     "currency": "KRW",
+     "qty": 140,
+     "price": 23810.0,
+     "chgPct": 0.04,
+     "asOf": "2026-09-23"
+    },
+    {
+     "id": "irp-kodex-nasdaq100",
+     "name": "KODEX 미국나스닥100",
+     "label": "KODEX 나스닥100",
+     "group": "퇴직연금",
+     "ticker": "379810",
+     "market": "KR",
+     "currency": "KRW",
+     "qty": 120,
+     "price": 27665.0,
+     "chgPct": 0.89,
+     "asOf": "2026-09-23"
+    },
+    {
+     "id": "irp-ace-nasdaq-bond",
+     "name": "ACE 미국나스닥100미국채혼합50액티브",
+     "label": "ACE 나스닥채권",
+     "group": "퇴직연금",
+     "ticker": "438100",
+     "market": "KR",
+     "currency": "KRW",
+     "qty": 100,
+     "price": 15290.0,
+     "chgPct": 0.63,
      "asOf": "2026-09-23"
     }
    ]
