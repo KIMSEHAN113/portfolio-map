@@ -9,7 +9,13 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 754,
-      "yahoo": "379810.KS"
+      "yahoo": "379810.KS",
+      "account": "일반",
+      "dca": {
+        "weekday": "월",
+        "shares": 2,
+        "since": "2026-09-28"
+      }
     },
     {
       "id": "rise-sp500",
@@ -20,7 +26,13 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 590,
-      "yahoo": "379780.KS"
+      "yahoo": "379780.KS",
+      "account": "일반",
+      "dca": {
+        "weekday": "월",
+        "shares": 2,
+        "since": "2026-09-28"
+      }
     },
     {
       "id": "samsung",
@@ -31,7 +43,8 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 2,
-      "yahoo": "005930.KS"
+      "yahoo": "005930.KS",
+      "account": "일반"
     },
     {
       "id": "lgdisplay",
@@ -42,7 +55,8 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 50,
-      "yahoo": "034220.KS"
+      "yahoo": "034220.KS",
+      "account": "일반"
     },
     {
       "id": "qqqm",
@@ -53,7 +67,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 23,
-      "yahoo": "QQQM"
+      "yahoo": "QQQM",
+      "account": "일반"
     },
     {
       "id": "schd",
@@ -64,7 +79,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 104,
-      "yahoo": "SCHD"
+      "yahoo": "SCHD",
+      "account": "일반"
     },
     {
       "id": "tqqq",
@@ -75,7 +91,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 41,
-      "yahoo": "TQQQ"
+      "yahoo": "TQQQ",
+      "account": "일반"
     },
     {
       "id": "googl",
@@ -86,7 +103,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 8,
-      "yahoo": "GOOGL"
+      "yahoo": "GOOGL",
+      "account": "일반"
     },
     {
       "id": "dram",
@@ -97,7 +115,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 43,
-      "yahoo": "DRAM"
+      "yahoo": "DRAM",
+      "account": "일반"
     },
     {
       "id": "hood",
@@ -108,7 +127,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 20,
-      "yahoo": "HOOD"
+      "yahoo": "HOOD",
+      "account": "일반"
     },
     {
       "id": "ram",
@@ -119,7 +139,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 166,
-      "yahoo": "RAM"
+      "yahoo": "RAM",
+      "account": "일반"
     },
     {
       "id": "qld",
@@ -130,7 +151,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 23,
-      "yahoo": "QLD"
+      "yahoo": "QLD",
+      "account": "일반"
     },
     {
       "id": "soxl",
@@ -141,7 +163,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 15,
-      "yahoo": "SOXL"
+      "yahoo": "SOXL",
+      "account": "일반"
     },
     {
       "id": "orcl",
@@ -152,7 +175,8 @@
       "market": "US",
       "currency": "USD",
       "qty": 10,
-      "yahoo": "ORCL"
+      "yahoo": "ORCL",
+      "account": "일반"
     },
     {
       "id": "pltr",
@@ -163,7 +187,60 @@
       "market": "US",
       "currency": "USD",
       "qty": 2,
-      "yahoo": "PLTR"
+      "yahoo": "PLTR",
+      "account": "일반"
+    },
+    {
+      "id": "irp-rise-semi-bond",
+      "name": "RISE 삼성전자SK하이닉스채권혼합50",
+      "label": "삼성·하닉 채권혼합",
+      "group": "퇴직연금",
+      "ticker": "0162Z0",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 110,
+      "yahoo": "0162Z0.KS",
+      "account": "퇴직연금"
+    },
+    {
+      "id": "irp-kodex-sp500",
+      "name": "KODEX 미국S&P500",
+      "label": "KODEX S&P500",
+      "group": "퇴직연금",
+      "ticker": "379800",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 140,
+      "yahoo": "379800.KS",
+      "account": "퇴직연금"
+    },
+    {
+      "id": "irp-kodex-nasdaq100",
+      "name": "KODEX 미국나스닥100",
+      "label": "KODEX 나스닥100",
+      "group": "퇴직연금",
+      "ticker": "379810",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 120,
+      "yahoo": "379810.KS",
+      "account": "퇴직연금"
+    },
+    {
+      "id": "irp-ace-nasdaq-bond",
+      "name": "ACE 미국나스닥100미국채혼합50액티브",
+      "label": "ACE 나스닥채권",
+      "group": "퇴직연금",
+      "ticker": "438100",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 100,
+      "yahoo": "438100.KS",
+      "account": "퇴직연금"
     }
-  ]
+  ],
+  "_설명": {
+    "qty": "보유 수량. dca가 있는 종목은 since 날짜 이전(2026-09-25 기준) 수량이며, 매주 지정 요일마다 shares만큼 자동으로 더해집니다.",
+    "dca 끄기": "dca 항목을 지우고 qty에 현재 수량을 적으면 됩니다."
+  }
 }
