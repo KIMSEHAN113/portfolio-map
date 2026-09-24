@@ -1,0 +1,169 @@
+{
+  "holdings": [
+    {
+      "id": "kodex-nasdaq100",
+      "name": "KODEX 미국나스닥100",
+      "label": "KODEX 나스닥100",
+      "group": "미국 지수 ETF",
+      "ticker": "379810",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 754,
+      "yahoo": "379810.KS"
+    },
+    {
+      "id": "rise-sp500",
+      "name": "RISE 미국S&P500",
+      "label": "RISE S&P500",
+      "group": "미국 지수 ETF",
+      "ticker": "379780",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 590,
+      "yahoo": "379780.KS"
+    },
+    {
+      "id": "samsung",
+      "name": "삼성전자",
+      "label": "삼성전자",
+      "group": "반도체 · 메모리",
+      "ticker": "005930",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 2,
+      "yahoo": "005930.KS"
+    },
+    {
+      "id": "lgdisplay",
+      "name": "LG디스플레이",
+      "label": "LG디스플레이",
+      "group": "반도체 · 메모리",
+      "ticker": "034220",
+      "market": "KR",
+      "currency": "KRW",
+      "qty": 50,
+      "yahoo": "034220.KS"
+    },
+    {
+      "id": "qqqm",
+      "name": "QQQM",
+      "label": "QQQM",
+      "group": "미국 지수 ETF",
+      "ticker": "QQQM",
+      "market": "US",
+      "currency": "USD",
+      "qty": 23,
+      "yahoo": "QQQM"
+    },
+    {
+      "id": "schd",
+      "name": "SCHD",
+      "label": "SCHD",
+      "group": "미국 지수 ETF",
+      "ticker": "SCHD",
+      "market": "US",
+      "currency": "USD",
+      "qty": 104,
+      "yahoo": "SCHD"
+    },
+    {
+      "id": "tqqq",
+      "name": "TQQQ",
+      "label": "TQQQ",
+      "group": "레버리지 ETF",
+      "ticker": "TQQQ",
+      "market": "US",
+      "currency": "USD",
+      "qty": 41,
+      "yahoo": "TQQQ"
+    },
+    {
+      "id": "googl",
+      "name": "알파벳 A",
+      "label": "GOOGL",
+      "group": "미국 개별주",
+      "ticker": "GOOGL",
+      "market": "US",
+      "currency": "USD",
+      "qty": 8,
+      "yahoo": "GOOGL"
+    },
+    {
+      "id": "dram",
+      "name": "DRAM (Roundhill 메모리)",
+      "label": "DRAM",
+      "group": "반도체 · 메모리",
+      "ticker": "DRAM",
+      "market": "US",
+      "currency": "USD",
+      "qty": 43,
+      "yahoo": "DRAM"
+    },
+    {
+      "id": "hood",
+      "name": "로빈후드",
+      "label": "HOOD",
+      "group": "미국 개별주",
+      "ticker": "HOOD",
+      "market": "US",
+      "currency": "USD",
+      "qty": 20,
+      "yahoo": "HOOD"
+    },
+    {
+      "id": "ram",
+      "name": "RAM (2X 메모리)",
+      "label": "RAM",
+      "group": "레버리지 ETF",
+      "ticker": "RAM",
+      "market": "US",
+      "currency": "USD",
+      "qty": 166,
+      "yahoo": "RAM"
+    },
+    {
+      "id": "qld",
+      "name": "QLD",
+      "label": "QLD",
+      "group": "레버리지 ETF",
+      "ticker": "QLD",
+      "market": "US",
+      "currency": "USD",
+      "qty": 23,
+      "yahoo": "QLD"
+    },
+    {
+      "id": "soxl",
+      "name": "SOXL",
+      "label": "SOXL",
+      "group": "레버리지 ETF",
+      "ticker": "SOXL",
+      "market": "US",
+      "currency": "USD",
+      "qty": 15,
+      "yahoo": "SOXL"
+    },
+    {
+      "id": "orcl",
+      "name": "오라클",
+      "label": "ORCL",
+      "group": "미국 개별주",
+      "ticker": "ORCL",
+      "market": "US",
+      "currency": "USD",
+      "qty": 10,
+      "yahoo": "ORCL"
+    },
+    {
+      "id": "pltr",
+      "name": "팔란티어",
+      "label": "PLTR",
+      "group": "미국 개별주",
+      "ticker": "PLTR",
+      "market": "US",
+      "currency": "USD",
+      "qty": 2,
+      "yahoo": "PLTR"
+    }
+  ]
+}
