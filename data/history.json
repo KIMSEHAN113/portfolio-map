@@ -2,9 +2,9 @@
  "snapshots": [
   {
    "date": "2026-09-24",
-   "updatedAt": "2026-09-24T18:22:24+09:00",
+   "updatedAt": "2026-09-24T18:23:07+09:00",
    "fx": {
-    "usdkrw": 1371.18,
+    "usdkrw": 1370.09,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
