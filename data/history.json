@@ -2,206 +2,206 @@
  "snapshots": [
   {
    "date": "2026-09-24",
-   "updatedAt": "2026-09-24T16:45:00+09:00",
+   "updatedAt": "2026-09-24T17:46:30+09:00",
    "fx": {
-    "usdkrw": 1364.77,
-    "source": "open.er-api.com"
+    "usdkrw": 1369.28,
+    "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
     {
      "id": "kodex-nasdaq100",
      "name": "KODEX 미국나스닥100",
+     "label": "KODEX 나스닥100",
+     "group": "미국 지수 ETF",
      "ticker": "379810",
      "market": "KR",
      "currency": "KRW",
      "qty": 754,
-     "price": 27665,
+     "price": 27665.0,
      "chgPct": 0.89,
-     "asOf": "2026-09-23",
-     "group": "미국 지수 ETF",
-     "label": "KODEX 나스닥100"
+     "asOf": "2026-09-23"
     },
     {
      "id": "rise-sp500",
      "name": "RISE 미국S&P500",
+     "label": "RISE S&P500",
+     "group": "미국 지수 ETF",
      "ticker": "379780",
      "market": "KR",
      "currency": "KRW",
      "qty": 590,
-     "price": 22875,
-     "chgPct": -0.67,
-     "asOf": "2026-09-22",
-     "group": "미국 지수 ETF",
-     "label": "RISE S&P500"
+     "price": 22890.0,
+     "chgPct": 0.07,
+     "asOf": "2026-09-23"
     },
     {
      "id": "samsung",
      "name": "삼성전자",
+     "label": "삼성전자",
+     "group": "반도체 · 메모리",
      "ticker": "005930",
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 285500,
+     "price": 285500.0,
      "chgPct": 3.25,
-     "asOf": "2026-09-23",
-     "group": "반도체 · 메모리",
-     "label": "삼성전자"
+     "asOf": "2026-09-23"
     },
     {
      "id": "lgdisplay",
      "name": "LG디스플레이",
+     "label": "LG디스플레이",
+     "group": "반도체 · 메모리",
      "ticker": "034220",
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 8490,
+     "price": 8490.0,
      "chgPct": 0.24,
-     "asOf": "2026-09-23",
-     "group": "반도체 · 메모리",
-     "label": "LG디스플레이"
+     "asOf": "2026-09-23"
     },
     {
      "id": "qqqm",
      "name": "QQQM",
+     "label": "QQQM",
+     "group": "미국 지수 ETF",
      "ticker": "QQQM",
      "market": "US",
      "currency": "USD",
      "qty": 23,
      "price": 305.14,
      "chgPct": -0.86,
-     "asOf": "2026-09-23",
-     "group": "미국 지수 ETF",
-     "label": "QQQM"
+     "asOf": "2026-09-23"
     },
     {
      "id": "schd",
      "name": "SCHD",
+     "label": "SCHD",
+     "group": "미국 지수 ETF",
      "ticker": "SCHD",
      "market": "US",
      "currency": "USD",
      "qty": 104,
      "price": 33.28,
      "chgPct": -1.36,
-     "asOf": "2026-09-23",
-     "group": "미국 지수 ETF",
-     "label": "SCHD"
+     "asOf": "2026-09-23"
     },
     {
      "id": "tqqq",
      "name": "TQQQ",
+     "label": "TQQQ",
+     "group": "레버리지 ETF",
      "ticker": "TQQQ",
      "market": "US",
      "currency": "USD",
      "qty": 41,
      "price": 78.66,
-     "chgPct": -2.5,
-     "asOf": "2026-09-23",
-     "group": "레버리지 ETF",
-     "label": "TQQQ"
+     "chgPct": -2.68,
+     "asOf": "2026-09-23"
     },
     {
      "id": "googl",
      "name": "알파벳 A",
+     "label": "GOOGL",
+     "group": "미국 개별주",
      "ticker": "GOOGL",
      "market": "US",
      "currency": "USD",
      "qty": 8,
      "price": 337.83,
      "chgPct": -3.8,
-     "asOf": "2026-09-23",
-     "group": "미국 개별주",
-     "label": "GOOGL"
+     "asOf": "2026-09-23"
     },
     {
      "id": "dram",
      "name": "DRAM (Roundhill 메모리)",
+     "label": "DRAM",
+     "group": "반도체 · 메모리",
      "ticker": "DRAM",
      "market": "US",
      "currency": "USD",
      "qty": 43,
      "price": 61.9,
      "chgPct": -2.7,
-     "asOf": "2026-09-23",
-     "group": "반도체 · 메모리",
-     "label": "DRAM"
+     "asOf": "2026-09-23"
     },
     {
      "id": "hood",
      "name": "로빈후드",
+     "label": "HOOD",
+     "group": "미국 개별주",
      "ticker": "HOOD",
      "market": "US",
      "currency": "USD",
      "qty": 20,
      "price": 122.7,
      "chgPct": -1.25,
-     "asOf": "2026-09-23",
-     "group": "미국 개별주",
-     "label": "HOOD"
+     "asOf": "2026-09-23"
     },
     {
      "id": "ram",
      "name": "RAM (2X 메모리)",
+     "label": "RAM",
+     "group": "레버리지 ETF",
      "ticker": "RAM",
      "market": "US",
      "currency": "USD",
      "qty": 166,
-     "price": 15.02,
-     "chgPct": 4.31,
-     "asOf": "2026-09-22",
-     "group": "레버리지 ETF",
-     "label": "RAM"
+     "price": 14.47,
+     "chgPct": -5.73,
+     "asOf": "2026-09-23"
     },
     {
      "id": "qld",
      "name": "QLD",
+     "label": "QLD",
+     "group": "레버리지 ETF",
      "ticker": "QLD",
      "market": "US",
      "currency": "USD",
      "qty": 23,
      "price": 96.16,
      "chgPct": -1.7,
-     "asOf": "2026-09-23",
-     "group": "레버리지 ETF",
-     "label": "QLD"
+     "asOf": "2026-09-23"
     },
     {
      "id": "soxl",
      "name": "SOXL",
+     "label": "SOXL",
+     "group": "레버리지 ETF",
      "ticker": "SOXL",
      "market": "US",
      "currency": "USD",
      "qty": 15,
      "price": 146.25,
      "chgPct": -3.75,
-     "asOf": "2026-09-23",
-     "group": "레버리지 ETF",
-     "label": "SOXL"
+     "asOf": "2026-09-23"
     },
     {
      "id": "orcl",
      "name": "오라클",
+     "label": "ORCL",
+     "group": "미국 개별주",
      "ticker": "ORCL",
      "market": "US",
      "currency": "USD",
      "qty": 10,
      "price": 144.56,
      "chgPct": -3.11,
-     "asOf": "2026-09-23",
-     "group": "미국 개별주",
-     "label": "ORCL"
+     "asOf": "2026-09-23"
     },
     {
      "id": "pltr",
      "name": "팔란티어",
+     "label": "PLTR",
+     "group": "미국 개별주",
      "ticker": "PLTR",
      "market": "US",
      "currency": "USD",
      "qty": 2,
      "price": 191.79,
      "chgPct": 3.68,
-     "asOf": "2026-09-23",
-     "group": "미국 개별주",
-     "label": "PLTR"
+     "asOf": "2026-09-23"
     }
    ]
   }
