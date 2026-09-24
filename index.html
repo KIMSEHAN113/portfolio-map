@@ -155,14 +155,27 @@ function color(c){
   return `rgb(${A.map((v,k)=>Math.round(v+(B[k]-v)*t)).join(',')})`;
 }
 
+function mergeSame(list){
+  const by={},out=[];
+  list.forEach(h=>{const k=h.market+':'+h.ticker;
+    if(!by[k]){by[k]={...h,parts:[{account:h.account,qty:h.qty}]};out.push(by[k]);return;}
+    const m=by[k];m.parts.push({account:h.account,qty:h.qty});
+    m.qty+=h.qty;m.value+=h.value;m.prev+=h.prev;
+    if(h.account==='일반'){m.label=h.label;m.name=h.name;m.group=h.group;}
+    m.dca=m.dca||h.dca;m.account=m.parts.map(p=>p.account).join('+');m.id='merged-'+k;
+  });
+  return out;
+}
+
 function compute(s){
   const fx=s.fx&&s.fx.usdkrw||0;
-  const items=(s.holdings||[]).map(h=>{
+  let items=(s.holdings||[]).map(h=>{
     const m=META[h.id]||[];const rate=h.currency==='USD'?fx:1;
     const value=h.qty*h.price*rate,prev=value/(1+(h.chgPct||0)/100);
     const account=h.account||(String(h.id).startsWith('irp-')?'퇴직연금':'일반');
     return {...h,account,group:h.group||m[0]||'기타',label:h.label||m[1]||h.ticker,value,prev};
   }).filter(h=>h.value>0&&(acct==='all'||h.account===acct));
+  if(acct==='all')items=mergeSame(items);
   const total=items.reduce((a,b)=>a+b.value,0),prevTotal=items.reduce((a,b)=>a+b.prev,0);
   items.forEach(h=>h.weight=h.value/total*100);
   items.sort((a,b)=>b.value-a.value);
@@ -206,11 +219,15 @@ function drawMap(){
       let fs=Math.min(Math.sqrt(c.w*c.h)/4.2,(c.w-14)/textW(h.label),54);
       let showP=true;
       if(c.h<fs*2.3){fs=Math.min(fs,(c.h-6)/2.3);}
-      if(fs<11){fs=Math.min((c.w-6)/textW(h.label),(c.h-4)/1.15);showP=false;}
+      let lines=[h.label];
+      if(fs<11){fs=Math.min((c.w-6)/textW(h.label),(c.h-4)/1.15);showP=false;
+        const L=[...h.label],mid=Math.ceil(L.length/2),two=[L.slice(0,mid).join('').trim(),L.slice(mid).join('').trim()];
+        const fs2=Math.min((c.w-6)/Math.max(textW(two[0]),textW(two[1])),(c.h-4)/2.3);
+        if(L.length>3&&fs2>fs){fs=fs2;lines=two;}}
       d.tabIndex=0;d.setAttribute('role','listitem');
       d.setAttribute('aria-label',`${h.name} 비중 ${h.weight.toFixed(1)}%, 등락 ${pct(h.chgPct||0)}`);
       if(fs>=8){
-        const t=document.createElement('span');t.className='t';t.textContent=h.label;t.style.fontSize=fs.toFixed(1)+'px';d.appendChild(t);
+        const t=document.createElement('span');t.className='t';lines.forEach((ln,ix)=>{if(ix)t.appendChild(document.createElement('br'));t.appendChild(document.createTextNode(ln));});t.style.fontSize=fs.toFixed(1)+'px';d.appendChild(t);
         if(showP){const p=document.createElement('span');p.className='p';p.textContent=pct(h.chgPct||0);p.style.fontSize=Math.max(10,fs*0.52).toFixed(1)+'px';d.appendChild(p);}
       }
       d.onmousemove=e=>tip(h,e);d.onmouseleave=hideTip;
@@ -228,7 +245,7 @@ function tip(h,e){
   T.innerHTML=`<div class="th"></div><div class="tb"><div class="nm"></div>
    <span class="k">종가</span><span class="v">${priceStr(h)}</span>
    <span class="k">등락</span><span class="v" style="color:${(h.chgPct||0)>=0===!krColors?'#1E8E43':'#D02F32'}">${pct(h.chgPct||0)}</span>
-   <span class="k">계좌</span><span class="v">${h.account}</span>
+   <span class="k">계좌</span><span class="v">${h.parts&&h.parts.length>1?h.parts.map(p=>p.account+' '+p.qty.toLocaleString('ko-KR')+'주').join(' · '):h.account}</span>
    <span class="k">수량</span><span class="v">${h.qty.toLocaleString('ko-KR')}주${h.dca?' ('+h.dca+')':''}</span>
    <span class="k">평가금액</span><span class="v">${won(h.value)}원</span>
    <span class="k">비중</span><span class="v">${h.weight.toFixed(2)}%</span>
