@@ -193,8 +193,8 @@
     {
       "id": "irp-rise-semi-bond",
       "name": "RISE 삼성전자SK하이닉스채권혼합50",
-      "label": "삼성·하닉 채권혼합",
-      "group": "퇴직연금",
+      "label": "삼성·하닉 채권혼합 (연금)",
+      "group": "반도체 · 메모리",
       "ticker": "0162Z0",
       "market": "KR",
       "currency": "KRW",
@@ -205,8 +205,8 @@
     {
       "id": "irp-kodex-sp500",
       "name": "KODEX 미국S&P500",
-      "label": "KODEX S&P500",
-      "group": "퇴직연금",
+      "label": "KODEX S&P500 (연금)",
+      "group": "미국 지수 ETF",
       "ticker": "379800",
       "market": "KR",
       "currency": "KRW",
@@ -217,8 +217,8 @@
     {
       "id": "irp-kodex-nasdaq100",
       "name": "KODEX 미국나스닥100",
-      "label": "KODEX 나스닥100",
-      "group": "퇴직연금",
+      "label": "KODEX 나스닥100 (연금)",
+      "group": "미국 지수 ETF",
       "ticker": "379810",
       "market": "KR",
       "currency": "KRW",
@@ -229,8 +229,8 @@
     {
       "id": "irp-ace-nasdaq-bond",
       "name": "ACE 미국나스닥100미국채혼합50액티브",
-      "label": "ACE 나스닥채권",
-      "group": "퇴직연금",
+      "label": "ACE 나스닥채권 (연금)",
+      "group": "미국 지수 ETF",
       "ticker": "438100",
       "market": "KR",
       "currency": "KRW",
