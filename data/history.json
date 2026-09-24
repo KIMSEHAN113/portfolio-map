@@ -2,9 +2,9 @@
  "snapshots": [
   {
    "date": "2026-09-24",
-   "updatedAt": "2026-09-24T18:16:24+09:00",
+   "updatedAt": "2026-09-24T18:22:24+09:00",
    "fx": {
-    "usdkrw": 1369.6,
+    "usdkrw": 1371.18,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -55,7 +55,7 @@
     {
      "id": "lgdisplay",
      "name": "LG디스플레이",
-     "label": "LG디스플레이",
+     "label": "LGD",
      "group": "반도체 · 메모리",
      "account": "일반",
      "ticker": "034220",
@@ -98,7 +98,7 @@
      "id": "tqqq",
      "name": "TQQQ",
      "label": "TQQQ",
-     "group": "레버리지 ETF",
+     "group": "미국 지수 ETF",
      "account": "일반",
      "ticker": "TQQQ",
      "market": "US",
@@ -154,7 +154,7 @@
      "id": "ram",
      "name": "RAM (2X 메모리)",
      "label": "RAM",
-     "group": "레버리지 ETF",
+     "group": "반도체 · 메모리",
      "account": "일반",
      "ticker": "RAM",
      "market": "US",
@@ -168,7 +168,7 @@
      "id": "qld",
      "name": "QLD",
      "label": "QLD",
-     "group": "레버리지 ETF",
+     "group": "미국 지수 ETF",
      "account": "일반",
      "ticker": "QLD",
      "market": "US",
@@ -182,7 +182,7 @@
      "id": "soxl",
      "name": "SOXL",
      "label": "SOXL",
-     "group": "레버리지 ETF",
+     "group": "반도체 · 메모리",
      "account": "일반",
      "ticker": "SOXL",
      "market": "US",
@@ -223,7 +223,7 @@
     {
      "id": "irp-rise-semi-bond",
      "name": "RISE 삼성전자SK하이닉스채권혼합50",
-     "label": "삼성·하닉 채권혼합 (연금)",
+     "label": "삼성하닉채권",
      "group": "반도체 · 메모리",
      "account": "퇴직연금",
      "ticker": "0162Z0",
@@ -251,7 +251,7 @@
     {
      "id": "irp-kodex-nasdaq100",
      "name": "KODEX 미국나스닥100",
-     "label": "KODEX 나스닥100 (연금)",
+     "label": "KODEX 나스닥100",
      "group": "미국 지수 ETF",
      "account": "퇴직연금",
      "ticker": "379810",
@@ -265,7 +265,7 @@
     {
      "id": "irp-ace-nasdaq-bond",
      "name": "ACE 미국나스닥100미국채혼합50액티브",
-     "label": "ACE 나스닥채권 (연금)",
+     "label": "나스닥100미국채50",
      "group": "미국 지수 ETF",
      "account": "퇴직연금",
      "ticker": "438100",
