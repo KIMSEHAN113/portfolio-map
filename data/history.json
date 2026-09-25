@@ -280,9 +280,9 @@
   },
   {
    "date": "2026-09-25",
-   "updatedAt": "2026-09-25T18:12:22+09:00",
+   "updatedAt": "2026-09-25T18:15:11+09:00",
    "fx": {
-    "usdkrw": 1353.55,
+    "usdkrw": 1353.9,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
