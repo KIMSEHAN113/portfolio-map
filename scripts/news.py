@@ -7,6 +7,7 @@
 """
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -50,7 +51,7 @@ TIER1 = ["reuters", "bloomberg", "cnbc", "wall street journal", "wsj", "marketwa
 TIER2 = ["yahoo finance", "motley fool", "benzinga", "seeking alpha", "forbes", "business insider",
          "fortune", "thestreet", "investopedia", "morningstar", "zacks", "washington post", "new york times"]
 LISTICLE = r"^prediction:|better buy|here's why|here's how|should you buy|no-brainer|to buy (right )?now|worth this much|millionaire"
-SKIP = r"opening bell|closing bell|news headlines|press release"
+SKIP = r"opening bell|closing bell|news headlines|press release|nasdaq-listed|\(nasdaq:|\(nyse:|after hours"
 
 
 def score(item):
@@ -139,7 +140,14 @@ def fetch(url, timeout=20):
 def google_news(query):
     q = urllib.parse.quote(f"{query} when:1d")
     url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
-    root = ET.fromstring(fetch(url))
+    for attempt in range(3):
+        try:
+            root = ET.fromstring(fetch(url))
+            break
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(5)
     items = []
     for it in root.iter("item"):
         title = (it.findtext("title") or "").strip()
@@ -185,13 +193,17 @@ def related(title):
 
 def main():
     now = datetime.now(KST)
-    seen, picked, spare = set(), [], []
+    seen, picked, spare, carried = set(), [], [], []
+    try:
+        old = json.loads(OUT.read_text(encoding="utf-8")).get("items", [])
+    except Exception:
+        old = []
     for category, query, limit, must, ctx in TOPICS:
         try:
             items = google_news(query)
         except Exception as e:
             print(f"  ! {category} 뉴스 실패: {e}")
-            continue
+            items = []
         def ok(it):
             t = it["title"].lower()
             return (english(it["title"]) and re.search(must, t) and not re.search(SKIP, t)
@@ -214,11 +226,15 @@ def main():
                 spare.append(it)
         if n:
             picked[-n:] = sorted(picked[-n:], key=newest, reverse=True)
+        else:  # 이 분류를 못 받았으면 어제 뉴스를 그대로 둔다
+            carried += [o for o in old if o.get("category") == category][:limit]
+            print(f"  ! {category}: 새 뉴스 없음, 이전 뉴스 {len(carried)}개 유지")
 
     spare.sort(key=lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
-    picked += spare[: max(0, TOTAL - len(picked))]
-    picked = picked[:TOTAL]
-    if not picked:
+    spare = [x for x in spare if score(x) >= 1]
+    picked += spare[: max(0, TOTAL - len(picked) - len(carried))]
+    picked = picked[: max(0, TOTAL - len(carried))]
+    if not picked and not carried:
         print("뉴스를 하나도 받지 못해 기존 파일을 유지합니다.")
         return
 
@@ -236,6 +252,8 @@ def main():
             "moves": moves(it["title"], it["category"]),
         })
 
+    order = [t[0] for t in TOPICS]
+    rows = sorted(rows + carried, key=lambda r: order.index(r["category"]) if r["category"] in order else 99)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"updatedAt": now.isoformat(timespec="seconds"), "items": rows},
                               ensure_ascii=False, indent=1), encoding="utf-8")
