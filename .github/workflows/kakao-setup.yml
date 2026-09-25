@@ -19,7 +19,6 @@ jobs:
           python-version: "3.12"
       - name: Exchange code and save token
         env:
-          KAKAO_AUTH_CODE: ${{ inputs.code }}
           KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
           KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
           GH_PAT: ${{ secrets.GH_PAT }}

@@ -64,9 +64,10 @@ def save_secret(name, value):
 
 
 def token_request(extra):
-    data = {"client_id": os.environ["KAKAO_REST_KEY"], **extra}
-    if os.environ.get("KAKAO_CLIENT_SECRET"):
-        data["client_secret"] = os.environ["KAKAO_CLIENT_SECRET"]
+    # 복사할 때 딸려 온 공백·줄바꿈은 떼고 쓴다
+    data = {"client_id": os.environ["KAKAO_REST_KEY"].strip(), **extra}
+    if os.environ.get("KAKAO_CLIENT_SECRET", "").strip():
+        data["client_secret"] = os.environ["KAKAO_CLIENT_SECRET"].strip()
     j = post("https://kauth.kakao.com/oauth/token", data)
     mask(j.get("access_token"))
     mask(j.get("refresh_token"))
@@ -75,6 +76,9 @@ def token_request(extra):
 
 def setup():
     code = os.environ.get("KAKAO_AUTH_CODE", "").strip()
+    if not code and os.environ.get("GITHUB_EVENT_PATH"):  # 워크플로 입력은 이벤트 파일에서 읽어 로그에 안 남긴다
+        event = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text(encoding="utf-8"))
+        code = str((event.get("inputs") or {}).get("code", "")).strip()
     if "code=" in code:  # 주소창 전체를 붙여넣어도 된다
         code = urllib.parse.parse_qs(urllib.parse.urlparse(code).query).get("code", [""])[0]
     mask(code)
