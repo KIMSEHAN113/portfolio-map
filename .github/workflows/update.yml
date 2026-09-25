@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 21 * * *"   # 매일 오전 6시 (한국시간) = 21:00 UTC
   workflow_dispatch:         # Actions 탭에서 수동 실행
+    inputs:
+      send_kakao:
+        description: "카카오톡 브리핑도 보내기"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths-ignore: ["data/history.json", "data/news.json"]
@@ -16,6 +21,9 @@ permissions:
 concurrency:
   group: pages
   cancel-in-progress: false
+
+env:
+  BRIEF_URL: https://kimsehan113.github.io/portfolio-map/briefing/
 
 jobs:
   update-and-deploy:
@@ -31,7 +39,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install
-        run: pip install yfinance
+        run: pip install yfinance python-pptx
 
       - name: Fetch prices
         run: python scripts/update.py
@@ -48,9 +56,42 @@ jobs:
           git pull --rebase -X theirs origin main || true
           git push
 
+      # 아침 브리핑 PPT → PDF → 슬라이드 이미지 (briefing/ 은 커밋하지 않고 사이트에만 올린다)
+      - name: Build briefing
+        id: brief
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends libreoffice-impress python3-uno fonts-noto-cjk poppler-utils > /dev/null
+          mkdir -p ~/.config/fontconfig
+          cat > ~/.config/fontconfig/fonts.conf <<'EOF'
+          <?xml version="1.0"?>
+          <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+          <fontconfig><alias binding="same"><family>Malgun Gothic</family><prefer><family>Noto Sans CJK KR</family></prefer></alias></fontconfig>
+          EOF
+          python scripts/briefing.py
+          cd briefing
+          /usr/bin/python3 ../scripts/pptx2pdf.py briefing.pptx
+          pdftoppm -png -scale-to-x 1600 -scale-to-y 900 briefing.pdf slide
+          ls -la
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
       - id: deploy
         uses: actions/deploy-pages@v4
+
+      - name: Send KakaoTalk briefing
+        if: steps.brief.outcome == 'success' && (github.event_name == 'schedule' || inputs.send_kakao)
+        continue-on-error: true
+        env:
+          KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          FORCE_SEND: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
+        run: |
+          if [ -z "$KAKAO_REFRESH_TOKEN" ]; then echo "카카오 연결 전이라 건너뜀"; exit 0; fi
+          sleep 20  # 새 슬라이드 이미지가 사이트에 반영될 때까지 잠깐 기다림
+          python scripts/kakao.py
