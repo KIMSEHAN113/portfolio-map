@@ -50,20 +50,69 @@ def english(title):
     return bool(letters) and sum(c.isascii() for c in letters) / len(letters) > 0.9
 
 
-# 제목에 이 단어가 있으면 관련 보유 종목으로 표시
-RELATED = [
-    (r"memory|dram|hbm|nand|micron|hynix|samsung", "DRAM · RAM · 삼성전자"),
-    (r"semiconductor|chip|soxx|nvidia|broadcom|\bamd\b|tsmc", "SOXL"),
-    (r"alphabet|google", "GOOGL"),
-    (r"oracle", "ORCL"),
-    (r"palantir", "PLTR"),
-    (r"robinhood", "HOOD"),
-    (r"lg display", "LGD"),
-    (r"nasdaq|qqq|tech stocks|big tech", "KODEX 나스닥100 · QQQM · TQQQ · QLD"),
-    (r"s&p ?500|\bdow\b|wall street", "RISE·KODEX S&P500 · SCHD"),
-    (r"dividend", "SCHD"),
-    (r"treasury|bond yield|\bfed\b|federal reserve|rate cut", "나스닥100미국채50"),
+# 제목에 이 단어가 있으면 관련 보유 종목(holdings.json 의 id)으로 표시
+HOLD = [
+    (r"memory|dram|hbm|nand|micron|hynix|samsung", ["dram", "ram", "samsung"]),
+    (r"semiconductor|chip|soxx|nvidia|broadcom|\bamd\b|tsmc|qualcomm", ["soxl"]),
+    (r"alphabet|google", ["googl"]),
+    (r"oracle", ["orcl"]),
+    (r"palantir", ["pltr"]),
+    (r"robinhood", ["hood"]),
+    (r"lg display", ["lgdisplay"]),
+    (r"nasdaq|qqq|tech stock|big tech", ["kodex-nasdaq100", "qqqm", "tqqq"]),
+    (r"s&p ?500|\bdow\b|wall street|stock market", ["rise-sp500", "irp-kodex-sp500", "schd"]),
 ]
+
+# 제목에 나온 종목·지수의 주가 변동 (Yahoo 심볼, 표시 이름)
+SUBJECTS = [
+    (r"micron", "MU", "마이크론"), (r"nvidia", "NVDA", "엔비디아"), (r"tsmc|taiwan semiconductor", "TSM", "TSMC"),
+    (r"broadcom", "AVGO", "브로드컴"), (r"\bamd\b", "AMD", "AMD"), (r"qualcomm", "QCOM", "퀄컴"),
+    (r"intel\b", "INTC", "인텔"), (r"asml", "ASML", "ASML"), (r"marvell", "MRVL", "마벨"),
+    (r"sandisk", "SNDK", "샌디스크"), (r"applied materials", "AMAT", "어플라이드"),
+    (r"hynix", "000660.KS", "SK하이닉스"), (r"samsung", "005930.KS", "삼성전자"),
+    (r"alphabet|google", "GOOGL", "알파벳"), (r"oracle", "ORCL", "오라클"), (r"palantir", "PLTR", "팔란티어"),
+    (r"robinhood", "HOOD", "로빈후드"), (r"apple\b", "AAPL", "애플"), (r"microsoft", "MSFT", "마이크로소프트"),
+    (r"\bmeta\b", "META", "메타"), (r"amazon", "AMZN", "아마존"), (r"tesla", "TSLA", "테슬라"),
+    (r"nasdaq", "^IXIC", "나스닥"), (r"s&p ?500", "^GSPC", "S&P 500"), (r"\bdow\b", "^DJI", "다우"),
+]
+FALLBACK = {"미국 지수": ("^GSPC", "S&P 500"), "반도체 · 메모리": ("SOXX", "반도체지수")}
+_moves = {}
+
+
+def price_move(symbol):
+    """최근 거래일 종가 기준 등락률. 실패하면 None."""
+    if symbol in _moves:
+        return _moves[symbol]
+    res = None
+    try:
+        import yfinance as yf
+        c = yf.Ticker(symbol).history(period="10d", interval="1d")["Close"].dropna()
+        if len(c) >= 2:
+            res = {"chgPct": round((float(c.iloc[-1]) / float(c.iloc[-2]) - 1) * 100, 2),
+                   "asOf": c.index[-1].strftime("%Y-%m-%d")}
+    except Exception as e:
+        print(f"  ! 주가 {symbol}: {e}")
+    _moves[symbol] = res
+    return res
+
+
+def moves(title, category):
+    t = title.lower()
+    found = []
+    for pat, sym, name in SUBJECTS:
+        if re.search(pat, t) and all(m["symbol"] != sym for m in found):
+            found.append({"symbol": sym, "name": name})
+        if len(found) >= 2:
+            break
+    if not found and category in FALLBACK:
+        sym, name = FALLBACK[category]
+        found.append({"symbol": sym, "name": name})
+    out = []
+    for m in found:
+        pm = price_move(m["symbol"])
+        if pm:
+            out.append({**m, **pm})
+    return out
 
 
 def fetch(url, timeout=20):
@@ -112,11 +161,11 @@ def norm(title):
 
 def related(title):
     t = title.lower()
-    tags = []
-    for pat, name in RELATED:
-        if re.search(pat, t) and name not in tags:
-            tags.append(name)
-    return tags[:2]
+    ids = []
+    for pat, hs in HOLD:
+        if re.search(pat, t):
+            ids += [h for h in hs if h not in ids]
+    return ids[:3]
 
 
 def main():
@@ -168,7 +217,8 @@ def main():
             "source": it["source"],
             "link": it["link"],
             "published": pub.isoformat(timespec="minutes") if pub else None,
-            "related": related(it["title"]),
+            "holdings": related(it["title"]),
+            "moves": moves(it["title"], it["category"]),
         })
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
