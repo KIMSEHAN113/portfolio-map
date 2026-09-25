@@ -1,13 +1,82 @@
 {
- "updatedAt": "2026-09-26T08:02:36+09:00",
+ "updatedAt": "2026-09-26T08:49:47+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Dow, Nasdaq은 미국-이란 분쟁 완화 조짐 속에 칩 제조업체의 강세, 석유 완화에 대한 주간 상승 — META, COST, MSFT, CRWD, SKHY 집중",
+   "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZExwREdKWDhQb3lOX0hKblVpdXlxa0UzTFFvWWlyeHNfY0E3Z2VhM0hDeXBYU1RkdlRCMTBBTWVSUmxVRkx0ajhqdGJDOXg1ckVXNlpCc0lLMjlMcTRfNUNzV25sb2xNRENfV21JUDZqXzZaVmtveWtlb2RvX05rNHVGTy04Y2FlZmtnWFVn?oc=5",
+   "published": "2026-09-26T07:51+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": -3.33,
+     "asOf": "2026-09-25"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.48,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "On Holding (ONON), 야심찬 2029년 목표로 강력한 월스트리트 지원 확보",
+   "title": "On Holding (ONON) Gets Strong Wall Street Support With Ambitious 2029 Targets",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0JGd0J3LTI1bUFHSlJiMko1ZHpkcGgwWWtDQ2gxandpQTc0aVlndGVvckRzUnhoRUFfTlY4dGE1ajlHbE1KVUhuMUp6WmVmNXZ1WTZRdFVqcmNkNE1Pa1NGcWFnSXQ3aksxdnBVVHNRUEtjYm02N2l6cGJYcndHZF9IVkRnYWtxZjZ3dk5tSDRxU0lkc2FMTnhn?oc=5",
+   "published": "2026-09-26T07:24+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "9월 25일 오늘 주식 시장: 코드 생성 및 에이전트 AI 도구로 Copilot을 개편한 후 Microsoft 주가 4% 상승",
+   "title": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1pOZGFnU0FaRUJsTnZFZzBEOVRJbjh2QzE1N3E0eFJYTW04NVJNVmVFUVVDR0hpdTlEeGo4RXdaY3Nsak5HbEE4YnVnUmI5V04wSkFwLUR6ZWVkTE1WVmdJSlQzWXpRTTh1YldBNkI0blc0WGVDZFAweVJLeVhTMFdQRVllSWgwdmVRWGZxaWVaSXdtUWc?oc=5",
+   "published": "2026-09-26T06:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "MSFT",
+     "name": "마이크로소프트",
+     "chgPct": 3.66,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "'패스트 머니' 트레이더들은 채권 금리 상승에도 불구하고 주식 시장은 그대로 유지될 것이라고 말합니다.",
    "title": "'Fast Money' traders talk the stock market staying the course despite rising bond rates",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjUzZ0JMUi1EcHJzSVZBZjlOLTZRaUFhT05wRENLRGZJNkNEWkdJNm1oNzVSVl82Tmt3SWVxNm4yeTVFZUZGaFI2Z0VnS2tYRmF1dGt5bVBCOTZJVnVPblJnVjI2TjVBZG1URXJzOFI1a0pvVzhTeFN5YlpIXy1hcmtoNmM1TUlicjE4QlVVc1RRbzBobDUxWU1iVVpVaXV6cmtWRVZmYU43Ujd4WEZ5WmpYc05pWnl3WGFNV2dtYm5Hb09DRWxv?oc=5",
-   "published": "2026-09-26T06:42+09:00",
+   "published": "2026-09-26T06:21+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -29,69 +98,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXMxVzY1S3RiUHJDcWxmLUlkOHJLOEJKMEZzZkFVQjRZbEhMNWJueHJGMWNSQV9Ga1BkVWRKb0ZaUTN4S0JFd2JLNF9XMko2SWhEbDIxQTBBXzFWZmZGNEpHVEo1bTVoU0F4OGZRNl9PMW9sVGRNa2U5QjNXbElkWFZWTWxZRmdEazNQR2FnT04zdEFFQ1dNN252UXNsVllJWkp1WQ?oc=5",
    "published": "2026-09-26T06:20+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.48,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Griffon(GFF)이 오늘 주식 시장을 능가한 이유",
-   "title": "Why Griffon (GFF) Outpaced the Stock Market Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1Npcmh5c2UwTWVfZWwxbFhrMF9TSWR2TU1OQnIwU3dXeTlOQjl6aHRQVElDYTY3UkVyRXlPb0swVjdBWktqLXZwUFJOTFRLRkhleVRtSWl1Z3N6NHU2ZFdNTEFESkdsa2lFb0x0Si1zYS1kN0ZBbXJFRmFiNHVGY1dLdFdJZWx0aFM1LThGSE84THNMRHlnY25HSQ?oc=5",
-   "published": "2026-09-26T06:15+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.51,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "웨스턴 유니온(WU)이 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
-   "title": "Western Union (WU) Beats Stock Market Upswing: What Investors Need to Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckdnMGlnOWgzRFhYWnVDTlQ3cDFfamRtcXh0Q2pOQUxrU3Y1cm9xOWF3YmRual9ZOEZ1aUF1cUFDX284WUp3TkdJc0JiLUpSbUZxSm9GSXZjRUxwMWRnVTRpTEFSRGdnY0pUSVhGcFZPZ2tLQ2UwR3p1M1lJRHAwR2lWNTRaaGtJWks5VzdLUUs1WUFQck9aTA?oc=5",
-   "published": "2026-09-26T06:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.51,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Future Money Acquisition Corporation, 지연된 양식 10-Q 제출과 관련된 Nasdaq 연체 통지 접수 발표",
-   "title": "Future Money Acquisition Corporation Announces Receipt of Nasdaq Delinquency Notice Regarding Delayed Form 10-Q Filing",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldLeGpBVWdGRmhCa1NfcUtva25oY1N1WFRFa2xHTWozQ1BROU1MRmpSSmJRQVp6UEdPNG5XUUtlYTZmdDM0cFpyalFhMFR6VXBTejlaekxrSHhLNHN5WXNFUG8xajlkUGxLdzhLLTFQU2dDVTVFcXQwdnp6REFXbVZ6TFhRYnFkTl91T09SY1Z1WE5NRkFRbGhwVnhkczlTVDRMc29KUjRYQzNTNUx2Ng?oc=5",
-   "published": "2026-09-26T06:00+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -188,11 +194,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "CXMT가 원자재 위협을 높이는 동안 마이크론 주가 상승",
-   "title": "Micron Stocks Gain While CXMT Raises the Commodity Threat",
+   "summary": "마이크론의 279% 랠리는 큰 수익 테스트로 향하고 있습니다",
+   "title": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS29aMmVFUmdXMGxicHBIR0F1QlRIRW9POVhCV094b1dfcTVGN3ZsVlVBRGFQUEFTWlFzVjc2bnFKX1o4MWNFNC1LLW9qbXhmTnNUaGJVTlkzLVNReGUtdC1KQWRYZFhucWZYeFF3bW5iZE9SN0xpVUNBTlF5MG9lZmluWmNUTFZXM3M4aGxaaXlFbkEyZEdUWVd3?oc=5",
-   "published": "2026-09-26T00:56+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem9HSUhNX2xpQ1FhdTRJQTY4WmdKVEdEQ21CbkRpeEVlTzA4cEJoUnc1TXJUNU5tMXVPWk9EelpFc3N5X01yc092alZESjVIMXpPVElIanpfMFdyN0Y3aFJURTk1RjJST0hBODFxTHNPWHdwbG9KaG1yeFR5d2JZRzFtemJYNUc1NHRGQXB1Y3FUYTdSNW91T3V3?oc=5",
+   "published": "2026-09-26T00:23+09:00",
    "holdings": [
     "dram",
     "ram",
