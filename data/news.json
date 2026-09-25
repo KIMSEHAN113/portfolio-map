@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-09-25T19:11:16+09:00",
+ "updatedAt": "2026-09-26T00:50:03+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "미국 주식 선물은 국채 수익률이 계속 상승함에 따라 상승합니다. 코스트코, 분기별 매출 증가 보고: Dow Jones, S&P, Nasdaq, Wall Street",
-   "title": "US Stock Futures Rise as Treasury Yields Remain Elevated; Costco Reports Higher Quarterly Sales: Dow Jones, S&P, Nasdaq, Wall Street",
+   "summary": "Evernorth는 XRP 재무부 주식 XRPN을 Nasdaq으로 가져오는 데 한 표 남았습니다.",
+   "title": "Evernorth Is One Vote Away From Bringing XRP Treasury Stock XRPN to Nasdaq",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbml0TVg2aHBNbUNmaDdOSkJCV3ZCUVM2YzVpYnFfZnAzak9vLWc0NUZuVUg3LW14dm9qWmZwLUx1VkZVZ2ZUSGVLbE1qb1l5dXpiSWtDaF93QTM5cEJhQUdFV1FCYksxVWtlMmZYVDZHcXBSZ0ZNcmtXS1BUYUxwUWlEZ1NrS0hEZ1lrMXFQWV9mei1Bd25sLWJxSQ?oc=5",
-   "published": "2026-09-25T18:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlRHS2NMZFdYazB3V2xZemg1SmpUVTB6aEdhbnZJRlRGckwwLVk3bFF2ZElWSE1jREhzdkRIWVJPaHZnbWFIUFpQQlNjVGltbW1na2JJajEtRVVqcXY3UTZYWFhDeUs0NGlOT0RhU1NRWm9TOXNCQUhwRm44YU40ZUphbFVJYVZxZllBSmpuZzJNRGNLVmVvbE5nVS1zdw?oc=5",
+   "published": "2026-09-25T22:22+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -19,49 +19,16 @@
      "name": "나스닥",
      "chgPct": 0.01,
      "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -0.31,
-     "asOf": "2026-09-24"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "국채 수익률이 높게 유지되면서 월스트리트 선물 이익; 코스트코가 분기별 추정치를 앞질렀습니다: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Gain as Treasury Yields Stay High; Costco Beats Quarterly Estimates: Dow Jones, S&P, Nasdaq",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREEyQU9ROEJLSHRpay04TUZycXBrZXktaUg5bXhTZmxmNkxSdnJYMGdralFsNWZxb3U0ckdqMjAxR2VKTW9QMXY4NjdvLVVwSl9KTFR1WEVJSXE5NGsyQ3BiYk1wZTFFSXdYUVhLeFk5Sk5DdlJLMjItSVktcEw3R2tSWGpGQWNvdEE?oc=5",
-   "published": "2026-09-25T18:11+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.01,
-     "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -0.31,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식 시장과 도널드 트럼프 대통령의 경제에 새로운 위협이 있습니다",
-   "title": "There's a New Threat to the Stock Market and President Donald Trump's Economy",
+   "summary": "코스트코, 디지털 매출 급증으로 월스트리트 추정치 넘어",
+   "title": "Costco tops Wall Street estimates as digital sales surge",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjVIMVhLa2lvMHJhMmxWbEdVTW1NWE5SQlVKTzhmd2FVaml1TGVvS08zM293b0dldHpFXzFfX1ktWVA3UWVFT1lWVHdxQV9FcG4wZU4yV28wWFRMbl84RmlLWG1pMUFwWUJGdUFvOE1uaEtyMWNZQVZpZ2M1SW10V3M3ZEY1aEdpeDFKRjd2VDRlMS1NX1MyaXdEaXFjYm1NVVZj?oc=5",
-   "published": "2026-09-25T17:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmVZeVlHdGhEeDV3RVd5RmtDaDlka0c2UE12S1VsYlZpd2NaWXVLQ21NVmpYSmJzZWdMdnl0RkVMd1RZMzJuU1V4YTNTWHlib3VHekVMTFVGQ19yZlZYRTI1WVo3Vm1Mb2N4dFRDVVV3VHVCckJRN01zQXpIWmNfOVFPM3p6TWN0ZXJUYzBlUGlmNzlsRUtlcDJHS01qeTA?oc=5",
+   "published": "2026-09-25T22:14+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -78,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘 미국 주식 시장: S&P 500 선물은 급격한 성장으로 인해 금리에 대한 우려가 높아지면서 하락했습니다.",
-   "title": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHJwbVkzUU5Vem5JWERXc2NQNjg5NllCRU5xUTQ5OEFNWkFsMDhBQ3lUdHZDQUZiZ04tV0FURzRoVE9OcWE2ZTltNERvQnlLYUVQeFJpcTNESnFVdV9vQ3dhUl9xLTI3aWlkUDZRdmgyTnY2UDJrMHpPMjdWYm1QOGJOa3ItLUVZeWYxakVaWFV3Zw?oc=5",
-   "published": "2026-09-25T17:09+09:00",
+   "summary": "금요일 주식시장에서 주목해야 할 10가지",
+   "title": "Top 10 things to watch in the stock market Friday",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2ZjbXN0MFlHbUFWY3o1dWlUdFBkUTk2WmJmR05wSm1MVEpjaDdaWE95X0thSHlvOEZZUHN4d2toNzF6SXZ2TjlOMW9ZenpmY2RjbnhuNzZCWGtBREZiSE5pNmtuckxoOVhYUU1IRlB2ZVRNdkg3anAtbndITUNfWUMwRmZtT1hRWGhadEFodw?oc=5",
+   "published": "2026-09-25T22:09+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -99,11 +66,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Jim Cramer는 큰 이익을 얻은 주식 시장 투자자에게 경고합니다.",
-   "title": "Jim Cramer warns stock market investors who have big gains",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVljRW9PUTdlcEQxWU1feXBfZllPY3FlTE9NemhyakI5SkVKV3B2aEh3NlZVb2FJWUI4RGxkS1ZwNDV3Z05jZko5Q0g2Q2N2U1NoeGQ5aEc2TWx6RW9OV0NZaU1sQ1RZZ3VQOUZYRTUybEZ4SjJnRWRkZVkxTldUUndvdlY?oc=5",
-   "published": "2026-09-25T10:03+09:00",
+   "summary": "S&P 500의 최고 배당주들은 하나의 강력한 이점을 공유합니다",
+   "title": "The S&P 500’s Best Dividend Stocks Share One Powerful Advantage",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazAwV1ZrRUluNEx1ZVVEUVNYUndxdDFiVmZzVUtoemtENkpYejJFT0dES3loRHhfVU5mMHdnMlFNOWRGbWhYN1ZPX3FNOGRLSllRZE1rLVBsdnpVeGNST2JTdGZveEc5UXVYVTVtUkFPZld5T3k1MDFEb3NrUDFhWThvaVJNVl9hcU9SQUpkcno0b1RJX1E?oc=5",
+   "published": "2026-09-25T21:51+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "코스트코는 1년 동안 횡보 및 하락세를 보였습니다. 가장 존경받는 월스트리트 회사 중 하나는 앞으로 45%의 반품이 있을 것이라고 말합니다.",
+   "title": "Costco Has Moved Sideways and Down for 1 Year: One Of The Most Respected Wall Street Firms Says 45% Returns Lie Ahead",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnNfVWNQQ2lScmdyWUdDeVIwbzFadDJuZEdOY1hWQlVnRDRwOXBzMEQ1bGZTalY4Q1V6bWhEVThvNy1FZUNWajZRUU9naVgyWHdtZjJZOFN5TUtZYjZBY3RrTE4wdHpKcDdHck5IbjZNOHFNYzIyY3dWbzhqQlF4cDVlVGRxaS1XelFiV0RjcW1WWWY3VG1LVg?oc=5",
+   "published": "2026-09-25T21:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -120,10 +108,100 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "마이크론 279% 랠리, 대규모 수익 테스트로 향하고 있다",
+   "title": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem9HSUhNX2xpQ1FhdTRJQTY4WmdKVEdEQ21CbkRpeEVlTzA4cEJoUnc1TXJUNU5tMXVPWk9EelpFc3N5X01yc092alZESjVIMXpPVElIanpfMFdyN0Y3aFJURTk1RjJST0hBODFxTHNPWHdwbG9KaG1yeFR5d2JZRzFtemJYNUc1NHRGQXB1Y3FUYTdSNW91T3V3?oc=5",
+   "published": "2026-09-26T00:23+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.81,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron(MU) 4분기 수익 카운트다운: 수익 및 EPS를 넘어서는 추정치 살펴보기",
+   "title": "Countdown to Micron (MU) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRzRYMWlER2htdFRqZW1qWDJLc3ZueVU1YzhWUmhEWUxaUHRseXlER2hDOHppOHJiSUxoenl0X2ZSN2IyTWtFY3dMYm9MbzdreXlIRlJNM3ZrTlE2T0FnTUEycEpSbUI2ekpxRExWblJhcFlLX3RhSzZJOGdoUjFzVmVvLURWZ1E?oc=5",
+   "published": "2026-09-25T21:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.81,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron은 Q4 수익 추정치를 상회할 가능성이 높습니다: MU 주식을 플레이하는 방법?",
+   "title": "Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDQ3azZ3VUFYczBpbEdaMDVjbHlrUWpvLV96cUhsanhsOFpqQkFEVEs0SXh0SHlKTU41QUkyR3FVdjV6M0ZaTEVDNHdyaGpCTldjNHhpcEJCNGwwV1hXWnYwb29fYk1sX1d1aVlVa1ZrN2x3OGQ0aFNlYjBsTFYyT2tsbmt2RWJiajZBSmFjUGFKMkd6UDhocVByUQ?oc=5",
+   "published": "2026-09-25T20:20+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.81,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "자산의 34.7%가 Intel, AMD, Micron, Nvidia에 편입된 Super Semiconductor ETF를 만나보세요",
+   "title": "Meet the Super Semiconductor ETF With 34.7% of Its Assets Parked in Intel, AMD, Micron, and Nvidia",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZndoZ3dPWll0blNway1FckpXVm9jUFZsaDJVMXpyVl9kYlFPRlk5bGRNTWtkd3BSQ3BmVmtkbk1LTERXa0liSGZoMG9sQ2tSV0ZYMU5yLTlNTXZHNkg4SmJlQ2N0Z3dUOXMyaHU4WnhaeEh0d0hfTnhtb3BFb0Zta3VRU0k2MG12NllXbjVpWEN5T0Q3ZGNBMkdkUnY?oc=5",
+   "published": "2026-09-25T19:05+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.81,
+     "asOf": "2026-09-24"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.41,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Zacks 분석가 블로그에서는 Marvell 기술과 NVIDIA를 강조합니다.",
    "title": "The Zacks Analyst Blog Highlights Marvell Technology and NVIDIA",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25LM2s0QnZWNTRVZ2NZN29VUHd0dTVIbVFabVM5emdnZDVzSVc2WmVYblI4UEI0S3JFLXJiMGNkOE1aaGd6eDZGSnJuYWNOOUNrQ3V1WkxUVzZOWnVRanQ4WW1FbHFGSkZWQURlZkd0SGhZck1hbFVGT1c5ME04ZS1KN29LLWZ2eDRGMDlySQ?oc=5",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGVUTzNTQkt3SXJjZkZRcXVGbWFKLThPUm5WNnVweUo0dDdVM0g1MDgydzBzYTBZck90ckJLdVhVYUgzTEJLYTBUdEFBOVRwQVRzaGxZUW5XMWlRQ2pmaWNTbDlZWGlTUUpGUU5uVnpUdkRGY18wamZJX3lTMHRLeXRWekFoSWVCZ25YT2R5N2d2Y1p4OXZfRmNBV1VKZll1TUhoaw?oc=5",
    "published": "2026-09-25T17:19+09:00",
    "holdings": [
     "soxl"
@@ -139,107 +217,6 @@
      "symbol": "MRVL",
      "name": "마벨",
      "chgPct": -0.75,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "머스크가 3가지 Nvidia 칩 파동을 예고하면서 SPCX 주식은 프리마켓 상승 — 궤도 AI 테스트를 위한 Google Books SpaceX Ride",
-   "title": "SPCX Stock Climbs Premarket As Musk Teases 3 Nvidia Chip Waves — Google Books SpaceX Ride For Orbital AI Test",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEtRUXdJb1VVcVdjUEF3ZWJtd19mRlBieXZtcndYTUM4akR6SndPMTNueXVXdlZiSkFieWpQSmMzU01tMHBJVlRDWWpqaHoyRGVwdzlKamNjTElFdVN2YXlKQlJCbHFiZDZmNWYyVmlCd1Z0dEFHSlFWbVdGbHEzOFJOTUdZMVpYcVlfWW9YRC1PZFZFeFRYdkNlM2U?oc=5",
-   "published": "2026-09-25T17:04+09:00",
-   "holdings": [
-    "soxl",
-    "googl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.41,
-     "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 1.34,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론에만 베팅하지 마세요: 260억 달러 규모의 메모리 ETF는 MU, SK 하이닉스, 삼성을 9월 할인된 가격에 소유하고 있습니다.",
-   "title": "Forget Betting on Micron Alone: The $26B Memory ETF Owns MU, SK Hynix, and Samsung at a September Discount",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUVDLW9aYU1KYTJQMHVfTUNKWWp4WTFJZmJCNkx2TzJFX1p3Q3k3UmRlWjVrRURRSnVSMFhaTE81UXdBcDJtNW9BNWZYcEV2WG5GWGxScF9tR0lBcEJhVHQwSnJuSVYtVTYxM3g0cFhnWndyNTZzT3VkNmxzUkZxZV9wc2duUF85c19ySnZPVDJEZ0tqMWtWd2htOUM?oc=5",
-   "published": "2026-09-25T06:31+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.81,
-     "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 1.2,
-     "asOf": "2026-09-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론(MU) 주식이 저렴해 보입니다. 하지만 AI 성장은 이미 가격에 반영되어 있나요?",
-   "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOekkyN3hyX3p1TXRpVnRjU3dtTGlhb3RTY0RJeW5lSFF3Q3RESXN5UUxISE81Wl83RHdBYXgxM0JMTXFLSTVzNGxtYUFQMzB4Z0NwTHFQVHdkMXJTcXR3MjJtMTlORUx1cEhIM2l6OGxJd1N6YVE1M0ZhOTNGeXhGY3ZWdUVXSkhsX0dhbUw2aERuSWVGTU1N?oc=5",
-   "published": "2026-09-25T06:16+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.81,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AMD와 Micron은 대만 칩 수출이 308억 달러를 기록하면서 새로운 목표 가격을 얻었습니다.",
-   "title": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU09EbmdQLS1NRkV3enZlQnJ3VXRIQnpHOFo0V2hJeUZyaFA5bm5VT0RHazYzLUd1UUhVa1NjXzJXSzF0cDBIVHMxbllxbFdZTk9BV2J1S1lxLVlzeEtzTnkydFlKZGxhamt3ZGNyLXlTWjhhREI2Z1lKWGx3YXZ5djJERQ?oc=5",
-   "published": "2026-09-25T05:01+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.81,
-     "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 2.38,
      "asOf": "2026-09-24"
     }
    ]
