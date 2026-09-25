@@ -1,7 +1,7 @@
 """보유 종목과 관련된 미국 뉴스 10개를 골라 data/news.json 에 저장한다.
 
 - 출처: Google News RSS (미국판, 최근 1일)
-- 분류: 미국 지수 5개 / 반도체 · 메모리 5개 (영문 기사, 주요 경제 매체 우선)
+- 분류: 미국 지수 5개 / 반도체 · 메모리 5개 (영문 기사, 구독 없이 무료로 볼 수 있는 매체만)
 - 제목은 한국어로 번역해 한 줄 요약으로 쓰고, 원문 제목과 링크를 함께 저장한다.
 - 실패해도 기존 news.json 을 지우지 않는다.
 """
@@ -45,18 +45,24 @@ TOPICS = [
      5, r"chip|semiconductor|micron|hynix|hbm|dram|memory|nvidia|samsung|tsmc|broadcom|\bamd\b", MARKET_WORDS),
 ]
 
-# 주요 경제 매체를 먼저, "~ 살까?" 류 칼럼은 뒤로
-TIER1 = ["reuters", "bloomberg", "cnbc", "wall street journal", "wsj", "marketwatch", "barron",
-         "financial times", "associated press", "ap news", "investor's business daily", "axios", "cnn"]
-TIER2 = ["yahoo finance", "motley fool", "benzinga", "seeking alpha", "forbes", "business insider",
-         "fortune", "thestreet", "investopedia", "morningstar", "zacks", "washington post", "new york times"]
-LISTICLE = r"^prediction:|better buy|here's why|here's how|should you buy|no-brainer|to buy (right )?now|worth this much|millionaire"
+# 구독·로그인 없이 기사 전문을 볼 수 있는 매체만 쓴다 (FREE_TOP 이 우선)
+FREE_TOP = ["cnbc", "associated press", "ap news", "yahoo finance", "axios", "fox business",
+            "cbs news", "abc news", "nbc news", "usa today"]
+FREE = FREE_TOP + ["motley fool", "benzinga", "investopedia", "nasdaq", "thestreet", "zacks",
+                   "investing.com", "24/7 wall st", "marketbeat", "tom's hardware", "techcrunch", "the verge"]
+LISTICLE = (r"^prediction:|better buy|here's why|here's how|should you buy|no-brainer|to buy (right )?now|worth this much|millionaire|"
+            r"could be worth|invested in|i'm buying|going to \$|stocks? to buy|undervalued")
 SKIP = r"opening bell|closing bell|news headlines|press release|nasdaq-listed|\(nasdaq:|\(nyse:|after hours"
+
+
+def is_free(source):
+    s = (source or "").lower()
+    return any(t in s for t in FREE)
 
 
 def score(item):
     s = (item["source"] or "").lower()
-    tier = 2 if any(t in s for t in TIER1) else 1 if any(t in s for t in TIER2) else 0
+    tier = 2 if any(t in s for t in FREE_TOP) else 1
     return tier - (2 if re.search(LISTICLE, item["title"].lower()) else 0)
 
 
@@ -207,7 +213,7 @@ def main():
         def ok(it):
             t = it["title"].lower()
             return (english(it["title"]) and re.search(must, t) and not re.search(SKIP, t)
-                    and (it["source"] or "").lower() != "nasdaq" and (ctx is None or re.search(ctx, t)))
+                    and is_free(it["source"]) and (ctx is None or re.search(ctx, t)))
         items = [it for it in items if ok(it)]
         newest = lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc)
         items.sort(key=newest, reverse=True)
@@ -227,7 +233,7 @@ def main():
         if n:
             picked[-n:] = sorted(picked[-n:], key=newest, reverse=True)
         else:  # 이 분류를 못 받았으면 어제 뉴스를 그대로 둔다
-            carried += [o for o in old if o.get("category") == category][:limit]
+            carried += [o for o in old if o.get("category") == category and is_free(o.get("source"))][:limit]
             print(f"  ! {category}: 새 뉴스 없음, 이전 뉴스 {len(carried)}개 유지")
 
     spare.sort(key=lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
