@@ -1,7 +1,7 @@
 """보유 종목과 관련된 미국 뉴스 10개를 골라 data/news.json 에 저장한다.
 
-- 출처: Google News RSS (미국판, 최근 2일)
-- 분류: 미국 지수 5개 / 반도체 · 메모리 5개 (영문 기사, 신뢰 매체 우선)
+- 출처: Google News RSS (미국판, 최근 1일)
+- 분류: 미국 지수 5개 / 반도체 · 메모리 5개 (영문 기사, 주요 경제 매체 우선)
 - 제목은 한국어로 번역해 한 줄 요약으로 쓰고, 원문 제목과 링크를 함께 저장한다.
 - 실패해도 기존 news.json 을 지우지 않는다.
 """
@@ -20,26 +20,29 @@ KST = timezone(timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (portfolio-map news)"}
 TOTAL = 10
 
-# (분류, 검색어, 최대 개수, 제목에 반드시 있어야 할 단어)
+# (분류, 검색어, 최대 개수, 제목에 있어야 할 단어, 제목에 함께 있어야 할 투자 관련 단어)
+MARKET_WORDS = (r"stock|shares|market|earn|rall|buy|analyst|invest|price|revenue|forecast|guidance|etf|"
+                r"sales|demand|valuation|\$|surge|slump|jump|fall|drop|rise|record|slide|soar|outlook|profit|export")
 TOPICS = [
-    ("미국 지수",
-     'intitle:"Nasdaq" OR intitle:"S&P 500" OR intitle:"stock market" OR intitle:"Wall Street" OR intitle:"stocks"',
-     5, r"nasdaq|s&p|stock market|wall street|stocks|dow|index fund|etf|fed\b"),
-    ("반도체 · 메모리",
-     'intitle:chip OR intitle:chips OR intitle:semiconductor OR intitle:Micron OR intitle:"SK Hynix" OR intitle:HBM OR intitle:DRAM OR intitle:Nvidia',
-     5, r"chip|semiconductor|micron|hynix|hbm|dram|memory|nvidia|samsung|tsmc|broadcom"),
+    ("미국 지수", '"stock market" OR "Nasdaq" OR "S&P 500" OR "Wall Street"',
+     5, r"nasdaq|s&p|stock market|wall street|\bdow\b|stocks|index fund", None),
+    ("반도체 · 메모리", '"chip stocks" OR semiconductor OR Micron OR "SK Hynix" OR "memory chip" OR Nvidia stock',
+     5, r"chip|semiconductor|micron|hynix|hbm|dram|memory|nvidia|samsung|tsmc|broadcom|\bamd\b", MARKET_WORDS),
 ]
 
-# 신뢰할 만한 매체를 먼저 고른다 (없으면 최신순)
-TRUSTED = ["reuters", "bloomberg", "cnbc", "wall street journal", "wsj", "marketwatch", "barron",
-           "yahoo finance", "investor's business daily", "financial times", "associated press", "ap news",
-           "the motley fool", "motley fool", "benzinga", "seeking alpha", "forbes", "business insider",
-           "fortune", "thestreet", "investopedia", "morningstar", "zacks", "nasdaq", "cnn business", "axios"]
+# 주요 경제 매체를 먼저, "~ 살까?" 류 칼럼은 뒤로
+TIER1 = ["reuters", "bloomberg", "cnbc", "wall street journal", "wsj", "marketwatch", "barron",
+         "financial times", "associated press", "ap news", "investor's business daily", "axios", "cnn"]
+TIER2 = ["yahoo finance", "motley fool", "benzinga", "seeking alpha", "forbes", "business insider",
+         "fortune", "thestreet", "investopedia", "morningstar", "zacks", "washington post", "new york times"]
+LISTICLE = r"^prediction:|better buy|here's why|here's how|should you buy|no-brainer|to buy (right )?now|worth this much|millionaire"
+SKIP = r"opening bell|closing bell|news headlines|press release"
 
 
-def trusted(source):
-    s = (source or "").lower()
-    return any(t in s for t in TRUSTED)
+def score(item):
+    s = (item["source"] or "").lower()
+    tier = 2 if any(t in s for t in TIER1) else 1 if any(t in s for t in TIER2) else 0
+    return tier - (2 if re.search(LISTICLE, item["title"].lower()) else 0)
 
 
 def english(title):
@@ -70,7 +73,7 @@ def fetch(url, timeout=20):
 
 
 def google_news(query):
-    q = urllib.parse.quote(f"{query} when:2d")
+    q = urllib.parse.quote(f"{query} when:1d")
     url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
     root = ET.fromstring(fetch(url))
     items = []
@@ -119,16 +122,20 @@ def related(title):
 def main():
     now = datetime.now(KST)
     seen, picked, spare = set(), [], []
-    for category, query, limit, must in TOPICS:
+    for category, query, limit, must, ctx in TOPICS:
         try:
             items = google_news(query)
         except Exception as e:
             print(f"  ! {category} 뉴스 실패: {e}")
             continue
-        items = [it for it in items if english(it["title"]) and re.search(must, it["title"].lower())]
+        def ok(it):
+            t = it["title"].lower()
+            return (english(it["title"]) and re.search(must, t) and not re.search(SKIP, t)
+                    and (it["source"] or "").lower() != "nasdaq" and (ctx is None or re.search(ctx, t)))
+        items = [it for it in items if ok(it)]
         newest = lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc)
         items.sort(key=newest, reverse=True)
-        items.sort(key=lambda x: trusted(x["source"]), reverse=True)  # 안정 정렬: 신뢰 매체 우선, 그 안에서 최신순
+        items.sort(key=score, reverse=True)  # 안정 정렬: 점수 높은 순, 같은 점수 안에서는 최신순
         n = 0
         for it in items:
             key = norm(it["title"])
