@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-25T15:55:33+09:00",
+ "updatedAt": "2026-09-25T18:10:31+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "채권 매각 일시 중지, 시장 심리가 조심스럽게 개선됨에 따라 주가 상승",
+   "title": "Bond Selloff Pauses, Stocks Edge Higher as Market Sentiment Cautiously Improves",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMlFzS1U4YThCRTZHYklvTUZUQVE1eDRldXNUS1R5bUVVZDJXZ0FYNV8ybkUxLWVJdGJKZVRpaEF4S3VhRnRxUTdkZkhwOXdzOVhCTVF5N19Ta1phZ0pKYlo1MU9sZ1Z5U2k5dTRYcDlhanUxVDNXS0tXR0xZd3U5WV82aDRlcEJjZXRfak54dWFscXNIbEhWY016dnNITzRvZ3E2Z3VNQjZHRFZQMk9wN0lnWWRmZUEtYXVRcUdYbw?oc=5",
+   "published": "2026-09-25T17:38+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "미국 주식 상승, 나스닥 기록 달성, 유가 하락, AI 베팅 급증",
+   "title": "U.S. Stocks Rise, Nasdaq Hits Record, as Oil Slides, AI Bets Surge",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1REQ3BFNkg4NEJhMVRYYjhHNkQxc3QxeXZPeXRnZGt5YmlKbWhJR3A0ODFKTWFQVmJXVEl0WG5nd3RxcU1JMlFzbmxQQlJtR2pKVS1aUUcwdUR6aGVJY2dtZDlIM01Ub1lMUHYyXy1wam5aSW5NTl96bkFGUFp0N2lNVEJ2LWdZOFhfVFBLM3ZXMENMT3dwdkdpMDdFMDN2bnpPMHFYVFlrUQ?oc=5",
+   "published": "2026-09-25T14:25+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.01,
+     "asOf": "2026-09-24"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "투자자들이 미국-이란 전쟁에 집중함에 따라 S&P 500은 거의 보합세로 마감",
@@ -8,8 +46,18 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TNkV5X21QWVJsaXdwM0xEMEw3SWgtWmp0dFQtNWpmQ2o1M2VBei10OXhGbEc5XzBNclZIN2diUk1SSklQVE1oWTFTQ01Udnk2Q1NnWDBnWkFrbUFnSnFaTldrYjJIZFU?oc=5",
    "published": "2026-09-25T13:02+09:00",
-   "related": [
-    "RISE·KODEX S&P500 · SCHD"
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
@@ -19,8 +67,18 @@
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRhbjNVTmxTVTl1UktnVGNFUzA4TDBubE9BN1hZcVdwaHhUeXBVa0xXWnRCeVpOTDBQRFA3bGZ5OUZLUVNiby1xRzI1VDJhQ25HenR4WWZUNk11S2xaSWlldFNZRFN6U3U4OXlWeGJ4QjludzNFeXNkZzRsMHVkQm10aFo?oc=5",
    "published": "2026-09-25T13:00+09:00",
-   "related": [
-    "RISE·KODEX S&P500 · SCHD"
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
@@ -30,29 +88,38 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
    "published": "2026-09-25T08:30+09:00",
-   "related": [
-    "RISE·KODEX S&P500 · SCHD"
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "S&P 500의 최신 기술주는 이제 최고의 성과를 거두었습니다.",
-   "title": "The S&P 500’s newest tech stock is now its best performer",
-   "source": "MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHo2UktGV3kyRUxLeXFYVEVvREJESTJlQlpicU9nT3BVajg1WGFaMjNxOEJyM2gtYzhnNmNOT1FlZkdlUG03VGhiSVcwcXI4c1hOWnBUS3haYmhzQXVLOF9WeXprSzJQWi1OLThuUF96OEhHeEVrYlJnbUFFb2w2QTJOUkNxNGpxRkhDTm0tVkRQVm04V2pVMlU1OHlIaExT?oc=5",
-   "published": "2026-09-25T08:26+09:00",
-   "related": [
-    "RISE·KODEX S&P500 · SCHD"
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 역사적인 주식 붐은 황금 수갑을 문 밖으로 나가는 티켓으로 바꾸고 있습니다.",
+   "title": "Nvidia's historic stock boom is turning its golden handcuffs into a ticket out the door",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGZfVHZTMDBTbVljTUpIQ3lhMDBYZ3NmLVlrREg0SFVET1p6eURwSGY3cE90WlhsWXZyM0VNVHBYNU1fRksxMjhBb08wZkJRNXVhWGVoNThKXzBUZlJjZkxwaGk0eDZtZkdwUTQtSmZYWEtDTHkybHVSSmRYdEluMC1ub2VfTmdyT2JCSUVQUy0tNHpq?oc=5",
+   "published": "2026-09-25T18:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.41,
+     "asOf": "2026-09-24"
+    }
    ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "아시아 채권, 석유 팬 인플레이션으로 주식 하락: 시장 마무리",
-   "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlBZR1YyS3BQNENjZGszSURuWXlKTnVyb0l0d3JudlVHSEdrdW5ZeUlQaDFYVl85SDI1SzNYWlZ3Q2hiMWtfbXhUVFlDYzJHbjZfQTRfY2VlX3NOdlJRYlI4dHFrVjltZ1V6WU1Nbko0RkVBUTRjR3FTZTFXMnF6VDVnZXFVOVJPWUhkSHZUSlpBQ3py?oc=5",
-   "published": "2026-09-25T07:13+09:00",
-   "related": []
   },
   {
    "category": "반도체 · 메모리",
@@ -61,8 +128,18 @@
    "source": "MarketWatch",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEFXemR1OU5oWDNyZkdCT2w0RDJ4RDlvaWNycjVhcm1hX201QjRZTWxEWEtNQkZacVdXS0tQeWphVHV1N29pdlBLaEMwWWJTc0Y0S2ZvcU1IUl9UNHlSR1pGSjJBTm1ib2FZR2F1WERoT0JwZnVyOGNXRV9Cd0FkUUpENUJfVXRuRWNiM19MLUd4a1kwYUZZWXVJcEdma2hubzhYckdQZ1NhVm8?oc=5",
    "published": "2026-09-25T08:28+09:00",
-   "related": [
-    "DRAM · RAM · 삼성전자"
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.81,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
@@ -72,8 +149,16 @@
    "source": "Investor's Business Daily",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOElCa08zYnl3SGxFNmU2UnUyN0dUdjd2VEZtUDM4clRWYi1ONWR6WGNSc2VDNC1YSWlvOXIyY3djV3RUbE16eU5vWkRHUFV0ODJiY0lkcjE5RUxIRHhfekNNNEFSS1J4eGwzaDRjRGg1a0h2bk5OSHExOEMydHlkRUhNbWxUNzhFQTk5WVM2aXNXQUZ2MkFlc1M3eGVjQnNSQ3dOaXln?oc=5",
    "published": "2026-09-25T08:05+09:00",
-   "related": [
-    "SOXL"
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": 1.03,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
@@ -83,8 +168,22 @@
    "source": "Investor's Business Daily",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDN5LVJyWVNyZHQ2UFFULURtd0E5WW9HMFZNVlo5MHV4VHpKNVJTWU5IdzYyTTA1akQ5cUlNc0FBWXhGV2ltcVBGMUM0dWF3LXVIT0NJOU5GUllLSW5YUGpDSnVZRVVaNHludEFUWHNhazBGWktSQUpMb0Z4N3RxdDloV3hyOHRaZERWUG9vOFRSTUFJM2dmenc4dE43QmZPX0E?oc=5",
    "published": "2026-09-25T05:42+09:00",
-   "related": [
-    "SOXL"
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "QCOM",
+     "name": "퀄컴",
+     "chgPct": -1.51,
+     "asOf": "2026-09-24"
+    },
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -0.33,
+     "asOf": "2026-09-24"
+    }
    ]
   },
   {
@@ -94,19 +193,16 @@
    "source": "Barron's",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5",
    "published": "2026-09-25T03:32+09:00",
-   "related": [
-    "SOXL"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론 주가가 50% 더 상승할 수 있는 방법",
-   "title": "How Micron Stock Could Rise Another 50%",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ1pGWHU0VURDYzN6OTAyYlNtLTZscXdyajF0dnJPbzFIUk41Zzk2Z1pzYzQ0VTFJM1hBMXBOZm1qX2hIMy10X3BWUGdnaXl4azF3M3BpNXdncDRndjhWQ282YTlQRV9RcHEtVmdpUUowWTlCWTVVZlVHWUVaclhqMGk1QmliSHl1VkozNmhkSnNuM0Z4RjBOZkJYLVRYekE5Nnh2XzNhLXcxV2RmLXp4WXlYbDJHNlpOVFJKNlRuUmo2WHhYZ1BITnRWblJVVHk5ZktweUdVUnVRSDhmS21HNzlXbWUyaEhXanhkQg?oc=5",
-   "published": "2026-09-24T20:26+09:00",
-   "related": [
-    "DRAM · RAM · 삼성전자"
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.41,
+     "asOf": "2026-09-24"
+    }
    ]
   }
  ]
