@@ -18,6 +18,20 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "news.json"
 KST = timezone(timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (portfolio-map news)"}
+
+
+def settled(closes):
+    """장이 아직 안 끝난 오늘 행(프리마켓·장중)은 빼고 확정 종가만 남긴다."""
+    if closes.empty or closes.index.tz is None:
+        return closes
+    close_min = {"America/New_York": 16 * 60 + 10, "Asia/Seoul": 15 * 60 + 40}.get(str(closes.index.tz))
+    if close_min is None:
+        return closes
+    now = datetime.now(closes.index.tz)
+    last = closes.index[-1]
+    if last.date() == now.date() and now.hour * 60 + now.minute < close_min:
+        return closes.iloc[:-1]
+    return closes
 TOTAL = 10
 
 # (분류, 검색어, 최대 개수, 제목에 있어야 할 단어, 제목에 함께 있어야 할 투자 관련 단어)
@@ -87,6 +101,7 @@ def price_move(symbol):
     try:
         import yfinance as yf
         c = yf.Ticker(symbol).history(period="10d", interval="1d")["Close"].dropna()
+        c = settled(c)
         if len(c) >= 2:
             res = {"chgPct": round((float(c.iloc[-1]) / float(c.iloc[-2]) - 1) * 100, 2),
                    "asOf": c.index[-1].strftime("%Y-%m-%d")}
