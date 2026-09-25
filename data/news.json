@@ -1,115 +1,112 @@
 {
- "updatedAt": "2026-09-25T15:52:36+09:00",
+ "updatedAt": "2026-09-25T15:55:33+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500 예측: 조정 위험이 증가함에 따라 주식 하락폭이 확대됩니다.",
-   "title": "S&P 500 forecast: Stocks extend drop as correction risks grow",
-   "source": "stonex.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUi1SUmxScnN0S09zNkp5NFVHVGZlWkhGUlpLeVFfRjB2VGRKSnZDR3RFUHZuVzB5ZTE4Vk1sNEhVRzliOGRQNXBBTXhkcnA1SEtjMlZ0b1hUd3hXLWpiQnpsWEVzam5fYWFKbzJYSUhjT0hPSENsdUVGbjZwZXZ3enpmcHZtUl9yeDVEQ2E2dmJpekNtVXRhYzQ1ZjBFTkVmVEpYWHFYM2Z5LTZCanhaZ2RCRWJWMjBvZE1JaWln?oc=5",
-   "published": "2026-09-24T11:07+09:00",
+   "summary": "투자자들이 미국-이란 전쟁에 집중함에 따라 S&P 500은 거의 보합세로 마감",
+   "title": "S&P 500 ends near flat as investors focus on US-Iran war",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TNkV5X21QWVJsaXdwM0xEMEw3SWgtWmp0dFQtNWpmQ2o1M2VBei10OXhGbEc5XzBNclZIN2diUk1SSklQVE1oWTFTQ01Udnk2Q1NnWDBnWkFrbUFnSnFaTldrYjJIZFU?oc=5",
+   "published": "2026-09-25T13:02+09:00",
    "related": [
     "RISE·KODEX S&P500 · SCHD"
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "Elon Musk는 연말까지 Colossus 2의 Nvidia 칩을 두 배로 늘리는 것을 목표로 합니다.",
-   "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
+   "category": "미국 지수",
+   "summary": "월스트리트 부티크, 사우디아라비아 본사 규정 거부",
+   "title": "Wall Street boutiques balk at Saudi Arabia’s HQ rules",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRhbjNVTmxTVTl1UktnVGNFUzA4TDBubE9BN1hZcVdwaHhUeXBVa0xXWnRCeVpOTDBQRFA3bGZ5OUZLUVNiby1xRzI1VDJhQ25HenR4WWZUNk11S2xaSWlldFNZRFN6U3U4OXlWeGJ4QjludzNFeXNkZzRsMHVkQm10aFo?oc=5",
+   "published": "2026-09-25T13:00+09:00",
+   "related": [
+    "RISE·KODEX S&P500 · SCHD"
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "투자자들이 미국-이란 전쟁에 집중함에 따라 S&P 500은 소폭 하락 마감",
+   "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+   "published": "2026-09-25T08:30+09:00",
+   "related": [
+    "RISE·KODEX S&P500 · SCHD"
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500의 최신 기술주는 이제 최고의 성과를 거두었습니다.",
+   "title": "The S&P 500’s newest tech stock is now its best performer",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHo2UktGV3kyRUxLeXFYVEVvREJESTJlQlpicU9nT3BVajg1WGFaMjNxOEJyM2gtYzhnNmNOT1FlZkdlUG03VGhiSVcwcXI4c1hOWnBUS3haYmhzQXVLOF9WeXprSzJQWi1OLThuUF96OEhHeEVrYlJnbUFFb2w2QTJOUkNxNGpxRkhDTm0tVkRQVm04V2pVMlU1OHlIaExT?oc=5",
+   "published": "2026-09-25T08:26+09:00",
+   "related": [
+    "RISE·KODEX S&P500 · SCHD"
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "아시아 채권, 석유 팬 인플레이션으로 주식 하락: 시장 마무리",
+   "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXBxTEhITGFuWVlDRnZwR091R2poVktlRXFWc19zQkJocmtoakN4WDVkaEpIR2pudThGSDVpYVNjYjN5azE3dHdMUWNnamwzcmVVNTh1RE41U3ZpZXBPVzhweWs1QWN5WFZvRTVtaFZhOGRSa1Y4MmIwX2pjcF9ZRUJTZVhfeVU3SnhOdWwzM0F6Zm5lOWJmZlZDZnpjU3A5ZEFwVE9zUFBxeEd5OUlnX0x1NA?oc=5",
-   "published": "2026-09-25T15:04+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlBZR1YyS3BQNENjZGszSURuWXlKTnVyb0l0d3JudlVHSEdrdW5ZeUlQaDFYVl85SDI1SzNYWlZ3Q2hiMWtfbXhUVFlDYzJHbjZfQTRfY2VlX3NOdlJRYlI4dHFrVjltZ1V6WU1Nbko0RkVBUTRjR3FTZTFXMnF6VDVnZXFVOVJPWUhkSHZUSlpBQ3py?oc=5",
+   "published": "2026-09-25T07:13+09:00",
+   "related": []
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론 투자자들이 지분이 높아질 때 주의해야 할 3가지",
+   "title": "3 things Micron investors need to watch as the stakes get higher",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEFXemR1OU5oWDNyZkdCT2w0RDJ4RDlvaWNycjVhcm1hX201QjRZTWxEWEtNQkZacVdXS0tQeWphVHV1N29pdlBLaEMwWWJTc0Y0S2ZvcU1IUl9UNHlSR1pGSjJBTm1ib2FZR2F1WERoT0JwZnVyOGNXRV9Cd0FkUUpENUJfVXRuRWNiM19MLUd4a1kwYUZZWXVJcEdma2hubzhYckdQZ1NhVm8?oc=5",
+   "published": "2026-09-25T08:28+09:00",
+   "related": [
+    "DRAM · RAM · 삼성전자"
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Taiwan Semiconductor, 17개 부문에서 최고의 주식 화면으로 이 그룹을 선도",
+   "title": "Taiwan Semiconductor Leads This Group On 17 Onto Best Stock Screens",
+   "source": "Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOElCa08zYnl3SGxFNmU2UnUyN0dUdjd2VEZtUDM4clRWYi1ONWR6WGNSc2VDNC1YSWlvOXIyY3djV3RUbE16eU5vWkRHUFV0ODJiY0lkcjE5RUxIRHhfekNNNEFSS1J4eGwzaDRjRGg1a0h2bk5OSHExOEMydHlkRUhNbWxUNzhFQTk5WVM2aXNXQUZ2MkFlc1M3eGVjQnNSQ3dOaXln?oc=5",
+   "published": "2026-09-25T08:05+09:00",
    "related": [
     "SOXL"
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Broadcom 대 Marvell: 어떤 맞춤형 AI 칩 주식이 더 나은 위험 보상을 제공합니까?",
-   "title": "Broadcom vs. Marvell: Which Custom AI Chip Stock Has the Better Risk-Reward?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3hGV1Bvb0FjVWhtaXQyRlFOMlN4UThmaVBlazkwUjdJdzd4Q0c2QXU4M1BuWk9UYVQ1TFBQNEVSS0toMVRBQlgxdWtVQk9Bb0lSbUVuY3hVR3FySEJza1NWTF9mNXFLWHFteU9xbDkzWWQyNk1majNuTFg1V1YxdmhVMVVwLV9UNDFJYlk0S3N2MEpRQVRLNFhR?oc=5",
-   "published": "2026-09-25T13:26+09:00",
+   "summary": "칩 주식 후퇴. Qualcomm이 Apple 라이선스 계약을 체결했습니다.",
+   "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
+   "source": "Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDN5LVJyWVNyZHQ2UFFULURtd0E5WW9HMFZNVlo5MHV4VHpKNVJTWU5IdzYyTTA1akQ5cUlNc0FBWXhGV2ltcVBGMUM0dWF3LXVIT0NJOU5GUllLSW5YUGpDSnVZRVVaNHludEFUWHNhazBGWktSQUpMb0Z4N3RxdDloV3hyOHRaZERWUG9vOFRSTUFJM2dmenc4dE43QmZPX0E?oc=5",
+   "published": "2026-09-25T05:42+09:00",
    "related": [
     "SOXL"
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "ASML vs. Applied Materials: 어느 AI 칩 장비 주식이 더 나은 구매인가?",
-   "title": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREhrTFNWQ3l5eHBJUzdYN1ZCVkNDSmt3NTQxS1RkV01uLXhPY3d2aV9OQnNYaF9fTUJnU1JJR3JKSFZSVUE3M2JYSEtQUjNYdUNwamtHOEs1U1pJV3NyNnFkbWp1NGZIVTRWNWxJaFdtQndmd1hoUUQ5R1c5aTZiZE9wVjc3REdGc1dCWENSXzMwWVdnYUV3?oc=5",
-   "published": "2026-09-25T13:07+09:00",
+   "summary": "CEO Huang이 AI 규제에 대한 과감한 대안을 제안함에 따라 Nvidia 주가 하락",
+   "title": "Nvidia Stock Drops as CEO Huang Suggests Drastic Alternative to AI Regulation",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5",
+   "published": "2026-09-25T03:32+09:00",
    "related": [
     "SOXL"
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD vs. Nvidia: 어느 AI 주식이 더 나은 매수인가요?",
-   "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc014Mkc1LWxGUDB0bDlJc1VldlJNS1lEZzdRc1NxRXNYdThQNkcyeWNuOHYzbV85Y1hXN0FtZkhwSW9JS0l0REpTeXdoaW95d19NQ01NcDgxM1ZTN3lvY0s1cWUxTjNvbnNpZXAtdzlUazY0WGgwV3BmSjFuamVDR3R2SFB6d3dJM3NnWVFvZl8?oc=5",
-   "published": "2026-09-25T12:59+09:00",
+   "summary": "마이크론 주가가 50% 더 상승할 수 있는 방법",
+   "title": "How Micron Stock Could Rise Another 50%",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ1pGWHU0VURDYzN6OTAyYlNtLTZscXdyajF0dnJPbzFIUk41Zzk2Z1pzYzQ0VTFJM1hBMXBOZm1qX2hIMy10X3BWUGdnaXl4azF3M3BpNXdncDRndjhWQ282YTlQRV9RcHEtVmdpUUowWTlCWTVVZlVHWUVaclhqMGk1QmliSHl1VkozNmhkSnNuM0Z4RjBOZkJYLVRYekE5Nnh2XzNhLXcxV2RmLXp4WXlYbDJHNlpOVFJKNlRuUmo2WHhYZ1BITnRWblJVVHk5ZktweUdVUnVRSDhmS21HNzlXbWUyaEhXanhkQg?oc=5",
+   "published": "2026-09-24T20:26+09:00",
    "related": [
-    "SOXL"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론 주식이 1,625달러로 갈까요? 1 월스트리트 분석가는 그렇게 생각합니다.",
-   "title": "Is Micron Stock Going to $1,625? 1 Wall Street Analyst Think So.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzVnQmlnMXJ6d1dzM3NZaE00YWROZzVtWmJ4Qlg2RlN3bW0xandVLS1xVE5NWERscjNqbEphUElrSExOQmtnMndVSXIxWWtWeEdMMExhQm1MbWEzMXVURHF5eGdlSEdScEdyQVV4Tm4wODNUVzh6Y1EzaEU0YlJsYkx4ZmVtV21rLTZpbHZKZGlrYkE?oc=5",
-   "published": "2026-09-25T12:50+09:00",
-   "related": [
-    "DRAM · RAM · 삼성전자",
-    "RISE·KODEX S&P500 · SCHD"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "후티 반군: 이란과 워싱턴의 협상 카드",
-   "title": "The Houthis: Iran’s bargaining chip with Washington",
-   "source": "Al Majalla",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemVLbU1Xc2xucE9xdVZuWTV1UjU0ampTT1EyZEJ4MXBYYWpuX0Npb3JzX041cHliWFBNbHRLQnB5UUhzN0E5QkhDUDBMRW1LR0tMOWV2eXNVdWFaVzNUSG42dkVuZVFxZjNLbUJ5ODFBSnB1eUN5Zzh1LXh2aVdBZTRzVlF0NWVzV0VFMlR3T185TDFrQ0dDZA?oc=5",
-   "published": "2026-09-25T15:07+09:00",
-   "related": [
-    "SOXL"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia의 DLSS Ray Reconstruction을 사용하여 PC에서 Control Resonant를 플레이했는데 PS5 Pro를 압도했습니다.",
-   "title": "I played Control Resonant on PC with Nvidia's DLSS Ray Reconstruction — and it beats PS5 Pro hands down",
-   "source": "Tom's Guide",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWs1c0hJN3J5eG9jbk9menBzQ1VfZ1QxMGNDNGVrZmFwZEV6UHJEenRxNXJ4SVgzSUlYYmZwZG1ORVVSNE9vWVNKTDlCanU4VC1iX3k1Szc0bDFwTGFGTFpYNG9rcC1pTnp2YXpzcm1UampiZ0ZhdjRYa1IxMVZlUjhrc2xhb2FZTGlTV3VPODljNVdEbUI1OGdiOGFKbHN2d2FVbmRCakh0TlB2MEg2WlA0SERnN2xNdnBZUXUyWmdWRDdnbmpsWEtoa1QwMEMyNUE?oc=5",
-   "published": "2026-09-25T14:30+09:00",
-   "related": [
-    "SOXL"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "2035년까지의 스마트 비전 프로세싱 칩 시장: 자동차 안전 규정 및 엣지 AI 수요 드라이브 확장 - 뉴스 및 통계",
-   "title": "Smart Vision Processing Chips Market To 2035: Automotive Safety Mandates and Edge AI Demand Drive Expansion - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHNsNFFXZ2pDMkJhNEY3U0NwRnN2X1BaUnBDY19FNWNFN2UtbHdfc25sNG5MRzJHWkJoZDgwLUI3U0oxd3hYYllXTjZsSDJKcEh1TC1EeEtBdU4xZVlMYm9LTld3QzU2OUZOeFNqNHY2ZnZZUlNIZHFmWkdnZk1ZR0gxTlQ2WDBLUXgxUjVKblcxaG5CekJGSFB5TVRPNTJGWXNjLV9sc0xWeGdUeWhibjJCWHlvSmFpaUxEUnlVZXlqcjJrX3VzYkZQSmU1ZDBXcTIwdWhIeXFRTnlueGc?oc=5",
-   "published": "2026-09-25T14:21+09:00",
-   "related": [
-    "SOXL"
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Cisco와 NVIDIA는 Splunk AI를 온프레미스 고객에게 제공하기 위해 파트너십을 확대합니다.",
-   "title": "Cisco and NVIDIA expand partnership to bring Splunk AI to on-premises customers",
-   "source": "FutureCIO",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUNkVXVhalpvYVhOVnNxWFJQX0dUelBOTlBxbFRaa1hqR0NjeWZMdUhSVHZ0QVpROFlPSDJzS2tKMVRkUXRHQ3F1NDFTRGg3dUFJMGhYdENuVTdia2EtbnJ2bUE2TGFwdG9pNkRYeXFDMnN2Wk16c0MzQ3RERnZCUjkxZjFObGNfUTFuWlk4TzZnYXNuOTlGbVhhWEVvdERXbnhhbDN3?oc=5",
-   "published": "2026-09-25T12:00+09:00",
-   "related": [
-    "SOXL"
+    "DRAM · RAM · 삼성전자"
    ]
   }
  ]
