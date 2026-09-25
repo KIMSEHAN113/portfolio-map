@@ -23,6 +23,20 @@ WEEKDAYS = {"월": 0, "화": 1, "수": 2, "목": 3, "금": 4}
 UA = {"User-Agent": "Mozilla/5.0 (portfolio-map)"}
 
 
+def settled(closes):
+    """장이 아직 안 끝난 오늘 행(프리마켓·장중)은 빼고 확정 종가만 남긴다."""
+    if closes.empty or closes.index.tz is None:
+        return closes
+    close_min = {"America/New_York": 16 * 60 + 10, "Asia/Seoul": 15 * 60 + 40}.get(str(closes.index.tz))
+    if close_min is None:
+        return closes
+    now = datetime.now(closes.index.tz)
+    last = closes.index[-1]
+    if last.date() == now.date() and now.hour * 60 + now.minute < close_min:
+        return closes.iloc[:-1]
+    return closes
+
+
 def num(v):
     return float(str(v).replace(",", "").replace("%", "").strip())
 
@@ -53,6 +67,9 @@ def yahoo_quote(symbol):
         return None
     if closes.empty:
         print(f"  ! Yahoo {symbol}: 데이터 없음")
+        return None
+    closes = settled(closes)
+    if closes.empty:
         return None
     price = float(closes.iloc[-1])
     prev = float(closes.iloc[-2]) if len(closes) > 1 else price
