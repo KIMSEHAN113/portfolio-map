@@ -558,9 +558,9 @@
   },
   {
    "date": "2026-09-26",
-   "updatedAt": "2026-09-26T02:37:22+09:00",
+   "updatedAt": "2026-09-26T08:02:29+09:00",
    "fx": {
-    "usdkrw": 1356.47,
+    "usdkrw": 1355.28,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -632,9 +632,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 23,
-     "price": 305.14,
-     "chgPct": 0.0,
-     "asOf": "2026-09-24"
+     "price": 306.54,
+     "chgPct": 0.46,
+     "asOf": "2026-09-25"
     },
     {
      "id": "schd",
@@ -646,9 +646,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 104,
-     "price": 33.1,
-     "chgPct": -0.54,
-     "asOf": "2026-09-24"
+     "price": 33.21,
+     "chgPct": 0.33,
+     "asOf": "2026-09-25"
     },
     {
      "id": "tqqq",
@@ -660,9 +660,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 41,
-     "price": 78.58,
-     "chgPct": -0.1,
-     "asOf": "2026-09-24"
+     "price": 79.6,
+     "chgPct": 1.3,
+     "asOf": "2026-09-25"
     },
     {
      "id": "googl",
@@ -674,9 +674,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 8,
-     "price": 342.36,
-     "chgPct": 1.34,
-     "asOf": "2026-09-24"
+     "price": 343.92,
+     "chgPct": 0.46,
+     "asOf": "2026-09-25"
     },
     {
      "id": "dram",
@@ -688,9 +688,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 43,
-     "price": 60.72,
-     "chgPct": -1.91,
-     "asOf": "2026-09-24"
+     "price": 61.91,
+     "chgPct": 1.96,
+     "asOf": "2026-09-25"
     },
     {
      "id": "hood",
@@ -702,9 +702,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 20,
-     "price": 120.82,
-     "chgPct": -1.53,
-     "asOf": "2026-09-24"
+     "price": 119.4,
+     "chgPct": -1.18,
+     "asOf": "2026-09-25"
     },
     {
      "id": "ram",
@@ -716,9 +716,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 166,
-     "price": 13.96,
-     "chgPct": -3.52,
-     "asOf": "2026-09-24"
+     "price": 14.47,
+     "chgPct": 3.65,
+     "asOf": "2026-09-25"
     },
     {
      "id": "qld",
@@ -730,9 +730,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 23,
-     "price": 96.1,
-     "chgPct": -0.06,
-     "asOf": "2026-09-24"
+     "price": 96.95,
+     "chgPct": 0.88,
+     "asOf": "2026-09-25"
     },
     {
      "id": "soxl",
@@ -744,9 +744,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 15,
-     "price": 146.33,
-     "chgPct": 0.05,
-     "asOf": "2026-09-24"
+     "price": 151.45,
+     "chgPct": 3.5,
+     "asOf": "2026-09-25"
     },
     {
      "id": "orcl",
@@ -758,9 +758,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 10,
-     "price": 139.54,
-     "chgPct": -3.47,
-     "asOf": "2026-09-24"
+     "price": 137.1,
+     "chgPct": -1.75,
+     "asOf": "2026-09-25"
     },
     {
      "id": "pltr",
@@ -772,9 +772,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 2,
-     "price": 192.59,
-     "chgPct": 0.42,
-     "asOf": "2026-09-24"
+     "price": 189.67,
+     "chgPct": -1.52,
+     "asOf": "2026-09-25"
     },
     {
      "id": "irp-rise-semi-bond",

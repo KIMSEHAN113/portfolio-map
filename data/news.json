@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-09-26T02:37:27+09:00",
+ "updatedAt": "2026-09-26T08:02:36+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "이번 주 목표로 삼을 월스트리트의 선호 주식 1개와 압도적인 2개",
-   "title": "1 of Wall Street’s Favorite Stocks to Target This Week and 2 That Underwhelm",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2NISi1jX21ZN01paHBkbUQ5SGItNzlGS1ZQTXVTMTlLWHM3bDlCcHFHVjY0X2J5LXVENjhUTEd3OHVnZE45NUtVek12RHk4TzZ2M3dDdkNxeFFRNFhDSnd3Uk9Hb2FwbFllX20zbTM5OUt1cVYxUlhnekt4Y0FZeHpld3E1bHpOd3lrS2FSNHdzcEo0ZXVqdzNB?oc=5",
-   "published": "2026-09-26T01:56+09:00",
+   "summary": "'패스트 머니' 트레이더들은 채권 금리 상승에도 불구하고 주식 시장은 그대로 유지될 것이라고 말합니다.",
+   "title": "'Fast Money' traders talk the stock market staying the course despite rising bond rates",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjUzZ0JMUi1EcHJzSVZBZjlOLTZRaUFhT05wRENLRGZJNkNEWkdJNm1oNzVSVl82Tmt3SWVxNm4yeTVFZUZGaFI2Z0VnS2tYRmF1dGt5bVBCOTZJVnVPblJnVjI2TjVBZG1URXJzOFI1a0pvVzhTeFN5YlpIXy1hcmtoNmM1TUlicjE4QlVVc1RRbzBobDUxWU1iVVpVaXV6cmtWRVZmYU43Ujd4WEZ5WmpYc05pWnl3WGFNV2dtYm5Hb09DRWxv?oc=5",
+   "published": "2026-09-26T06:42+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,18 +17,39 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-09-24"
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "J.P. Morgan은 투자자들이 혼잡한 AI 거래를 헤지하기 위해 서두르면서 인도 주식 시장에 1,150억 달러가 유입될 수 있다고 말했습니다.",
-   "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade",
+   "summary": "RegenLab은 수익이 2,900만 달러를 넘어서면서 RGNA로 나스닥 상장을 목표로 하고 있습니다.",
+   "title": "RegenLab targets Nasdaq listing under ticker RGNA as revenues top $29 million",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1EtQy1xb2xLbGYzaHdvUGg1VFgtdDlONm1iU2JZbXFzVWFqaTJnOUlySEpEWWIxRGN5T3NIUlBNQ1VzSjZnX3dIdmZjY3BZcGVaT1VUZGpLSXl2QVdKb0NQdkpnVnpWd1YzYkxTaEV1R2gzZVY2YUZRamhqa1ctSTdoOXFyWloza2JaQ2lB?oc=5",
-   "published": "2026-09-26T00:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXMxVzY1S3RiUHJDcWxmLUlkOHJLOEJKMEZzZkFVQjRZbEhMNWJueHJGMWNSQV9Ga1BkVWRKb0ZaUTN4S0JFd2JLNF9XMko2SWhEbDIxQTBBXzFWZmZGNEpHVEo1bTVoU0F4OGZRNl9PMW9sVGRNa2U5QjNXbElkWFZWTWxZRmdEazNQR2FnT04zdEFFQ1dNN252UXNsVllJWkp1WQ?oc=5",
+   "published": "2026-09-26T06:20+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.48,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Griffon(GFF)이 오늘 주식 시장을 능가한 이유",
+   "title": "Why Griffon (GFF) Outpaced the Stock Market Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1Npcmh5c2UwTWVfZWwxbFhrMF9TSWR2TU1OQnIwU3dXeTlOQjl6aHRQVElDYTY3UkVyRXlPb0swVjdBWktqLXZwUFJOTFRLRkhleVRtSWl1Z3N6NHU2ZFdNTEFESkdsa2lFb0x0Si1zYS1kN0ZBbXJFRmFiNHVGY1dLdFdJZWx0aFM1LThGSE84THNMRHlnY25HSQ?oc=5",
+   "published": "2026-09-26T06:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,18 +59,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-09-24"
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "지금 고려해야 할 월스트리트의 인기 주식 2개와 우리가 무시하는 1개",
-   "title": "2 of Wall Street’s Favorite Stocks to Consider Right Now and 1 We Ignore",
+   "summary": "웨스턴 유니온(WU)이 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "Western Union (WU) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENkcUpvUjMxWVQxNjFIcGxpRlloandtVE9xVXR1RjhXM2Uxa0stZWpJVHAtSnN1QW5wekxKdjhGMEJsRzVraFVsNG9PSmJzNjMwcTNXSy11ZF9tMmZSWC1hcWZxb1R4OW5wNHBoM3J6M0tVT3YzQ0tKOXR3YU5zRU9iWjZKV3h5Um9qU1ZYSjB6T0dmLVpJRmVR?oc=5",
-   "published": "2026-09-25T23:48+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckdnMGlnOWgzRFhYWnVDTlQ3cDFfamRtcXh0Q2pOQUxrU3Y1cm9xOWF3YmRual9ZOEZ1aUF1cUFDX284WUp3TkdJc0JiLUpSbUZxSm9GSXZjRUxwMWRnVTRpTEFSRGdnY0pUSVhGcFZPZ2tLQ2UwR3p1M1lJRHAwR2lWNTRaaGtJWks5VzdLUUs1WUFQck9aTA?oc=5",
+   "published": "2026-09-26T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,56 +80,90 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-09-24"
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "2026년의 메타는 2025년의 구글이다: 월스트리트가 강세를 보이는 이유",
-   "title": "Meta in 2026 is the Google of 2025: Why Wall Street is getting bullish",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOWGN4SnVLdl9QWURXNVNLSmJLU3ZmSnF2Ym9WLUI4NmlRRUtfck9MTXY1OEZRb1pkb0syTFZub0tyUjkzYjJOaHFfVXVIZXlhX2lHV2ZTblJWcjQ?oc=5",
-   "published": "2026-09-25T23:09+09:00",
-   "holdings": [
-    "googl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 1.34,
-     "asOf": "2026-09-24"
-    },
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 4.5,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "코스트코, 디지털 매출 급증으로 월스트리트 추정치 넘어",
-   "title": "Costco tops Wall Street estimates as digital sales surge",
+   "summary": "Future Money Acquisition Corporation, 지연된 양식 10-Q 제출과 관련된 Nasdaq 연체 통지 접수 발표",
+   "title": "Future Money Acquisition Corporation Announces Receipt of Nasdaq Delinquency Notice Regarding Delayed Form 10-Q Filing",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmVZeVlHdGhEeDV3RVd5RmtDaDlka0c2UE12S1VsYlZpd2NaWXVLQ21NVmpYSmJzZWdMdnl0RkVMd1RZMzJuU1V4YTNTWHlib3VHekVMTFVGQ19yZlZYRTI1WVo3Vm1Mb2N4dFRDVVV3VHVCckJRN01zQXpIWmNfOVFPM3p6TWN0ZXJUYzBlUGlmNzlsRUtlcDJHS01qeTA?oc=5",
-   "published": "2026-09-25T22:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldLeGpBVWdGRmhCa1NfcUtva25oY1N1WFRFa2xHTWozQ1BROU1MRmpSSmJRQVp6UEdPNG5XUUtlYTZmdDM0cFpyalFhMFR6VXBTejlaekxrSHhLNHN5WXNFUG8xajlkUGxLdzhLLTFQU2dDVTVFcXQwdnp6REFXbVZ6TFhRYnFkTl91T09SY1Z1WE5NRkFRbGhwVnhkczlTVDRMc29KUjRYQzNTNUx2Ng?oc=5",
+   "published": "2026-09-26T06:00+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-09-24"
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.48,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "2026년 Nvidia를 압도하는 반도체 주식을 만나보세요",
+   "title": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWhjckVwUWVQeTcwN0pBNnZHdkJwSjRvNG9qYWpQOFcyM3pQVlZoMndfLVBjOFRUN1FsdlFpaVV4Y1FTTHh0VkhOajh2X1pzb3F6Sl9OM3VMRDZQTE5pNUxuUTlZTUdYZDlPTVFyMWJRTWhyMGhwRUphanJYQ1RGUTVCWHQxTnZzaDBhWlNkeGN1M3FUQWhGcnpKeUFzdGZwc0llVDFHa0FtOFh1OThv?oc=5",
+   "published": "2026-09-26T05:20+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.22,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK하이닉스 솔리드다임, 기업가치 1500억 달러로 IPO 검토 중",
+   "title": "SK Hynix’s Solidigm said to mull IPO that could value unit at $150B",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTFKeUJ6YkxCNzc0UnN4VkRnYzNpSEVDN2M1a1phN2ZyVDd6eTEwM3Z6TlVCLXdUMGZ4TlcyMEE4Y1k0Q2JIZWRxSFVBX3hUOU8tZ0N0NTVRSUxfWmdjenY2dWJiUWxSaGdqeWhJd0ZKMFc5YnB2ekYtWWxfTTE4eUxwRmZLQ0ZEelpSbUJnQ1ZPM2I3TUww?oc=5",
+   "published": "2026-09-26T03:28+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 1.2,
+     "asOf": "2026-09-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK 하이닉스의 미국 기반 Solidigm 사업부, IPO에 무게를 두는 것으로 알려짐 – 내년에 1,500억 달러에 가까운 가치로 예상되는 제안",
+   "title": "SK Hynix’s U.S.-Based Solidigm Unit Reportedly Weighs IPO – Offering Expected Next Year At A Valuation Near $150B",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1ZDa0hqVmZYNWtfWUlmaWtFZlFQWUlWMzd1cDEtWjhKdFFEUzFSLWtSQzJxQXMwZEdOQWZCU0RrNTN5NTVTTTlFSW5MUGJnaVhQVFhCSGk0Z21jUTNZUlg2UWlpZWZTOHlsTjdpWmlKMHBSQ1dhOF9nZ3dwZlFNQ0p6dXhMVEJuWk1XejVDeUxfZVV1?oc=5",
+   "published": "2026-09-26T02:58+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 1.2,
+     "asOf": "2026-09-23"
     }
    ]
   },
@@ -126,18 +181,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -0.41,
-     "asOf": "2026-09-24"
+     "chgPct": 0.22,
+     "asOf": "2026-09-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론의 279% 랠리는 큰 수익 테스트로 향하고 있습니다",
-   "title": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
+   "summary": "CXMT가 원자재 위협을 높이는 동안 마이크론 주가 상승",
+   "title": "Micron Stocks Gain While CXMT Raises the Commodity Threat",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem9HSUhNX2xpQ1FhdTRJQTY4WmdKVEdEQ21CbkRpeEVlTzA4cEJoUnc1TXJUNU5tMXVPWk9EelpFc3N5X01yc092alZESjVIMXpPVElIanpfMFdyN0Y3aFJURTk1RjJST0hBODFxTHNPWHdwbG9KaG1yeFR5d2JZRzFtemJYNUc1NHRGQXB1Y3FUYTdSNW91T3V3?oc=5",
-   "published": "2026-09-26T00:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS29aMmVFUmdXMGxicHBIR0F1QlRIRW9POVhCV094b1dfcTVGN3ZsVlVBRGFQUEFTWlFzVjc2bnFKX1o4MWNFNC1LLW9qbXhmTnNUaGJVTlkzLVNReGUtdC1KQWRYZFhucWZYeFF3bW5iZE9SN0xpVUNBTlF5MG9lZmluWmNUTFZXM3M4aGxaaXlFbkEyZEdUWVd3?oc=5",
+   "published": "2026-09-26T00:56+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -147,67 +202,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 0.81,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "$1080의 Micron: 거리는 헤드라인 아래 보이는 것을 좋아합니다.",
-   "title": "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORW10NjQzM1lsTVl4T2piamx1TXA1NS1xNW9YS3BLWm1lNi03T0hfZ0N4QlJocDB2b0NFUWZzd2FhU0FsSlJzblpqUWxhOWtINVRTTDN6R0k2aDZpSWV2SUZVbktNZmZEYkFzQzZ6c3pvbTlOLWlob0ZMZkdINWlCRkhEY1pJTkMzNGhJeVJvN2lZajJ4RGNHVlhn?oc=5",
-   "published": "2026-09-25T23:41+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.81,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Elon Musk가 거대한 새로운 AI 칩 계획을 공개함에 따라 Nvidia 주가 상승",
-   "title": "Nvidia Stock Rises as Elon Musk Reveals Huge New AI Chip Plans",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3dvMmNnWlVQUFh5N2RrMkdaSFhScU1oZV8zSDR3T1JfNnotcXR1aDFMNUJWRk1HUjEteC01dGh6SFIyWjlPZGs1SUY1N0tYZGhJdTV0N3gwZmFPT3h3VzBxYUJUaUNtaEpxcXJrZHZRTWNkZXg5SzAzdzNhcjAwcmxrNA?oc=5",
-   "published": "2026-09-25T22:17+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.41,
-     "asOf": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "더 나은 양자 컴퓨팅 주식: Nvidia vs. IonQ",
-   "title": "Better Quantum Computing Stock: Nvidia vs. IonQ",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDNhT3VELXM5b1pXcUtDUTZ0RFVUZHpfUzFEaDh5cGdHdTZnTFNsc2xhcVJMVDZBWmhlU1dsUk5wRFFwYkFWMzZaMHZCVkw4VmtvZVZzbXdTZm5JeG83dzBTVjVLMzZ6bU54dktKaWM1NTRON3c4bEw1STRSdGxReUxuT19kdjhVRVBwR2RJTXc2U0Z1bTUzc2ptRGhybGlKbG1IcQ?oc=5",
-   "published": "2026-09-25T21:54+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.41,
-     "asOf": "2026-09-24"
+     "chgPct": 0.16,
+     "asOf": "2026-09-25"
     }
    ]
   }
