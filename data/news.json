@@ -1,40 +1,13 @@
 {
- "updatedAt": "2026-09-26T08:49:47+09:00",
+ "updatedAt": "2026-09-27T08:23:08+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Dow, Nasdaq은 미국-이란 분쟁 완화 조짐 속에 칩 제조업체의 강세, 석유 완화에 대한 주간 상승 — META, COST, MSFT, CRWD, SKHY 집중",
-   "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
+   "summary": "2026년에 PepsiCo의 주가는 10% 하락한 반면 S&P 500은 13% 상승한 이유는 무엇입니까? 내가 생각할 수 있는 유일한 대답은 다음과 같습니다.",
+   "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZExwREdKWDhQb3lOX0hKblVpdXlxa0UzTFFvWWlyeHNfY0E3Z2VhM0hDeXBYU1RkdlRCMTBBTWVSUmxVRkx0ajhqdGJDOXg1ckVXNlpCc0lLMjlMcTRfNUNzV25sb2xNRENfV21JUDZqXzZaVmtveWtlb2RvX05rNHVGTy04Y2FlZmtnWFVn?oc=5",
-   "published": "2026-09-26T07:51+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -3.33,
-     "asOf": "2026-09-25"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.48,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "On Holding (ONON), 야심찬 2029년 목표로 강력한 월스트리트 지원 확보",
-   "title": "On Holding (ONON) Gets Strong Wall Street Support With Ambitious 2029 Targets",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0JGd0J3LTI1bUFHSlJiMko1ZHpkcGgwWWtDQ2gxandpQTc0aVlndGVvckRzUnhoRUFfTlY4dGE1ajlHbE1KVUhuMUp6WmVmNXZ1WTZRdFVqcmNkNE1Pa1NGcWFnSXQ3aksxdnBVVHNRUEtjYm02N2l6cGJYcndHZF9IVkRnYWtxZjZ3dk5tSDRxU0lkc2FMTnhn?oc=5",
-   "published": "2026-09-26T07:24+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEtvc2xNeWtTRlBMY1g5VURtVXJfQWJuZzNCTk5IRVEza2dnVUU5YzRqeC1QRzQzVG9aOFJIbGsyTnBJM2E1NWNyRzJqeVdSQTVEbU15QXcwR0xzU0RFX3RzOWpMakRPZFdhVHBUWkd2V2hyeDlDVE9NOTBONEEwRVVBbUNlRzdVSV8zU0c4WEhHeWFtVVE?oc=5",
+   "published": "2026-09-27T03:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -51,32 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "9월 25일 오늘 주식 시장: 코드 생성 및 에이전트 AI 도구로 Copilot을 개편한 후 Microsoft 주가 4% 상승",
-   "title": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
+   "summary": "Home Depot의 수익률은 S&P 500의 3배 이상입니다. 10,000달러 투자에 미치는 영향은 다음과 같습니다.",
+   "title": "Home Depot Yields More Than 3x the S&P 500. Here's the Effect on a $10,000 Investment.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1pOZGFnU0FaRUJsTnZFZzBEOVRJbjh2QzE1N3E0eFJYTW04NVJNVmVFUVVDR0hpdTlEeGo4RXdaY3Nsak5HbEE4YnVnUmI5V04wSkFwLUR6ZWVkTE1WVmdJSlQzWXpRTTh1YldBNkI0blc0WGVDZFAweVJLeVhTMFdQRVllSWgwdmVRWGZxaWVaSXdtUWc?oc=5",
-   "published": "2026-09-26T06:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": 3.66,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "'패스트 머니' 트레이더들은 채권 금리 상승에도 불구하고 주식 시장은 그대로 유지될 것이라고 말합니다.",
-   "title": "'Fast Money' traders talk the stock market staying the course despite rising bond rates",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjUzZ0JMUi1EcHJzSVZBZjlOLTZRaUFhT05wRENLRGZJNkNEWkdJNm1oNzVSVl82Tmt3SWVxNm4yeTVFZUZGaFI2Z0VnS2tYRmF1dGt5bVBCOTZJVnVPblJnVjI2TjVBZG1URXJzOFI1a0pvVzhTeFN5YlpIXy1hcmtoNmM1TUlicjE4QlVVc1RRbzBobDUxWU1iVVpVaXV6cmtWRVZmYU43Ujd4WEZ5WmpYc05pWnl3WGFNV2dtYm5Hb09DRWxv?oc=5",
-   "published": "2026-09-26T06:21+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3FGYkh3RWhmZDBQYU9aN1ZTZkRlRGVfVWJvQlJFVmZESEZHalMzSDZuUS05Z0FpTHAyQnhONnd4eXB5WWtuNVoyNGpEU2ZobUpGcnNkUGhSRzkwbHhRVXlJR0YyRlVGNmp2LVUtTmpVMDZjeW1hUUVuNVFfTnRZTWZrN2t1cEVVUThjWVNXX0NndE11?oc=5",
+   "published": "2026-09-27T03:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "RegenLab은 수익이 2,900만 달러를 넘어서면서 RGNA로 나스닥 상장을 목표로 하고 있습니다.",
-   "title": "RegenLab targets Nasdaq listing under ticker RGNA as revenues top $29 million",
+   "summary": "나스닥-100에 숨어 있는 3가지 엘리트 배당주",
+   "title": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXMxVzY1S3RiUHJDcWxmLUlkOHJLOEJKMEZzZkFVQjRZbEhMNWJueHJGMWNSQV9Ga1BkVWRKb0ZaUTN4S0JFd2JLNF9XMko2SWhEbDIxQTBBXzFWZmZGNEpHVEo1bTVoU0F4OGZRNl9PMW9sVGRNa2U5QjNXbElkWFZWTWxZRmdEazNQR2FnT04zdEFFQ1dNN252UXNsVllJWkp1WQ?oc=5",
-   "published": "2026-09-26T06:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmR1OGplN2hYaVluZUtxVDYtUW1LUk10RVFlTHFTczNTMFNBd2VkZ2NGZHd1dGhicWo2YUExTzRZSnBGVFJEbER4TFktWXhmelNXT0lwc3ozUlBvMmJjdGhXeElZVTlnNmdJMjY4YnRNQWFHVGhtMFBqWTUtZF8zZUZXRjJjQXU3X3RJSUhBOHhWSzR0MzNqaVJpQQ?oc=5",
+   "published": "2026-09-27T00:58+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -113,92 +65,54 @@
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "2026년 Nvidia를 압도하는 반도체 주식을 만나보세요",
-   "title": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
+   "category": "미국 지수",
+   "summary": "AI 붐으로 S&P 500의 이익이 51% 증가했지만 가장 큰 순풍은 사라지고 있습니다",
+   "title": "The AI Boom Just Drove S&P 500 Profits 51% Higher, but Its Biggest Tailwind Is Fading",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWhjckVwUWVQeTcwN0pBNnZHdkJwSjRvNG9qYWpQOFcyM3pQVlZoMndfLVBjOFRUN1FsdlFpaVV4Y1FTTHh0VkhOajh2X1pzb3F6Sl9OM3VMRDZQTE5pNUxuUTlZTUdYZDlPTVFyMWJRTWhyMGhwRUphanJYQ1RGUTVCWHQxTnZzaDBhWlNkeGN1M3FUQWhGcnpKeUFzdGZwc0llVDFHa0FtOFh1OThv?oc=5",
-   "published": "2026-09-26T05:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2FrcDdYZENubHZYMk1HODVfMGNlMy1TNG9UY3hDbWw4TkkyX0VXeHdjZU8yaVg2MjM0VVgtb0RGVmZSTG1PcnRLZUxrdGV6akRsU3pnaFlIRExUUHdVTThvR2JpMUFFb2tTS2ZhNjVuU2l2Wm5xV3hqODYzRTEwSFF2VFB6SWowWXdPaXRR?oc=5",
+   "published": "2026-09-26T23:49+09:00",
    "holdings": [
-    "soxl"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.22,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500은 거의 아무것도 얻지 못합니다. 이 Vanguard ETF는 대략 두 배의 수익을 냅니다.",
+   "title": "The S&P 500 Barely Yields Anything. This Vanguard ETF Pays Roughly Double It",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRnVXdRdUQ5SVVTd2o3d1REdXQyeGdJT3NsVUZjN0pNRG84b05mR1pzTE5ZUThfNU5ZdHozck1VbG1ndUsxV2pjWEtuallHN29kVTA4SWZJRHBlVGcxa0x1NHp4QWpfcVRMRk8tMmRBUUJNdXVPWlBWLUp6WlU1Q1Z5TW9xcEVMVGtLaDNVQW5xNDl2WEZvMw?oc=5",
+   "published": "2026-09-26T22:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.51,
      "asOf": "2026-09-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스 솔리드다임, 기업가치 1500억 달러로 IPO 검토 중",
-   "title": "SK Hynix’s Solidigm said to mull IPO that could value unit at $150B",
+   "summary": "Micron Technology(MU)의 1000억 달러 Syracuse 팩토리 베팅은 얼마나 됩니까?",
+   "title": "How Big Is Micron Technology (MU) $100 Billion Syracuse Factory Bet?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTFKeUJ6YkxCNzc0UnN4VkRnYzNpSEVDN2M1a1phN2ZyVDd6eTEwM3Z6TlVCLXdUMGZ4TlcyMEE4Y1k0Q2JIZWRxSFVBX3hUOU8tZ0N0NTVRSUxfWmdjenY2dWJiUWxSaGdqeWhJd0ZKMFc5YnB2ekYtWWxfTTE4eUxwRmZLQ0ZEelpSbUJnQ1ZPM2I3TUww?oc=5",
-   "published": "2026-09-26T03:28+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 1.2,
-     "asOf": "2026-09-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK 하이닉스의 미국 기반 Solidigm 사업부, IPO에 무게를 두는 것으로 알려짐 – 내년에 1,500억 달러에 가까운 가치로 예상되는 제안",
-   "title": "SK Hynix’s U.S.-Based Solidigm Unit Reportedly Weighs IPO – Offering Expected Next Year At A Valuation Near $150B",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1ZDa0hqVmZYNWtfWUlmaWtFZlFQWUlWMzd1cDEtWjhKdFFEUzFSLWtSQzJxQXMwZEdOQWZCU0RrNTN5NTVTTTlFSW5MUGJnaVhQVFhCSGk0Z21jUTNZUlg2UWlpZWZTOHlsTjdpWmlKMHBSQ1dhOF9nZ3dwZlFNQ0p6dXhMVEJuWk1XejVDeUxfZVV1?oc=5",
-   "published": "2026-09-26T02:58+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 1.2,
-     "asOf": "2026-09-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Einride가 물리적 AI를 확장함에 따라 Nvidia 주식은 하락합니다",
-   "title": "Nvidia Stock Moves Lower as Einride Scales Physical AI",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjlMOUlfVHRZQVZJVnRydktYOGpwc3pRQ0RRd0hkcVlLTWNjS2ZNY0dBOVJrVFdRLUYwZjdMTUZleHV2RnNLQ1ZHUVN1TWNEMmk5RE5ibnBsbTN4Q001ZVJPSzI0Zm5qZENHT215WWNZOWRNUElycFhuNVR3NlNXNjZaejdiZFBXcURtS2tuYjNsZ25iYndWeVVXd1E?oc=5",
-   "published": "2026-09-26T02:01+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.22,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론의 279% 랠리는 큰 수익 테스트로 향하고 있습니다",
-   "title": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem9HSUhNX2xpQ1FhdTRJQTY4WmdKVEdEQ21CbkRpeEVlTzA4cEJoUnc1TXJUNU5tMXVPWk9EelpFc3N5X01yc092alZESjVIMXpPVElIanpfMFdyN0Y3aFJURTk1RjJST0hBODFxTHNPWHdwbG9KaG1yeFR5d2JZRzFtemJYNUc1NHRGQXB1Y3FUYTdSNW91T3V3?oc=5",
-   "published": "2026-09-26T00:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEd6elhmWlJMNndlTWxuU1VZUkVyMWJ0NnlrVnpJX0tvYUFBM2g4UF9rZXdkbjZ5aUpFbVVOZ09DcWE1VC11SmhOT3NwVU9JcmNxR0llM2F3LUZFdWZfbEhjRGEyc1pBcEx6NXJHUEN5cGE5VVRYdHhSelNlR1B2RjJyNmZtOFVsREpTNWFVUDN6d00?oc=5",
+   "published": "2026-09-27T03:09+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -209,6 +123,86 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": 0.16,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론(MU)은 단지 6.5배의 선행 수익으로 거래됩니다. RBC는 SCA가 이를 바꿀 수 있다고 말합니다.",
+   "title": "Micron (MU) Trades at Just 6.5x Forward Earnings. RBC Says SCAs Could Change That",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZW4yYkswUlI0OXZGcElSOFBpbnoxX2trS1dzaEhTOElQUGktYVZDVXJqMDRVSWhGM2JDc2ViaUc5MDFrYkU5QmttMk54ZUJIdU54OU5DMzAtOUp1OFRwblVLN1FmbFdSYnhCaHVtakxWOU9jakZKOVJrR2c2TEhxYXJoMV9SejdCX1N4eTVPNXZadw?oc=5",
+   "published": "2026-09-27T01:49+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.16,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Bank of America는 Nvidia와 다른 주식이 매도 중이라고 말합니다",
+   "title": "Bank of America says Nvidia and these other stocks are on sale",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjQxOVFhR3ZKMmxDSG9CSGMtTHctdFFuTmF2Q1lST2c0dTdNNFEtcHVyX0duMTlHcnI1eG12Tk5QdVByRXF4OWR5UDA5TGFpbHo5SG1ZWk9tVHJndy1XZjcxaDhjbE5fNXJENm1xbnBsLWdrNy1KU0U0WUpwbzliSGJvUW9rZk9ERDFUX2U3YUttbkFzNjQ2OUZINXJ0WC1N?oc=5",
+   "published": "2026-09-26T22:43+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.22,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "다음 주 최고 주식 추천을 3개의 AI 챗봇에게 물었습니다. 그들은 모두 마이크론이라고 말했습니다.",
+   "title": "We Asked 3 AI Chatbots for Next Week's Top Stock Picks. They All Said Micron.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUkxNnFBdXZ4VkdPSkpLeEs2LWlRS0c2dlBCd0lKaHJZQjRzbkxMVTJRaEZ4TnJQd2NTaVppUU81ZmZMMFZxemt4TEhWcGpuUEw5d05RSFRXeUdCbmI4YlJZbGlBdkpxTzQzcVZjb0x1M3BINHVjRnZ3NV8xSkdfQ2xCa2ZxenBCVUdJSXpJbEZBTGM?oc=5",
+   "published": "2026-09-26T20:31+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 0.16,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "당신의 인생을 준비하는 데 도움이 될 수 있는 2가지 반도체 주식",
+   "title": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTV0T0FBQnc3S1JTS3JqNGY1ajhvVFVYZW1CYkM2S3k5NndzVm1fb2pudHJaZzRSWXdXMWEzMXJmLXQyNl9MdE5PYzZFU0cwVnZVNlJPY2ZQM05JcjNuekFNbF9neVFybjNKNW9Nc3FrcWVpWVM0MUp3NEtlQVpaZE00VTZSZU92cHlhV19HcGZyeTRaWmc2YXdyZDR2Rzg?oc=5",
+   "published": "2026-09-26T19:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 1.17,
      "asOf": "2026-09-25"
     }
    ]
