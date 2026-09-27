@@ -1,55 +1,13 @@
 {
- "updatedAt": "2026-09-27T08:23:08+09:00",
+ "updatedAt": "2026-09-28T08:39:38+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "2026년에 PepsiCo의 주가는 10% 하락한 반면 S&P 500은 13% 상승한 이유는 무엇입니까? 내가 생각할 수 있는 유일한 대답은 다음과 같습니다.",
-   "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
+   "summary": "나스닥이 5%가 넘는 국채 수익률로 손익 분기점을 거부하는 이유",
+   "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEtvc2xNeWtTRlBMY1g5VURtVXJfQWJuZzNCTk5IRVEza2dnVUU5YzRqeC1QRzQzVG9aOFJIbGsyTnBJM2E1NWNyRzJqeVdSQTVEbU15QXcwR0xzU0RFX3RzOWpMakRPZFdhVHBUWkd2V2hyeDlDVE9NOTBONEEwRVVBbUNlRzdVSV8zU0c4WEhHeWFtVVE?oc=5",
-   "published": "2026-09-27T03:35+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.51,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Home Depot의 수익률은 S&P 500의 3배 이상입니다. 10,000달러 투자에 미치는 영향은 다음과 같습니다.",
-   "title": "Home Depot Yields More Than 3x the S&P 500. Here's the Effect on a $10,000 Investment.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3FGYkh3RWhmZDBQYU9aN1ZTZkRlRGVfVWJvQlJFVmZESEZHalMzSDZuUS05Z0FpTHAyQnhONnd4eXB5WWtuNVoyNGpEU2ZobUpGcnNkUGhSRzkwbHhRVXlJR0YyRlVGNmp2LVUtTmpVMDZjeW1hUUVuNVFfTnRZTWZrN2t1cEVVUThjWVNXX0NndE11?oc=5",
-   "published": "2026-09-27T03:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.51,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥-100에 숨어 있는 3가지 엘리트 배당주",
-   "title": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmR1OGplN2hYaVluZUtxVDYtUW1LUk10RVFlTHFTczNTMFNBd2VkZ2NGZHd1dGhicWo2YUExTzRZSnBGVFJEbER4TFktWXhmelNXT0lwc3ozUlBvMmJjdGhXeElZVTlnNmdJMjY4YnRNQWFHVGhtMFBqWTUtZF8zZUZXRjJjQXU3X3RJSUhBOHhWSzR0MzNqaVJpQQ?oc=5",
-   "published": "2026-09-27T00:58+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFUtdGFGdjN4M2E1VmQ2NGZqcHN4TjFaQ2FjNnk0bFQtRmZ4WnVkMENQTmZWM1hVVDF5eVc5eW4yOWlKaFdVQnJULUw5bWRuZlFtcHp1SGc3dmJWNFg1X0ZvTzlSNGhIc0pwMlo1OWwtY1ppTHhNM3VkMUNaUFZ0MFlzcVpWck5EWUltOXpSeGxCMkpmMElHOGJR?oc=5",
+   "published": "2026-09-28T04:15+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 붐으로 S&P 500의 이익이 51% 증가했지만 가장 큰 순풍은 사라지고 있습니다",
-   "title": "The AI Boom Just Drove S&P 500 Profits 51% Higher, but Its Biggest Tailwind Is Fading",
+   "summary": "Lululemon(LULU) 주식은 사상 최고치보다 80% 낮습니다. 월스트리트가 어떻게 하락세를 보였는지 보여주는 1가지 지표입니다.",
+   "title": "Lululemon (LULU) Stock Is 80% Below Its All-Time High: 1 Metric That Shows How Bearish Wall Street Has Become.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2FrcDdYZENubHZYMk1HODVfMGNlMy1TNG9UY3hDbWw4TkkyX0VXeHdjZU8yaVg2MjM0VVgtb0RGVmZSTG1PcnRLZUxrdGV6akRsU3pnaFlIRExUUHdVTThvR2JpMUFFb2tTS2ZhNjVuU2l2Wm5xV3hqODYzRTEwSFF2VFB6SWowWXdPaXRR?oc=5",
-   "published": "2026-09-26T23:49+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVBJNXJIWUJBNTNPdWc1WHQ0cFdZZWYzX3lXWk9YUWZvZWR3akJMQkdySFRyY1hFek1jaGpwSFVjcHRJMTZHWUUtZ0JpaFNVYkFFQUtnNnJEa2pRX1hIZzNyOTV4QmhEX1dySmI4dk0tOXlJbVlwNWcxQk8xWk13UWRHejFZV3dOTkRGdko5U2lFTWtDQjJRVWNn?oc=5",
+   "published": "2026-09-28T03:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,11 +45,53 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500은 거의 아무것도 얻지 못합니다. 이 Vanguard ETF는 대략 두 배의 수익을 냅니다.",
-   "title": "The S&P 500 Barely Yields Anything. This Vanguard ETF Pays Roughly Double It",
+   "summary": "다음 주에 주식 시장에서 우리가 주목해야 할 4가지 주요 사항은 다음과 같습니다.",
+   "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5",
+   "published": "2026-09-28T01:13+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Everpure의 70억 달러 예측은 월스트리트 수치를 넘어섰습니다.",
+   "title": "Everpure’s $7 Billion Forecast Just Blew Past Wall Street’s Numbers",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRnVXdRdUQ5SVVTd2o3d1REdXQyeGdJT3NsVUZjN0pNRG84b05mR1pzTE5ZUThfNU5ZdHozck1VbG1ndUsxV2pjWEtuallHN29kVTA4SWZJRHBlVGcxa0x1NHp4QWpfcVRMRk8tMmRBUUJNdXVPWlBWLUp6WlU1Q1Z5TW9xcEVMVGtLaDNVQW5xNDl2WEZvMw?oc=5",
-   "published": "2026-09-26T22:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0Jza290MjlEdlBMbHliNUJzSDJ2MWFnaG04U1hsbm5vcXFNOURMVTR3cUVmcmJIVnEwUFg2aDdfUGhuNXVlUlQ5RlAxdWdfSkx5VmFGZ0FMdUdJRnl3bzBzaWpQenVhQVZ1N0g5UEt6Z0dTeC1XREIwNTVKUzRuSno2VGtPcUVnZmlEbjhnU19UX0RjOHFXcXdvTm5Kdw?oc=5",
+   "published": "2026-09-28T00:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.51,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Citi는 미국 중간 선거에서 S&P 500의 근본적인 영향이 제한적일 것으로 예상합니다.",
+   "title": "Citi Expects Limited S&P 500 Fundamental Impact From U.S. Midterm Election",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWdCc3JPQnVsTUc3NUpZQWxmWWs3M0xHUGx0Nkw0WFF0MFYyMVFrV1d6YXVBbTBlbnppVGNwdlY1T0NrN1VvM0JIc1RkdFFZWUZWVnIwMWNBSVMxRGpyYkNrNmdzcHVMVFl0UUhCT1lRbUlQeF81S2Z1QmFGNEE0eDJNeDVib25UblY0cEZ6el9JdU5pUXc?oc=5",
+   "published": "2026-09-27T22:25+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Technology(MU)의 1000억 달러 Syracuse 팩토리 베팅은 얼마나 됩니까?",
-   "title": "How Big Is Micron Technology (MU) $100 Billion Syracuse Factory Bet?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEd6elhmWlJMNndlTWxuU1VZUkVyMWJ0NnlrVnpJX0tvYUFBM2g4UF9rZXdkbjZ5aUpFbVVOZ09DcWE1VC11SmhOT3NwVU9JcmNxR0llM2F3LUZFdWZfbEhjRGEyc1pBcEx6NXJHUEN5cGE5VVRYdHhSelNlR1B2RjJyNmZtOFVsREpTNWFVUDN6d00?oc=5",
-   "published": "2026-09-27T03:09+09:00",
+   "summary": "마이크론 실적과 솔리드다임의 IPO로 DRAM ETF를 구제할 수 있을까?",
+   "title": "Will Micron Earnings and Solidigm's IPO Rescue DRAM ETF?",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY19aU3FTWE9RLVhDcUFvYnZ3RGc1aU1wMmxna2RnaE40SjFwcHVlMTlQUEtjM2hmeXVFM3h4ZDJxcnlXbkk2TVdHLTJZbWNhZFA1U0lET29Ka1c3QmpSXzNSeWRBdkhzaDNCdFIyZkJGM0Z4N0k3eEE4WXFNNlJBendxalNxUEZaY0cyT2pYY0lMcjVLTEVKNUpvZFNNQlRFUUM1em04ZkNmSTVqZG5PM2NfV1NlZTFpV1ZpV000WFpOUQ?oc=5",
+   "published": "2026-09-28T05:50+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -129,32 +129,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론(MU)은 단지 6.5배의 선행 수익으로 거래됩니다. RBC는 SCA가 이를 바꿀 수 있다고 말합니다.",
-   "title": "Micron (MU) Trades at Just 6.5x Forward Earnings. RBC Says SCAs Could Change That",
+   "summary": "엔비디아(NVDA) 주식은 10배 상승에도 불구하고 할인된 가격으로 거래될 수 있습니다",
+   "title": "Nvidia (NVDA) Stock Could Trade At A Discount Despite Its 10x Run",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZW4yYkswUlI0OXZGcElSOFBpbnoxX2trS1dzaEhTOElQUGktYVZDVXJqMDRVSWhGM2JDc2ViaUc5MDFrYkU5QmttMk54ZUJIdU54OU5DMzAtOUp1OFRwblVLN1FmbFdSYnhCaHVtakxWOU9jakZKOVJrR2c2TEhxYXJoMV9SejdCX1N4eTVPNXZadw?oc=5",
-   "published": "2026-09-27T01:49+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.16,
-     "asOf": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Bank of America는 Nvidia와 다른 주식이 매도 중이라고 말합니다",
-   "title": "Bank of America says Nvidia and these other stocks are on sale",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjQxOVFhR3ZKMmxDSG9CSGMtTHctdFFuTmF2Q1lST2c0dTdNNFEtcHVyX0duMTlHcnI1eG12Tk5QdVByRXF4OWR5UDA5TGFpbHo5SG1ZWk9tVHJndy1XZjcxaDhjbE5fNXJENm1xbnBsLWdrNy1KU0U0WUpwbzliSGJvUW9rZk9ERDFUX2U3YUttbkFzNjQ2OUZINXJ0WC1N?oc=5",
-   "published": "2026-09-26T22:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0E1MWFMaEhraVR0aUhMM1YzSUNyVWhUUjYtNnNOTE5aOXhNaVRmLWg4Z21nSzVZTDFPenhsM0hkVzFUZnpDQjJVb0NTMFJKV1lGVUlCQkt0X0pqbHBIeWZYS2ZXeHV2c005YVNrTmJYRk1DTkl5YVAtQkZRM25sRllEX3FsX3otRDhJM011QnJkM3BaTVNQbk5B?oc=5",
+   "published": "2026-09-28T03:07+09:00",
    "holdings": [
     "soxl"
    ],
@@ -169,11 +148,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "다음 주 최고 주식 추천을 3개의 AI 챗봇에게 물었습니다. 그들은 모두 마이크론이라고 말했습니다.",
-   "title": "We Asked 3 AI Chatbots for Next Week's Top Stock Picks. They All Said Micron.",
+   "summary": "중국, Alibaba, ByteDance의 새로운 Nvidia 칩 구매를 허용할 수도 있음 – The Information",
+   "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUkxNnFBdXZ4VkdPSkpLeEs2LWlRS0c2dlBCd0lKaHJZQjRzbkxMVTJRaEZ4TnJQd2NTaVppUU81ZmZMMFZxemt4TEhWcGpuUEw5d05RSFRXeUdCbmI4YlJZbGlBdkpxTzQzcVZjb0x1M3BINHVjRnZ3NV8xSkdfQ2xCa2ZxenBCVUdJSXpJbEZBTGM?oc=5",
-   "published": "2026-09-26T20:31+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEotSjhDc1lfdjhPa2FkLTYzMlAwU1JkampNUzc4U1h0X2NiVGhNTkFHdExIVi05MW9sWFRoUWUwWjRFQUJ5MDBqM1BLQkRuUmUtQ2ZsUnlIaFg0aDZyT2Rjcm9hcWllNE9fOFYwenpoM3phanhoXzFRTkNVUUZtQ0pGRlpzcjVCbGYxTnhnUm1TNmd6SDVkLXV3aw?oc=5",
+   "published": "2026-09-28T02:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.22,
+     "asOf": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Form 4 Micron Technology Inc For: 9월 27일 기준 Investing.com",
+   "title": "Form 4 Micron Technology Inc For: 27 September By Investing.com",
+   "source": "Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHB5WVJBUUhEWk40dmQ4cWN1YTFudk9NN0ttTmNfb0RLOGR2dzNXWVNMWXVQWFFEQXhWWldCLUtpSWxWeWdqa0RUUHlfNmJzUlF0bjJhY1BYVVAzT3c1enFrOThDZThiTktTMWlESWRVYTY5WnBQamwzUnVfQngzUWZwbmtlSzBfWnF2bkFXRkMtRUh5b0FTMVNlY1RjLV95bE0wSXZCWVhmUQ?oc=5",
+   "published": "2026-09-27T20:02+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -190,19 +188,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "당신의 인생을 준비하는 데 도움이 될 수 있는 2가지 반도체 주식",
-   "title": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+   "summary": "Nvidia가 Warren Buffett의 투자 스타일에 적합한 3가지 이유",
+   "title": "3 Reasons Why Nvidia Fits Warren Buffett's Investment Style",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTV0T0FBQnc3S1JTS3JqNGY1ajhvVFVYZW1CYkM2S3k5NndzVm1fb2pudHJaZzRSWXdXMWEzMXJmLXQyNl9MdE5PYzZFU0cwVnZVNlJPY2ZQM05JcjNuekFNbF9neVFybjNKNW9Nc3FrcWVpWVM0MUp3NEtlQVpaZE00VTZSZU92cHlhV19HcGZyeTRaWmc2YXdyZDR2Rzg?oc=5",
-   "published": "2026-09-26T19:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUxXckRMZXhpSWhHQ195N1ZscWhQUEp1Q1lXeHJNSjc2X0Zacm5KS2U2SGp3VTAwT3p5WmxEdjZidnZLcnl6RnFTanNndS10TUtlMkJRQURSaFQzT21seXVtZi1fNGM4aHlMd3ZYdGlmR05NdkxGMjY0TmZ0VGFjdzNXaUZjZjdDeHNmUHg5UG42dmU5?oc=5",
+   "published": "2026-09-27T17:15+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 1.17,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.22,
      "asOf": "2026-09-25"
     }
    ]
