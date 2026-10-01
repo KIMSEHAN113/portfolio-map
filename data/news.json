@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-09-30T09:04:26+09:00",
+ "updatedAt": "2026-10-01T09:21:54+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트 거대 기업, S&P 500 옵션 거래를 2051년까지 연장",
-   "title": "Wall Street giants extend S&P 500 options deal through 2051",
+   "summary": "월스트리트 은행은 미국의 YouTube 이동에도 불구하고 Netflix를 지원합니다.",
+   "title": "Wall Street bank backs Netflix despite U.S. drift to YouTube",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnBqZDRrazh2TVBKREY5TE5uSUFZUDhOUGNJcllwREVQWUNXV0JvXzBRQ2dBNlVxSmVueFhLRndVdDRIRzBEYWd2cEYtREN2VlFXTmNrWTV4OVNoaUwxdjFkNDhkdkNkS1d1OE9MMzF0ZGpDTE8wcU0yMzF4N1E2eG5wb0Q0bWRXNFdERFNMaUo3bXZ6ZXNjTA?oc=5",
-   "published": "2026-09-30T08:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXZseFFrZU5iUGcxOVF6QUJkWmx4dW1mZ0hwUjJPeTdkNFRUdEJmalpoTVNTN0dMQmpCbFkzT1JXVF81dEhTeWYteFhwYWl6a0twS0J5RDdJdjlpWWduaUFSWTlUcUVvblo5RVJsVFRaQjR0MG44MDJkTVNHQVAwWlBHdHdnVHlfams0RVF6VnYzTVFtUEQ0Wnd2SQ?oc=5",
+   "published": "2026-10-01T08:04+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,18 +17,39 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.17,
-     "asOf": "2026-09-29"
+     "chgPct": -0.25,
+     "asOf": "2026-09-30"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Dow는 높은 수익률 압력으로 인한 손실 확대 — SPCX, TGT, AAPL, MU, NTAP 집중",
-   "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure — SPCX, TGT, AAPL, MU, NTAP In Focus",
+   "summary": "Adial Pharmaceuticals, 나스닥 상장 규정 5635(c)(4)에 따른 유도 보조금 발표",
+   "title": "Adial Pharmaceuticals Announces Inducement Grant under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0xBYjMxUlpJNHN5aGhadXdqdXFFMVA4SERDMnBLdVVpMW5mV2pJbXNNd2R5RjR6Z2hqVWlKaC1ja1ZGWWVSeS03czRZTnc1R0RoT2NVcVJmQ3NOSTFsay1hNk02c2RFTDBCbU5vMDBmS1p0bmpBNVNDS1RTNzA2RG1vRjV0ME5QdmRCRU5DczFtSnVLU04zYi1RQTFjZw?oc=5",
+   "published": "2026-10-01T06:46+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.24,
+     "asOf": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Scott Bessent는 수익률이 상승하는 가운데 재무부에 조언하기 위해 '월스트리트 괴짜' David Zervos를 고용했습니다. '무역이든 전쟁이든 그는 한 발 더 나아갔습니다.'",
+   "title": "Scott Bessent Hires 'Wall Street Geek' David Zervos to Advise Treasury Amid Rising Yields: 'Whether It’s Trade, Whether It’s War, He’s Stepped Up'",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQW1xUE9XNXcyT2RuMDZ4Rk1teF96N1VTSldaeHRaOHdsZFk0eVBYY3BuWTFKZHVPaWZqRzNQQWpBdEVnWDRzLWhHdjVuYm1GQjY0eXZxc2FJa21PeER0T0MxOV9XVmRZRTZaN213U3I2RW1rUDJkNlVBVF9sVE9rZlAydDlrR0liUkZRZG5EbmdoUQ?oc=5",
-   "published": "2026-09-30T07:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjlEUm0zLVZUMnFLQ3U2anhHYlhOZUN2Z0RBNzVya29NTVRLbnRiZmpRZ2xwTmdPbTVIQ2xFa2NDMGo2M29VVDVXU0RQbV96ZmtWQ2JNNGs1OTNxZVpQQVJlSVdvcC1DTDlyT1dfNFkySTc4WmlUWkZUWUdtcG1OZm5xY3dSUC1hNUFRNmVzaWxyMURiRzQwaGJQam8?oc=5",
+   "published": "2026-10-01T06:31+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,87 +59,72 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.17,
-     "asOf": "2026-09-29"
+     "chgPct": -0.25,
+     "asOf": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "투자자들이 예상보다 낮은 인플레이션 데이터를 무시함에 따라 S&P 500, Dow는 하락 마감 - MGM, SPCX, AAPL, TSM In Focus",
+   "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnlxWkw0VGNQUjB0b0UxaVdZempLUWQtN19TQnQ2N0FLUm1kbFBpdkg1NVQ0QmZTdlpSNkM3c2R1bVZnVWRwWU1XNkhqdkJzR1RvUzJOcWRfZVEybldHM2g3bUNEZUN6NWcxWlZaUVRiNmFQMlpOcldxalJIangxaUllQXIzT1lpLW1QUw?oc=5",
+   "published": "2026-10-01T06:23+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-09-30"
     },
     {
      "symbol": "^DJI",
      "name": "다우",
-     "chgPct": -0.26,
-     "asOf": "2026-09-29"
+     "chgPct": -0.86,
+     "asOf": "2026-09-30"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 9월 29일 주식 시장: Oracle의 Fusion Claw가 손실을 만회하는 데 도움이 됩니다",
-   "title": "Stock Market Today, Sept. 29: Oracle's Fusion Claw Helps it Claw Back Losses",
+   "summary": "업데이트: 나스닥, 혼합 세션에서 발전; 다우, 5개월 연속 상승세 기록",
+   "title": "Update: Nasdaq Advances in Mixed Session; Dow Snaps Five-Month Winning Streak",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0NyOVhxeHBQaElLVmR5Q25IUlktOF9UcVNjRjF2Y3JMM0pBaFk4VnZiMVZ2dkhGVEwwOGY4YW1OWm9KeTE0UWdoUGxtdFZxNHRSMkh0SENNNE9CQjhlMUVoeUItN2pLbGUtSzcwY19rX0dnWDYyVG1PS0RMMnExNTdrTUUzRGFDeFU3aVVoMEotR3owTEE?oc=5",
-   "published": "2026-09-30T06:38+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlJnSjlFWVEyVXdZN3l4Wkl6b0tNZzdFYUFsTDFvZGEycC0zSF9pd0ctYjhNZl83SkxmQXBVOWltbzQzaEFzTzZMNk1nVmEtWC02MlRvRmY5ZVg0ZmJPQ1lYU1RLLVhFVXpGM2lpbzBnUGtZamgxV0NzWWFPRnFEdzlvOVJHcklOODd6UDd0ZzhIWGFpaEoxRGJMV2xZRnM?oc=5",
+   "published": "2026-10-01T05:52+09:00",
    "holdings": [
-    "orcl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "ORCL",
-     "name": "오라클",
-     "chgPct": -3.28,
-     "asOf": "2026-09-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘, 9월 29일 주식 시장: Nio, Geely의 배터리 스왑 사업 지분 30% 매입에 대해 발표",
-   "title": "Stock Market Today, Sept. 29: Nio Slides on Geely's 30% Stake Purchase in Battery Swap Business",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWRyRHM4SWtDdGZnRUtMOHU4NVNLcVhTM2FaZ1NFNl9QMVFzeGdDR2pnV29wT0FLenRUX3A5dXlxM3VJcnNQMGJ0d1lDYnlPQlJYX2g2Zk5PTmQ4X2toaGNPUVJJWHhSbjl1aG92c2RSc0oza015Z2M3bjJhSUJWc1cwVGpJb2lCWFhZQUhSZVZJWXQ0T3c?oc=5",
-   "published": "2026-09-30T06:23+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.24,
+     "asOf": "2026-09-30"
+    },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.17,
-     "asOf": "2026-09-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트의 미래를 시험할 모건스탠리의 새로운 연구소",
-   "title": "Morgan Stanley's new lab to test Wall Street's future",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmJuLXFQNGZJbVU1NWliZThIbFRaOU9aRS1aNmFMRkJFcC1ULTNWTWwxMDRweFVkWW8tS2tiVjZUMFBYWVhxSDRyVE8xRWN3cmpvQ0lOQVZMZXVXeHdfNnBsNXBfZmMzMzRYYk8yZzNpa3JzZWNHY3BsRzRhUzJjZ0huWTQ?oc=5",
-   "published": "2026-09-30T06:10+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.17,
-     "asOf": "2026-09-29"
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": -0.86,
+     "asOf": "2026-09-30"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "JPMorgan은 마이크론의 반등이 끝나지 않을 수도 있다고 말했습니다",
-   "title": "JPMorgan Says Micron's Rally May Not Be Over",
+   "summary": "Micron Technology Q4 실적 회의 하이라이트",
+   "title": "Micron Technology Q4 Earnings Call Highlights",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2VMRjRfSHpmTTV4b0trZmR0WWVVMHhITjZ6TXRfUXBSSHp3UVhpWXBiTE4xT2hUWU5pbXhtMXJaNDA4TEJaa1c5ZkdobHducFQ2aG1ncnJmc2MwOF9WcnFjQVRTWWs1blhUXzVEMl9RVklTYnlSVURqdkJpTDNDcFBUTHV6REhsTVFVclRwblFRck5CNEhiT2h6b1I?oc=5",
-   "published": "2026-09-30T04:21+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUp0cVU2YTBHUWxOQUwzY3FjOXhpVFdHeFFfUFJhM3BmckEzYUNiZjFVNVVvMUZSZUpRelBsRUlpcVJheC1wSmR4R1VoYlFvVTQwZzVheUlGTkUxbkpKQjhPcE9ZYjdjbWw0ZGhxMXFBcmFSNEt4UHdhcmFyRkM2U04ybzdBcUF1UUxoNVBHeVVSeUFuSU5ha1V6T1I3SFF2?oc=5",
+   "published": "2026-10-01T08:02+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -128,18 +134,58 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -2.61,
-     "asOf": "2026-09-28"
+     "chgPct": 1.05,
+     "asOf": "2026-09-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "번스타인이 목표를 줄이는 동안 SK 하이닉스 주가는 상승",
-   "title": "SK Hynix Stock Rises While Bernstein Cuts Target",
+   "summary": "한 가지 가정이 유지된다면 Nvidia 주식은 5년 안에 $400를 넘을 수 있습니다",
+   "title": "Nvidia Stock Can Top $400 in 5 Years If One Assumption Holds Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDc0eEJJaTBPbzBQWHF2N1loVjBvSXNKcnViM3F3d2pxRnpVbHdNc2RHTzFWOXlweWVmN1hEb0Fzd2N4bjJvUUxRb1pONTNQc3FYMUlVcTNMOUNLT0tOU19jdlhjWmpldzd0QzBQakdYdjZlc2g3SWZwc21pNXlrdk1pdGhTSmI5QkRmcmVnWjhFMUNPOEE?oc=5",
-   "published": "2026-09-30T04:16+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW90dzdFME5nR0MyV01XWHNkaFVIekpST1R0TE15aE5ETV9vNE5LdTEtOHg5WXVBakg2elZZUVFYcXBieXJ6RHVOMmR3dkthNzdmcG1XR0k4aEVyN2EwVHhLZE1LekE2UUYzWWhkaE9VNnhoUi1LQ0FLdzdSYkxubU5TcGRQLVhUM3dTS2xSTG0?oc=5",
+   "published": "2026-10-01T07:37+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.72,
+     "asOf": "2026-09-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "오늘 9월 30일 주식 시장: Nvidia는 1,500억 달러 규모의 자사주 매입을 승인하여 총 총액을 2,350억 달러로 늘렸습니다.",
+   "title": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUlUzUXJNRTI3elQwZjlxVFpTa2IwTWtfeFpUQjdlV0gzb1ZndkFkNXhQODVHd2FVM3FwMWJ0VG1nY0UyWmZNNjYtRHNqeXBkTkhGelB5cE13Y1p6T3VtN1lEekdOSm5vVHM2TXByLVYxcVY3T0J4NllCQmJZeVhSNG9YcmwzRlpoMXFnR1MweEMzckNzeWc?oc=5",
+   "published": "2026-10-01T06:40+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.72,
+     "asOf": "2026-09-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron(MU)의 4분기 실적 보고: 주요 지표가 말해 주는 것",
+   "title": "Micron (MU) Reports Q4 Earnings: What Key Metrics Have to Say",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmZrSkFqQjVhaGh4VmFmNFc3NkZOeG5qWnZwbjFDVmxTVWhKdElFVEVBR1duOS1CS0FKbGR2Ny04LW50WDd1ZzRUWEpIRWczSE11Rm40dUYtcUl5UVpieklxZUFwVFR5X0lzQ1V5VWpiNmRIbk9RTHRRSTBwdUZzNUVfMDU?oc=5",
+   "published": "2026-10-01T06:00+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -147,73 +193,31 @@
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -0.17,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.05,
      "asOf": "2026-09-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Cramer는 Nvidia의 1,500억 달러 규모의 자사주 매입이 Apple 임원 한 명을 따라하는 경우에만 중요하다고 말합니다.",
-   "title": "Cramer Says Nvidia’s $150 Billion Buyback Only Matters If It Copies One Apple Executive",
+   "summary": "Micron의 AI 붐은 수익이 379% 급증하면서 더욱 커졌습니다.",
+   "title": "Micron’s AI Boom Just Got Bigger As Revenue Soars 379%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzdvM0w3eHpVenFNaTZXQnRFd3o1ZWNuNTNXQmdEd0V5YVhtNVM4cjJvYUZnejA0RzFzdkhyZUxNM2FkT0ExZDdDQlpXa1ZqTXNRLVlqNUY2VFlqNmFsVEkzbVFjNVkyWV9kUUdKamVJUTdFR000Y1A2ZVFOLXo3emwyNHRGVzNQT1ZJcnduMGNZZXlhQU9HYUcwNA?oc=5",
-   "published": "2026-09-30T03:25+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0xpbnpFU2V1VjdjWnBobWdwSF9yc2E3bFVjaWNZM3J6aEFXdTNpLTkwZ0trX2tjSGt2Q2VTdWdmdy1TTE93OHdpNmVPUkZnSzV0OXdpNXRJOHJ4d1JJeXZEamRpc2hwUTduS1RRY3h5Uml2am9YOGpnc05hQzNwc0hnd1lYN1EtajBDOQ?oc=5",
+   "published": "2026-10-01T05:38+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.68,
-     "asOf": "2026-09-28"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -0.78,
-     "asOf": "2026-09-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "2,350억 달러 규모의 자사주 매입으로 자본 규율을 테스트하는 Nvidia 주가 상승",
-   "title": "Nvidia Stock Gains as $235 Billion Buyback Tests Capital Discipline",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWJLQ0RpRnRubnVKZFJKRXhNSDBZZG04aDVzQi1tb29jZlYyQml5UmZWb0hEb3dLeUgxbGJjTWZwYjRoN25Dcjd4ZEdvQk5wN3RHelQyZWlvelRKYWZ6bDlCdDhrTS1lLVljUHo3MmU3Q05EQmhEbFR4Y2xCbFlma190NXRpN3JaV005N0VEZ25HVGthRHZYeTI3dw?oc=5",
-   "published": "2026-09-30T03:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.68,
-     "asOf": "2026-09-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 파트너십으로 에이전트에 신원을 부여함에 따라 IBM 주가 상승",
-   "title": "IBM Stock Moves Higher as Nvidia Partnership Puts Identity Around Agents",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVVHME4yRXIzR3A3ZURqTDJyanVVNHU2cENDcVRRZXg1bUxrX0NrTk5UaWdyNUdPckVsYk84V0pPYjdBRjROekQyZnNYQm5fQ0xNWExJRlY1Rk8yM2c0aHN4SVhNVEcxZ2dheGJtZ0h6U0dWbkpoNUR3aVQ0bVA4QlpVang5Nl8wLWluTU5YU01ZTDNNT3RyQmtn?oc=5",
-   "published": "2026-09-30T02:16+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.68,
-     "asOf": "2026-09-28"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.05,
+     "asOf": "2026-09-29"
     }
    ]
   }
