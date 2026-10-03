@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-02T09:31:23+09:00",
+ "updatedAt": "2026-10-03T09:09:46+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "AI 낙관론이 월스트리트를 뒷받침함에 따라 채권 시장의 변동으로 전 세계 주식 시장이 흔들립니다.",
-   "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
-   "published": "2026-10-02T06:36+09:00",
+   "summary": "투자자들에게 Cramer의 경고: 이 주식 시장에서 돈을 버는 것은 이전보다 훨씬 어렵습니다.",
+   "title": "Cramer's warning to investors: Making money in this stock market is a lot harder than before",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUJNcl8wQnR1SFREYWMyQ24zQ2RFeGp2WHVJQmE4WGpYQXJjaWZhQU95Yk5zNkVpWFRZWFM0WHpDWjJwLU1ScjNQTzh1dzA4N1d4T0NiNzlib3NXX0pCektxdzZvc0hheHJ3MU83c294SWRSRXk0d2dHMkR2dUs1S09xYmhpaE1rWXNrWG5IQVk4MkNkc0xCSXR5ZEtIeF9lSEdfWW12MmVxeHR2RW1RT245ZmJGbGJmSkZGY1B1Nm5yUDR3a1HSAcsBQVVfeXFMTU5jNlliT09MYml4ZktwdW5Zb1NzMVFycVZDbmpZMkpSYlhFQWQ5UWY5SU9nQlVabU1BSl9BdkNaSjYzczZMck9kbVV6TEktR3ozVjJDcU1FS3JvWDJJZEtuaTljYi1QMUxaZmdLZ3lWZndCU3dkOE1VcDhZYmtpNjBDeVVTa2dvZ0E1SjNpQmNwdnk1SHVua0txMjhxZnNydHloaG0tRzFpeFVycmZfeUFia0hwREZ0R2hNRy1HNnoyWU0xZ3ZtSThvWDQ?oc=5",
+   "published": "2026-10-03T07:12+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,18 +17,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.19,
-     "asOf": "2026-10-01"
+     "chgPct": 0.73,
+     "asOf": "2026-10-02"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Dynatrace(DT)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
-   "title": "Dynatrace (DT) Beats Stock Market Upswing: What Investors Need to Know",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZG45QmFLQ1E0UkFESmNMbUtXYXRoU3EwNmZiZ3B5T2otaXV3S3JXRGQ1dDc1eUN2MHdJSTZXeWwtaDVKemFRTkYwMXdRVEdLM3pSekVYUzRtYlFHek5jQjNBWWpJRmN3SDFsWjFjbkdIWC1aNm5fODBZRU1lLUtFd3VkbFU2b2s?oc=5",
-   "published": "2026-10-02T06:15+09:00",
+   "summary": "Equinix(EQIX)가 오늘 주식 시장을 능가한 이유",
+   "title": "Why Equinix (EQIX) Outpaced the Stock Market Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE51TVFJNkxQNGVOcUROaWJGd19DQy1KT2xOb0xLaWlzWXI2VW1CdzFBQzc2c0kyWVlFb2F3aFNxYnRTN3EwSXp0RjNzVWQ0REdMMXpudkR5WFZpUmpZMjVKR294NUUyNjlTWTdjdHU0d2Itc19tSEFNRkplZUlCN3ZjSHJRMV9tUDlZei1YZ3RiTlZWVnhpaDN0YVU?oc=5",
+   "published": "2026-10-03T06:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,18 +38,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.19,
-     "asOf": "2026-10-01"
+     "chgPct": 0.73,
+     "asOf": "2026-10-02"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "해밀턴 보험(HG)이 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "Hamilton Insurance (HG) Outpaces Stock Market Gains: What You Should Know",
+   "summary": "Tyson Foods(TSN)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "Tyson Foods (TSN) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDNmWFRfWmpmU01iQjQ4TWFNbVN2aEhrWEVLRURBNjN4SHBsZGg3NEl6cWJ2UUZHdDJNMjdVNHFKTE1MdHFnM2tTdnF3UjVIWGo4cHhCUk5qNGtBWHZWZnZ0OTJ5Mi1jcG0xTWhhUEgtMXU1WHNNQWp2ZUlqTFdNZWVvR2Fkanc3WXg0eXdn?oc=5",
-   "published": "2026-10-02T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUE1zN1pFTHF6Q0FqUHhLaDltQXpRblE1UHBSSXkxNGZndm5UREMyN3N0SE9QY1VhcWdRV3dja0pzaEdoa1haYU5MTERYMDd0XzVmakM1WVI3R1hWeXF4dkhwMnBPRXIta2tvVmIxY3dTcm8yS1NmWEV0WUEybXVYRUJn?oc=5",
+   "published": "2026-10-03T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +59,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.19,
-     "asOf": "2026-10-01"
+     "chgPct": 0.73,
+     "asOf": "2026-10-02"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "HP(HPQ)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "HP (HPQ) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlhncGswaVZDMDJkOWVQcE9mN1V4a1FTT25VOFp2SVhTUktnUHdZYzA3OHZqWld2cWtOeWpGMU1tVF9EdjhYN19yUXhEcld6cmhxN0gtcjBnYy1oTVAwUzBoSzNOc1RqdlZ4SzEtbXlfTFBkMU8tcy1MQ1A3ZFd1NzRvRQ?oc=5",
-   "published": "2026-10-02T06:00+09:00",
+   "summary": "Tenet Healthcare(THC)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
+   "title": "Tenet Healthcare (THC) Outpaces Stock Market Gains: What You Should Know",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlpBaUI5cms5N2NZejhBZ0UxOTIxWU9TdG9vdE53QjZrY2J1NkZKR0lTTloyRHBzM2ZGbExZV2Y4b21pQkhTTmRJd2JNc241aFItS21yNDE2UE9SWXNjd2ktNHhFUm9kNjdNQXF6OE9mQ3lwYU9aWHNORVdsVkowZEhrd1Y4S0MyMzZuMg?oc=5",
+   "published": "2026-10-03T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,135 +80,123 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.19,
-     "asOf": "2026-10-01"
+     "chgPct": 0.73,
+     "asOf": "2026-10-02"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Google은 최신 AI 모델을 공개했지만 월스트리트는 획기적인 개인 에이전트를 원합니다.",
-   "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj0gGoAUFVX3lxTE9jVzM5SC1xaEVWcnkwWGpGMHFWWU9NRkR1b3c2ZFpGQlBJSGZoOEFfOGt5YzZBUXNjdmhteWgya0QxYTIwdEZTV2NrR1ZGMUhZNjRaOUlCSGJHdHNmRFQ0ZmpXRU9xNHBqVThTQlN4R3FuX3g4OVp0YmpLLVBrc0FzYU5EWXZPMHd3THRGdnF2Xy10YzFlU3hYbDRUSERfYXRfVWMxTTVlVQ?oc=5",
-   "published": "2026-10-02T03:29+09:00",
+   "summary": "업데이트: Nasdaq은 Fed 일시 중지 베팅 속에서 주간 연속 우승을 연장합니다.",
+   "title": "Update: Nasdaq Extends Weekly Winning Streak Amid Fed Pause Bets",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmVBTzczcndTaUFhQ0NDMGNmOVhyVUNqWURwaWdmSXMxaXRmd3U5N0dzT3FOUkhQUWJ3Q0djdnl4OVdlRjdQaUdFQUFDNktjcnFSblJmQlNIZExBZnUxQ2JuLVliMld3TE8tcG1mbG9MNUNSMkg3dzR4SmJsMHZwaUJlZGw3dDdPWEcybm52QkJLLXNDRUQ2WGttMmFaX2xjWmE4?oc=5",
+   "published": "2026-10-03T05:52+09:00",
    "holdings": [
-    "googl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 0.93,
-     "asOf": "2026-09-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "반도체 ETF의 2026년 수익률은 Nvidia의 약 3배입니다.",
-   "title": "The Semiconductor ETF's 2026 Return Is About 3 Times Nvidia's",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVdpcjdVNEhxWW95VGpoVklRM25NT2VzbXNpaEpVbGFGVDZXYXRzZ21XOXN3ZGdKQ2dCUHBCcXhMN281bmRLc1QtUzJTMGVRWmhCbHhmU21jV3pBZndkSEI5c2JKNGJScHBYNDN5OXlOMWVtUkttRDg3cEw0cjkwUnMyM3NmU1JpbGJBR21MVzA4NGhhN2ZwTXJvczlVSUxVWHJwVlRyQQ?oc=5",
-   "published": "2026-10-02T09:29+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.51,
-     "asOf": "2026-09-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "5성급 분석가, 377억 달러의 횡재 후 마이크론 주식 목표 재설정",
-   "title": "5-star analyst resets Micron stock target after $37.7 billion windfall",
-   "source": "thestreet.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVpfTk9ob21EaDNHOVViWkNWYTd2dE5iVVBpekQtMUhnclN0ZW0xRHhBdHMtajJ3ZVRsTzd2bWs2RTNxV2x2RGo1WUJUOUJBRWI4VWg3dkFJZEtnUzc2d29DTjZINTV2TjJ3a3NhSlhnVVJXeG1FSjdTaWNwSnA0QThrQzdnUQ?oc=5",
-   "published": "2026-10-02T06:07+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.0,
-     "asOf": "2026-09-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia는 기록적인 1,500억 달러 규모의 주식 환매를 승인했습니다. 실제 상금은 나머지 현금이 사용되는 곳입니다.",
-   "title": "Nvidia Authorizes a Record $150 Billion in Stock Buybacks. The Real Prize Is Where the Rest of Its Cash Is Going.",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjEwdHcwUG9EUk9VZ0lSM3NRQzNkWnV6UWZlXzBDaXhJU1pnNFBvOFhsQnBVbFZVX2ZPQzlmTEkwenJYakEzVDJpSm5kbEJUSVFmMURseWFWc2RONVE0Ny1TY0RqWXBmLTNTd2VRLVpzZm9JRzVwandXVnBBelFWek1ZV2hBMmtmTFNWd1U3aWJlU0ZuY2hLUw?oc=5",
-   "published": "2026-10-02T05:15+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.51,
-     "asOf": "2026-09-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Melius Research의 Ben Reitzes: 우리는 Micron의 주가가 두 배로 오른다고 생각합니다.",
-   "title": "Melius Research's Ben Reitzes: We do think Micron's stock doubles",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHJKaU9JT29sd0ROT0J1dzVmVDZuWjBwckpSVlRhcTF0VFNMY2RZcHZZWkdmVFM2UkFwc0l2UXprU0VwbnBjV3pLaWhQQUFtOGN3Q1pGTC1Qa2NPM3M1SEQyTmRXdW56ekVhRjJKWmVyNVF3MVlFVzRCS1FfaDdRU1pSX3FpYUh1ZlExMGd1cHJxUzJUUFpFbmVQdy1lSHFac2ZsRWtBZnI?oc=5",
-   "published": "2026-10-01T23:58+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.0,
-     "asOf": "2026-09-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "시장이 미크론 결과와 낮은 국채 수익률을 평가함에 따라 미국 주식 선물은 상승합니다: Dow Jones, S&P, Nasdaq, Wall Street",
-   "title": "US Stock Futures Advance as Markets Weigh Micron Results and Lower Treasury Yields: Dow Jones, S&P, Nasdaq, Wall Street",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWIyUjlzMFZnSWpmMzFMSWlLZVJ0alNYcUNsbjN5dFVtd2lfQ1hqbFk0N3g4Z1BTcWJGMW1manJsZGdIZEFQT3dBTnNiUmdnZGZfN3V6WHZaMTdOZTB5SzdETWRZY2huSDNkbm1fZXpVa2NkeE9hRVV1Y2ZEdEJYdW9vTkNuWlNx?oc=5",
-   "published": "2026-10-01T22:18+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 0.0,
-     "asOf": "2026-09-30"
-    },
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": 0.04,
+     "chgPct": 1.19,
+     "asOf": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Cerebras 주가는 Nvidia 압력 및 잠금 만료로 인해 일주일 동안 20% 하락하며 IPO 이후 최저치를 기록했습니다.",
+   "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGpZNU9hQWZGQVJxWVFoOFRqcDZ1eVh6RkNvUUlGUnMxYjBSY3lPOS1HOHU2cTlRMmQ1RVBieS1FekpCNkdtRkpQbkJOX1MxZnhlUWc3UWh5a0E5UG81LUJsOV9FQld6eDBHYU5HcUVJZ1AxbERSb3EtRGRHREVZZUdUbHl0ZXNscUJKWEJQeXJMLU5Rd3hQbjNOWWRMZWtiN2NUREplNENaZ9IBrwFBVV95cUxQRFFDMzBLbWk0ZjB0SzVPS3VNU3FqTGFMbXB3cU1BRlBnd0lZdnFYNXRBZlZtOF9kSnEzVUFRS2ROZTFmTURVaXZRVWtmUXlUeG0tRTVLdkxISDIyUkZsdXh1VjJYdkRyazI5dzREZFRTSEFJcDZ6RkR6cHdJS2lJLUVJRVJya1F4dGRWT0pYYTZHbkRzTWF2RzRuNkZHVTdicFY0aWl5aG1DajN6c08w?oc=5",
+   "published": "2026-10-03T06:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.09,
+     "asOf": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jim Cramer는 NVIDIA(NVDA) 아키텍처 프레임워크와 역사적인 자사주 매입을 강조합니다.",
+   "title": "Jim Cramer Highlights NVIDIA (NVDA) Architecture Framework And Historic Share Buyback",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlNJak8zNFBfZF94eC1UVFpoWnJ0b2FWc3JERmxGaE1MLU1oRE5oRGlfWXg4SnFNaTI0RzM3ZWN5d3VDUDZOVEZJSTVMVjZyT1F4NnlMV3g0d2hEX0pBU3BWSzdndVcxSDhSTlNMbmFnUi1pT2VpdlVIQmoyZ2t5Vzd6UlcwUWMweE9zazN3bnBKLVBjY3lLb0VuQ1pUVmc?oc=5",
+   "published": "2026-10-03T06:33+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.09,
+     "asOf": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Morgan Stanley는 Nvidia 주식 투자자들에게 강력한 메시지를 전합니다",
+   "title": "Morgan Stanley Has Strong Message For Nvidia Stock Investors",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWtzaVF3ekx5Y0V2Nk9rUGlRaEVBSURTSmx0LXdnNnU1SmViN0JydXBJNTliSng5X0hLR2pxLUg4NVpUYVRxUHBoSEU3MUxBNzRMTEh1OEVOZmlEdEFKSnZEdjdGZHNKdVVqSVAyZ1VNb1ZVOEIyc2JLUFh4VGFCTjlZUzVMT0NILUl5a3o4V3BBSzFNeG5lWjl6dU1DQlVUWWdV?oc=5",
+   "published": "2026-10-03T04:58+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.09,
+     "asOf": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "투자자는 과감한 예측을 내놨습니다: NVIDIA는 내년에 \"3,600억 달러의 여유 현금 흐름\"을 제공할 수 있습니다",
+   "title": "Investor Makes Bold Prediction: NVIDIA Could Deliver “$360 Billion in Free Cash Flow” Next Year",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzhueUxsZnhIMWhoZG10dm9FSzh5UFNDVmIzWnVEUFlFajBOZmhyNzZTNXBNVXVLMy1LdFA4bDRSUEtyVFJiQVZaeVZReVkxSHoxVUVzM0ktOXFWQ1hWNXVBVU9vVzRyVnRsc0h0Z3VieUNycnB5REprXzh3eUpWYVJUcE81dkFIeTFXUUVQcnZnQVZ1dngwWTZmZ1VwN1ItQXByUg?oc=5",
+   "published": "2026-10-03T03:52+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.09,
+     "asOf": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 시장 가치가 5조 7천억 달러에 도달하면서 사상 최고치를 기록했습니다.",
+   "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDdnREhrV2V2ZW5WLXAwT2ktamNaaUdGTmJjUUdkOVdMQnpuLUpRMzdRdTQxd1NCdlhXV3REQ1htLWttSDJLRjhZLVRuRVBqVFd1TTZmMXgxenlkSmxuMHRIbnBZcHc0Vm9xLVZwNzJ6SkdYY3NOQTdIM2g3R3VReGFzM2pyeHBmMGlfM2d4aUFpX0VRdXlQY1NiOA?oc=5",
+   "published": "2026-10-03T02:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.09,
      "asOf": "2026-10-01"
     }
    ]
