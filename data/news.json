@@ -1,55 +1,51 @@
 {
- "updatedAt": "2026-10-05T08:49:53+09:00",
+ "updatedAt": "2026-10-06T10:40:12+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500은 잊어버리세요: SCHD가 2026년에 SCHD를 거의 10포인트 앞섰고 배당금도 늘어났습니다.",
-   "title": "Forget the S&P 500: SCHD Is Beating It by Nearly 10 Points in 2026 and Its Dividend Just Grew",
-   "source": "24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVhtSDdHcm9kWDRoVTFCZVV5dG1FTGgwa1dFSV9jRnhsMzM1Zk1XLUdBS1VtWHZSc1ZKMU9mUmJhWkhYdXd6Y3hWZEhYR1IzTlc3Q0FHdHA5YmFTV1R4VjhxNzJsaWEzU3ZRNEJwNHJURnlNTjZFbnpIY3NtQ1hxT2F3MmYxdVFrVkFwY2dVcVJrdG5KMlZ1NzhUOWRITkY4dnpDRXZBZGwwWXZQUGJXNmpXS2FEdWdKRDNRcFpObGVkY3FqeVpaUXpxb2RIT014N3R0eTVR?oc=5",
-   "published": "2026-10-05T06:03+09:00",
+   "summary": "JEPQ는 잊어라: Goldman의 Nasdaq Income Fund는 10월 지급액을 늘렸고 JPMorgan은 자체 지급액을 삭감했습니다.",
+   "title": "Forget JEPQ: Goldman’s Nasdaq Income Fund Raised Its October Payout While JPMorgan Cut Its Own",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2NUME9hRnN1cWNoVVlCWUgtTlg1TlROQllLVGtHMlpNNnA0M1pVSUM0bXhOOXZyY0JyMi1vQnlmZ055VlZnR1UyeFhPbUgwSDNfSktJYXJQcjRxeTV2U3BkT0hkTTZjM2U2bE5LeGtxenRJTUJQM09jcDJETEZLYVBVeEVVRzJ1SzZvODQ0LW8wR1FEcDVWamRCRWZiN3M?oc=5",
+   "published": "2026-10-06T08:03+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.73,
-     "asOf": "2026-10-02"
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
+     "asOf": "2026-10-05"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500 지수 전망: 이번 주 미국 주식의 주요 촉매제",
-   "title": "S&P 500 Index Outlook: Top Catalysts for US Stocks This Week",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFiekx1Wk5XcndoSTUyN1BEWDZCLUo3RDFFb3hxcjRQcnhyS3U5M3YwekhNbDRkWllkMjNVRURtZFdTeUc1SjJHMk9PN25ZcDRYNjN2ZGNlYVJXZjlqRnBxZElSa2dBcGpBQ0lveVl1cEdDanhMOVVCVXlaczJneVdMOGJyZHVjc2o1RzZNOXE2WVMwbU0yeUktQ0IwV09jQzUwOUNHNVpJRURUWjJqRHJqcU0ydw?oc=5",
-   "published": "2026-10-05T04:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.73,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "다음 주 주식 시장에서 우리가 주목해야 할 3가지 사항은 다음과 같습니다.",
-   "title": "Here are 3 things we're watching in the stock market in the week ahead",
+   "summary": "수익률 급증에도 불구하고 주식은 기록을 경신하고 있습니다. 크레이머가 그 이유를 설명하다",
+   "title": "Stocks are hitting records despite surging yields. Cramer explains why",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkowcDZqQy1qWXhLWUp4LXptYXpSLTJTc2VQWXhwdDVOSkhyTDNZRTFFRFRITlp4cU5FUzRLUzRBUFo4cWxRRVZ6SWwyV19PM1pObXJHRkdGYll3azF6eTlWN3JIQmxfTWIydGFKZW43SXFpdTF6Zk0xdXJETHRuQnJQLTBSMzBVTGhfZGtnSGFPenJtVFJ6TGFiLUU0ejQ1RmtBZFo5VVFqdVMzazdjOE54V2JtY1dKcHBnUQ?oc=5",
-   "published": "2026-10-05T00:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybERrUC1CbG9kYXM2bzdJRElHVFZsQUJWcDIzNUdkQ25PTzh2YVd2anI1YUNSY1FIWXVlUDB0MHRickpIZ2UycXNWZGJ6cnJMRjZLYzA1eWxvLXJGV3ZLNl80UGZMNU52OTBFeHlrdFRiejNmTUhrMtIBfkFVX3lxTFBKaHdzZEprV0s2LTloMDlXbHNqZ3otUkN3MmpTOF9hSG1RY2Nsc1dWMEQwZmVHajdTbUVtRk1HcFl4a21HTGFtTWxQNkNPQk9aZ3ltdUx2OXpHUlpPcUpjbGJKUGZtNy1JLVJqazlIR1NJZk45NEk3dGxla3pzUQ?oc=5",
+   "published": "2026-10-06T07:18+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.66,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "10년 전에 비트코인, S&P 500, 금에 1,000달러를 투자했다면 가장 많은 돈을 벌었던 기업은 다음과 같습니다.",
+   "title": "If you invested $1,000 in Bitcoin, the S&P 500 or gold 10 years ago, here's which one made the most money",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGx4SmJOYVh0d3EtTXNPRGJ3NUtyYXVYR1RXSUY4QUZkd2NnWmFyZFl2d19URzUyUGNxLWtlbHBjU184LU1oeVhrMVdZa1NNQkJNZzVqYjZWVHhSVXFWN2tLNElrOFJteUFnLWduUEdleExJR2x3YThoNFQ4VDREUzRueWVfMF9jNVZuODF6ckZEaHM?oc=5",
+   "published": "2026-10-06T07:17+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,60 +55,117 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.73,
-     "asOf": "2026-10-02"
+     "chgPct": 0.66,
+     "asOf": "2026-10-05"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트의 최고 분석가들은 이 3개 주식의 전망에 대해 낙관적입니다.",
-   "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+   "summary": "Nasdaq 100은 투자자들이 치솟는 수익률에 대한 압박을 이겨내면서 사상 최고치를 경신했습니다 — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+   "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXlOY285Y21fQnlxcDA4aFNuZWFHeG96blpDbTdDNHNRY1BIaVhZREpaQm9rYUQyeWZoSlEzNWJ4WVpKTWdhYWZTOE84ak85djhlbGZyaDlDdWFPcjJDV1N6SDJONVdDWklad0Mtc3hMOE9vMHFpVmg0Rm9KcVNaS1NaNXdPblN3ekJ6TGxuT1VtOGZDc2FOdw?oc=5",
+   "published": "2026-10-06T07:09+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SPYM은 동일한 S&P 500에 대해 VOO보다 적은 비용을 청구합니다. 장기 기록은 4개의 다른 지수를 추적합니다.",
+   "title": "SPYM Charges Less Than VOO for the Same S&P 500. Its Long-Term Record Tracks Four Different Indexes",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjJtdXdKdTBjdnh2clF2b3QxWXZ5RDBxZzQ5elhEMUpuUDdFcThQRkxaZzhlNlpfU0VkLW14azRNZjNyelBLWWVkYU9wRTc3YTZvMXpwOVJHbW92MXNKRzc3QVhZLVh5d0ZkUGE1LUtGOGowYnB5X25pTG5tb282cF8zdXIwMnoxS05MRERNRF9LUzRiN3c?oc=5",
+   "published": "2026-10-06T06:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.66,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI가 의료 분야에서 새로운 성장 경로를 찾음에 따라 Nvidia 주가 상승",
+   "title": "Nvidia Stock Climbs as AI Finds New Growth Path in Healthcare",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekVyQ0luYTF5T2w3NmJyb0NnTzYyMGtKaUw5bDh4MXFiNDhaTWM1TmxacmhuRi1IaklqX1hyVm5qYXJDRXB5aVBuTmxyamdYSC1SbEtKOXM0eHRmOVMwZGhyMTVoRUxnZjdqZXk0YkRQV18tc1pYMEUzQmRGdU1zMXNDbTVnLTAxTGFoQU4zTmJLM2lVdXRV?oc=5",
+   "published": "2026-10-06T04:50+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.12,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 주가는 시가총액이 6조 달러에 가까워지면서 사상 최고치를 기록했습니다.",
+   "title": "Nvidia stock hits all-time high, as market cap closes in on $6 trillion",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMThXVzlMT0xjcWh4MWtvSE1kYllodlVENmtRV0hxdS14VS1XS3MwdDktZ3VhZ1RxUEkxc3ZyU2ZEeXFnNGRqUU5rTE5DY1dFYnhYSGpOanh4TnBHUU5aZkVuLThsamcydmdGRVp0aFVuNnV5eW1YWVlOY1lWdUJhWFR2bUQxZnFvOV9qdmdmS2Q0QmZUMUxzZWVFZzFwd1ItZFRFQXB0MWVHSTZHbndWRmc4eVhoYi1MQUE?oc=5",
+   "published": "2026-10-06T04:22+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.12,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Signal은 Nvidia 주식이 여전히 최고점에 도달하지 못했다고 말합니다.",
+   "title": "Signal Says Nvidia Stock Still Hasn't Hit Its Top",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ04yQ1dQM3BLclpVNThjOE1pY3Y4X0QxSXVGZWxLZDBzOWZBZTk4Q2RkaEc1eFM3N055ZVAtdFRGS1NjWVU3QlhUcmxhWVZGTjBMeWU2emFTWWE2Ql8tOG03OG9ydEJ1YWQ0N0dJNzlkdnRqRWM1NVR4OUZ5M3pIelMyanhhVksxY3Q3SG5NY2d5T2Ywb0Q1cXI1Yw?oc=5",
+   "published": "2026-10-06T03:58+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.12,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 사상 최고치를 달성할 것으로 보입니다. 또한 Intel의 하락에 대해 걱정하지 마십시오.",
+   "title": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWt1eVM2N2hzdTRfemxDRGhwZFdXSUpDQktQcFRmT3lLWlVzQ3pYRnRsamlka3B6bXJrbUdsTEpxd1JGZnUtQVMxd2dXR21qei02UnJQZlNuSzdSdEhCWXItZ29vWHVKd2d3Y3FOUzg1T09YMXBGMzVSc3htVUpLZDF0Nzc0a3g0c2RNemF5SVNlNTVmV25YRVAxRnBCMl9W0gGmAUFVX3lxTE9pX0NpZEhJWHlXckZ5WjA2RUx0Mm9LWTZvbEtWSUFOYVNkNlk2Xy1yZ201UlRiTFpvZ0VfZTloTDRWZkNscGFDNWNRYXdUT210cEN4V01EcmdlWU1NclZHTC1VVENzVmN4cllIRk1BVFh5RWxtLVJHOUx5WnVhZUppblV1Q2o1RHItQzdZX0hrNXE4bkRlS3RDRDNkcHZCU3BwQ2FfUUE?oc=5",
-   "published": "2026-10-04T22:24+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.73,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식시장 조정이 다가오고 있는가? 대부분의 미국인들은 그렇게 생각한다.",
-   "title": "Is a stock market correction coming? Most Americans think so",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU9XXzlBd2pHZEtnY1RXSndVRHNycnF3Ym5GYWh4aFNGcjZZaDRRTmp0SjQ5clBqN2F0YVhDS1hoQmI0OXcyNkFLblZ2cTEtYjljSlZxd3Etd0I1M05fTi1iOVlDaUx2WWNmX1B5TVVzWUR3WER0RWl6Tnc0N0hJNlM1RHdaMmR0ZlZaQV9QVGxOZld1ajYxeC11UEVkTnZGcHVNUGpCUk90NnNjX25Ldzl3Y2xxMjhp?oc=5",
-   "published": "2026-10-04T19:02+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.73,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "이번 주 주목해야 할 미국 주식 상위 3개: PepsiCo, Delta Air Lines, Nvidia",
-   "title": "Top Three US Stocks to Watch This Week: PepsiCo, Delta Air Lines, Nvidia",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVJiSEpHeFM0TkF1R3NOcXNIdGR4aXJDU1FIWmtFT2J1WmhhRFVkZmhlWndleVFpYVVuWUQwa21BUm1Qbm80NHRkdzdFV2tZM0Nva0thWWJSUmdkUXlwMkh2Z253cFU1cHF5VDhRTERvWlp2ZF96c1Y5NkRnTnU3WllzMF84TEN5SFRqd2RnYWJOdVdSd19KNllaNHJwRUo5R3ZPMVZULWV2NUNQY3I3dFJfbnBlUVhjS3ZtcXUtNA?oc=5",
-   "published": "2026-10-05T05:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHA0b2x1ZkhXMzlJLXdCVHk1SExtYlBEbzdyS0cxakwtZzhOSjhocVZwdnRVZzg5SjlGUXNoMHRwOEtscDd5eDFBbFVhVkpNaGhJVlJzalhfUGthNHZYVXdhbEthQVRVRG5ZN1hPaHBiZ1hKTElfa2ItdTV3aWVwMmZoanR2eWJYeEV3VmNGNTN5UjVtY3E4M2owTTNFZTdEWkhDT0VKd0ZUOFVGS2QyQjNhaWpmV0ZUR0NzRlBudEszVVJ3QnVBLTJB?oc=5",
+   "published": "2026-10-06T03:25+09:00",
    "holdings": [
     "soxl"
    ],
@@ -120,93 +173,40 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 1.34,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아의 AI 붐은 투자자들에 대한 워렌 버핏의 경고를 되살립니다.",
-   "title": "Nvidia’s AI boom revives a Warren Buffett warning for investors",
-   "source": "thestreet.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySFlUWnVITHZZUDgyQndCZ2xZdy11UlZZa25Ubmx5ci14QW1TTGFVNTBnUzF3Q041d2pGVGpleHYxNGE1ejNFTklldFphRi1aMEcyUWJZVFdhMmFiVURIVzBIRjR3aElCMnhJTDNyXzZSRGNmdWRz?oc=5",
-   "published": "2026-10-05T03:47+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.34,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 주요 촉매제를 가지고 있습니다: 엄청난 환매가 올 수 있습니다",
-   "title": "Micron Has a Major Catalyst: A Huge Buyback Could Be Coming",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUZaZFMzVFkwamQwdDhBM2hITVBXdXBOaW1pNG5qUWVZazN6cGFodEQ5WUNVa3JyeWpoQi1uTTZRNmpzQ1FTNHhLRzZUNW5ULTQ2MF84aHphWXVESFlQLXU2bGNGQ0k3UElIZ1NMSDFfMm5DbFEzSEFvME1ubjVWV2thc253c3N3czdPSUJBZHFNVzUyZFpQbHlQSi1TWlFGVUNUa3NyeUlHcmV5aGFWei1RbHg4TTVyaXZJd3Nn?oc=5",
-   "published": "2026-10-05T03:40+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.05,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 수익 시즌이 AI 지출에 초점을 맞추면서 잠시 핵심 수준을 넘어섰습니다.",
-   "title": "Nvidia Stock Briefly Tops Key Level as Earnings Season Puts AI Spending in Focus",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1lfUmxzendDTTAyRFpFTkxsQ3NvWlBuUTM0dVFaX1cxQWFhV2NwOG5zVGptTnJneEFac2xINnBkdkxwekdLejdVcGwxTEE0RXlxUlhyTDc4SUszM2RLNDd4WmpaYnA3SVdLVGlMRlhOcmFVWlNPSk5JMmF3enVLTWZpWXhtTGhld0JnYlBvSnNSRVdiR0JRaW5QYkthdU11ZVdVZ3g0QXllWHhIWXBSWnc5Tjl6REFWRUVJd2FqOThzYWRwdGNWVFNzeUJkbWljLW5J?oc=5",
-   "published": "2026-10-05T03:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.34,
-     "asOf": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "당신은 Tesla보다 더 나은 일을 할 수 있습니다. 대신 마이크론을 구매하세요.",
-   "title": "You Can Do Better Than Tesla. Buy Micron Instead.",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2tFRmotM2h0RldYeWRiMHdOVzVzYm0yV1pndmpxdm5ZRkpCRldlTnc5NEI3SUJyOWl6ZG95OWJoam1Od3BkVlBFcTJERjFHUkRFd3NwaFNNUHFnaW5ZVnJ2RWNELWJkUXJnSG9rTWhaSVB1bzNjaXhaVnNRNWdmWlF5bmp1M3R5a0ZtN0lwWXgzN1ls?oc=5",
-   "published": "2026-10-05T03:30+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.05,
-     "asOf": "2026-10-02"
+     "chgPct": 2.12,
+     "asOf": "2026-10-05"
     },
     {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": 4.65,
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -2.63,
+     "asOf": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "삼성, 첫 분기 100조 보고. 마이크론 주식은 얻는 것보다 잃는 것이 더 많습니다.",
+   "title": "Samsung May Report Its First 100 Trillion Won Quarter. Micron Stock Has More to Lose Than to Gain.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVZpcXY4R2I1NmhneG15ZmdjdDVuSGhPSlpWZkU5T3RKT2FaM19qdXg1VFJqa3BfRTNFQlhmZjJnZGlPYzVtVG0xcl8ycHlFcXlxb3h5bWhLd1lZa1h0b2cwc25YQjhodGptRFNTMmxxMEYzRlJMbUR6a0VJQVN6LXNuNk8wa3d1Q3hXUlY2MVJzVFgzbF9zQw?oc=5",
+   "published": "2026-10-06T01:37+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.02,
+     "asOf": "2026-10-05"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": 0.0,
      "asOf": "2026-10-02"
     }
    ]
