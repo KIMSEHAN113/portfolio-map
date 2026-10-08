@@ -162,9 +162,9 @@ def us_news(now, limit=5):
         items.append({"title": clean(it.findtext("title")), "source": "한국경제", "link": clean(it.findtext("link")), "time": pub_time(it)})
     fresh = [x for x in items if x["title"] and x["time"] and now - x["time"] < timedelta(hours=26)
              and re.search(US_WORDS, x["title"]) and not re.search(SKIP_WORDS, x["title"])]
-    # 뉴욕증시 시황 기사를 먼저, 그다음 최신순
+    # 뉴욕증시 마감 기사 → 다른 뉴욕증시 기사 → 최신순
     fresh.sort(key=lambda x: x["time"], reverse=True)
-    fresh.sort(key=lambda x: 0 if re.search(r"뉴욕증시|뉴욕 증시|월가", x["title"]) else 1)
+    fresh.sort(key=lambda x: 0 if re.search(r"(뉴욕증시|뉴욕 증시).*마감", x["title"]) else 1 if re.search(r"뉴욕증시|뉴욕 증시|월가", x["title"]) else 2)
     picked, seen = [], set()
     for x in fresh:
         key = re.sub(r"\W", "", x["title"])[:14]

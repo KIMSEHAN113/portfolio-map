@@ -2,7 +2,7 @@ name: Update portfolio map
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # 매일 오전 6시 (한국시간) = 21:00 UTC
+    - cron: "23 21 * * *"  # 매일 06:23 (한국시간). 정각 예약은 GitHub 에서 많이 밀려서 23분으로
   workflow_dispatch:         # Actions 탭에서 수동 실행
     inputs:
       send_kakao:

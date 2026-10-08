@@ -3,16 +3,19 @@
 GitHub Actions 에서 매일 오전 6시(한국시간)에 실행된다.
 - 수량은 holdings.json 의 qty 를 고치면 된다.
 - dca(적립식) 가 있는 종목은 since 이후 지정 요일마다 shares 만큼 수량이 자동으로 늘어난다.
-- 국내 종목은 네이버 증권, 해외 종목과 환율은 Yahoo Finance 에서 받는다. 실패하면 서로를 예비로 쓴다.
+- 국내 종목은 네이버 증권, 해외 종목과 환율은 Yahoo Finance 차트 API 에서 받는다. 실패하면 서로를 예비로 쓴다.
+- 로직 점검: python scripts/update.py --selftest
 """
 import json
 import math
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+import sys
+import urllib.parse
 import urllib.request
+from zoneinfo import ZoneInfo
 
-import yfinance as yf
 
 ROOT = Path(__file__).resolve().parent.parent
 HOLDINGS = ROOT / "holdings.json"
@@ -23,18 +26,21 @@ WEEKDAYS = {"월": 0, "화": 1, "수": 2, "목": 3, "금": 4}
 UA = {"User-Agent": "Mozilla/5.0 (portfolio-map)"}
 
 
-def settled(closes):
-    """장이 아직 안 끝난 오늘 행(프리마켓·장중)은 빼고 확정 종가만 남긴다."""
-    if closes.empty or closes.index.tz is None:
-        return closes
-    close_min = {"America/New_York": 16 * 60 + 10, "Asia/Seoul": 15 * 60 + 40}.get(str(closes.index.tz))
-    if close_min is None:
-        return closes
-    now = datetime.now(closes.index.tz)
-    last = closes.index[-1]
-    if last.date() == now.date() and now.hour * 60 + now.minute < close_min:
-        return closes.iloc[:-1]
-    return closes
+CLOSE_MIN = {"America/New_York": 16 * 60 + 10, "Asia/Seoul": 15 * 60 + 40}  # 정규장 마감(+여유) 시각
+
+
+def settled_closes(bars, last_day, last_price, now, close_min):
+    """일봉 {날짜: 종가} 에서 확정 종가만 날짜순으로 돌려준다.
+
+    Yahoo 일봉에는 방금 끝난 거래일이 빠지는 일이 잦아서(브리핑이 하루 밀리던 원인),
+    마지막 체결일(last_day)의 정규장이 끝났으면 meta 의 최종 체결가로 채우고,
+    아직 장중·프리마켓이면 그날 값은 뺀다. close_min 이 없으면(환율 등) 마지막 값을 그대로 쓴다.
+    """
+    done = close_min is None or last_day < now.date() or now.hour * 60 + now.minute >= close_min
+    bars = {d: c for d, c in bars.items() if d < last_day}
+    if done:
+        bars[last_day] = last_price
+    return sorted(bars.items())
 
 
 def num(v):
@@ -58,24 +64,43 @@ def naver_quote(code):
 
 
 def yahoo_quote(symbol):
-    """Yahoo Finance 최근 두 거래일 종가: (종가, 등락률%, 날짜)."""
+    """Yahoo Finance 최근 두 확정 종가: (종가, 등락률%, 날짜)."""
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?range=10d&interval=1d"
     try:
-        df = yf.Ticker(symbol).history(period="15d", interval="1d", auto_adjust=False)
-        closes = df["Close"].dropna()
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=15) as r:
+            res = json.loads(r.read().decode("utf-8"))["chart"]["result"][0]
+        meta = res["meta"]
+        tz = ZoneInfo(meta["exchangeTimezoneName"])
+        bars = {datetime.fromtimestamp(t, tz).date(): c
+                for t, c in zip(res.get("timestamp") or [], res["indicators"]["quote"][0].get("close") or []) if c}
+        last_day = datetime.fromtimestamp(meta["regularMarketTime"], tz).date()
+        closes = settled_closes(bars, last_day, float(meta["regularMarketPrice"]), datetime.now(tz),
+                                CLOSE_MIN.get(meta["exchangeTimezoneName"]))
     except Exception as e:
         print(f"  ! Yahoo {symbol}: {e}")
         return None
-    if closes.empty:
-        print(f"  ! Yahoo {symbol}: 데이터 없음")
+    if not closes:
         return None
-    closes = settled(closes)
-    if closes.empty:
-        return None
-    price = float(closes.iloc[-1])
-    prev = float(closes.iloc[-2]) if len(closes) > 1 else price
+    day, price = closes[-1]
+    prev = closes[-2][1] if len(closes) > 1 else price
     if not math.isfinite(price) or price <= 0:
         return None
-    return price, (price / prev - 1) * 100 if prev else 0.0, closes.index[-1].strftime("%Y-%m-%d")
+    return price, (price / prev - 1) * 100 if prev else 0.0, day.isoformat()
+
+
+def selftest():
+    d = date(2026, 10, 7)
+    bars = {date(2026, 10, 5): 100.0, date(2026, 10, 6): 110.0}  # Yahoo 가 10/7 일봉을 빠뜨린 상황
+    ny = ZoneInfo("America/New_York")
+    after = datetime(2026, 10, 7, 20, 43, tzinfo=ny)   # 장 마감 후 → 10/7 종가를 meta 값으로 채움
+    assert settled_closes(bars, d, 99.0, after, CLOSE_MIN["America/New_York"])[-2:] == [(date(2026, 10, 6), 110.0), (d, 99.0)]
+    during = datetime(2026, 10, 7, 11, 0, tzinfo=ny)   # 장중 → 10/7 값은 빼고 10/6 이 마지막
+    assert settled_closes({**bars, d: 105.0}, d, 105.0, during, CLOSE_MIN["America/New_York"])[-1] == (date(2026, 10, 6), 110.0)
+    nextday = datetime(2026, 10, 8, 8, 0, tzinfo=ny)   # 다음 날 프리마켓 → 10/7 종가 유지
+    assert settled_closes(bars, d, 99.0, nextday, CLOSE_MIN["America/New_York"])[-1] == (d, 99.0)
+    assert settled_closes(bars, d, 1400.0, during, None)[-1] == (d, 1400.0)  # 환율: 항상 최신 값
+    print("selftest ok")
 
 
 def quote(h):
@@ -162,4 +187,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    selftest() if sys.argv[1:] == ["--selftest"] else main()
