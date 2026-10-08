@@ -25,7 +25,7 @@ h1{font-size:22px;font-weight:700;margin:0;letter-spacing:-0.01em}
 .stamp{display:flex;flex-wrap:wrap;gap:6px}
 .chip{border:1px solid var(--line);background:var(--panel);border-radius:4px;padding:3px 9px;font-size:12px;color:var(--muted);white-space:nowrap}
 .chip b{color:var(--ink);font-weight:500}
-.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.kpis{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:6px;overflow:hidden}
 .kpi{background:var(--panel);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
 .kpi .l{font-size:12px;color:var(--muted)}
 .kpi .v{font-size:21px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -99,6 +99,7 @@ table.news{min-width:720px}
   <section class="kpis" aria-label="요약">
     <div class="kpi"><span class="l">총 평가금액</span><span class="v num" id="kTotal">–</span><span class="s num" id="kTotalUsd">&nbsp;</span></div>
     <div class="kpi"><span class="l">직전 거래일 등락 (가격 기준)</span><span class="v num" id="kChg">–</span><span class="s num" id="kChgAmt">&nbsp;</span></div>
+    <div class="kpi"><span class="l">총 손익 (매입금액 기준)</span><span class="v num" id="kPl">–</span><span class="s num" id="kPlAmt">&nbsp;</span></div>
     <div class="kpi"><span class="l">해외 / 국내 비중</span><span class="v num" id="kMix">–</span><span class="s" id="kMixS">&nbsp;</span></div>
     <div class="kpi"><span class="l">최대 비중 종목</span><span class="v" id="kTop">–</span><span class="s num" id="kTopS">&nbsp;</span></div>
   </section>
@@ -136,7 +137,7 @@ table.news{min-width:720px}
     <div class="bar"><h2>보유 종목</h2><span class="note" id="fxnote"></span></div>
     <div class="tablewrap">
       <table>
-        <thead><tr><th>종목</th><th>수량</th><th>종가</th><th>등락</th><th>평가금액(원)</th><th>비중</th><th>비중 변화</th></tr></thead>
+        <thead><tr><th>종목</th><th>수량</th><th>종가</th><th>등락</th><th>평가금액(원)</th><th>손익률</th><th>비중</th><th>비중 변화</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -163,7 +164,7 @@ const META={
  'googl':['미국 개별주','GOOGL'],'hood':['미국 개별주','HOOD'],'orcl':['미국 개별주','ORCL'],'pltr':['미국 개별주','PLTR'],
  'irp-rise-semi-bond':['퇴직연금','삼성·하닉 채권혼합'],'irp-kodex-sp500':['퇴직연금','KODEX S&P500'],
  'irp-kodex-nasdaq100':['퇴직연금','KODEX 나스닥100'],'irp-ace-nasdaq-bond':['퇴직연금','ACE 나스닥채권']};
-let snaps=[],sel=null,cur=null,krColors=false,acct='all';
+let snaps=[],sel=null,cur=null,krColors=false,acct='all',COST={};  // COST: holdings.json 의 매입금액(원)
 try{krColors=localStorage.getItem('dwm-colors')==='kr'}catch(e){}
 
 const NEU=[65,69,84];
@@ -181,7 +182,7 @@ function mergeSame(list){
   list.forEach(h=>{const k=h.market+':'+h.ticker;
     if(!by[k]){by[k]={...h,parts:[{account:h.account,qty:h.qty}]};out.push(by[k]);return;}
     const m=by[k];m.parts.push({account:h.account,qty:h.qty});
-    m.qty+=h.qty;m.value+=h.value;m.prev+=h.prev;
+    m.qty+=h.qty;m.value+=h.value;m.prev+=h.prev;m.cost+=h.cost;m.cv+=h.cv;
     if(h.account==='일반'){m.label=h.label;m.name=h.name;m.group=h.group;}
     m.dca=m.dca||h.dca;m.account=m.parts.map(p=>p.account).join('+');m.id='merged-'+k;
   });
@@ -194,7 +195,8 @@ function compute(s){
     const m=META[h.id]||[];const rate=h.currency==='USD'?fx:1;
     const value=h.qty*h.price*rate,prev=value/(1+(h.chgPct||0)/100);
     const account=h.account||(String(h.id).startsWith('irp-')?'퇴직연금':'일반');
-    return {...h,account,group:h.group||m[0]||'기타',label:h.label||m[1]||h.ticker,value,prev};
+    const cost=COST[h.id]||0;  // 매입금액이 있는 종목만 손익 계산 (cv: 그 종목의 평가금액)
+    return {...h,account,group:h.group||m[0]||'기타',label:h.label||m[1]||h.ticker,value,prev,cost,cv:cost?value:0};
   }).filter(h=>h.value>0&&(acct==='all'||h.account===acct));
   if(acct==='all')items=mergeSame(items);
   const total=items.reduce((a,b)=>a+b.value,0),prevTotal=items.reduce((a,b)=>a+b.prev,0);
@@ -269,6 +271,7 @@ function tip(h,e){
    <span class="k">계좌</span><span class="v">${h.parts&&h.parts.length>1?h.parts.map(p=>p.account+' '+p.qty.toLocaleString('ko-KR')+'주').join(' · '):h.account}</span>
    <span class="k">수량</span><span class="v">${h.qty.toLocaleString('ko-KR')}주${h.dca?' ('+h.dca+')':''}</span>
    <span class="k">평가금액</span><span class="v">${won(h.value)}원</span>
+   ${h.cost?`<span class="k">손익</span><span class="v" style="color:${(h.cv>=h.cost)===!krColors?'#1E8E43':'#D02F32'}">${pct((h.cv/h.cost-1)*100)} (${h.cv>=h.cost?'+':''}${won(h.cv-h.cost)}원)</span>`:''}
    <span class="k">비중</span><span class="v">${h.weight.toFixed(2)}%</span>
    <span class="k">기준일</span><span class="v">${h.asOf||'–'}</span></div>`;
   if(Math.abs(h.chgPct||0)<0.005)T.querySelector('.tb .v:nth-of-type(2)').style.color='#15171C';
@@ -293,6 +296,7 @@ function drawRows(){
     tr.innerHTML=`<td><span class="gtag"></span><span class="nm"></span><span class="tk">${h.ticker}</span></td>
       <td class="num">${h.qty.toLocaleString('ko-KR')}${h.dca?`<span class="dca">${h.dca}</span>`:''}</td><td class="num">${h.currency==='USD'?priceStr(h):won(h.price)}</td>
       <td class="num ${cls(h.chgPct||0)}">${pct(h.chgPct||0)}</td><td class="num">${won(h.value)}</td>
+      <td class="num ${h.cost?cls(h.cv-h.cost):''}" title="${h.cost?'손익 '+(h.cv>h.cost?'+':'')+won(h.cv-h.cost)+'원':'매입금액 미입력'}">${h.cost?pct((h.cv/h.cost-1)*100):'–'}</td>
       <td class="num"><span class="wbar" style="width:${(h.weight/max*60).toFixed(0)}px"></span>${h.weight.toFixed(2)}%</td>
       <td class="num ${dw==null?'':cls(dw)}">${dw==null?'–':(dw>0?'+':'')+dw.toFixed(2)+'%p'}</td>`;
     tr.querySelector('.nm').textContent=h.name;tr.querySelector('.gtag').textContent=h.group;
@@ -328,6 +332,9 @@ function render(){
   $('kTotalUsd').textContent=cur.fx?'≈ $'+Math.round(cur.total/cur.fx).toLocaleString('en-US'):'';
   $('kChg').textContent=pct(dp);$('kChg').className='v num '+cls(dp);
   $('kChgAmt').textContent=(d>0?'+':'')+won(d)+'원';$('kChgAmt').className='s num '+cls(dp);
+  const cost=cur.items.reduce((a,b)=>a+b.cost,0),pl=cur.items.reduce((a,b)=>a+b.cv,0)-cost;
+  $('kPl').textContent=cost?pct(pl/cost*100):'–';$('kPl').className='v num '+(cost?cls(pl):'');
+  $('kPlAmt').textContent=cost?(pl>0?'+':'')+won(pl)+'원 · 매입 '+won(cost)+'원':'매입금액 미입력';$('kPlAmt').className='s num '+(cost?cls(pl):'');
   $('kMix').textContent=`${us.toFixed(0)} : ${(100-us).toFixed(0)}`;
   $('kMixS').textContent=`해외 ${cur.items.filter(i=>i.market==='US').length}종목 · 국내 ${cur.items.filter(i=>i.market==='KR').length}종목`;
   $('kTop').textContent=top.name;$('kTopS').textContent=top.weight.toFixed(1)+'% · '+won(top.value)+'원';
@@ -350,6 +357,7 @@ let rt;new ResizeObserver(()=>{clearTimeout(rt);rt=setTimeout(()=>{drawMap();dra
 
 (async()=>{
   try{
+    try{const hj=await (await fetch('holdings.json?t='+Date.now(),{cache:'no-store'})).json();(hj.holdings||[]).forEach(h=>{if(h.cost)COST[h.id]=h.cost});}catch(e){}
     const r=await fetch('data/history.json?t='+Date.now(),{cache:'no-store'});
     const j=await r.json();
     snaps=(j.snapshots||[]).slice().sort((a,b)=>a.date<b.date?1:-1);

@@ -8,13 +8,14 @@
       "ticker": "379810",
       "market": "KR",
       "currency": "KRW",
-      "qty": 754,
+      "qty": 756,
+      "cost": 16572440,
       "yahoo": "379810.KS",
       "account": "일반",
       "dca": {
         "weekday": "월",
         "shares": 2,
-        "since": "2026-09-28"
+        "since": "2026-10-12"
       }
     },
     {
@@ -25,13 +26,14 @@
       "ticker": "379780",
       "market": "KR",
       "currency": "KRW",
-      "qty": 590,
+      "qty": 593,
+      "cost": 11443796,
       "yahoo": "379780.KS",
       "account": "일반",
       "dca": {
         "weekday": "월",
         "shares": 2,
-        "since": "2026-09-28"
+        "since": "2026-10-12"
       }
     },
     {
@@ -43,6 +45,7 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 2,
+      "cost": 108730,
       "yahoo": "005930.KS",
       "account": "일반"
     },
@@ -55,6 +58,7 @@
       "market": "KR",
       "currency": "KRW",
       "qty": 50,
+      "cost": 454500,
       "yahoo": "034220.KS",
       "account": "일반"
     },
@@ -67,6 +71,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 23,
+      "cost": 7965030,
       "yahoo": "QQQM",
       "account": "일반"
     },
@@ -79,6 +84,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 104,
+      "cost": 4013622,
       "yahoo": "SCHD",
       "account": "일반"
     },
@@ -91,6 +97,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 41,
+      "cost": 2251791,
       "yahoo": "TQQQ",
       "account": "일반"
     },
@@ -103,6 +110,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 8,
+      "cost": 3908117,
       "yahoo": "GOOGL",
       "account": "일반"
     },
@@ -115,6 +123,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 43,
+      "cost": 3817494,
       "yahoo": "DRAM",
       "account": "일반"
     },
@@ -127,6 +136,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 20,
+      "cost": 3367296,
       "yahoo": "HOOD",
       "account": "일반"
     },
@@ -139,6 +149,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 166,
+      "cost": 5076210,
       "yahoo": "RAM",
       "account": "일반"
     },
@@ -151,6 +162,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 23,
+      "cost": 1807673,
       "yahoo": "QLD",
       "account": "일반"
     },
@@ -163,6 +175,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 15,
+      "cost": 4003043,
       "yahoo": "SOXL",
       "account": "일반"
     },
@@ -175,6 +188,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 10,
+      "cost": 4016939,
       "yahoo": "ORCL",
       "account": "일반"
     },
@@ -187,6 +201,7 @@
       "market": "US",
       "currency": "USD",
       "qty": 2,
+      "cost": 476749,
       "yahoo": "PLTR",
       "account": "일반"
     },
