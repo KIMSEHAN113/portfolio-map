@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T23:33:22+09:00",
+ "updatedAt": "2026-10-08T23:53:16+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -20,27 +20,6 @@
      "chgPct": -0.22,
      "asOf": "2026-10-07"
     },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "유가 상승으로 미국 주식시장이 기록적인 수준에서 벗어나게 되었습니다.",
-   "title": "Higher oil prices pull the US stock market further from its record",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
-   "published": "2026-10-08T22:49+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -77,6 +56,27 @@
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHozamVtTkdmazNwTC11SE9nTm9iZVFMZDZHSmhZUmxXcGt4NTljRkxKUlM3R0F6NlM4U01UazJUaDdhcS1mcTl4d1N3a1ZRWFFjbW1jSElvYWc3MXkzQmFjSlcyZmdxcUFaS3o3bjJfTDV2WGd6NUE4T3B5TF8wUDdab0RVOEg4U25adFRtcFhnOENlRWxqOV9QZGl5azFsb0hJaEVoSF8wR0ZMeV92WmJESzM?oc=5",
    "published": "2026-10-08T22:04+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Independent Bank Corp.(INDB) 다음 주 보고서: 월스트리트는 수익 성장을 예상합니다.",
+   "title": "Independent Bank Corp. (INDB) Reports Next Week: Wall Street Expects Earnings Growth",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVZvMnEzYjh3RUpmdThJQVFGY1h5SWhoNVVFcno4ejN4ekwyNWZ1bmNZUHFpZ29GTjhRWlVPeW9xdFZFMGhpczMtN0RvNG5Ea1otcHBpOTdKdUY3bXhyMHdaLVpseXJDWUJuZVR6clJjQ1pPUDFPMC1hZElKRHVtSmNFc2NkbkFwSnhZc2ZOa2ZHYlM1WVYxV3ZUSGhIYV84?oc=5",
+   "published": "2026-10-08T22:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -133,28 +133,26 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론의 분기별 NAND 매출은 526% 증가했습니다. 2031년까지 주식이 갈 수 있는 곳은 다음과 같습니다",
-   "title": "Micron’s Quarterly NAND Revenue Jumped 526%. Here’s Where the Stock Could Go by 2031",
+   "summary": "Lynx는 AI 반도체 랠리가 연말까지 이어질 것으로 보고 있습니다.",
+   "title": "Lynx sees AI semiconductor rally extending into year-end",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVpua2JvS19aWXJ2VFByb0pkVkQxZENYYms5MW9pZDBlYTFvT3BxSTFXVlJFSEdSMk4tVW8zeDl4WW1wei1HZTJJcFdnbzVqb2swR1p0bllqemRsZWhDZkR6X2xXWGVDRjc0a2dZRGJYWE9KZWtaQjUxREVLemZXOW9VNm9pdGNaXzRjT1hoUHR3YXNVeFlzYWlWQ1UzbFJnYk80?oc=5",
-   "published": "2026-10-08T22:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT09rZUM5RU5BTmpVazJRSlFuRmdldzA5ZFppLXlTWUV0ZzNKcUdoTko4d054RzFNSmlnd0VyenhDYzQ0djg3V0l6bFBwUkd1cFNxMzdNSGZkTHlEUGwyM2J2ODhsMjBpMnY1YVpUeVFKVzhJZjMxRWducTVOTWZCVVdzWWR5R1Y3SU9Tc2J6dGx3aGcteEVHVDRPSV8?oc=5",
+   "published": "2026-10-08T22:36+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 4.06,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -1.12,
      "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NXP Semiconductors는 Citi가 제한된 데이터 센터 노출로 인해 주식을 삭감함에 따라 하락합니다.",
+   "summary": "NXP 반도체는 Citi가 제한된 데이터 센터 노출로 인해 주식을 삭감함에 따라 하락합니다.",
    "title": "NXP Semiconductors falls as Citi cuts stock on limited data center exposure",
    "source": "Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0lub1NNRWJjRTctWFYtT3NDZW9udURldG50a0FyTHRveHVzVkJMM2FTS1RrMU1XbVl1ckVIX2JTRjJxNHFYdlZVT0lDcFBSRTFId1FfVkZLc0ZreDVFTGtlZkEyalVnUmF1bjhnRWUyRklvMG41TndsTjMwamdaUVZMMUE5RVQxemM4?oc=5",
@@ -173,30 +171,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AI 칩 수요가 ASML 주식 및 반도체 장비 점유율에서 현실을 충족합니다.",
-   "title": "AI Chip Demand Meets Reality in ASML Stock and Semiconductor Equipment Shares",
+   "summary": "Nvidia가 10월에 엄청난 매수세를 보이는 1가지 이유와 투자자가 주의해야 할 1가지 이유",
+   "title": "1 Reason Nvidia Is a Screaming Buy in October, and 1 Reason Investors Should Be Cautious",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2xwZ2ExWHduSHpzTUxCWmdWUkFDNXZfWWt2VHBrZnVnalN6ZjNzQXd0UWEtUDRJVFV3UnlrVFp6VzNVeVpmbXZPcVlsVXFoTERXQWFFckFacHhMTTZOMVpHX3haZzdpOVNOVGh2U2hwUHhlZkpHQWJNREN3RHk2RmdJZFRvbm9aaEJNckN0Y0trNVFEaGNz?oc=5",
-   "published": "2026-10-08T21:16+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn?oc=5",
+   "published": "2026-10-08T20:10+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "ASML",
-     "name": "ASML",
-     "chgPct": -1.59,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.74,
      "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 10월에 엄청난 매수세를 보이는 1가지 이유와 투자자들이 주의해야 할 1가지 이유",
-   "title": "1 Reason Nvidia Is a Screaming Buy in October, and 1 Reason Investors Should Be Cautious",
+   "summary": "지금 저렴한 수준의 Nvidia는 매수인가요? 황소와 곰의 경우는 다음과 같습니다.",
+   "title": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn?oc=5",
-   "published": "2026-10-08T20:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2w2ZFpJZVRieFBZYW5EaDFRZ0kxUExyQ0lvdGpiVWlGNHpZNzRLY21EdlVYWkxTcGU0OEhsOU82bVNtSHhwZ2pQeFFhR0ZVZDVtVVp1Ul92azR6YVYyQjVBWE1wczhvZGdQajdUb0ZJNW9uNnNTeTVUOHBRczA4LWFZdlhxTVRBbXJTRzNTaXN2b2UycFR0M0VR?oc=5",
+   "published": "2026-10-08T18:30+09:00",
    "holdings": [
     "soxl"
    ],
