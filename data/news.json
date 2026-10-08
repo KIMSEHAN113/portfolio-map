@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T23:17:50+09:00",
+ "updatedAt": "2026-10-08T23:27:25+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -93,20 +93,20 @@
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 델타항공 추정치를 회사 자체 지침보다 낮추고 매수 등급을 유지했습니다.",
-   "title": "Wall Street Cut Its Delta Air Estimates Below the Company’s Own Guidance and Kept Its Buy Ratings",
+   "summary": "나스닥의 돌파구가 여전히 중요하기 때문에 ETF가 혜택을 받을 수 있습니다.",
+   "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2FwZWhQNTJ0clpFcTlJOGhLenVfZDl5elRSV29aUTJ6S3VIY1JPQUdRdnZITWRPYzhyRHJWblNsZTdDM3o1VW04eTFYcTltYk9TOVRaNzNpOGxVaFVJV0NWenF5ZmFDVnVZQ1NEODg2T2oxSFNjYnljYlpSaDdqcndxNTBjS0xtMGs3MXR0Zlo1Um5h?oc=5",
-   "published": "2026-10-08T21:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1lVMTBpZkpDUHAybWhvRGxlMHBMMTJlTlFiQ3VwMlN4eHdSSlVjOENLT3Z1czhLTWNfRDZrZlRDYV9JbW1GZVFvWVA4Mjg5R01aVUNWRDZmN1QySGpLeFhHaWFBWXBrRGYwSW90QkVYcVBoTDlnd3VpS0Q3a1ZNREZEOEZ2X20ya2Vhd1ZTcjRMWWtvUjZOXzh3SzRXck5uOTZPZG91Yw?oc=5",
+   "published": "2026-10-08T22:04+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
+     "symbol": "^IXIC",
+     "name": "나스닥",
      "chgPct": -0.22,
      "asOf": "2026-10-07"
     }
