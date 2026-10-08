@@ -24,6 +24,17 @@ KST = timezone(timedelta(hours=9))
 MAX_SNAPSHOTS = 900
 WEEKDAYS = {"월": 0, "화": 1, "수": 2, "목": 3, "금": 4}
 UA = {"User-Agent": "Mozilla/5.0 (portfolio-map)"}
+# 실행 요일(월=0)별로 "정상적인" 최근 영업일까지의 최대 날짜 차이. 이보다 크면
+# 주말 때문이 아니라 시세 공급처(Yahoo/네이버)가 아직 전날 종가를 반영 못 한 것.
+EXPECTED_GAP = {0: 3, 1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 2}
+
+
+def is_delayed(as_of, today):
+    """공휴일은 고려하지 않는 단순 요일 기준 판정. (ponytail: 공휴일 캘린더 없음)"""
+    if not as_of:
+        return False
+    gap = (today - date.fromisoformat(as_of)).days
+    return gap > EXPECTED_GAP[today.weekday()]
 
 
 CLOSE_MIN = {"America/New_York": 16 * 60 + 10, "Asia/Seoul": 15 * 60 + 40}  # 정규장 마감(+여유) 시각
@@ -167,6 +178,9 @@ def main():
         }
         if dca_text:
             row["dca"] = dca_text
+        if is_delayed(as_of, today):
+            row["delayed"] = True
+            print(f"  ! {h['ticker']}: 시세가 {as_of} 기준으로 지연됨")
         rows.append(row)
 
     snap = {

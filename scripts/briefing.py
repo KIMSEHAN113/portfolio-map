@@ -197,6 +197,11 @@ def pct(v):
     return f"{'+' if v > 0 else '−' if v < 0 else ''}{abs(v):.2f}%"
 
 
+def md(as_of):
+    """'2026-10-06' → '10/6'"""
+    return f"{int(as_of[5:7])}/{int(as_of[8:10])}"
+
+
 def tone(v):
     return (UP_T, UP_B) if v > 0 else (DN_T, DN_B) if v < 0 else (MUTED, LINE)
 
@@ -287,6 +292,10 @@ def slide_changes(prs, when, rows, total, prev_total):
         box(s, zero if r["chgPct"] >= 0 else zero - w, y + rh * 0.25, w, rh * 0.5, fill=b_col, radius=0.3)
         text(s, 9.65, y, 1.2, rh, pct(r["chgPct"]), size=fs, bold=True, color=t_col, align=PP_ALIGN.RIGHT, anchor=MSO_ANCHOR.MIDDLE)
         text(s, 10.95, y, 1.78, rh, man(r["diff"], True), size=fs, color=MUTED, align=PP_ALIGN.RIGHT, anchor=MSO_ANCHOR.MIDDLE)
+    late = [r for r in rows if r.get("delayed")]
+    if late:
+        tags = ", ".join(f"{r.get('label') or r['name']}({md(r['asOf'])})" for r in late)
+        text(s, 0.6, 7.14, 12.13, 0.3, f"시세 반영이 늦은 종목: {tags} — 괄호 날짜 종가 기준 등락률이에요.", size=10, color=FAINT)
 
 
 def slide_reasons(prs, when, movers):
@@ -297,8 +306,11 @@ def slide_reasons(prs, when, movers):
         t_col, _ = tone(r["chgPct"])
         box(s, x, y, 5.97, 2.6, fill=WHITE, line=LINE, radius=0.06)
         box(s, x, y + 0.18, 0.06, 0.5, fill=t_col)
-        text(s, x + 0.3, y + 0.16, 3.6, 0.5, [[(cut(r.get("label") or r["name"], 16), {"bold": True, "size": 17}),
-                                              (f"   비중 {r['weight']:.1f}%", {"size": 11, "color": MUTED})]])
+        runs = [(cut(r.get("label") or r["name"], 16), {"bold": True, "size": 17}),
+                (f"   비중 {r['weight']:.1f}%", {"size": 11, "color": MUTED})]
+        if r.get("delayed"):
+            runs.append((f"  {md(r['asOf'])} 기준", {"size": 11, "color": FAINT}))
+        text(s, x + 0.3, y + 0.16, 3.6, 0.5, [runs])
         text(s, x + 3.9, y + 0.14, 1.85, 0.5, pct(r["chgPct"]), size=20, bold=True, color=t_col, align=PP_ALIGN.RIGHT)
         if news:
             lines = []
