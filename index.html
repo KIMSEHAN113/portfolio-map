@@ -19,6 +19,8 @@ body.kr{--up:#F2484B;--down:#3E86F5}
 body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.5}
 .wrap{max-width:1240px;margin:0 auto;padding:24px 16px 48px;display:flex;flex-direction:column;gap:16px}
 .num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.back{display:inline-block;color:var(--muted);font-size:13px;text-decoration:none;margin-bottom:6px}
+.back:hover{color:var(--ink)}
 header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:12px}
 h1{font-size:22px;font-weight:700;margin:0;letter-spacing:-0.01em}
 .sub{color:var(--muted);font-size:13px;margin:2px 0 0}
@@ -88,6 +90,7 @@ table.news{min-width:720px}
 
 
 <div class="wrap">
+  <a class="back" href="https://claude.ai/artifact/Uyd4ZT7ANgYNnTeFczMpSz" onclick="if(history.length>1){history.back();return false}">← 시작 페이지</a>
   <header>
     <div>
       <h1>데일리 비중 지도</h1>
