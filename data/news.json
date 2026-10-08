@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T23:27:25+09:00",
+ "updatedAt": "2026-10-08T23:33:22+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -93,20 +93,20 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥의 돌파구가 여전히 중요하기 때문에 ETF가 혜택을 받을 수 있습니다.",
-   "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
+   "summary": "JB Hunt (JBHT)가 다음 주에 보고합니다: 월스트리트는 수익 성장을 기대합니다",
+   "title": "JB Hunt (JBHT) Reports Next Week: Wall Street Expects Earnings Growth",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1lVMTBpZkpDUHAybWhvRGxlMHBMMTJlTlFiQ3VwMlN4eHdSSlVjOENLT3Z1czhLTWNfRDZrZlRDYV9JbW1GZVFvWVA4Mjg5R01aVUNWRDZmN1QySGpLeFhHaWFBWXBrRGYwSW90QkVYcVBoTDlnd3VpS0Q3a1ZNREZEOEZ2X20ya2Vhd1ZTcjRMWWtvUjZOXzh3SzRXck5uOTZPZG91Yw?oc=5",
-   "published": "2026-10-08T22:04+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHRpUEx3dE40ZEtSUnBtZ25RM3FrNGJ3V3BQbkVQcEgtLXJ3TWJEMmdBWWstUkExTVE4TThZUmVrT0pOQkRlbGU0clRKZkJORmdUdGhBXzdWT1EyNGRPaE9RU1dtcTVHWFIycDdNVm5Fa1VWSmRZYU12STBTUnpCS2lCTWZIeEFmdXBTZ21yOTZDSTJt?oc=5",
+   "published": "2026-10-08T22:00+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
+     "symbol": "^GSPC",
+     "name": "S&P 500",
      "chgPct": -0.22,
      "asOf": "2026-10-07"
     }
@@ -127,25 +127,6 @@
      "symbol": "TSM",
      "name": "TSMC",
      "chgPct": -2.09,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Lynx는 AI 반도체 랠리가 연말까지 이어질 것으로 보고 있습니다.",
-   "title": "Lynx sees AI semiconductor rally extending into year-end",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalVXU0dlT0tBRlllRUVUMjdkVjYtOWQ0TWhQTTQxX2hDdmZuLUh6b285d25JQ0s1RzYtd19pTjdmcldHa3IzQjRYaXZuSUp0WlZZZW82Q0VWYzg0aGowaVVVUzgzLUZFNjBIeVllTGtQSGsyNURnd3hZcWI3YThXUXlZVS0wcWh6?oc=5",
-   "published": "2026-10-08T22:36+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.12,
      "asOf": "2026-10-07"
     }
    ]
@@ -205,6 +186,25 @@
      "symbol": "ASML",
      "name": "ASML",
      "chgPct": -1.59,
+     "asOf": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia가 10월에 엄청난 매수세를 보이는 1가지 이유와 투자자들이 주의해야 할 1가지 이유",
+   "title": "1 Reason Nvidia Is a Screaming Buy in October, and 1 Reason Investors Should Be Cautious",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn?oc=5",
+   "published": "2026-10-08T20:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.74,
      "asOf": "2026-10-07"
     }
    ]
