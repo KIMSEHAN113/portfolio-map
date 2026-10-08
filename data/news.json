@@ -1,55 +1,34 @@
 {
- "updatedAt": "2026-10-07T09:21:59+09:00",
+ "updatedAt": "2026-10-08T09:43:11+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "마이클 버리(Michael Burry)는 주식시장이 붕괴의 첫 단계에 있다고 경고했다. 2단계까지 6~9개월밖에 남지 않았다.",
-   "title": "Michael Burry warns the stock market is in the first stage of a crash — with just 6 to 9 months to go until Stage 2",
+   "summary": "JEPQ는 1년 동안 $300,000에 $17,970로 Nasdaq-100을 추격했습니다. 커버드콜이 필요한 이유",
+   "title": "JEPQ Trailed the Nasdaq-100 by $17,970 on $300,000 Over One Year. The Covered Calls Are Why",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFljVEJxbzRPNEJyUGhwRm9wdUE0ZmlYbGVnaUlrSXEwNktCOWdkMEVVV29pV1duZ3BERFU1OHVGNjJRRUtFelRfWFd1dEVfOThrNWhoWGc5Yk10RW81aGZrNE5DQTdFekZpM2lfemNneHVETFNnVlktUkxwZWY2OG1iVlJrUTNHRWppb1dWZU8xeWZ5ajRTZmFmVG14Zw?oc=5",
-   "published": "2026-10-07T08:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXJSa0IxR3JQWjZnQ182TnA4NERrckM5bU0zMUNZdkxqVG92VVpvQkdTWXBkNkxrMDVCWG1YLVNDSFBnemZzT1lpdzhxd2ZMNVNZSXpzUUg3WGVLZFNScmJaNUlHc3JpQU0yYWdMc3BPVGVYalNTYm93bmdZU21jdk1ydjFQR25CU3hUTVBPeEc0cHNfVVNN?oc=5",
+   "published": "2026-10-08T07:33+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-06"
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 마침내 On Semi가 AI 데이터 센터에서 주목을 받고 있음을 인정했다고 Jim Cramer는 말합니다.",
-   "title": "Wall Street finally recognized On Semi is gaining traction in AI data centers, says Jim Cramer",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczNYRlc4RlFoal9MMW1KQi14V0hNdGtKQlYtRElSbEJqZ3ZHQk5KdUpzWXZhVm4zc0YwU1p6ajdlT18wWFo4UjVxWDBhNjhFNHNrOG54M29WbExjbEp0a2tab20wSHhHTUhjOEJkZnRkaUFtZC1rUGtobVd4SnlKaHQ3Z2NGUTg0cWREZDdYakhFZTJhRzJfaGlFTm95ekxPVkVHdjJsdEJqR2tCTm1tSkhJLTJoeVNzUDV2d0VreUxCWk90YmRPd1BNNUdzZTRjalFGZzZKUzVYaXgtZWhqeXQ0MnM?oc=5",
-   "published": "2026-10-07T08:22+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘, 10월 6일 주식 시장: Marvell 주가는 회사가 2028 회계연도 수익 전망을 200억 달러로 높이면서 상승했습니다.",
-   "title": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
+   "summary": "S&P 500이 방금 새로운 기록을 경신했습니다. 지금 주식을 사는 것에 대해 역사가 말하는 내용은 다음과 같습니다.",
+   "title": "The S&P 500 Just Reached a New Record. Here’s What History Says About Buying Stocks Now.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkdiYml6UEM5WjRFdFFfSWJFRHZBUnlPZTNWNkJ0Uk9pMXJ3UU5waUdVMDFGdFFlUkZVT296MV85MjBJakg1clpsWmdBbDRlZFFrcVFpYU43V1diQmF5Rl9GMUxhZjBNdzNWZFpqaEJONm1OelNEWDZtUXBzRFdZUG9vWExQWmU3YTBqQXBtSTB6QlE?oc=5",
-   "published": "2026-10-07T06:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGczeXR3YnhTNUdmV2x5SkNLaFB2aWQ0UWJYMkIzdFFOVDdjY0E2dGNpaE5wak15a3VlazhkNGdtTF8zVUpka19DMHY1N252YnF4Q185Y0NZMHJ4eWpxODlHclhMVmd0cGZRc2tfOWJFTzYtNGU2cGVRc3FWVzBpd1ZISXRIdkxSaFZsU1NSVGtkR21x?oc=5",
+   "published": "2026-10-08T07:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -57,20 +36,20 @@
    ],
    "moves": [
     {
-     "symbol": "MRVL",
-     "name": "마벨",
-     "chgPct": -0.38,
-     "asOf": "2026-10-05"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "왜 V.F. (VFC)가 오늘 주식 시장을 능가했습니다.",
-   "title": "Why V.F. (VFC) Outpaced the Stock Market Today",
+   "summary": "우리는 주식시장이 156년 만에 세 번째로 어떤 일을 하는 것을 목격하고 있으며, 다음에 무엇이 올지에 대한 역사는 분명합니다.",
+   "title": "We Are Witnessing the Stock Market Do Something for Only the 3rd Time in 156 Years, and History Is Clear About What Comes Next",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0I5Vkg4N0tXUldEMTA2N3FDZlkxNDVYQ2QzU21WRW5RQ3hUU21jMHJLajdPNDB3MlN2UmE4cW5KZnNBb2tPZTRRUW5kX0M3SF9OQkpiWV9IUVNtbDJhYnQzdDBpck5kWVZXVEdNNkk5N1dEejRIQUZLdkw2QWE1QXMtWXFOMk13eHc3QXZR?oc=5",
-   "published": "2026-10-07T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXlpenNGWlhUZ3owYWx5UTV3OTZwSjE3TkYwWnlIeXdBdnJlTlVxSEVkb0xzTHNBSlVYQ3NNS1VyUXMxUXlydTBqX05BMTNHWFZjaE0wOXh3VHBsUXZmd0dNOC1pcmxoSm9LUmxSMTFGMjNaZkxoeTRpajB6Mk1NQWZEQUh0NmQxWUN2RXFLQjZHRFFTQmlhS3FCekhRNkstcHBWYXJ3?oc=5",
+   "published": "2026-10-08T06:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,18 +59,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-06"
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "아메리칸 타워(AMT)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "American Tower (AMT) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONURWMFdrZzJYUlN5aTU1eE9fRTZVTTlkTGlyeUNMQU13OUFSeHRuSjZyb2lzM3pudmsxS1ZqZmRPbUw5dW1pODZGaUpKT2hxMkF3ZVZXd1ZHVlBweXM5UTZxZGhPeGFMZlV3WkN5N1JRY3pMak1UQk80N3NyTGlpYXlqckE5aHRfbFE?oc=5",
-   "published": "2026-10-07T06:15+09:00",
+   "summary": "오늘, 10월 7일 주식 시장: Webull, House China 보안 보고서에서 19% 급락",
+   "title": "Stock Market Today, Oct. 7: Webull Plunges 19% on House China Security Report",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDdQdHh0MGpDTW55VUxFbUQ3eXRfaEtDTXpiRkV1VVRVNFc1RFI2dlo0NXRHVUQzd3ktZkppckdTZXZBc3dKeGphZjdVWWdmbi1VOVVrX09LSjVZbjdIVi1GUWtMaU4tTzF0bDBxS3lhOTJJamRsdDBSalFMYUNpZWRkVGdfek9kRXBQTS00QW1UV3M?oc=5",
+   "published": "2026-10-08T06:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -101,18 +80,39 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-06"
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 10월 7일 주식 시장: 국채 수익률 급등으로 시장 하락",
+   "title": "Stock Market Today, Oct. 7: Markets Edge Lower as Treasury Yields Surge",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDhpSktta0xIeDlVNUhyYVplTS1ZTTRBQjlHdmdjZW5sUURzc3FiajdRZjRxX0UwZW9yck1aeHNCSEJmeXQxQ2tqMWlWQk1qSEFqVnBBX1JVbllzMGZhUUxQV3pXSEY5UGdIZVdZZlJYY2tUUFdjWUxqdlI2a3dteGt1WkV0WWd0R1hrNll0TkxzVXM?oc=5",
+   "published": "2026-10-08T06:17+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.22,
+     "asOf": "2026-10-07"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SpaceX는 Nvidia 칩을 구매하기 위해 400억 달러를 모금하려고 합니다. - FT",
-   "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT",
+   "summary": "Jensen Huang은 Nvidia가 이제 수요에 대해 \"훨씬 더 큰 가시성\"을 갖게 되었으며 사상 처음으로 1년 전체를 예측할 수 있게 되었다고 말했습니다. 그 자신감이 Nvidia의 프리미엄 가치 평가를 정당화합니까?",
+   "title": "Jensen Huang Said Nvidia Now Has \"a Lot Greater Visibility\" Into Demand, Letting It Forecast a Full Year Ahead for the First Time Ever. Does That Confidence Justify Nvidia's Premium Valuation?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5",
-   "published": "2026-10-07T08:57+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXd1RDZwOVkxdWtvT284S3Eta3h4MHBKS1hOcVRLLVQ2U1VseWVic3htMjcxeFQtLW9lTXFNaE5PWTJmU1NnUFlPb1oyZkltQjdHczRORmhMSHR0VGstd05UQ3l1dTRnenI3bmVjN3lKZFJ1N3NDb3hJR3RoSmNGcWJGb0hiN2psS3J4MHRZRFM4N3pFaWI2Zg?oc=5",
+   "published": "2026-10-08T09:20+09:00",
    "holdings": [
     "soxl"
    ],
@@ -120,56 +120,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.12,
-     "asOf": "2026-10-05"
+     "chgPct": 0.14,
+     "asOf": "2026-10-06"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Sam Altman: NVIDIA가 6조 달러를 이끌면서 Jensen Huang은 \"곡괭이와 삽을 팔고 있습니다\"",
-   "title": "Sam Altman: Jensen Huang “Selling Picks and Shovels” as NVIDIA Heads for $6 Trillion",
+   "summary": "Micron Stock의 실행 뒤에는 실제로 무엇이 있습니까?",
+   "title": "What Is Really Behind Micron Stock's Run?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFdrSVhTendvcW9zVS1fQ2J0cFFxbDRvNU9RZWJ4Vm9uVVBnbWZ2aE45c3JaS3NHa1lNVWNtWjE4VlE4MXp6Q1p5b2dEcmZKQUczUFNoREFxY2dyUmc2c1k1azRMSElReExETFE1QXFOZUZJQXB0RHhyVndFc3JFNlU4S2lfMG1uLWNFamJCNm1kbUE2X05wTUVaam8?oc=5",
-   "published": "2026-10-07T04:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.12,
-     "asOf": "2026-10-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Marvell의 장밋빛 장기 지침이 AI 칩 주식에 미치는 영향",
-   "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1Nkb3FYZnpWel9pLWRQSVU2Q2tWeHU0S3RITlV0ZFh4QVNzV1BzNU9zc3ZieGVscUlySGZoeVZ4UUZuaUFvSlFBNU1wQWprbE9KT3lVaFlrM2hNQ1NtZGhYVENjS2tSXzRMcTRvSk1zbW9zenNKcjJvWVRRS0Q3a1p1RjBBb0tkaEVIbDF5QnVITllNWmt0OS1Ld2l4RmVNbG9SLTRRd3Y0MDhxTl9aNnZfRmh3SDF3?oc=5",
-   "published": "2026-10-07T03:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "MRVL",
-     "name": "마벨",
-     "chgPct": -0.38,
-     "asOf": "2026-10-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "MU 주식 경고: Micron, Netlist에 대해 알아야 할 사항 6억 달러의 특허 합의에 도달",
-   "title": "MU Stock Alert: What to Know as Micron, Netlist Reach $600 Million Patent Settlement",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHRLRDI3d3BaTk11TXNqREJVa2h0X3U0bFZGbUhKLTB6M1dtMXVneVd4M3VTZkhtOGR6X284OW1OM3A2RjNwZW1FSklYVVlleEVDV21JOVpSNVpFVEJpZzBuSWU2dkdMQmRZeDE2MUdJUE9ObnZXMERLMXQycFVrUlRoT3pGT3JFVWRteG9ncTNFVTN1ZUE?oc=5",
-   "published": "2026-10-07T02:42+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3ZLdmxVdk5KSWFEbXhpSkRJdVRkN3IxUFNNNXFBVHg4WmF5NGlJbUFCdGZ1S0RTTTRMU0RreHNudHR1OV94V3hiR2hZV05Zd3piZzRscGlDSS1td2cyMjFSajhHaFdHbWlBMlYxLXQ1d3ktTXpveGg5UVVaelF3TUlZZjg2NFNQYzBNUzNQQ051RjNISGZtSmx1aG4?oc=5",
+   "published": "2026-10-08T07:25+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -179,18 +141,37 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -1.02,
-     "asOf": "2026-10-05"
+     "chgPct": -1.73,
+     "asOf": "2026-10-06"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 주식은 역사적인 6조 달러 시가총액을 향해 올라갑니다.",
-   "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap",
+   "summary": "대만 반도체 제조업이 주목해야 할 3가지 AI 칩 주식을 주도하다",
+   "title": "Taiwan Semiconductor Manufacturing Heads 3 AI Chip Stocks To Watch",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTNGRlJ5akpEcGxQMmhNRjZrQ2VHRXIwZHBreUdBdXBtU0RYQjQySDYzT3NQeE56NFhobG9Ba2VUM2x3YW5OSm53a1Z3cGJvQ2swNF9vUkdFVlA1UmZJa28xNmM0ZTNHZ1NUU0wxOFowT2hheFVXSlpjWUNZQkU1ZHpwTEE5OFo5eWE5UHh1ekZGeDFSYmRTU0RDdUxnNGJMU1E?oc=5",
-   "published": "2026-10-07T01:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXRTTmNnNFdERjdmcjRiRzM1LVBlcmFkUHhHd2Q3dnUzMlZlYTFMQm8tS3dQQnJtRG1qdDNEVEw1V2VFTkZBeDREYW9RVmZsOVU0MU9rVjdJNG9DSDJKU2xMN1NiQkc2UGx2alpydGxJSHpDS3pyMEFOOTNaR18xMldpWU5IT2dneVkyNTBZTVNwWEtoMUdWMmV1MHYwVTRablhZaG1Cb3dPQQ?oc=5",
+   "published": "2026-10-08T06:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -0.72,
+     "asOf": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "더 많은 Nvidia GPU를 구매하려는 SpaceX의 계획으로 인해 Jim Cramer는 칩 주식에 대한 강세를 유지하고 있습니다.",
+   "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3VHQTk5eWd5YVdZbTh3MFg2UXFScU1YU0Q3WHBPeVVCMmlKYVNnSV9jcWdtSVIzWjVGLWVUdE91Z044c0ZoTi1GYk1TYmI2Skk1Wk0yMl9UNkxlSUluSnUyUnpHbEFvNVVEbHJqSGZGekVIOVlLMFVMY0VnOHh4M0F3WW5oQktXVno5bTlieVFZZzBrdnpGaVlXaVJSeU5veFEtMldfSDRxdW1Ta2N5ZlhleUVCUFQzTzQ0M0VDbkRlZ0RBNk1GSFFWdG5SXzZJZEtZ?oc=5",
+   "published": "2026-10-08T05:24+09:00",
    "holdings": [
     "soxl"
    ],
@@ -198,8 +179,29 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.12,
-     "asOf": "2026-10-05"
+     "chgPct": 0.14,
+     "asOf": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "1,069달러에 Micron 주식이 분할될 예정인가요?",
+   "title": "At $1,069, Is Micron Stock Going to Split?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFR2N1JoN3J1TkZrSTRYZUlBS0NILVV4MW5XS0tER0N2Q01lZzZVNkJia2ZmS2dzY1lZZFNocF9WSHVmVU8wVmlwdTliUFljSmlLdGZLSHNxWGtZNVFtMDJ1RWZIbi1BNlRYZTRPZXBwem1hNVlzb3NtbGoyMm12ZW90UDk4RWFCOWN1M3JsdHlEUzQ?oc=5",
+   "published": "2026-10-08T04:35+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.73,
+     "asOf": "2026-10-06"
     }
    ]
   }
