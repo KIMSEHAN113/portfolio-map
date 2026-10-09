@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-08T23:53:16+09:00",
+ "updatedAt": "2026-10-09T10:15:25+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "다우지수는 거의 200포인트 하락했고, S&P 500과 나스닥은 적자에 빠졌고, 국채수익률은 24년 최고치에 근접했고, 유가는 급등했습니다.",
-   "title": "Dow Falls Nearly 200 Points, S&P 500 And Nasdaq In Red As Treasury Yields Stay Near 24-Year Highs, Oil Prices Jump",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXBzd1pjd2JRLTZZcXpyaXZXNGJROTZnT2JGemk4OXJlQ2pZUWxJVmMyRUNVSXhQa08ydi01U3lkbTh2bWpjM0xtaHpXWmhDSERVekE2cGg5RU1tek9GS3Bock4xNTFRaE9zd2IwMWpsSGRCTWFXczg2RFFpNE5MZE9QVW9OWE55SVpkT2hmVDJRcVVCX2c4?oc=5",
-   "published": "2026-10-08T22:59+09:00",
+   "summary": "나스닥 CEO는 토큰화로 인해 수백억 달러의 갇혀 있는 자본이 풀릴 수 있다고 말했습니다.",
+   "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUtiZDhmeDA3V3hzXzlVLUdXVHB1bWpuTUY4T0E0Q19HTXE4QWZ4Zmp4ZUxWSmhtcUVCVE5tNDE0TWdzOTJ5VlEwTy1PRk5Ganl1RFJGRXY1Y2FjNndPZ3BCc1Ric184TV83MmVvcG9JZWhQaFBPYm9jUkFJajE2RWNSajVlb1ZNQ05PVUloYWViTERoUndvRnQ5eEdiRG9mWjhUVmtR0gGrAUFVX3lxTE56QVZjYWQ1SVNDT1Y2NVVRNGdaenMzcjdzQzNzN05ZZ2paSUxvblQzVXA1aFJxeWZVQi0xd09TMjcxdno4aVFmWUVsaHlMeFY1X0JSVUxiTjJ5a2NQOTZuNHhJSTB0QV9wSkZQaEVPdjlNUDVoai1XT1BoOHFHaWxDVTlSQU9XU3h3bTBrSDJ5cHJ5a3FDUXd2LVU1amdEMVdBajBQcURWVFc4aw?oc=5",
+   "published": "2026-10-09T08:57+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -17,24 +17,87 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
+     "chgPct": -1.25,
+     "asOf": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "짐 크레이머(Jim Cramer)는 나스닥이 폭락하는 동안 다우를 더 높게 이끄는 요인에 대해 이야기합니다.",
+   "title": "Jim Cramer talks what lead the Dow higher while the Nasdaq sunk",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3JBR1hQLXhkMUFPWDRTb1FEbEtVMUFGdkJnY3YwM2NQWGZJWG9wMHZ2Mlk4YTZ3dF9YLTRrR2hoeklBZGN6YlFpeGpwSGFFellrcllnUkE4VjNxNWMxZGxyOEZUakk2dWM3TDF4NU1jdGtvQk4tNkI4aTVwaHV5Tjdub1g3OEo0Q214ZXc4WlZuR1VRbXQ1dk5qb3NfRkFSRXFHOGp1VkZGZw?oc=5",
+   "published": "2026-10-09T08:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.25,
+     "asOf": "2026-10-08"
     },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 0.1,
+     "asOf": "2026-10-08"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트의 9-to-5는 끝났습니다: 토큰화된 주식 거래의 절반은 종소리 후에 발생합니다",
-   "title": "Wall Street's 9-to-5 Is Over: Half of Tokenized Stock Trading Happens After the Bell",
+   "summary": "Nasdaq 100은 예상보다 약한 OpenAI 수익이 칩 제조업체를 끌고 있다는 보고로 하락 마감 - NVDA, DIS, ORCL, SBUX 집중",
+   "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWUxeWJQaXFTYWx4UkxkdjlBMXhFbGhFT3R2NEZ3ZU1QY2U2Wi00SVU2S29pVnBMMmljVjcxZDVXSFBnTVBGeFlxSDl1VXZSSEVBVUZSS3NPU01mQmNjQmNRRWM4ODJxNmhRa3FfSzBNZF9EYVNYcTQxWGdwdU5RREJPZWpWUDBicXRQMGtudw?oc=5",
-   "published": "2026-10-08T22:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2xoRnp3UDUwRW5RZnFSem5ZOWt1Mk01bmFVb3l6ZGdrdDE3VXY5dVJiX21IZ1NwRVllYW80eVpJRVlsU0NFbU04S0d2YXRHeUJjRTRNZGlMZExjbXdXMk9FZTJoandYMGhFMVJhajZoNW5GTThxOHpTSDZIMmdDSlpJVDJ3RUI2aTk0emZCVDg3UWdRMFByZw?oc=5",
+   "published": "2026-10-09T07:55+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.25,
+     "asOf": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 10월 8일 주식 시장: Chipotle, 새로운 스타벅스 인수 보고서에서 6% 급등",
+   "title": "Stock Market Today, Oct. 8: Chipotle Surges 6% on New Starbucks Takeover Report",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSDJtRGVycUJuU3lyUUVENnkxeG5ETjlJeGozN2hlUEhfdFZTb2FrdkNjc0NBMWJlTmJFNmRhekdJSlZTVGlJR3JnX3p6cHNDaDdUYnhJbDV5amVjOGdlclpPbm4zXzltZnh3akxweml0M3JNLXl5ZXJXSWQyaW1KY0FIMXNZVVFKcXNaNWpaenQyQUk?oc=5",
+   "published": "2026-10-09T06:06+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.47,
+     "asOf": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "XLG는 S&P 500을 50개 주식으로 줄였습니다. 그 결과, 전적으로 메가캡을 중심으로 구축된 인덱스 펀드가 탄생했습니다.",
+   "title": "XLG Cuts the S&P 500 Down to 50 Stocks. The Result Is an Index Fund Built Entirely Around Mega-Caps",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWtGR1Z2blhFcjRSUFFUWmNlRGFDbVlQYlhwTnRLTGI5enlkV2NFT3ljTW1VU0RmYmZGVlhWeVMwMFctekpEZmtJVFVDdW42Z3phTnFfNWdhOFFVOEtITjAxYjNaeGNZbkZreGdjYTU5NTlmZTJscXNIekt0cmpmalVIMGhtWUNlWVlOXw?oc=5",
+   "published": "2026-10-09T06:03+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -44,138 +107,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Jim Cramer가 목요일 주식 시장에서 주목해야 할 10가지 항목",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHozamVtTkdmazNwTC11SE9nTm9iZVFMZDZHSmhZUmxXcGt4NTljRkxKUlM3R0F6NlM4U01UazJUaDdhcS1mcTl4d1N3a1ZRWFFjbW1jSElvYWc3MXkzQmFjSlcyZmdxcUFaS3o3bjJfTDV2WGd6NUE4T3B5TF8wUDdab0RVOEg4U25adFRtcFhnOENlRWxqOV9QZGl5azFsb0hJaEVoSF8wR0ZMeV92WmJESzM?oc=5",
-   "published": "2026-10-08T22:04+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Independent Bank Corp.(INDB) 다음 주 보고서: 월스트리트는 수익 성장을 예상합니다.",
-   "title": "Independent Bank Corp. (INDB) Reports Next Week: Wall Street Expects Earnings Growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVZvMnEzYjh3RUpmdThJQVFGY1h5SWhoNVVFcno4ejN4ekwyNWZ1bmNZUHFpZ29GTjhRWlVPeW9xdFZFMGhpczMtN0RvNG5Ea1otcHBpOTdKdUY3bXhyMHdaLVpseXJDWUJuZVR6clJjQ1pPUDFPMC1hZElKRHVtSmNFc2NkbkFwSnhZc2ZOa2ZHYlM1WVYxV3ZUSGhIYV84?oc=5",
-   "published": "2026-10-08T22:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "JB Hunt (JBHT)가 다음 주에 보고합니다: 월스트리트는 수익 성장을 기대합니다",
-   "title": "JB Hunt (JBHT) Reports Next Week: Wall Street Expects Earnings Growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHRpUEx3dE40ZEtSUnBtZ25RM3FrNGJ3V3BQbkVQcEgtLXJ3TWJEMmdBWWstUkExTVE4TThZUmVrT0pOQkRlbGU0clRKZkJORmdUdGhBXzdWT1EyNGRPaE9RU1dtcTVHWFIycDdNVm5Fa1VWSmRZYU12STBTUnpCS2lCTWZIeEFmdXBTZ21yOTZDSTJt?oc=5",
-   "published": "2026-10-08T22:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.22,
-     "asOf": "2026-10-07"
+     "chgPct": -0.47,
+     "asOf": "2026-10-08"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "억만장자 Stanley Druckenmiller의 주요 AI 주식 선택: Taiwan Semiconductor(TSM)",
-   "title": "Billionaire Stanley Druckenmiller’s Key AI Stock Pick: Taiwan Semiconductor (TSM)",
+   "summary": "Nvidia(NVDA) 주식이 오늘 낮게 거래되는 이유",
+   "title": "Why Nvidia (NVDA) Stock Is Trading Lower Today",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFpzYmt1N0lCM3hJWEV6WHdGLUFlZ18xNUF1cnhFWkp1NXNqU1Y2MEhMMjJ2UnRiMjZiZkxOQmlVdWdaYWp5bWZRRWY4X2dweTcteGtXR0ExN0xnNndMWnpWZFJ6d05ZZl91S0JSVnlEdVVtUmNFYzJERElxVnRydEJJZS0wNlhfNkZqdmZTTXhtSGNROGpYLWt3S0RlNFBPTWVQaldzdEY?oc=5",
-   "published": "2026-10-08T22:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -2.09,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Lynx는 AI 반도체 랠리가 연말까지 이어질 것으로 보고 있습니다.",
-   "title": "Lynx sees AI semiconductor rally extending into year-end",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT09rZUM5RU5BTmpVazJRSlFuRmdldzA5ZFppLXlTWUV0ZzNKcUdoTko4d054RzFNSmlnd0VyenhDYzQ0djg3V0l6bFBwUkd1cFNxMzdNSGZkTHlEUGwyM2J2ODhsMjBpMnY1YVpUeVFKVzhJZjMxRWducTVOTWZCVVdzWWR5R1Y3SU9Tc2J6dGx3aGcteEVHVDRPSV8?oc=5",
-   "published": "2026-10-08T22:36+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.12,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NXP 반도체는 Citi가 제한된 데이터 센터 노출로 인해 주식을 삭감함에 따라 하락합니다.",
-   "title": "NXP Semiconductors falls as Citi cuts stock on limited data center exposure",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0lub1NNRWJjRTctWFYtT3NDZW9udURldG50a0FyTHRveHVzVkJMM2FTS1RrMU1XbVl1ckVIX2JTRjJxNHFYdlZVT0lDcFBSRTFId1FfVkZLc0ZreDVFTGtlZkEyalVnUmF1bjhnRWUyRklvMG41TndsTjMwamdaUVZMMUE5RVQxemM4?oc=5",
-   "published": "2026-10-08T21:46+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.12,
-     "asOf": "2026-10-07"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia가 10월에 엄청난 매수세를 보이는 1가지 이유와 투자자가 주의해야 할 1가지 이유",
-   "title": "1 Reason Nvidia Is a Screaming Buy in October, and 1 Reason Investors Should Be Cautious",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn?oc=5",
-   "published": "2026-10-08T20:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV295TG93WHFzalBJS0VBUFFFSy1tVFNDS0hxY1I4R0NPWTk0cm9iZ05pZERubmFIU0tiZzV3ZGlZQnhpT1o0Nm5ST1N3aUVBZzB4X21NV0xkN2hmaUdzOVY0UWgycFU3bFVHY3dtMERIYjd1eUY2eUNwZDdjUWhIMXN3MXUtSkRfalNYNWY0SzVmTEJ5cFJsUENB?oc=5",
+   "published": "2026-10-09T09:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -190,11 +133,78 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "지금 저렴한 수준의 Nvidia는 매수인가요? 황소와 곰의 경우는 다음과 같습니다.",
-   "title": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases.",
+   "summary": "마이크론(MU)은 주식입니다 Jim Cramer는 주당 ~$1,000에서 ~$2,000까지 갈 수 있다고 생각합니다.",
+   "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2w2ZFpJZVRieFBZYW5EaDFRZ0kxUExyQ0lvdGpiVWlGNHpZNzRLY21EdlVYWkxTcGU0OEhsOU82bVNtSHhwZ2pQeFFhR0ZVZDVtVVp1Ul92azR6YVYyQjVBWE1wczhvZGdQajdUb0ZJNW9uNnNTeTVUOHBRczA4LWFZdlhxTVRBbXJTRzNTaXN2b2UycFR0M0VR?oc=5",
-   "published": "2026-10-08T18:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemotNkpWNDdBSHN2bmVTakNpOVQycmNsY3hJTkl0ajVpVnJyVGFEQ09QZmZLX0dpbnh6b0JFV0IxdDdOcURjc0c1X3NQdzJtYXl4LVQxSi1hazMxeHhqTlo5MXZiekVFVlpXY0NNbGVmb3UtOG5QMDRTVGRqSlBUMnA1Nkx3VmF1MDEyeVZ2TUdvelVPZkE?oc=5",
+   "published": "2026-10-09T07:59+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 4.06,
+     "asOf": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "삼성 영업이익 800억 달러 돌파. 마이크론 메모리 가격처럼 성장세가 둔화되고 있다.",
+   "title": "Samsung's Operating Profit Hit a Record $80 Billion. Like Micron's Memory Prices, Its Growth Is Slowing.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDlkb1k5WUlHbGt6Qmp1NHhEZlA1SVkwc2pvOGhvVG9xN0VrN1hUaW52TzdINzZUNVdKU0VmeUhCd2FjbDBORkRzaUVuMUtJRHk0cUJ6aXRRV0Z4V003ZVNydE51R1dDcFhFV0FFRHRoeTJ4Ni1pdmgxNUNqLXpFLVRHazd6aHdwcnhaeGUtQ3V2TS0zaGFXVkZlV1kxbUlZei1Z?oc=5",
+   "published": "2026-10-09T06:06+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 4.06,
+     "asOf": "2026-10-07"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": -2.42,
+     "asOf": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아(NVDA)의 200억 달러 규모의 Groq 거래가 법적 테스트에 직면해 있습니다. NVDA의 가치 평가에 중요한가요?",
+   "title": "Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1YwNUxRbHFBRGh4RlJaazdlUlpMNm9RRU4xZ1lYZ1ZST2hRTEQ1Umt3SW9XZEVMN0xBNDF0X0h4U2RSalJjSFUxVEthVHhLTXVnY3NyOF9xRzN4YmhObVRJSUVGejI0aHBzWEdFTFBPaVVRQ0Z6M2Q0aTBZRV85N3lkLVVDV0djalYzRnpBeW9uWFBoMlE?oc=5",
+   "published": "2026-10-09T05:54+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.74,
+     "asOf": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 미국의 차세대 기술 발전에 10억 달러를 투자합니다.",
+   "title": "Nvidia Puts $1 Billion Behind America's Next Tech Wave",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ254VjVqbHpudVRnTGhnS09hdkdzZ294TEZWQW9pR3U2bEVTUHhDSE1MTjQtT1Fxa1NGcGtLVVBYbC1jM0o4blVHSzE0aDNyRDRiUmdtREZkQVVVa0M4bldhZ3g2Mno0Q1BmZGFlb1lWSldOOHZ2N0NqSWp3V3N4QlhZblJIRWV6T09KVG5vNUo2UFVfS2ZZ?oc=5",
+   "published": "2026-10-09T04:04+09:00",
    "holdings": [
     "soxl"
    ],
