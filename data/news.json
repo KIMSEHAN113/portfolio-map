@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-10T09:56:36+09:00",
+ "updatedAt": "2026-10-11T09:15:48+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트 자금 관리자는 추측합니다: 비트코인이 10년 안에 존재할 것인가?",
-   "title": "A Wall Street Money Manager Speculates: Will Bitcoin Exist in 10 Years?",
+   "summary": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
+   "title": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1lYYWQ2d3VNZVFSZkVkSXJuRU9MZUVYcWFnSzF5VGQ0VWlYWXBpMk94QjM0MFB1c2JpLXV4R09oVG9GeWhrb0dsSWkxeXhMaGFoVnRyR1NPcXlwWmk4RzFiS1VKcEhmNmlZNjdaRkNSZkFLQlJXRXJSY29XQnA2VlhBa3U4b0p3V29GWGJsWDkwTXlUZ0hnb2xWODRyS1BKczhj?oc=5",
-   "published": "2026-10-10T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREFkaWhtUzBjblQwbHhwUVRveFR6eWUyYUsyTWJ6Qng2cVV5THZaTndsRnJya1pEVjNhRHBJMEpIbU1qV25ZMVRtblUzVUFyUTk3R0k5Mm01NjhNR0E5VEJ1QkRhR0ZjT3VfUkZyb1UxUE56TllIeVZUVWRVanNDM2wwUFRFbTVITHNza0dYWkFJZi1F?oc=5",
+   "published": "2026-10-11T07:23+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq 100, 다우 종가 상승 시즌에 주목하는 트레이더들 — MSFT, NFLX, SPCX, ASTS 집중",
-   "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
+   "summary": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
+   "title": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVJIRWMyVjcxeXo1b3l0RWRrcF8xd3BJTE9LR1QyT1VIZGJDbUxCTC12d1dNaU5Mcm5SQXJLZXBQN3pPN1Z6cHhTZWtFWTIyRkVHTGdlT3QzaFp3R29VYVRFeTZTUjlmcFdIU1VqMy1Ma0RfTHQ2ZnpuQm5MNzliTU9qSmdidnhPMEptNmZ3?oc=5",
-   "published": "2026-10-10T07:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG5DNkZhYzgzbk8yc1F0UGdMRVNqRndkYkhfcVdyMGZJMWRKdGxVYXYwLVlLZzVRUTRPRnQ5RlU5bk5Tb0c5MFpGd3RLU25EQ1RvOHBfRUJodkNiOVZ2WWlRU0llY0ZGTlBpMWRlcGU1RmtBS0xRZVlyY3Iwd04wZjFteVR6YmpnMDVWbUxqaWx1Q0Rx?oc=5",
+   "published": "2026-10-11T03:18+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -40,22 +40,16 @@
      "name": "나스닥",
      "chgPct": 0.64,
      "asOf": "2026-10-09"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.59,
-     "asOf": "2026-10-09"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "주식 시장을 점점 더 많이 보는 것은 AI의 성공에 대한 큰 베팅 중 하나입니다: Unlimited CEO Bob Elliott",
-   "title": "Increasingly seeing the stock market is one big bet on the success of AI: Unlimited CEO Bob Elliott",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzl1SmF1bDV6dFNfNWIwYWJkZ1B4Y0xoRi11QUc5OGkxenpNY1Y1UW1HSjFiNHhZOF9sRWNZWWJqbXo4S19XWS1kZGZGNTB1c05qY2tUNGNna25fOUxZVmRUanItMXF0bTMxZFBHZWlHUHFBX2g3aDI3d2U2Wm93ejQ2ek1sUVZJcjgzcWJIVk9GVWF0Q3VLcjdjSkRqQW54aURmczFKSjNTSEhxWjlwTWo2czhTQ0thOUQzLW9oWndrUExzb0wyaFBkRGROX0xlWmRmV05VOTE?oc=5",
-   "published": "2026-10-10T06:38+09:00",
+   "summary": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
+   "title": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUpROEo1aDY2MW85SDVLcWxxbllsdGo3aUlMT3FXOTRGQjBiYWhpX2RKenphWTFFcG82SVhoU01BaEFxYXpHemlVY2lLRUdCTXFHVUhSc29XZ19nWUNFZ3JxRlJCUjdXbHN3cENQMmw2V3c0aTA1V1lMaGU5MnNCMEVjUElLUFpyaFdGbUJqZFZlbldINDQ5cjR0WHVTbkdl?oc=5",
+   "published": "2026-10-11T03:12+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,32 +66,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Ruanyun Edai Technology Inc., Nasdaq 최소 입찰가 부족 통지 수신",
-   "title": "Ruanyun Edai Technology Inc. Receives Nasdaq Minimum Bid Price Deficiency Notice",
+   "summary": "Wall Street banks had a blockbuster first half. Higher rates will test the boom.",
+   "title": "Wall Street banks had a blockbuster first half. Higher rates will test the boom.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTFEZV9TcVJFRUFLXzJMMnZhbVZjdkE0SC0wa1dhdzh1bjRUTDN4WHVBdlE5WUJRSk5NWWoyYWx4ZkNwRGVGa1AyT3RlMlM4OGFVV2xQd2RPRmFMZlVkanctUUhJRXY1cFBjdDJabmtTdmxqZ05fcTdQdGp2OV9wY2I5S3JLVllSZjhaM1BoU3k0Q3pzdlhLS2Y4dHd2YVhqbFE?oc=5",
-   "published": "2026-10-10T06:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFhDLXA5ZUVZZ09ES0l2UlNKc0xFNnp3SFU2U3N3cl9QSHZJQ1cyTmY2cWdUR0V3NzBRM1hzNzRRSDV0ZDFQWDVaQy15NmNPTTF4cm96VE5kRnpSWTEtMGh1REVfYkI1WWdPYnFfRWppaXZONkh6ZVZBeXdkZm5TNHNQZ1ZWNjZXVldBcGFvOHFJa0FMZjBVcDVaVzZockE4VVVPWEFfSDVYNTEtWFNZZVRLT3liRGxTejBVXzNVVF9Kb2dKVWZwZlVXeElacFpN?oc=5",
+   "published": "2026-10-11T03:02+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.64,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.59,
      "asOf": "2026-10-09"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Zoetis (ZTS)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "Zoetis (ZTS) Outpaces Stock Market Gains: What You Should Know",
+   "summary": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
+   "title": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTFnZ0VnVG5wcTdBX2VMTlFPU0NIeXczeVVPQXlhZEVBZ0hKWkt1VkppVElzYTU3VEJ1bzNRN25SODNlZ3FGVTBIUktEZnJLY293Q3FjQURPZFhYcENMcDdmVTEzU25pbUM4VnNybHU5UkFMcUYwU2R0QTAwcVpYTkhlcjRsNFB1ZXRMa0FicTJNZVptZHNiU2VTUWt1Zw?oc=5",
-   "published": "2026-10-10T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDJuSFZXMzcycEFiNVlTWE9nVldLbU5EQlg5ZkVJam9JdU5hbGRocFd2QlNfRHVwTHN1eEJVcEx0UVZ4SWNvMWZtd1NLeVJBZVlsZ1JEUEt5ckdzd0lMdmVLWDBZd2R0c19GOU1iUHZqbElCT3FNYVRrSWdqRDI3ajl3Z0MwOVpMLVY2OGVDZDNzcDg?oc=5",
+   "published": "2026-10-11T02:40+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "물리적 AI란 무엇인가? Nvidia는 내가 소유하기 위해 사고 싶은 주식입니다.",
-   "title": "What Is Physical AI? Nvidia Is the Stock I'd Buy to Own It.",
+   "summary": "What a New Groq Lawsuit Means for Nvidia Stock Holders",
+   "title": "What a New Groq Lawsuit Means for Nvidia Stock Holders",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlQ0T2E4UjdmS1VsVEZuNTNaMnZxRjV0czJVRktJZENzTlZSTDFvdms3a1VKcG03V3cwZEpLdUt3LWkyWjI0eUJlMWprS25ac2w5NmJjTGZPTGxBV0RwQndOcS1uWUlsNkwtN3NwLVlUckUtUmhOQkdnRWpmNWxybUwxSEh0UTRrSjFnTjNKSFNCRE14ZEE?oc=5",
-   "published": "2026-10-10T09:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXVpcEdGbERBQ0RjbnpLVGEyZGQ2eW5lLWV3amRWd2UxX1VZTUxOOVl4N3hWZXBJN1pqcE9IOURrMnVuM2ZTeWJ3dEljTS02NGlFWndDNzZuUTJVZ0dXSlcxUTBpZjhZSEJPaDVpVTE2Q3NSY2NRR1hrX012aE5xd1dBVmlvOHNxNXZGNDhzNl9IdzdYdmhDTG5XT2c?oc=5",
+   "published": "2026-10-10T21:08+09:00",
    "holdings": [
     "soxl"
    ],
@@ -126,88 +120,86 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.94,
-     "asOf": "2026-10-08"
+     "chgPct": -0.52,
+     "asOf": "2026-10-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Elon Musk는 방금 AI 칩에 관해 놀라운 성명을 발표했습니다. 여기 주식이 도움이 됩니다.",
-   "title": "Elon Musk Just Made a Surprising Statement About AI Chips. Here's the Stock It Helps.",
+   "summary": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
+   "title": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWoxUi1kS2sySERLbzRvMWVVeHpIYkU1NkJIQTNNSFBBUFRnUGdBTTBvVHdFclVrMEJVRG8xVXJ5RFh1dWhid3dJSG90dFpBSmRwUmpvV3JuYXd5WmdXbEpJVjZkN1p6blVQRTYtUG43c1FRUWd1czZRX3M3NHZSVlpfR0FOOWNld1BmUzJ0bHMzRXExOFFKX2VB?oc=5",
-   "published": "2026-10-10T07:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcElfVlVvc1NhWjVLY1piLWdNcUJvQWhnLUUtTS1Ud0pXbDU3RHJXaldRWEdqdzc4blo3eWFCVGF3Ul9OelNESVlWbTBuTXhEdHBVRmlKdUdTTXNVY2xMQjZWRzU0TGUyWUstXzgzaGV5dHZGaTZkTGtkNmJaQTZOWTh4WWgwYXdWQktqTkh2SlBzSFZvb0JucUo3WkN4VmpoQU5NajBwQzI5bkFOa3dr?oc=5",
+   "published": "2026-10-10T20:17+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -3.35,
-     "asOf": "2026-10-08"
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -1.02,
+     "asOf": "2026-10-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론(MU)은 주식입니다 Jim Cramer는 주당 ~$1,000에서 ~$2,000까지 갈 수 있다고 생각합니다.",
-   "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemotNkpWNDdBSHN2bmVTakNpOVQycmNsY3hJTkl0ajVpVnJyVGFEQ09QZmZLX0dpbnh6b0JFV0IxdDdOcURjc0c1X3NQdzJtYXl4LVQxSi1hazMxeHhqTlo5MXZiekVFVlpXY0NNbGVmb3UtOG5QMDRTVGRqSlBUMnA1Nkx3VmF1MDEyeVZ2TUdvelVPZkE?oc=5",
-   "published": "2026-10-10T05:20+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.79,
-     "asOf": "2026-10-08"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jay Woods는 Micron과 DRAM 시장의 큰 상승을 예측합니다.",
-   "title": "Jay Woods sees big upsides ahead for Micron and the DRAM market",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGFvWGVyNklYOWhqd0JDeDd6dTBpcmh0a1lTOEtDZUZLcTBoeDZDWWpiTjdzTGlGN0tIWXRxbkNoWWk3NlRrWU9IRnRidTY3WjZ5Rnd3eWYtQmxqbHhmTTdZNkFEYUVLbTN6QXFRTG1MaC1ESFdmZnB0RWlnaFZ5Nk1SVkEwaDlzaEdEMTcxeE5sajQzYTlpd0JVUTBxanVxYnFlUDVhU3RtUQ?oc=5",
-   "published": "2026-10-10T04:30+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.79,
-     "asOf": "2026-10-08"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Stifel 분석에 따른 상위 AI 반도체 주식",
-   "title": "Top AI Semiconductor Stocks According to Stifel Analysis",
+   "summary": "Roundhill Memory ETF (DRAM) stock price, news, quote and history",
+   "title": "Roundhill Memory ETF (DRAM) stock price, news, quote and history",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU1fRmtLYVlIamFXb2RVNVB1V3hyek9ibVZzM09lMmJkQlRZNzcyUjFVc1VOMUQzT2tIMWU5QzZ0dmNZcGR2Q0Z4eV82cG83UEtXMFZKdVJ3S0p4b01TQXBMLTFVRUZxM3lzQjF1RkpHdUh0THVId3FGZ2NUMWQyTnh6MldJMloyZlp2TFBLaw?oc=5",
-   "published": "2026-10-10T03:52+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwWVllNy1xNHVzemlNa3Vtd1ZTakxUaFNnY0hxcnFRLUZuM05XTGJTUEJaRXZrMmVUcVhBd2FGa2VQbUx1SElfemhZa29hdi13NFE?oc=5",
+   "published": "2026-10-10T18:25+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -3.35,
-     "asOf": "2026-10-08"
+     "chgPct": -0.69,
+     "asOf": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Funding Puts IonQ Stock And US Quantum Computing Shares On Watch",
+   "title": "Nvidia Funding Puts IonQ Stock And US Quantum Computing Shares On Watch",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDNtbFpFUG81QlltUDF3RXE2R2VNVzlrU1JoeEtCXzlpVVFYQzBCN3Y3THpCWkJRUGtpbXg5NEhjUXdQZGV1Y19ORUhWdElVa2tzU0x5N2lvZnV6bFNXTm5xSkxONnF0YVJEbFNNcTdzUElHN0dRS1RteUl3bmw2TTN0QllyNHN1WmlqMEg4Ykh0cnJrSjM1QndQWQ?oc=5",
+   "published": "2026-10-10T17:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.52,
+     "asOf": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "The 1 Number That Would Change My Mind About Nvidia Stock",
+   "title": "The 1 Number That Would Change My Mind About Nvidia Stock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3lUM3JDanFzOVBtc2xJR3ZTc2RER25CXzhwUVh4cVVLUU5yenlNbUFYd2tvMjBranJRMlBLWEs5NHpDVG5qVTdJbFFWRmdhRlVWVk9tckk5bkRCcENmOXFxQm5yMGZDa3lMbW4zYVQzeFlpVnUxSjNxbWM5TXR1RVJNbzZRaG1ERXhBY045Smpnd3FPRVNn?oc=5",
+   "published": "2026-10-10T17:07+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.52,
+     "asOf": "2026-10-09"
     }
    ]
   }
