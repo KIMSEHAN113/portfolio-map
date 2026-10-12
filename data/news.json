@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-10-11T09:15:48+09:00",
+ "updatedAt": "2026-10-12T09:36:46+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
-   "title": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
+   "summary": "Elon Musk는 Intel에게 월스트리트가 무시할 수 없는 새로운 문제를 제시했습니다.",
+   "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREFkaWhtUzBjblQwbHhwUVRveFR6eWUyYUsyTWJ6Qng2cVV5THZaTndsRnJya1pEVjNhRHBJMEpIbU1qV25ZMVRtblUzVUFyUTk3R0k5Mm01NjhNR0E5VEJ1QkRhR0ZjT3VfUkZyb1UxUE56TllIeVZUVWRVanNDM2wwUFRFbTVITHNza0dYWkFJZi1F?oc=5",
-   "published": "2026-10-11T07:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXgtUDg1eWJZTV9sYWxBY2lrWEJHMXVNVWlUV3lGeUtaLTBVMGZfM3E2S3RENTNuYWFJaXYtT1ZXamw2M29WYUp1NUZSV3JzUnFhdmRYQnpCbFc4cUJVcHBzeF9oQk5QMTh6ZHNjNG5lRThQclZpZTJBWE56VUtCSHZsaUxiOFVRLTZHTHQ3ZzExdVFlcGUw?oc=5",
+   "published": "2026-10-12T05:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -2.22,
+     "asOf": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "이번 주 주식 시장에서 주목해야 할 6가지 주요 소식은 다음과 같습니다.",
+   "title": "Here are the 6 big things we're watching in the stock market this week",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2YxLW1hNU9OSmstaDQwUk8wN014dll0bGtCTGNNWlpNODhSN2RUcXZ1aHBJSGM1T2RTdXd4V2F2NVhvMkgxOFI2LVJ2ekYxZldEVFF5eC14ZG5qdllSNXN4VllxRkV0aVd4M2xYdElMWW12VGVmQzRTUm9UZEVTWjI3cFBWdjdCd3FUOW0waDVKTTFJV2R3MGJJZXRCaEZpOVRtczdkVEw1c3EwQWh5RHRXS05sN1RILXRWOQ?oc=5",
+   "published": "2026-10-12T04:46+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,32 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
-   "title": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
+   "summary": "Cboe(CBOE)는 S&P 500 옵션 라이선스를 연장하고 KPI 바이너리를 공개한 후 12.1% 상승했습니다.",
+   "title": "Cboe (CBOE) Is Up 12.1% After Extending S&P 500 Options License And Unveiling KPI Binaries",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG5DNkZhYzgzbk8yc1F0UGdMRVNqRndkYkhfcVdyMGZJMWRKdGxVYXYwLVlLZzVRUTRPRnQ5RlU5bk5Tb0c5MFpGd3RLU25EQ1RvOHBfRUJodkNiOVZ2WWlRU0llY0ZGTlBpMWRlcGU1RmtBS0xRZVlyY3Iwd04wZjFteVR6YmpnMDVWbUxqaWx1Q0Rx?oc=5",
-   "published": "2026-10-11T03:18+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.64,
-     "asOf": "2026-10-09"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
-   "title": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUpROEo1aDY2MW85SDVLcWxxbllsdGo3aUlMT3FXOTRGQjBiYWhpX2RKenphWTFFcG82SVhoU01BaEFxYXpHemlVY2lLRUdCTXFHVUhSc29XZ19nWUNFZ3JxRlJCUjdXbHN3cENQMmw2V3c0aTA1V1lMaGU5MnNCMEVjUElLUFpyaFdGbUJqZFZlbldINDQ5cjR0WHVTbkdl?oc=5",
-   "published": "2026-10-11T03:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVZPc2p6TS01cHhrSkVxWnVyZENVLWJpRndYMHRtMzFVN1pXcWU4VEd4MU5SS0dNUWNhVGVVeUsyTXJPSEE5cXZnY3Z0d2dKTmFOcFE0Nklic3VwRnYwcGFrcmZJLWpkWEFfWDNaa3BhVE5pTGphQzhUSGlEQzV1bzNwWFlOOWxoV29IbE5SUFpVSFEy?oc=5",
+   "published": "2026-10-12T04:09+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wall Street banks had a blockbuster first half. Higher rates will test the boom.",
-   "title": "Wall Street banks had a blockbuster first half. Higher rates will test the boom.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFhDLXA5ZUVZZ09ES0l2UlNKc0xFNnp3SFU2U3N3cl9QSHZJQ1cyTmY2cWdUR0V3NzBRM1hzNzRRSDV0ZDFQWDVaQy15NmNPTTF4cm96VE5kRnpSWTEtMGh1REVfYkI1WWdPYnFfRWppaXZONkh6ZVZBeXdkZm5TNHNQZ1ZWNjZXVldBcGFvOHFJa0FMZjBVcDVaVzZockE4VVVPWEFfSDVYNTEtWFNZZVRLT3liRGxTejBVXzNVVF9Kb2dKVWZwZlVXeElacFpN?oc=5",
-   "published": "2026-10-11T03:02+09:00",
+   "summary": "콜럼버스의 날, 원주민의 날에도 주식시장이 열리나요?",
+   "title": "Is the stock market open on Columbus Day, Indigenous Peoples' Day?",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3lQcGxYRDNCRGdkUHE0bk9QcXh1Vmt0NC1ETGhHUjJsb2JkcHF3TGw5Ti1tdTZQdWZ5LUw0bzV6RkRyUVlRcUVUSWd2VzBGLWx6U2NQSlJfVjJGTHZ3dklkUnFIN1pQSWpNQ1V0UDlnY0FVdUlSODd0UUdGTTRUZFZaemc1d3Y0dFRzUVNEdFFmZmNHSF8weU54a1FhUkJQd1BUWF80Rkt0WW5zS2R1STBjS3R6VG1HYWhaM1pPb0I5dzVmMVdhcHp3enpyZzA?oc=5",
+   "published": "2026-10-12T04:01+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
-   "title": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
+   "summary": "CoreWeave가 방금 엄청난 새로운 AI 기회를 얻었습니다. 월스트리트는 59%의 상승 여력을 갖고 있습니다.",
+   "title": "CoreWeave Just Landed a Massive New AI Opportunity. Wall Street Sees 59% Upside Ahead.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDJuSFZXMzcycEFiNVlTWE9nVldLbU5EQlg5ZkVJam9JdU5hbGRocFd2QlNfRHVwTHN1eEJVcEx0UVZ4SWNvMWZtd1NLeVJBZVlsZ1JEUEt5ckdzd0lMdmVLWDBZd2R0c19GOU1iUHZqbElCT3FNYVRrSWdqRDI3ajl3Z0MwOVpMLVY2OGVDZDNzcDg?oc=5",
-   "published": "2026-10-11T02:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQktHeHItb0VGeUJVZTViRWxxZnZjTnhwQ3BtWGVjMTlEeHZHYnBfdVN1M2RKMElfOWtSTm01dVNhcUpraFJFMVppZENoaGZLVTUyZnh1VHgwMHFtTE5oWnA4aTJEbHVKVG05TGNuNmo5LVRka0lPZHpVRl94TGI0RjIxaFlyUVNFNkloMTkzbTQ4QUx3b2l2RHNoblc?oc=5",
+   "published": "2026-10-12T02:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "What a New Groq Lawsuit Means for Nvidia Stock Holders",
-   "title": "What a New Groq Lawsuit Means for Nvidia Stock Holders",
+   "summary": "SpaceX나 Nvidia에 10,000달러를 투자할 수 있는 선택권이 있다면 다음과 같이 하시겠습니까?",
+   "title": "If I Had a Choice to Invest $10,000 in SpaceX or Nvidia, Here's What I Would Do",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXVpcEdGbERBQ0RjbnpLVGEyZGQ2eW5lLWV3amRWd2UxX1VZTUxOOVl4N3hWZXBJN1pqcE9IOURrMnVuM2ZTeWJ3dEljTS02NGlFWndDNzZuUTJVZ0dXSlcxUTBpZjhZSEJPaDVpVTE2Q3NSY2NRR1hrX012aE5xd1dBVmlvOHNxNXZGNDhzNl9IdzdYdmhDTG5XT2c?oc=5",
-   "published": "2026-10-10T21:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0lHUE45N0lZSHZRS3h2ajNCT09HUFA3NHNwNFZvcWlrLVA4cmJqSnBPX1Q3Ql9Lck5pckpJUnRSVjhvY2VWeENlLUhXNXJOU0pYZm03bk5EZEdmR1dhV012V2lwNU1udF9raGpXRWZPZVlIMm9vWTZMdExoMEhULTNTV1hWZGc3RlVCb1k1R1FGb1U?oc=5",
+   "published": "2026-10-12T02:38+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,11 +127,51 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
-   "title": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
+   "summary": "Cathie Wood, 인기 반도체 주식 1,580만 달러 매각",
+   "title": "Cathie Wood sells $15.8 million of popular semiconductor stock",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcElfVlVvc1NhWjVLY1piLWdNcUJvQWhnLUUtTS1Ud0pXbDU3RHJXaldRWEdqdzc4blo3eWFCVGF3Ul9OelNESVlWbTBuTXhEdHBVRmlKdUdTTXNVY2xMQjZWRzU0TGUyWUstXzgzaGV5dHZGaTZkTGtkNmJaQTZOWTh4WWgwYXdWQktqTkh2SlBzSFZvb0JucUo3WkN4VmpoQU5NajBwQzI5bkFOa3dr?oc=5",
-   "published": "2026-10-10T20:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkMybTFrUmJQWlBPeXU1cUpWQml4VjBpQnBpZ2dLUDJkbWJvaUp4d3FWaWNoWlBhejdGbXVPbmZRX2Rwd29nY2lBb0NOd0QxeS12SlhRUDBuekhxRld5MVNKMEJqQ3ZZSjNXSDhnbmh3d05HUkIzUzVkUlRXSmVhSVE3bHQ0ODdSMzZ3bkF3UUI?oc=5",
+   "published": "2026-10-12T01:03+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -0.69,
+     "asOf": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SpaceX vs. Micron: 향후 5년간 보유하기에 더 나은 인공지능(AI) 주식은 무엇입니까?",
+   "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjRkNmdXalhQbUJ1eXlmRUJmTjI5VGtLeWZGa2xvdjFhYVBrUldZeHFvdjE5UVRzWE1EY3ZDR29HcEplVjlJVUQwNDUzNzJwT0VPU1BJS1l4VkkwZjNzYzdSR3JPRmxjcXIteGozN2pZRWs2VktDektxMm5uNjVzelZkNDNJWEtCZTZETXY2MDRLOTAyX0FEcVQ3ZUx5dGc2?oc=5",
+   "published": "2026-10-11T21:05+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -0.66,
+     "asOf": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "대만반도체(TSMC) 10월 15일 실적 발표 시 주목해야 할 3가지",
+   "title": "3 Things to Watch When Taiwan Semiconductor (TSMC) Reports Earnings on Oct. 15",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1VKOW43U0xGYzlfLXZhbVlydUd3Mmc1RnFNSExEUVJCM01rbHIybklPbDRwRkpxSE1wbjdsT2V0UlloR0ctU1dlSTBZblc3LVZOS2p4STI4aUNIQlpPejNqWmlGdzd3SXBNcjNOekVtSWhGYzRFdGFUbEh0emcxQ2dzNzVCV25KZUpFX1V0VktzU3Nub0dzN0ZfanhTRGMzX2c?oc=5",
+   "published": "2026-10-11T19:25+09:00",
    "holdings": [
     "soxl"
    ],
@@ -146,51 +186,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Roundhill Memory ETF (DRAM) stock price, news, quote and history",
-   "title": "Roundhill Memory ETF (DRAM) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwWVllNy1xNHVzemlNa3Vtd1ZTakxUaFNnY0hxcnFRLUZuM05XTGJTUEJaRXZrMmVUcVhBd2FGa2VQbUx1SElfemhZa29hdi13NFE?oc=5",
-   "published": "2026-10-10T18:25+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.69,
-     "asOf": "2026-10-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Funding Puts IonQ Stock And US Quantum Computing Shares On Watch",
-   "title": "Nvidia Funding Puts IonQ Stock And US Quantum Computing Shares On Watch",
+   "summary": "Nvidia는 이미 지원하고 있는 250억 달러 규모의 오픈 웨이트 모델 스타트업인 Reflection AI 인수에 무게를 두고 있습니다.",
+   "title": "Nvidia Weighs Buying Reflection AI, the $25 Billion Open-Weight Model Startup It Already Backs",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDNtbFpFUG81QlltUDF3RXE2R2VNVzlrU1JoeEtCXzlpVVFYQzBCN3Y3THpCWkJRUGtpbXg5NEhjUXdQZGV1Y19ORUhWdElVa2tzU0x5N2lvZnV6bFNXTm5xSkxONnF0YVJEbFNNcTdzUElHN0dRS1RteUl3bmw2TTN0QllyNHN1WmlqMEg4Ykh0cnJrSjM1QndQWQ?oc=5",
-   "published": "2026-10-10T17:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.52,
-     "asOf": "2026-10-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "The 1 Number That Would Change My Mind About Nvidia Stock",
-   "title": "The 1 Number That Would Change My Mind About Nvidia Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3lUM3JDanFzOVBtc2xJR3ZTc2RER25CXzhwUVh4cVVLUU5yenlNbUFYd2tvMjBranJRMlBLWEs5NHpDVG5qVTdJbFFWRmdhRlVWVk9tckk5bkRCcENmOXFxQm5yMGZDa3lMbW4zYVQzeFlpVnUxSjNxbWM5TXR1RVJNbzZRaG1ERXhBY045Smpnd3FPRVNn?oc=5",
-   "published": "2026-10-10T17:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYV9Ed2N5WTI3cVNKcXBzZFRmVld6OXdwZ3BTMFdEd1IzVWVqbUZkbnIyVUZ1WmNKU3duem0wSlFucHlxOU5Ic3BvMW5fSllOc2pXR0oxMWxTYVZkUU9zZGEzd2VhOS1DclJCVTJJYl9mTFVzRDNkb21lSVdrYjZUUXhtLTBrV3A3MjM5ZU9kQTQ1M0V4RzZteTRmR3RwT3c?oc=5",
+   "published": "2026-10-11T15:57+09:00",
    "holdings": [
     "soxl"
    ],
