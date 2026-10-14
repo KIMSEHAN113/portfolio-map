@@ -1,76 +1,13 @@
 {
- "updatedAt": "2026-10-13T11:36:30+09:00",
+ "updatedAt": "2026-10-14T09:20:28+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "아시아 기술주가 월스트리트 칩 매각을 추적하면서 SK 하이닉스, 소프트뱅크 주가 급락",
-   "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckowaE5BVEtNWm9RQkFrSWVMc0MzVzNHNFBubU9hWlJQM0gteG50U1RFWjdsU2w4RnJYemd0ZnIxVUhUeWgzd0VFTi1wMkN4bjczYjlib0Q4RXRyMnhmd3FUT1BhaHRsZHhsdUFVRTZUVkNGMG50RDNxTDA1Sm8yQ0Etdk5weDFOcEd6elpMRWhzWlA2Qnp4aDJWNmRCMkHSAaQBQVVfeXFMTjFRUXlfM2otZ1AwbmQ2RDVLQUtnNUJxUGlDS2V2V2owSmc0WGxUVmJINTRrRzhWejBqc1N4S0dNNjlhbnFJSzcyZnpqYWpRcEZmai01QndvdW9sWXBTbXcyWEFzZHA1d0VzWVZVdU1yUE9uaDZBZjFjNGl6aGs1SGFtWmpYS1dTUDZDVWtIOFJNM2xOdng0TE9YTmhsTHhnTk9XTzg?oc=5",
-   "published": "2026-10-13T11:08+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -2.44,
-     "asOf": "2026-10-08"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "JEPQ는 11.27%를 지불합니다. 덜 알려진 이 나스닥 ETF는 월 13.58%의 수익률을 올리고 있습니다.",
-   "title": "JEPQ Pays 11.27%. This Lesser-Known Nasdaq ETF Is Paying 13.58% Monthly",
+   "summary": "오늘, 10월 13일 주식 시장: Cipher Digital, 8억 5천만 달러 컨버터블 노트 제공에서 13% 하락",
+   "title": "Stock Market Today, Oct. 13: Cipher Digital Drops 13% on $850M Convertible Note Offering",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnUtQmd2ME5NaGx6ZnF3WlVRek5DbmMyall6ellzNEpSNzRaalQxb3pUcTA1OHVBQzQ0UzlZcGRub3hOV0wwMzNhdHBHZy1TdFJZVWhzTmlaTDBQQkhWVm9FZzhCQVE5ZktxYWQ0VE42czhoQkNZRUtfc1dUMVRYcklhdERLV1k1SjlZOERYeFY?oc=5",
-   "published": "2026-10-13T07:03+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.44,
-     "asOf": "2026-10-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500을 소유하기 위해 VOO를 구입했습니다. $500,000로 한 칩메이커는 $40,400입니다.",
-   "title": "You Bought VOO to Own the S&P 500. On $500,000, One Chipmaker Is $40,400 of It",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUh1bnM0Tm9iUDVvT0QtWHZTQVJQTGFidlZKd2pMeDBaZnlkZ2FHcHpOSXVmRTlCdlFZTndacy16NEJCVjBabFV6S2dIUklqR1BzSmJvUkdRNmtnR1UzS2lYMU5LYWY2WUp0M1Y0RW1saS1ibHRqaDFxOHk0QUluNjFSWVMwQURHbzJjMGJ3?oc=5",
-   "published": "2026-10-13T06:33+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.06,
-     "asOf": "2026-10-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "우리는 주식시장이 156년 만에 세 번째로 어떤 일을 하는 것을 목격하고 있으며, 역사는 이것이 다음에 올 것이라고 제안합니다",
-   "title": "We Are Witnessing the Stock Market Do Something for Only the 3rd Time in 156 Years, and History Suggests This Will Come Next",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekl0aDBEXzh6anhscC1sTHFoSUhReUtXaEZ4UjBvbFFKak91b3VvY1hQTHpBLWg4TkNYTlpUZEk5c000djc4dUNrSDNlZFlhMWR3ZDJTdlNlbTFjY2k2SktMWC02VUQ1N21oQzNQU1M1SEt3bFMyVTdZSEw1MTB0aFIyV1daaVlRUThhY3RxemNfLU4zM0lMNEJzeS1OcG1CdG0zMlNR?oc=5",
-   "published": "2026-10-13T06:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXBrLW13dlNWU1JEVldLb1NnUXIxTFMzR2l1UGpZVzdxTUIwQk1FTU5PS3BCTmVzT05vUnlSZml4S3lFemNVRzJPdUI1b1NDSjR3TUNwVXRpSnZ3c0wwbnRhX1ZyUmdudWlmTGlmdFN0bTNxa0FTSi1FT0lvS3lIV24tU3d6Q1FWYmhUbVBDN2xqdl9R?oc=5",
+   "published": "2026-10-14T07:04+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,45 +17,121 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.06,
-     "asOf": "2026-10-12"
+     "chgPct": -0.02,
+     "asOf": "2026-10-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 10월 12일 주식 시장: 메모리 주가 나스닥에 부담을 주면서 다우 상승",
-   "title": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
+   "summary": "이 3가지 국제 배당금 ETF는 지난 1년 동안 SCHD를 능가하고 S&P 500을 능가하고 있습니다.",
+   "title": "These 3 International Dividend ETFs Outyield SCHD and Are Beating the S&P 500 Over the Past Year",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelFmSHJ5MlB6V0w1eXpSSDJyeklJWEJReHlBR3ZSNGFubkpWVnpsT3NLVzFSQ25rQnY3ZWRUdDNJNkhsdnNuUE9OU1dUZFlIcEJwanQwejN1dS0td24zX25DNTN1T0pHdktjakpWSWpTLUhyTm9NelVvbVFYUERJanFSN2x2QXlocFFTZHF5bGV3SXp1?oc=5",
-   "published": "2026-10-13T06:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVdldVNLdWVLUHJJY0dOU0UycTFVZkRzZWhpSWI2MElMdW5zSnN6aTNYbDNVclRFc2huazlaVWZIZEtVd2NpcVFNWjRTcDM4N1E1bEN1U0JyOWhNZW8wbkdpSkNDNVlsak1scGxPVlNaemMtMjVfODIyY0pYUUU3OGEwVXFoaWRrVGJWdUQ1ZGVLVzhpd2xNYk1CWW9mZ3Q1Vk8tdG1B?oc=5",
+   "published": "2026-10-14T07:03+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Ken Paxton은 두바이에서 도망자 2명과 파티를 했다고 Wall Street Journal이 보도했습니다.",
+   "title": "Ken Paxton partied with 2 fugitives in Dubai, Wall Street Journal reports",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnlPbndDUGlNSXMxSnQyUHB6U0gwaW52TXQwUEwwMWlZUVh6NENrb1VMQnZaOUlac2lRYkthZ3JSVFBfeEVRVFBQc2JrODJPOUk4My1wTGdYR0ZsZG9SQU5xdE9PQVZQT2YtUXNaZUlqRDlsVW1LMVRLbFpvRU95N1NQT2poM0RTT1o4NkZVY2w?oc=5",
+   "published": "2026-10-14T06:12+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Five9, Nasdaq 상장 규정 5635(c)(4)에 따른 유도상 발표",
+   "title": "Five9 Announces Inducement Award Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1dVM1hFTVJmUzVnUmc5UnlEVElJaW9ycnA0U25iQS1WMW5fVE1sUkIzN01FTW1NMkdXZG1tZVlUeHRRbnZUNnNyTmpHM2tyYUE4alJUdE56dTBpSGp5eFVwc01JenRsZkloWU5VZUw3amFvdnlOTDZFbVR5SHJtX01aWGhwem84a0h2LXM2NlBaMGxQMUZqdkxteUo1eGxELWJ1dDRn?oc=5",
+   "published": "2026-10-14T05:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -0.44,
-     "asOf": "2026-10-12"
-    },
+     "chgPct": -0.15,
+     "asOf": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "9월 CPI 보고서를 앞두고 주식이 고전하고 있습니다: 오늘의 주식 시장",
+   "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXUtamxXVzBQa2ZqdEtqbWpkdWxFTkdQb0lZN1I2Vlc5UWdNakcwQUFBVWVzRnBjeFI3R2huWURjcGxUeVJVODZqUnlsRVctUlZac0JkaEFNZmV4WG42ajFaaUlmaFVxNFNId2xqYWN5c0E2dUE3dW9pSTFsd25PNFRWQnlKYThyNHF0OUxjQnh4Y2hLMnJWY0RseDBwLVFRX0E?oc=5",
+   "published": "2026-10-14T05:08+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.38,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.02,
+     "asOf": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "5년 후의 Nvidia: 주식은 어디로 향할 것인가",
+   "title": "Nvidia in 5 Years: Where the Stock Could Be Headed",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbm04VVBmVXpkd2JycjZoRmhEaE0zMWpScFVMT0dhbEo3US1WaG1rMncyT1FnQjYxOVMzUGZza0xyUUpTNWdYMUVwV3ZhQmFIZFI0d1JudjBzT19mT0diajBpbVpkSzJETEhUaGw1cHgzUGhrQ1FGS1dqZHdITWRMc2tPZlJ3WWg2cnd4N0pjRTM5TERWYkE?oc=5",
+   "published": "2026-10-14T07:26+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.29,
      "asOf": "2026-10-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron 주가가 3,000달러로 향하는 351억 6천만 가지 이유",
-   "title": "35.16 Billion Reasons Micron Stock Is Headed to $3,000",
+   "summary": "마이크론 주식의 다음 단계는 무엇입니까?",
+   "title": "What Is Next For Micron Stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkFqUDNtUWtyaG9DbmdwSUx6dlVCdndpSXNDVmV4a2RaanlGZC1FSEIwLVhWTjA0d0tPcUJrMmlEUUNwV1NjU1NjdlBBcnFXd09lb0VPWkdfWDVjUnROQWJHN1NFVkM2bm1BVXhnekNvazY1alRJZUg4NEpvalp4SkRtY2xLQXRNTjVSWTdRbWd6QWcwV1Bjag?oc=5",
-   "published": "2026-10-13T09:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEhDOTFXM083WkppYWpwcFJLWElBcWliQ1NtSXJXWEhFdXZuRmV2dXZsOHN5amFGYUF5eEpNeTFRcGdmUmRINWZoaW9US1RYMk5Gby1MV2Y5R2VfMUZTbGRPRU1BX3FxQW1wTEtzN2VvM09LZERmdjJGXzB5R3VGU2NZN2lfREl1bmc?oc=5",
+   "published": "2026-10-14T04:06+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -135,76 +148,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia AI 인프라 파트너십으로 Navitas 주가 5% 급등",
-   "title": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
+   "summary": "오늘 마이크론(MU) 주가가 하락하는 이유",
+   "title": "Why Micron (MU) Shares Are Falling Today",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcExtOURDNzlUMVFuOXpnVmpMQ3VVOTJpVnVOZFlPalJBbVplaHdIb2VkYUJSQzZqZ0hLdHZWaDFCbzNvak5JbFl1OGcySmptNm9Sc1dVS3BSUHozU2E0MjRWbE1jeW1DclJLQjhqX3RXQXlVTVVfandvSHpCRFdHSHF5UTdTbGpSMzdrUElSYUJwQkI0NWg5WA?oc=5",
-   "published": "2026-10-13T05:54+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.29,
-     "asOf": "2026-10-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "중국 CXMT의 칩 기술 발전으로 메모리 칩 주가 하락",
-   "title": "Memory chip stocks slide as China’s CXMT advances chip technology",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5",
-   "published": "2026-10-13T05:33+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -2.6,
-     "asOf": "2026-10-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia와 AMD는 역사적인 가치 평가 분할에 도달했습니다. 1 주식이 훨씬 안전합니다.",
-   "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEh6SmdHdXh4WGl2N09FN0RHOFhNRW1CUkxWY2F5TWl5RlJQenc3VWM0ajV4S1JlSjBNS0xXQjVVamFjaFhsSWE4SFRoRFhFbzh4X3RvcGMtb1gwaGxpSXVjSDJuaVdEeDVyX0Y0bklFLWZnQlNLYVNocVdzWlkxdmVOeVpxVEpQVFdsYWVwenJYanlQdXRkNUtZWVpqTEdpTU1SRw?oc=5",
-   "published": "2026-10-13T04:50+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.29,
-     "asOf": "2026-10-12"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -2.28,
-     "asOf": "2026-10-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 투자자들이 주식을 보는 방식을 바꿀 수 있는 말을 했습니다.",
-   "title": "Micron Just Said Something That Could Change How Investors See the Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVzNZSWJhdVRsNmItSUIxVWotNTZnYzlsM3RlRGlpM2VKaHNVR3lqU0ZXWWtMZklMUDU3OURqUHVpbDR1eldoZWVjeXZ1a1l4QjUtNGdOUHNvMjdxRWVtQ3ZkU2t6dV96cEUwRkhtTHlBMlk2d2I3VjFmWktUWnFwcUpzNXhKX2wyVXN3WUoxdFo3WHAzUFVRbGQ3VXN3UQ?oc=5",
-   "published": "2026-10-13T02:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDdQNWNKd0ZWWU1SVjZoblRiLUhnVDNpbWhIXzBQdkZFRVBMZk1jbDJsWms2M09Lb2xlcjJRT0NaUDZYTkZHYU1NZFIyd2lPdnhxeE8wZXdSc2NMd254UlRWZ1VyWlpibTBDWFhqeE11Y2NmZkk2N2NVNnREeE96dTk1NHFBWnNJS29pck5mNDJ5M1Z2UTNRYw?oc=5",
+   "published": "2026-10-14T03:27+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -215,6 +163,52 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -3.88,
+     "asOf": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia가 프랑스 기술 스타트업 4곳에 투자했다고 Les Echos가 보도했습니다.",
+   "title": "Nvidia invests in four French technology startups, Les Echos reports",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFR1B4bTg0WVN0UTBIZVkyb2dEMkFZSU5YYTFNdWJiTVJDYU12ZG91ZklCMUtJT1Y1WmIySzhnN1F4c1BlaDk2TTc0VGk1Z1NyLW5OS05wZXpzTVZ5cnhFWm5pVXphV3k1QU1JWmlmdUE3QjlidmlVYjNJQzdENWs5NkVjRXhMYVA1c0lKbVI0YlB6MkE0cWwtLUM4QzA?oc=5",
+   "published": "2026-10-14T03:26+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.29,
+     "asOf": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "중국의 CXMT와 Broadcom의 CEO Rattle Chip Stocks: Micron에게 어떤 두려움이 더 중요한가요?",
+   "title": "China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtwQ09OczU3ZWhncUhFNHM0VDFOTnFHV25wcUYxN3FQek8xRllqd0VkRDJLSjQ3TW1vVXBLTmZnMmZuMVV2QXptZUtNbUhXeERMekh1VDB1V2c2QWIzLXNrcGt1RXozSkN3WHdZalN0Q185bDlYWkJSSUI5SHhaaWs0eG1xOGNsNHljVUhxaFpabHYwU2ltSGtHSQ?oc=5",
+   "published": "2026-10-14T02:37+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -3.88,
+     "asOf": "2026-10-12"
+    },
+    {
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": -1.88,
      "asOf": "2026-10-12"
     }
    ]
