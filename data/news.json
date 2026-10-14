@@ -1,76 +1,13 @@
 {
- "updatedAt": "2026-10-14T09:20:28+09:00",
+ "updatedAt": "2026-10-15T08:57:41+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "오늘, 10월 13일 주식 시장: Cipher Digital, 8억 5천만 달러 컨버터블 노트 제공에서 13% 하락",
-   "title": "Stock Market Today, Oct. 13: Cipher Digital Drops 13% on $850M Convertible Note Offering",
+   "summary": "Invesco QQQ는 단일 은행을 소유하지 않으며 Nasdaq-100이 남기는 유일한 것은 아닙니다.",
+   "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXBrLW13dlNWU1JEVldLb1NnUXIxTFMzR2l1UGpZVzdxTUIwQk1FTU5PS3BCTmVzT05vUnlSZml4S3lFemNVRzJPdUI1b1NDSjR3TUNwVXRpSnZ3c0wwbnRhX1ZyUmdudWlmTGlmdFN0bTNxa0FTSi1FT0lvS3lIV24tU3d6Q1FWYmhUbVBDN2xqdl9R?oc=5",
-   "published": "2026-10-14T07:04+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-10-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "이 3가지 국제 배당금 ETF는 지난 1년 동안 SCHD를 능가하고 S&P 500을 능가하고 있습니다.",
-   "title": "These 3 International Dividend ETFs Outyield SCHD and Are Beating the S&P 500 Over the Past Year",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVdldVNLdWVLUHJJY0dOU0UycTFVZkRzZWhpSWI2MElMdW5zSnN6aTNYbDNVclRFc2huazlaVWZIZEtVd2NpcVFNWjRTcDM4N1E1bEN1U0JyOWhNZW8wbkdpSkNDNVlsak1scGxPVlNaemMtMjVfODIyY0pYUUU3OGEwVXFoaWRrVGJWdUQ1ZGVLVzhpd2xNYk1CWW9mZ3Q1Vk8tdG1B?oc=5",
-   "published": "2026-10-14T07:03+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-10-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Ken Paxton은 두바이에서 도망자 2명과 파티를 했다고 Wall Street Journal이 보도했습니다.",
-   "title": "Ken Paxton partied with 2 fugitives in Dubai, Wall Street Journal reports",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnlPbndDUGlNSXMxSnQyUHB6U0gwaW52TXQwUEwwMWlZUVh6NENrb1VMQnZaOUlac2lRYkthZ3JSVFBfeEVRVFBQc2JrODJPOUk4My1wTGdYR0ZsZG9SQU5xdE9PQVZQT2YtUXNaZUlqRDlsVW1LMVRLbFpvRU95N1NQT2poM0RTT1o4NkZVY2w?oc=5",
-   "published": "2026-10-14T06:12+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-10-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Five9, Nasdaq 상장 규정 5635(c)(4)에 따른 유도상 발표",
-   "title": "Five9 Announces Inducement Award Under Nasdaq Listing Rule 5635(c)(4)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1dVM1hFTVJmUzVnUmc5UnlEVElJaW9ycnA0U25iQS1WMW5fVE1sUkIzN01FTW1NMkdXZG1tZVlUeHRRbnZUNnNyTmpHM2tyYUE4alJUdE56dTBpSGp5eFVwc01JenRsZkloWU5VZUw3amFvdnlOTDZFbVR5SHJtX01aWGhwem84a0h2LXM2NlBaMGxQMUZqdkxteUo1eGxELWJ1dDRn?oc=5",
-   "published": "2026-10-14T05:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajZaMGQtVXhJN3pXUzNCUXo0TWx0MDBSM1lVelNrUTZUU01EUTBVc1lqVFV0Mmw2U2FTdnNIdVNOY2Y0T0xGY0pXOGRuMVJ1VnU5ZDZzOTZTcWw2WWFkakhHVFloU29WbE5hNldhaDFra0VQSTlLSkdrTm5PbzN6U2g4bjVBWDRpaDAtWjBlUXhSUDVIMzNxcXpB?oc=5",
+   "published": "2026-10-15T08:43+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -80,18 +17,18 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -0.15,
-     "asOf": "2026-10-13"
+     "chgPct": -1.88,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "9월 CPI 보고서를 앞두고 주식이 고전하고 있습니다: 오늘의 주식 시장",
-   "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today",
+   "summary": "오늘, 10월 14일 주식 시장: Bank of America 주가는 실적 누락 및 규정 준수 페널티로 인해 5% 하락했습니다.",
+   "title": "Stock Market Today, Oct. 14: Bank of America Shares Fall 5% on Earnings Miss and Compliance Penalty",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXUtamxXVzBQa2ZqdEtqbWpkdWxFTkdQb0lZN1I2Vlc5UWdNakcwQUFBVWVzRnBjeFI3R2huWURjcGxUeVJVODZqUnlsRVctUlZac0JkaEFNZmV4WG42ajFaaUlmaFVxNFNId2xqYWN5c0E2dUE3dW9pSTFsd25PNFRWQnlKYThyNHF0OUxjQnh4Y2hLMnJWY0RseDBwLVFRX0E?oc=5",
-   "published": "2026-10-14T05:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnRzcU5JSXdpMm9pTExvYUU3LUxSQ1BLQm9MM3VqWUx2aURsdFUtMWJCNHQxLXZidTB4a2o2dU1acTlBWTd3Mlh6RFFvZmdNa0ZxQTFlUDlGSDlXWU9EQVljbWMya0ZBS3hDTTE1Zzd2bFZCdG1kUlhaZ3Z2dWNvSjdJd1JpYTRHMjF5b0lKYnVVZm9p?oc=5",
+   "published": "2026-10-15T07:02+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -101,18 +38,81 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.02,
-     "asOf": "2026-10-13"
+     "chgPct": -1.11,
+     "asOf": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "홈 BancShares (HOMB) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Home BancShares (HOMB) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFBIQTlISl9xb2IxV1dhLWhlakt0M21QQUtEZXdsb2Z0N2FWOHBjQWtMd2xTV3hNZ0dyRktEUzFabEh5ZHl3bk10SGU1WEprZm1JWmNoV3RqTEs5OG5GcHg4cGJkYTZUZXRkR1RrRTZoYjJOOHVKZlVxQ1MtM3BDN1U4ekYyUGxwZU1jNWNvOTJud1MzRHduQzBFNDdmQQ?oc=5",
+   "published": "2026-10-15T07:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.11,
+     "asOf": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 10월 14일 주식 시장: Gartner Neocloud 경고 및 채권 수익률 급등으로 CoreWeave 급락",
+   "title": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2lqUHp5TUotVGdKcDJiclVTZE95S05oQmhESXRpR3llTGZITERRQkNneHVqLTFQQ19SbTByMUFRV0dSblpZcHl1M19nYV9NZmRCeXVHeXRUMnAybXZNLV9LZmtZNmlyN1dsX0x6OThkay1JQi0wSHVOQ2pUQkFwVi02eG1nQTVjaGd1UzkzU1h5LVVh?oc=5",
+   "published": "2026-10-15T06:48+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.11,
+     "asOf": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "업종 선택 SPDR 신탁 - State Street S&P 500 임의소비재 시장 업종 SPDR(XLYM)",
+   "title": "Select Sector SPDR Trust - State Street S&P 500 Consumer Discretionary Market Sector SPDR (XLYM)",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWFFSYTljMVhOMW9FOU04cVZxUDJEQUtBM0poS3luWFJSa2wyMUNaLUhXVUp2cmhOeVMwNlc4Tmd6RFk2aVNNR3NxWnU5ODVZeGc?oc=5",
+   "published": "2026-10-15T06:16+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.11,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "5년 후의 Nvidia: 주식은 어디로 향할 것인가",
-   "title": "Nvidia in 5 Years: Where the Stock Could Be Headed",
+   "summary": "뜨거운 인플레이션 데이터로 인해 칩 매도가 심화되면서 엔비디아 주가가 하락했습니다.",
+   "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbm04VVBmVXpkd2JycjZoRmhEaE0zMWpScFVMT0dhbEo3US1WaG1rMncyT1FnQjYxOVMzUGZza0xyUUpTNWdYMUVwV3ZhQmFIZFI0d1JudjBzT19mT0diajBpbVpkSzJETEhUaGw1cHgzUGhrQ1FGS1dqZHdITWRMc2tPZlJ3WWg2cnd4N0pjRTM5TERWYkE?oc=5",
-   "published": "2026-10-14T07:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1ZGcUkyMFZEdXYtUDhENXZ6Rkl6b29Ic3BlOUE2a2U5d3I3UWlPM2ZYRjRnZVYyRVdPRUFjTklPeG9OY2hrdUNZaXc4YU9JWGlsNXY2WFlkQ0lzNHl1VFZoaWNLamlGT3lKQVpyN2VTMm1HVEpRd2FzdUZUN3dTbFBkOEVVUnh6SE05QTZpRmlDTk4xVUoyckJQRjlIRVJaZTBkV2hWalNwd1pKOW9QSFh5ODY4VEVZcE51Wm5RMHZ1RlVnWDVvZw?oc=5",
+   "published": "2026-10-15T05:23+09:00",
    "holdings": [
     "soxl"
    ],
@@ -120,18 +120,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.29,
-     "asOf": "2026-10-12"
+     "chgPct": -3.16,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론 주식의 다음 단계는 무엇입니까?",
-   "title": "What Is Next For Micron Stock?",
+   "summary": "SK하이닉스(KOSE:A000660) 주가 하락, 지금 주목받는 것은 무엇일까?",
+   "title": "SK hynix (KOSE:A000660) Shares Slid, So What Is Driving Attention Now?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEhDOTFXM083WkppYWpwcFJLWElBcWliQ1NtSXJXWEhFdXZuRmV2dXZsOHN5amFGYUF5eEpNeTFRcGdmUmRINWZoaW9US1RYMk5Gby1MV2Y5R2VfMUZTbGRPRU1BX3FxQW1wTEtzN2VvM09LZERmdjJGXzB5R3VGU2NZN2lfREl1bmc?oc=5",
-   "published": "2026-10-14T04:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1M2OGdzMjFKNVhHMW5SUFM0dHNReV8xclR1OGl3VEVZbnBOZVY0blhSa044QlZjU0tSZUoyMkJUYUtyWmp0eUxoOXR1SlZkbUdaOWJVVFNnT0FmZGxpM09laWRMWkt5YVBBb0xrX2RQMUJnWkRHMThaT05HUDRvcGVseGI5Yjc5blBWTGNyZzVKN0phMzY4RQ?oc=5",
+   "published": "2026-10-15T00:12+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -139,41 +139,39 @@
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -3.88,
-     "asOf": "2026-10-12"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -1.66,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "오늘 마이크론(MU) 주가가 하락하는 이유",
-   "title": "Why Micron (MU) Shares Are Falling Today",
+   "summary": "역사에 따르면 10월 15일 이후 대만 반도체 주식에 이런 일이 발생한다고 합니다.",
+   "title": "History Says This Happens to Taiwan Semiconductor Stock After Oct. 15",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDdQNWNKd0ZWWU1SVjZoblRiLUhnVDNpbWhIXzBQdkZFRVBMZk1jbDJsWms2M09Lb2xlcjJRT0NaUDZYTkZHYU1NZFIyd2lPdnhxeE8wZXdSc2NMd254UlRWZ1VyWlpibTBDWFhqeE11Y2NmZkk2N2NVNnREeE96dTk1NHFBWnNJS29pck5mNDJ5M1Z2UTNRYw?oc=5",
-   "published": "2026-10-14T03:27+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakZJTWw5YWltRGJSZXZCRGt2eW95Qm9wSWpZWnE4dVQyQXVXM0h6UWV6TFJNMUNRQUJHTkR0MlRGSzNtdjAxS3ZhejdRLXQwYmh5MzVEMzBvaU5nRVFXSnA5NWhYX1J2ZUZaamh1ZkY5S0ZsR1RIZGRFMU9qY2ZPR3RkdVY5cWxTNktjNjNMWkYxNXQza0lFTUpXXzhqRi1SUU5WMTk3SkhWdw?oc=5",
+   "published": "2026-10-14T23:34+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -3.88,
-     "asOf": "2026-10-12"
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -3.4,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 프랑스 기술 스타트업 4곳에 투자했다고 Les Echos가 보도했습니다.",
-   "title": "Nvidia invests in four French technology startups, Les Echos reports",
+   "summary": "Trump와 Nancy Pelosi의 최고 AI 주식 선택: NVIDIA(NVDA)",
+   "title": "Trump and Nancy Pelosi’s Top AI Stock Pick: NVIDIA (NVDA)",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFR1B4bTg0WVN0UTBIZVkyb2dEMkFZSU5YYTFNdWJiTVJDYU12ZG91ZklCMUtJT1Y1WmIySzhnN1F4c1BlaDk2TTc0VGk1Z1NyLW5OS05wZXpzTVZ5cnhFWm5pVXphV3k1QU1JWmlmdUE3QjlidmlVYjNJQzdENWs5NkVjRXhMYVA1c0lKbVI0YlB6MkE0cWwtLUM4QzA?oc=5",
-   "published": "2026-10-14T03:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy?oc=5",
+   "published": "2026-10-14T22:33+09:00",
    "holdings": [
     "soxl"
    ],
@@ -181,35 +179,27 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.29,
-     "asOf": "2026-10-12"
+     "chgPct": -3.16,
+     "asOf": "2026-10-14"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "중국의 CXMT와 Broadcom의 CEO Rattle Chip Stocks: Micron에게 어떤 두려움이 더 중요한가요?",
-   "title": "China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron?",
+   "summary": "Nvidia가 2억 5천만 달러를 투자하는 이유 뉴스",
+   "title": "A $250 Million Why Nvidia Stock in News",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtwQ09OczU3ZWhncUhFNHM0VDFOTnFHV25wcUYxN3FQek8xRllqd0VkRDJLSjQ3TW1vVXBLTmZnMmZuMVV2QXptZUtNbUhXeERMekh1VDB1V2c2QWIzLXNrcGt1RXozSkN3WHdZalN0Q185bDlYWkJSSUI5SHhaaWs0eG1xOGNsNHljVUhxaFpabHYwU2ltSGtHSQ?oc=5",
-   "published": "2026-10-14T02:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0xSSkdITlp2dXI4Tl9qREZzMXJEMzhHdHZ6dmFhbFZNbFFRT0FYUFByTk9jR1RQN1JwS0dDdzdUZ2poQV9PaGpUSnJUOThQUVRYSGNIUGpXVjlwVG9zUHZiWUdycDROTjRzNUdzTDV2OVNfZ0t5TU03R3BBUDIyYWg5V2RqQThDSFlsTURLSFV1RkxSanhEU1dR?oc=5",
+   "published": "2026-10-14T21:15+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -3.88,
-     "asOf": "2026-10-12"
-    },
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": -1.88,
-     "asOf": "2026-10-12"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.16,
+     "asOf": "2026-10-14"
     }
    ]
   }
