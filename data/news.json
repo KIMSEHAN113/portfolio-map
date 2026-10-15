@@ -1,13 +1,76 @@
 {
- "updatedAt": "2026-10-15T08:57:41+09:00",
+ "updatedAt": "2026-10-16T08:42:32+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Invesco QQQ는 단일 은행을 소유하지 않으며 Nasdaq-100이 남기는 유일한 것은 아닙니다.",
-   "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
+   "summary": "Grayscale Says Bitcoin’s Volatility Falls to 43%, Now Within S&P 500 Range",
+   "title": "Grayscale Says Bitcoin’s Volatility Falls to 43%, Now Within S&P 500 Range",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajZaMGQtVXhJN3pXUzNCUXo0TWx0MDBSM1lVelNrUTZUU01EUTBVc1lqVFV0Mmw2U2FTdnNIdVNOY2Y0T0xGY0pXOGRuMVJ1VnU5ZDZzOTZTcWw2WWFkakhHVFloU29WbE5hNldhaDFra0VQSTlLSkdrTm5PbzN6U2g4bjVBWDRpaDAtWjBlUXhSUDVIMzNxcXpB?oc=5",
-   "published": "2026-10-15T08:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWlTYlJfYUN6MEtNcGJmSEJUTXFrc212Z1JDZTNIODZidS1hbl9nUmtZZjVhRHdfVzJVWDBHaG1JNVgzaVl2alJ3aWNEYXhaSWw5N0NtUnlEX2Y4YVkwckEyeXZYZmI5aGF2NkdtVjI1MmpnRFd6MlAyVzRBWXdPTUVhNDN3eTI0aThTdUlFd3k4TWhfQU00bjhzNi1zMmZZdWhKME9Ddw?oc=5",
+   "published": "2026-10-16T08:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.33,
+     "asOf": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Cracks are beginning to show in the stock market, as doubts grow about AI investments",
+   "title": "Cracks are beginning to show in the stock market, as doubts grow about AI investments",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpUNXhwc2JkVzhOd282UndZbzRHYnRvY0I5MWlRZEhveFZYZGVLYVFUUy1iR21XVE5XQ05KUlk5Rm54RmFHdUEtWnMtcENhNTBaM2xvTTZfQW5CZ3VITTQ2aHFIVU1rOUVRSXl3cjM5NUgxU3RMYkJpd0dHWjZJUWVZWVZhTWhKWkpqNVo4Slg?oc=5",
+   "published": "2026-10-16T06:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.33,
+     "asOf": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jamie Dimon Sees 'Higher Chance' of Market Trouble Than Wall Street Does — ‘That Is Not a Prediction,’ but JPMorgan Is Preparing for the Risk",
+   "title": "Jamie Dimon Sees 'Higher Chance' of Market Trouble Than Wall Street Does — ‘That Is Not a Prediction,’ but JPMorgan Is Preparing for the Risk",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjI0UVZxUjdaWFJ6X1Y0TWw0NTJOX2poYXg3bnllalZxVzRaUjZoUERwZk1mSktoV2NlZEZMLUtXZ2NvdkJyd1djcENQT1o1R0NjbHZsODFkM05KZTdHTEJvdThHQUJPMmJ3WDB5TlkwTmNhclZVZ0hjWUtncEktX1Y4MVVJQjFQWnM4VzhacmVXaVo5ZWVpNUxoYw?oc=5",
+   "published": "2026-10-16T06:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.33,
+     "asOf": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq (NDAQ) Completes LeveL Markets Deal And Deepens Its Trading Reach",
+   "title": "Nasdaq (NDAQ) Completes LeveL Markets Deal And Deepens Its Trading Reach",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFlZNGhOUXE1R0NFc1R2YnkwWmd4VGJ3dUtJUW53bXpva2JCRHphYW83RUVsNThMUFJpYWkxaHozaTFOYnhqY2RRZ2tkdHhnR1NvTjZhaWpHMVNyT1NpNTQteExkblBwTXpnQUxXZ2ItX1MwS2pDTVFyQWhEczVvbnYyVklwczNZZTRwQQ?oc=5",
+   "published": "2026-10-16T06:18+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -17,18 +80,18 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -1.88,
-     "asOf": "2026-10-14"
+     "chgPct": 0.08,
+     "asOf": "2026-10-15"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 10월 14일 주식 시장: Bank of America 주가는 실적 누락 및 규정 준수 페널티로 인해 5% 하락했습니다.",
-   "title": "Stock Market Today, Oct. 14: Bank of America Shares Fall 5% on Earnings Miss and Compliance Penalty",
+   "summary": "T. Rowe Price (TROW) Beats Stock Market Upswing: What Investors Need to Know",
+   "title": "T. Rowe Price (TROW) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnRzcU5JSXdpMm9pTExvYUU3LUxSQ1BLQm9MM3VqWUx2aURsdFUtMWJCNHQxLXZidTB4a2o2dU1acTlBWTd3Mlh6RFFvZmdNa0ZxQTFlUDlGSDlXWU9EQVljbWMya0ZBS3hDTTE1Zzd2bFZCdG1kUlhaZ3Z2dWNvSjdJd1JpYTRHMjF5b0lKYnVVZm9p?oc=5",
-   "published": "2026-10-15T07:02+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWliLXllT3ZiM0JCRHdLM1hNUmlEUEZvMWRTZ0J3aDBnai1mYlZzWllBZUNPWUFpYWFnQVBBNzdIeXJ3YmtzWm5PdDhMQVV6bkxyTHkxX0cyY1Z3cTF0WER2RFFmZE9sdllQVGdZMkJYMkk4SHpLdDBSOWhkY0lmcmFFYkoxZ1NOYnZybHZ1S0k5QQ?oc=5",
+   "published": "2026-10-16T06:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,121 +101,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.11,
-     "asOf": "2026-10-14"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "홈 BancShares (HOMB) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Home BancShares (HOMB) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFBIQTlISl9xb2IxV1dhLWhlakt0M21QQUtEZXdsb2Z0N2FWOHBjQWtMd2xTV3hNZ0dyRktEUzFabEh5ZHl3bk10SGU1WEprZm1JWmNoV3RqTEs5OG5GcHg4cGJkYTZUZXRkR1RrRTZoYjJOOHVKZlVxQ1MtM3BDN1U4ekYyUGxwZU1jNWNvOTJud1MzRHduQzBFNDdmQQ?oc=5",
-   "published": "2026-10-15T07:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.11,
-     "asOf": "2026-10-14"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘, 10월 14일 주식 시장: Gartner Neocloud 경고 및 채권 수익률 급등으로 CoreWeave 급락",
-   "title": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2lqUHp5TUotVGdKcDJiclVTZE95S05oQmhESXRpR3llTGZITERRQkNneHVqLTFQQ19SbTByMUFRV0dSblpZcHl1M19nYV9NZmRCeXVHeXRUMnAybXZNLV9LZmtZNmlyN1dsX0x6OThkay1JQi0wSHVOQ2pUQkFwVi02eG1nQTVjaGd1UzkzU1h5LVVh?oc=5",
-   "published": "2026-10-15T06:48+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.11,
-     "asOf": "2026-10-14"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "업종 선택 SPDR 신탁 - State Street S&P 500 임의소비재 시장 업종 SPDR(XLYM)",
-   "title": "Select Sector SPDR Trust - State Street S&P 500 Consumer Discretionary Market Sector SPDR (XLYM)",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWFFSYTljMVhOMW9FOU04cVZxUDJEQUtBM0poS3luWFJSa2wyMUNaLUhXVUp2cmhOeVMwNlc4Tmd6RFk2aVNNR3NxWnU5ODVZeGc?oc=5",
-   "published": "2026-10-15T06:16+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.11,
-     "asOf": "2026-10-14"
+     "chgPct": 0.33,
+     "asOf": "2026-10-15"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "뜨거운 인플레이션 데이터로 인해 칩 매도가 심화되면서 엔비디아 주가가 하락했습니다.",
-   "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data",
+   "summary": "3 Taiwan AI Semiconductor Stocks Worth Watching After TSMC Earnings",
+   "title": "3 Taiwan AI Semiconductor Stocks Worth Watching After TSMC Earnings",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1ZGcUkyMFZEdXYtUDhENXZ6Rkl6b29Ic3BlOUE2a2U5d3I3UWlPM2ZYRjRnZVYyRVdPRUFjTklPeG9OY2hrdUNZaXc4YU9JWGlsNXY2WFlkQ0lzNHl1VFZoaWNLamlGT3lKQVpyN2VTMm1HVEpRd2FzdUZUN3dTbFBkOEVVUnh6SE05QTZpRmlDTk4xVUoyckJQRjlIRVJaZTBkV2hWalNwd1pKOW9QSFh5ODY4VEVZcE51Wm5RMHZ1RlVnWDVvZw?oc=5",
-   "published": "2026-10-15T05:23+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.16,
-     "asOf": "2026-10-14"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스(KOSE:A000660) 주가 하락, 지금 주목받는 것은 무엇일까?",
-   "title": "SK hynix (KOSE:A000660) Shares Slid, So What Is Driving Attention Now?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1M2OGdzMjFKNVhHMW5SUFM0dHNReV8xclR1OGl3VEVZbnBOZVY0blhSa044QlZjU0tSZUoyMkJUYUtyWmp0eUxoOXR1SlZkbUdaOWJVVFNnT0FmZGxpM09laWRMWkt5YVBBb0xrX2RQMUJnWkRHMThaT05HUDRvcGVseGI5Yjc5blBWTGNyZzVKN0phMzY4RQ?oc=5",
-   "published": "2026-10-15T00:12+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -1.66,
-     "asOf": "2026-10-14"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "역사에 따르면 10월 15일 이후 대만 반도체 주식에 이런 일이 발생한다고 합니다.",
-   "title": "History Says This Happens to Taiwan Semiconductor Stock After Oct. 15",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakZJTWw5YWltRGJSZXZCRGt2eW95Qm9wSWpZWnE4dVQyQXVXM0h6UWV6TFJNMUNRQUJHTkR0MlRGSzNtdjAxS3ZhejdRLXQwYmh5MzVEMzBvaU5nRVFXSnA5NWhYX1J2ZUZaamh1ZkY5S0ZsR1RIZGRFMU9qY2ZPR3RkdVY5cWxTNktjNjNMWkYxNXQza0lFTUpXXzhqRi1SUU5WMTk3SkhWdw?oc=5",
-   "published": "2026-10-14T23:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzA0RWlxbWNjNXpqUjQ3V2NlZXc0dmt0WWU0LWw4ZmJ3bFFmNU9aNmxlNDFMTXhNdFRsZGphUUFJOFpnTTlrdG1XQ1BhVURaMXpwMjk3Z0ZGZjBKNFRTMHpyaTNaYTRBYlRxVHJCUXhwbVJRUDZYeTI1dzNVUHIxYWhrT1dQZ1pLLTVRb3V2REx0NEVvUVgzdGFBTlE?oc=5",
+   "published": "2026-10-16T06:13+09:00",
    "holdings": [
     "soxl"
    ],
@@ -160,18 +120,18 @@
     {
      "symbol": "TSM",
      "name": "TSMC",
-     "chgPct": -3.4,
-     "asOf": "2026-10-14"
+     "chgPct": -1.8,
+     "asOf": "2026-10-15"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Trump와 Nancy Pelosi의 최고 AI 주식 선택: NVIDIA(NVDA)",
-   "title": "Trump and Nancy Pelosi’s Top AI Stock Pick: NVIDIA (NVDA)",
+   "summary": "Nvidia leads chip stocks lower as AI trade takes",
+   "title": "Nvidia leads chip stocks lower as AI trade takes",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy?oc=5",
-   "published": "2026-10-14T22:33+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5",
+   "published": "2026-10-16T05:33+09:00",
    "holdings": [
     "soxl"
    ],
@@ -179,18 +139,66 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.16,
-     "asOf": "2026-10-14"
+     "chgPct": -1.84,
+     "asOf": "2026-10-15"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 2억 5천만 달러를 투자하는 이유 뉴스",
-   "title": "A $250 Million Why Nvidia Stock in News",
+   "summary": "Micron, SanDisk and SK Hynix Stocks Fall as AI Chip Selloff Deepens",
+   "title": "Micron, SanDisk and SK Hynix Stocks Fall as AI Chip Selloff Deepens",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0xSSkdITlp2dXI4Tl9qREZzMXJEMzhHdHZ6dmFhbFZNbFFRT0FYUFByTk9jR1RQN1JwS0dDdzdUZ2poQV9PaGpUSnJUOThQUVRYSGNIUGpXVjlwVG9zUHZiWUdycDROTjRzNUdzTDV2OVNfZ0t5TU03R3BBUDIyYWg5V2RqQThDSFlsTURLSFV1RkxSanhEU1dR?oc=5",
-   "published": "2026-10-14T21:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0RDMWI0QWJwSEpHdmxyM2Q2U0JET0xKclhOa3BFX1FZeFlPMWdhV1NyajFWanhFeTlVQUlmTDdPcE92V1pvS3dWQ3k2QmREZlR0OEtVWHB5ME9rU3ZNUllnallzZXNGb2pvU2lwMm5ka3dpeFZlNGoyWElDZFFIWTM1cUxUa2RCWWNCczJkelZTMHFZT3ZySFFR?oc=5",
+   "published": "2026-10-16T03:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.87,
+     "asOf": "2026-10-15"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -0.61,
+     "asOf": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron’s New Taiwan Plant Is Sold Out for 2027. Its Workers Want 15% of Profits",
+   "title": "Micron’s New Taiwan Plant Is Sold Out for 2027. Its Workers Want 15% of Profits",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWkzc3VFV2pkWHBSTEVKOWZtZ3ZvMjdzVjdocWU0SnpSWEF5RWZLOUV3X2dUM0Ytb2pWQi1RMzdrZ3RraUM5RjhidUFoWWl3SFNNdzBpMFNVU01VX0RDWTdTcjFteThEYU1IaFpmdy13OVo4bEpYNXpCdkhld2pPbXI2MTU2UGtrTnpqaGQ2RmprRVk3eWJ2dVF3?oc=5",
+   "published": "2026-10-16T02:17+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.87,
+     "asOf": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic'",
+   "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic'",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5",
+   "published": "2026-10-16T01:15+09:00",
    "holdings": [
     "soxl"
    ],
@@ -198,8 +206,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.16,
-     "asOf": "2026-10-14"
+     "chgPct": -1.84,
+     "asOf": "2026-10-15"
     }
    ]
   }
