@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-17T08:39:20+09:00",
+ "updatedAt": "2026-10-18T08:10:10+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "CoreWeave 주가는 12% 급락했지만 월스트리트 분석가는 하락세를 매수한다고 말합니다.",
-   "title": "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip",
+   "summary": "주식 시장 붕괴가 다가오고 있는 경우, 역사에 따르면 이 전략은 포트폴리오의 복구 시간을 절반으로 단축할 수 있습니다.",
+   "title": "If a Stock Market Crash Is Coming, History Says This Strategy Can Cut Your Portfolio's Recovery Time in Half",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmtPUUxmSDY5MzZlTFZNbmN3OEl5NUEzNk42VnFqUXJzSmtTT0wzejFHRkkydUVRdDdycnlHaVVGUnk3NUVLMl9VYWlzczFWdE1qR1VydVJleWtScklzczRRU1RNcUNDbW5ndmV1WENtWWtxOGFQb3c1RFZRQVZxa2hrbi1ET2J5Vy1IcjVLVGlycGNzeVloejEyemQ?oc=5",
-   "published": "2026-10-17T07:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHhSbUQwNkhRNjFNZVZZUGVpaDdhQ1AtOUJwXzVMbFNqcjl2OV9DUHF6bkduUWkzRFRBcmxLWTZSVXE5R21JSDhMV0hIMDUtVjhqbnVPOG9ONkRSU08tU0lHQ0pYU0o4Nl95Y0RwbUhDTkpPRUR4amM4MVlBUFhHcHQ1NnZ2S1pDNjJ5MVJLcFhxRGhjeThUdGhDS3VhQ2c?oc=5",
+   "published": "2026-10-18T02:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,15 +24,36 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq 100은 투자자들이 칩 제조업체를 피하면서 18개월 만에 최악의 주를 기록했습니다 — AAPL, MSTR, UBER, SOXX 집중",
-   "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
+   "summary": "주식 시장 붕괴가 다가오면 이 5개 주식은 버틸 수 있는 역사를 가지고 있습니다",
+   "title": "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVNyb0lXX25TWjgySGUweEJsX2g3SkRBMUhheEhfZW9xbG92N3R1b3JqdHdYNFo4a2N3RjNjWjRRSWg5QWpsZVVWZlZlem9ndHVxTDdsS3JJMXc4ZmpiQW5wejJrQ1JGSmdGVFFManFvemhlWGRza1V2MDRqM3A5b0xfQlpMaFpOazRrSnhiQzFJWUZzVHlxOWtR?oc=5",
-   "published": "2026-10-17T07:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVYwUEZjb2VySjFYZjBtTHlEWlVONmNtVG80cW1oTzRmZF9KeENQc3ptaFdScWJDYnZLeFZvNDVoR0UwWmNUcHJsSHRBYUIxNGlxVFhRbzc5QXQ1WmU1NnA3bnhPclJrdUpMa2ZzTmdOaFdsN0NtWVk3RzZ3bkw2TjZOMGc3N3RfWUJVdFZyQk03eXcwVy1N?oc=5",
+   "published": "2026-10-18T01:20+09:00",
    "holdings": [
-    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Xtrackers NASDAQ 100 UCITS ETF 1C (XND.SI) 위험",
+   "title": "Xtrackers NASDAQ 100 UCITS ETF 1C (XND.SI) risk",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0ZmZTektwTGJXRTRFd0xQdFZkTXB6Xy1EV3E2YWFMNnFaS1hpWmZJbjhNT3QzX282bmJ1Um5HUHpaQ2xwWFFFQzhZclpXalhqTDRrbkRGdVBNT0U?oc=5",
+   "published": "2026-10-18T00:55+09:00",
+   "holdings": [
     "kodex-nasdaq100",
-    "qqqm"
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
@@ -45,15 +66,15 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 10월 16일 주식 시장: AI 소프트웨어 평가 반전으로 기술주 급락",
-   "title": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
+   "summary": "투자자들이 최근 승자를 내보냄에 따라 월스트리트의 기록적인 돌파가 풀렸습니다: 오늘의 차트",
+   "title": "Wall Street’s record breakouts unravel as investors dump recent winners: Chart of the Day",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzlNZEN3WEdOTUszOTVwSzVCLXM3NC1Qc2Z4cm5SdVV6TjlCMDd2VlE0aXp4bWt5RkNoNG83c3puT3lUUTM4UnVXSWpFWGU0OUh1SGZodVAxUXREcjROaEFxblhXZmpEQTVKY2VWT05jVXlyUjVaZWJTRkg0Q2h3Wk8tRlB4ZFhGRFJoZ2pVUW5yX2xG?oc=5",
-   "published": "2026-10-17T07:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTRxT3NHaXFIWGE5Ymt0YlpFSHh0bHVMOHFhZVkyWlhfVEtHOTJSc0NnS3VMT3Q1eUFpdUxJazA0QUJyY19sLXFybi1UZ19HVFRhV0c3ZjhyX08wRzV5UUZmRzRCZ2JBNmFXSTFQT3hHbjBrRFJiNU51M2pNa2ZYTFlycF9Ma3R6ejNEWnE2a3Z6dTFncUVycnF0YjZsMzBpOTFQQVJ6NjB5Uk5Cd2sxTUVPNzB3STc3SURYUU9nbXdsMndUOGhxb3NOTXBRYUhucG9JZ3ZxdUZHbG5Y?oc=5",
+   "published": "2026-10-17T20:52+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 부채가 월스트리트를 뒤흔들자 기술주 급락, 전략가 경고",
-   "title": "Tech stocks plunge as AI debt fears rattle Wall Street, strategist warns",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kTWxBZ2hfVW9HWktNczlpejRNY1VibGhlMF9rMTZpUFZxdVZuNzZDdkFQc0dYNE9MVTJaQ2JUWVNIVDEwX1B3LXY5Y1U5TXdaYnVNa2NjNzAtRHc?oc=5",
-   "published": "2026-10-17T06:53+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500은 AI 우려로 인해 기술 부문이 하락하면서 주간 하락세를 기록했습니다.",
-   "title": "S&P 500 Posts Weekly Drop as Technology Sector Declines Amid AI Concerns",
+   "summary": "주식시장이 위험해질 때, 이 6가지 투자는 버티는 역사를 가지고 있습니다",
+   "title": "When the Stock Market Gets Dangerous, These 6 Investments Have a History of Holding Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0JmYy15Zk9BcmFVcUpxSEt5ZjY5ZGF5d0xLM2c3NzAzbnU2ODBKUlpIdThNX3RXRjdkY1YyemRVYXRpV3o2U0s2VG1WUHdWaVZIWnNoaXI0LTZmZVhCemF0WERwdjZxdnRydk5wcmdialBOUDlxLTE4TlVSOVMzWXRINWtCMi1CNHBKajNnYVFWZw?oc=5",
-   "published": "2026-10-17T05:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlpmUHc1c2ZEUXluaVVoV0k5MjIwbGpodkx1ZFVKd0NRV1ZRSmRXOG5DU1NCR2loMGYtNVhzSUJibVNnNzV2UEg4ZWdyazFDOE1RZXZyZWFfNGxzZzQxbUZsbThNQjRfd3F2RzNZVjIyZWN6RGwweEhQV3VCQkZsLWZZZUQtRkpmSkRmZy1ZdTYza3FoY0dmZGNR?oc=5",
+   "published": "2026-10-17T20:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,11 +108,57 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Shanghai Iluvatar CoreX Semiconductor Co., Ltd.(1WJ.F) 주가, 뉴스, 시세 및 역사",
-   "title": "Shanghai Iluvatar CoreX Semiconductor Co., Ltd. (1WJ.F) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uSEZUWldjeHUtSE1za1dEekdPM0NvcFZCMm81SXVzRDlYYmZlQWJYN0lQZUM0Q091NTY4STNjSTFPWGh2RU9qV0JHUXFGdzMwNWdNZDViY09pR2JGREN3MEFZOA?oc=5",
-   "published": "2026-10-17T05:00+09:00",
+   "summary": "마이크론은 실적이 저렴해 보입니다. 변화가 일어나기 전에 이익은 얼마나 줄어들 수 있습니까?",
+   "title": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWW4tQnYtcFF2NHVDYlA0d2IzLUxOR3FWUkdONXVfR09NVF8xalRRNERvc2pOVklxUmNXTTBCSTJlRVJSVjE1N2pxeXVDLU5PZVhpQ0d5ODZFUDZhbURfZVVhY05mdXNNQTgwUmFMOWhJT2JWb1p1Tl9QUUQ4MUR6bmk4bjVYZlFBV1B5b3lmSGxLQndkSlB5cGRIODJZdw?oc=5",
+   "published": "2026-10-18T07:11+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.63,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia vs. AMD: 마진 하락 여지가 더 많은 AI 비즈니스는 무엇입니까?",
+   "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVRSbXJ5dXFLUk1KSlVmWkV4aUsyZERTdGw2MUtmWnB0NWUtMmlZLXJKVWNOTTgxV2tqdUtsUWRXQ2FYSU5vaDRob2ZTRlJ0OWtxUTJNOW44SWttLTNwR0FBR0lJZC1FWl9sd3lqSWNDUnBTRy1BRktlNTRONHJVNXZBQ3Fyb01Hb2NMTERaQ1NOSW8?oc=5",
+   "published": "2026-10-18T07:11+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
+     "asOf": "2026-10-16"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -5.95,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "칩 주식이 매도되면서 이것이 내가 선택하는 안전대책 플레이입니다",
+   "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWhSQXEzcGpuUnVBRi1FSXAzV2p0S1Q3LWlhOTF2djJmNnUzQ0lOLXJiSHd0Tl9mZWNfcE4zOTI2UVVZUkhuVHFCaHVRbjBxbk93M2VlTXhPYmdtQUFmelRUWmpISE1WdG5KaDRIWlhDXzJ4cnFDM1FIbl9aVXkzS1pVOVdpOFYtZmsybTFUY19GV3NxWTZN?oc=5",
+   "published": "2026-10-18T04:05+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,74 +173,32 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple은 현재 2026년 최고 성과를 자랑하는 Magnificent 7 주식입니다. Apple이 NVIDIA, Tesla 및 Amazon을 제치고 있는 이유는 다음과 같습니다.",
-   "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
+   "summary": "Jim Cramer는 미국이 SK하이닉스(SKHY)의 시장 진입을 \"후회\"할 것이라고 경고했습니다. 매각으로 인해 그가 옳았다는 것이 입증되었을 수도 있습니다",
+   "title": "Jim Cramer Warned US Would “Rue” SK hynix’s (SKHY)’s Market Entry – The Selloff Might Have Proven Him Right",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUNnNklzNWFtUFRWQWpOTlFmZGpIdEZ5YVJMRkNrSUpfQUhaeEZVMWpLVzE2OXhONTctZEdvWlUzUUM3bkllWXpSQ3k5TGczeHNNZjNtSlV4VGRBcnRsQkwxWEFhOGhTX0t6Sjl3Q1BnNnE1WkQ1NU1SSWFGaW9XY3N0VG9ZY00wRnJJ?oc=5",
-   "published": "2026-10-17T04:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjV3Y0s1ZHNOMk90MW1BdHRFS2VkcnZmRXZGLUhnT082b1hrcmZrcTU4bGFhZnZyT0xWM0M5WVZXQVVMNWt5MlFpQ25Rcnl2ZmJ5QVQ1NUdFRFN0cll4ZWxCZVQ1d2ZXMzBxZ05Qb1Z1WXFYR1RkdGFyU3k2V3dLZ0xYdURxRmhYcjFKNklKQjZYa2M?oc=5",
+   "published": "2026-10-18T03:49+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 0.43,
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 0.79,
      "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang의 Nvidia는 OpenAI의 수익 실행 속도가 예상보다 180억 달러 낮은 후 2000억 달러의 가치를 잃었습니다. 이 AI-Jitters 매도가 구매 기회입니까?",
-   "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+   "summary": "마이크론에 대한 중국의 대응으로 거의 200억 달러를 벌었습니다.",
+   "title": "China’s Answer to Micron Just Made Nearly $20 Billion",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5",
-   "published": "2026-10-17T03:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia(NVDA): 유료 소프트웨어로 인해 수익이 하드웨어 판매에 덜 의존하게 될 수 있습니까?",
-   "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5",
-   "published": "2026-10-17T03:29+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Sterne Kessler 클라이언트 Netlist, Micron Technology와 6억 달러 합의 협상",
-   "title": "Sterne Kessler Client Netlist Negotiates $600 Million Settlement with Micron Technology",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREVjd19FYy02NTM0MlJ3UHUyRElMNmwxd0ZacjdYTVU3cTdHcnBmZTJJYXZUVndxemdPU0xXS3RnMkx5TDF3VUgyejE1ZFJEbnU5amk3YXZUamhkOXdFWW1FdDFWZE1MSVRmREZFd2Y5dXpucndsRWYwNUZOb2F3VWF6RERLeXpsM3FuMkJDNVU1dFVpQmczeUxwTk5IZjdhS0Fz?oc=5",
-   "published": "2026-10-17T02:24+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREZVUFM2NjQyeV9XN24zNUEzaHlxSjBLTHlQUzVCN1dtUXVNdGRfSG4yZHNxbHpVNnNTR0x5dkxtX1ZveTd6eU80anczc0RmXzFuMkdwUHVEQWE1SjluY3VRb3BHZzMtZkpKM1lkSlVaREFoUl9RbnlWZWhxSXFLU1F5NW9CYjVhTS10TGc1M05rNXBoN29KTWJn?oc=5",
+   "published": "2026-10-18T02:48+09:00",
    "holdings": [
     "dram",
     "ram",
