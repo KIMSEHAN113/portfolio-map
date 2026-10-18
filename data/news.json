@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T13:29:55+09:00",
+ "updatedAt": "2026-10-18T13:34:50+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -87,21 +87,21 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq US 소프트웨어 Large Mid Ca(^NQUSB10101015LMN) 구성요소",
-   "title": "Nasdaq US Software Large Mid Ca (^NQUSB10101015LMN) components",
+   "summary": "I.M.II-Inv.S&P 500 Qual.ETF R(QSPD.HM) 위험",
+   "title": "I.M.II-Inv.S&P 500 Qual.ETF R (QSPD.HM) risk",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbXBtY0FqWnVra2ZVRUVMb2d0eDNhTmd0bjdnUzBhTExhZWYtZTI4VWZ2cHBkck91NzdFRFNXWl9oaDZ6c0FxRnNUQk1Lb0RnNUpLSWoxWjZ6Y2VVMFRjYW54X09nSlE0eDR3a1BFS3lxRjlL?oc=5",
-   "published": "2026-10-18T00:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMTVGRTRRZGpSU0pYQ21hSnREOGgxd19JYVQyQjNWc25KSHhvM0xJOE5FWU0zMmpHOGNkUlpFZEZwcExZd2hBVmVpaUlueHBKU3doNERYX0ZQNzZC?oc=5",
+   "published": "2026-10-18T00:10+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.15,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
      "asOf": "2026-10-16"
     }
    ]
@@ -173,7 +173,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jim Cramer는 미국이 SK하이닉스(SKHY)의 시장 진입을 \"후회\"할 것이라고 경고했습니다. 매각으로 인해 그가 옳았다는 것이 입증되었을 수도 있습니다",
+   "summary": "짐 크레이머(Jim Cramer)는 미국이 SK하이닉스(SKHY)의 시장 진입을 \"후회\"할 것이라고 경고했습니다. 매각으로 인해 그가 옳았다는 것이 입증되었을 수도 있습니다",
    "title": "Jim Cramer Warned US Would “Rue” SK hynix’s (SKHY)’s Market Entry – The Selloff Might Have Proven Him Right",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjV3Y0s1ZHNOMk90MW1BdHRFS2VkcnZmRXZGLUhnT082b1hrcmZrcTU4bGFhZnZyT0xWM0M5WVZXQVVMNWt5MlFpQ25Rcnl2ZmJ5QVQ1NUdFRFN0cll4ZWxCZVQ1d2ZXMzBxZ05Qb1Z1WXFYR1RkdGFyU3k2V3dLZ0xYdURxRmhYcjFKNklKQjZYa2M?oc=5",
