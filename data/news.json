@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-10-18T13:36:16+09:00",
+ "updatedAt": "2026-10-19T08:18:38+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Iambic Therapeutics(IAM)가 Nasdaq Composite에 합류했습니다. 주가가 이미 비싼가요?",
-   "title": "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
+   "summary": "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
+   "title": "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5",
-   "published": "2026-10-18T09:16+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.15,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "하워드 막스: 현재 S&P 500은 좋은 투자가 아니다",
-   "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSEVlaHdaTXI2MWo2Yjh5VHRtaFJLYm9PMDByRUEwZ2E4WWkxVzVGRTU0cUcwOERBczVZTzBOa0dpYk5Jc29ZTE5EMVVFM3o2QXNuNnZGSEJEVHZtbV9MUDdSVUtkNVZPUHA0dFVxRXlDb2hNdUJWRw?oc=5",
-   "published": "2026-10-18T08:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2F1X0NFSEExdXFUR3VwSEVRd29YMi1QQjFVb24tZ2NXbEtJZDJsY3djQzNlclRFYm05SktkNDUxS1hoX1o0VkI1ZkNETjdtNVNkdTlKaGo2TlctTEZjeEhVT0Z4ZmJPNVBCQTZKOXk3NjctMlBIZzdhYXdFY1NzZG5PQXlncEpBZ3g2anNkdjJPMVdQQUhwQg?oc=5",
+   "published": "2026-10-19T02:51+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "주식 시장 붕괴가 다가오고 있는 경우, 역사에 따르면 이 전략은 포트폴리오의 복구 시간을 절반으로 단축할 수 있습니다.",
-   "title": "If a Stock Market Crash Is Coming, History Says This Strategy Can Cut Your Portfolio's Recovery Time in Half",
+   "summary": "Should You Invest in the S&P 500 Right Now or Wait? There's 1 Clear Answer",
+   "title": "Should You Invest in the S&P 500 Right Now or Wait? There's 1 Clear Answer",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHhSbUQwNkhRNjFNZVZZUGVpaDdhQ1AtOUJwXzVMbFNqcjl2OV9DUHF6bkduUWkzRFRBcmxLWTZSVXE5R21JSDhMV0hIMDUtVjhqbnVPOG9ONkRSU08tU0lHQ0pYU0o4Nl95Y0RwbUhDTkpPRUR4amM4MVlBUFhHcHQ1NnZ2S1pDNjJ5MVJLcFhxRGhjeThUdGhDS3VhQ2c?oc=5",
-   "published": "2026-10-18T02:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXJVNjJBLW1nd3JpZEZrQWdLdmFRYUQ0eWo5UnNZaUJhWXl4MXh3X2p1ZFRscUN4emk1NFREa1FoQXUxeUhfQkdIWXlHa0cyLXhTMVVsZUVLUzFjTnVsSEJCQWl3em1EY3ROMXRMdENxSlJTVnVZeWJkZ094UzB1azMyUmdTQlVkYTRIV2hZVQ?oc=5",
+   "published": "2026-10-19T01:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "주식 시장 붕괴가 다가오면 이 5개 주식은 버틸 수 있는 역사를 가지고 있습니다",
-   "title": "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up",
+   "summary": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+   "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVYwUEZjb2VySjFYZjBtTHlEWlVONmNtVG80cW1oTzRmZF9KeENQc3ptaFdScWJDYnZLeFZvNDVoR0UwWmNUcHJsSHRBYUIxNGlxVFhRbzc5QXQ1WmU1NnA3bnhPclJrdUpMa2ZzTmdOaFdsN0NtWVk3RzZ3bkw2TjZOMGc3N3RfWUJVdFZyQk03eXcwVy1N?oc=5",
-   "published": "2026-10-18T01:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
+   "published": "2026-10-19T00:59+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,11 +66,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "I.M.II-Inv.S&P 500 Qual.ETF R(QSPD.HM) 위험",
-   "title": "I.M.II-Inv.S&P 500 Qual.ETF R (QSPD.HM) risk",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMTVGRTRRZGpSU0pYQ21hSnREOGgxd19JYVQyQjNWc25KSHhvM0xJOE5FWU0zMmpHOGNkUlpFZEZwcExZd2hBVmVpaUlueHBKU3doNERYX0ZQNzZC?oc=5",
-   "published": "2026-10-18T00:10+09:00",
+   "summary": "Here are the 3 big things we're watching in the stock market this week",
+   "title": "Here are the 3 big things we're watching in the stock market this week",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalM5MHcycVJEWlZaYjhZQWRMUUx2ckVLNTd2dU94aEwtZTVIM0E1eGlxZDRpYTE0Q1Q3eDVrVl9nOWc2djM2bWhseWFiYkJWOG5Pb3dyU1BIVE56TVl1R1ctSEM4WFItZnRZLXRoTWFxMFBBOE9WZHpKN044NW5yWW8wTUFMWUpZVHdKSWdjWHRocFFjcVQ5Z2duRXpIa2V1YU5XbVhQZUlUOFQwamMtaEJUbFYzVzJ3TzRxag?oc=5",
+   "published": "2026-10-19T00:24+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
+   "title": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUml4c3A4TVZIQ1loSk0tLUd2VEVYdUdSRW85Z2RfSnVCUWp6OUlIMktVTWN2UERncmhqbzFibDAzSmNBWDluMU9TdXo3WHpOdkp2MjhSbHZ3ckpCZThQUnl2Y0FXdFdBZ1VLd1k1Zk92VDZ5cW1XTzNiSng4d0lEd2hHZDZPQzVJUnlsVzJmQlZEMjh1?oc=5",
+   "published": "2026-10-19T00:07+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론은 실적이 저렴해 보입니다. 변화가 일어나기 전에 이익은 얼마나 줄어들 수 있습니까?",
-   "title": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes?",
+   "summary": "Why Micron's Latest Long-Term Deals Are a Game-Changer for Investors",
+   "title": "Why Micron's Latest Long-Term Deals Are a Game-Changer for Investors",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWW4tQnYtcFF2NHVDYlA0d2IzLUxOR3FWUkdONXVfR09NVF8xalRRNERvc2pOVklxUmNXTTBCSTJlRVJSVjE1N2pxeXVDLU5PZVhpQ0d5ODZFUDZhbURfZVVhY05mdXNNQTgwUmFMOWhJT2JWb1p1Tl9QUUQ4MUR6bmk4bjVYZlFBV1B5b3lmSGxLQndkSlB5cGRIODJZdw?oc=5",
-   "published": "2026-10-18T07:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFpNc3FBR05PNV84aVJEUldEdnBfZ3k3VzVrekpIdTdnNE5yM0lpQjlGS0FJc25fV1RfM25wTndNOTdGVEdKU3RWUnBWVllMU25ib3drOElFVGhsYUxKTkRCRS1zYm1aNTNOdWFfa3M4cW5xZm5tNmQ3LTNQRW45SHpicWM5SkVqdkgydkFJTDF6QXBVUV9raw?oc=5",
+   "published": "2026-10-19T05:05+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -129,11 +129,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia vs. AMD: 마진 하락 여지가 더 많은 AI 비즈니스는 무엇입니까?",
-   "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+   "summary": "History Says Nvidia Stock Does This in November. Here's the 1 Thing That Could Break the Pattern.",
+   "title": "History Says Nvidia Stock Does This in November. Here's the 1 Thing That Could Break the Pattern.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVRSbXJ5dXFLUk1KSlVmWkV4aUsyZERTdGw2MUtmWnB0NWUtMmlZLXJKVWNOTTgxV2tqdUtsUWRXQ2FYSU5vaDRob2ZTRlJ0OWtxUTJNOW44SWttLTNwR0FBR0lJZC1FWl9sd3lqSWNDUnBTRy1BRktlNTRONHJVNXZBQ3Fyb01Hb2NMTERaQ1NOSW8?oc=5",
-   "published": "2026-10-18T07:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWJ0SURkS2FydW9RTU5veXNxdmZmdFJfZGRkYTZOdG9CN2Jva2czT1dMV3JKRF9Ta25IOTZheV8zWUdxWjRHZ1BKdE5RcXEzeGRKTE1SdHNmdXpKSmk5YWJZc3Z0cjhzMFZBNTB2MFJrV0ozQlJTcnVXUzIxd3dicjJQMHdmS3BOMkVTelY3TEZ5eEpuV2QxWUxLcw?oc=5",
+   "published": "2026-10-19T01:51+09:00",
    "holdings": [
     "soxl"
    ],
@@ -143,41 +143,16 @@
      "name": "엔비디아",
      "chgPct": -1.43,
      "asOf": "2026-10-16"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -5.95,
-     "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "칩 주식이 매도되면서 이것이 내가 선택하는 안전대책 플레이입니다",
-   "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+   "summary": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
+   "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWhSQXEzcGpuUnVBRi1FSXAzV2p0S1Q3LWlhOTF2djJmNnUzQ0lOLXJiSHd0Tl9mZWNfcE4zOTI2UVVZUkhuVHFCaHVRbjBxbk93M2VlTXhPYmdtQUFmelRUWmpISE1WdG5KaDRIWlhDXzJ4cnFDM1FIbl9aVXkzS1pVOVdpOFYtZmsybTFUY19GV3NxWTZN?oc=5",
-   "published": "2026-10-18T04:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -4.14,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "짐 크레이머(Jim Cramer)는 미국이 SK하이닉스(SKHY)의 시장 진입을 \"후회\"할 것이라고 경고했습니다. 매각으로 인해 그가 옳았다는 것이 입증되었을 수도 있습니다",
-   "title": "Jim Cramer Warned US Would “Rue” SK hynix’s (SKHY)’s Market Entry – The Selloff Might Have Proven Him Right",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjV3Y0s1ZHNOMk90MW1BdHRFS2VkcnZmRXZGLUhnT082b1hrcmZrcTU4bGFhZnZyT0xWM0M5WVZXQVVMNWt5MlFpQ25Rcnl2ZmJ5QVQ1NUdFRFN0cll4ZWxCZVQ1d2ZXMzBxZ05Qb1Z1WXFYR1RkdGFyU3k2V3dLZ0xYdURxRmhYcjFKNklKQjZYa2M?oc=5",
-   "published": "2026-10-18T03:49+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWdNdGZSeFJpNll0RnpoS0VKUzFBaHRUYWFmcE1JUE5EVGEwWVlaa2ZoNkNsN1BiRExXMHQxR01pY3ZRV0NvcDdNNm9tN1BvdjBSZ2JuelRfT252ODVDY29sR0JMTXZhVy14NDFnVXJ4ZHhnUVBwbjZXTUkzUm5nWEpZeUlvWWY2dVVscS1Xb2Vwdw?oc=5",
+   "published": "2026-10-19T01:04+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -185,28 +160,53 @@
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 0.79,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.63,
+     "asOf": "2026-10-16"
+    },
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -2.28,
      "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "기획재정부 \"반도체 시장, 적어도 내년까지 견조할 것\"",
-   "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5",
-   "published": "2026-10-18T01:31+09:00",
+   "summary": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
+   "title": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXBTejZkWTlFVVQxUzJWMldfak96aEdzT0czU3dwaDVrMnJVNC13Tm1TWnlxRjZNX0tfNld1d09XNGtaX2hqRFBqcnFyNTdHMm0xSHZDRVpxamJseXZLeXFsXzJ0b1FhOW1rR3VZakQ2R1FHNkpDVXNzR0RUeWdQemlPRktsVzliSkRWUHFHYkRZZDQ?oc=5",
+   "published": "2026-10-18T23:34+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -4.14,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "In Massachusetts, $700 utility bills push homeowner to weigh cashing out Nvidia stock for roof and solar",
+   "title": "In Massachusetts, $700 utility bills push homeowner to weigh cashing out Nvidia stock for roof and solar",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0ExdmdzRTYyMElBV1pUUWs5TG40Vkh0V3BMU1NSYWU1VFdObTdTZ1ROdFZrb21BM1Awd2drSHRSa05PRmJrWnNHQ1FxN0dlRUdIdTFFd0VHeVlJUHlwSXM3Y3JoSHdobjIyU25uQmFtTjExT1Jhekt3cDJuUnhzNWRqaUxlaTZoTFlKQ0wtVWxRamVtLUJKUQ?oc=5",
+   "published": "2026-10-18T21:49+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
      "asOf": "2026-10-16"
     }
    ]
