@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-18T08:10:10+09:00",
+ "updatedAt": "2026-10-18T13:29:55+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Iambic Therapeutics(IAM)가 Nasdaq Composite에 합류했습니다. 주가가 이미 비싼가요?",
+   "title": "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5",
+   "published": "2026-10-18T09:16+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.15,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "하워드 막스: 현재 S&P 500은 좋은 투자가 아니다",
+   "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSEVlaHdaTXI2MWo2Yjh5VHRtaFJLYm9PMDByRUEwZ2E4WWkxVzVGRTU0cUcwOERBczVZTzBOa0dpYk5Jc29ZTE5EMVVFM3o2QXNuNnZGSEJEVHZtbV9MUDdSVUtkNVZPUHA0dFVxRXlDb2hNdUJWRw?oc=5",
+   "published": "2026-10-18T08:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "주식 시장 붕괴가 다가오고 있는 경우, 역사에 따르면 이 전략은 포트폴리오의 복구 시간을 절반으로 단축할 수 있습니다.",
@@ -45,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Xtrackers NASDAQ 100 UCITS ETF 1C (XND.SI) 위험",
-   "title": "Xtrackers NASDAQ 100 UCITS ETF 1C (XND.SI) risk",
+   "summary": "Nasdaq US 소프트웨어 Large Mid Ca(^NQUSB10101015LMN) 구성요소",
+   "title": "Nasdaq US Software Large Mid Ca (^NQUSB10101015LMN) components",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0ZmZTektwTGJXRTRFd0xQdFZkTXB6Xy1EV3E2YWFMNnFaS1hpWmZJbjhNT3QzX282bmJ1Um5HUHpaQ2xwWFFFQzhZclpXalhqTDRrbkRGdVBNT0U?oc=5",
-   "published": "2026-10-18T00:55+09:00",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbXBtY0FqWnVra2ZVRUVMb2d0eDNhTmd0bjdnUzBhTExhZWYtZTI4VWZ2cHBkck91NzdFRFNXWl9oaDZ6c0FxRnNUQk1Lb0RnNUpLSWoxWjZ6Y2VVMFRjYW54X09nSlE0eDR3a1BFS3lxRjlL?oc=5",
+   "published": "2026-10-18T00:08+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -60,48 +102,6 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": -2.15,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "투자자들이 최근 승자를 내보냄에 따라 월스트리트의 기록적인 돌파가 풀렸습니다: 오늘의 차트",
-   "title": "Wall Street’s record breakouts unravel as investors dump recent winners: Chart of the Day",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTRxT3NHaXFIWGE5Ymt0YlpFSHh0bHVMOHFhZVkyWlhfVEtHOTJSc0NnS3VMT3Q1eUFpdUxJazA0QUJyY19sLXFybi1UZ19HVFRhV0c3ZjhyX08wRzV5UUZmRzRCZ2JBNmFXSTFQT3hHbjBrRFJiNU51M2pNa2ZYTFlycF9Ma3R6ejNEWnE2a3Z6dTFncUVycnF0YjZsMzBpOTFQQVJ6NjB5Uk5Cd2sxTUVPNzB3STc3SURYUU9nbXdsMndUOGhxb3NOTXBRYUhucG9JZ3ZxdUZHbG5Y?oc=5",
-   "published": "2026-10-17T20:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식시장이 위험해질 때, 이 6가지 투자는 버티는 역사를 가지고 있습니다",
-   "title": "When the Stock Market Gets Dangerous, These 6 Investments Have a History of Holding Up",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlpmUHc1c2ZEUXluaVVoV0k5MjIwbGpodkx1ZFVKd0NRV1ZRSmRXOG5DU1NCR2loMGYtNVhzSUJibVNnNzV2UEg4ZWdyazFDOE1RZXZyZWFfNGxzZzQxbUZsbThNQjRfd3F2RzNZVjIyZWN6RGwweEhQV3VCQkZsLWZZZUQtRkpmSkRmZy1ZdTYza3FoY0dmZGNR?oc=5",
-   "published": "2026-10-17T20:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
      "asOf": "2026-10-16"
     }
    ]
@@ -194,21 +194,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론에 대한 중국의 대응으로 거의 200억 달러를 벌었습니다.",
-   "title": "China’s Answer to Micron Just Made Nearly $20 Billion",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREZVUFM2NjQyeV9XN24zNUEzaHlxSjBLTHlQUzVCN1dtUXVNdGRfSG4yZHNxbHpVNnNTR0x5dkxtX1ZveTd6eU80anczc0RmXzFuMkdwUHVEQWE1SjluY3VRb3BHZzMtZkpKM1lkSlVaREFoUl9RbnlWZWhxSXFLU1F5NW9CYjVhTS10TGc1M05rNXBoN29KTWJn?oc=5",
-   "published": "2026-10-18T02:48+09:00",
+   "summary": "기획재정부 \"반도체 시장, 적어도 내년까지 견조할 것\"",
+   "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5",
+   "published": "2026-10-18T01:31+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.63,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -4.14,
      "asOf": "2026-10-16"
     }
    ]
