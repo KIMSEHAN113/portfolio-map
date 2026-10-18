@@ -1,0 +1,29 @@
+name: OS notify (AI 비서 알림)
+
+# 로컬 AI 비서(운영체제)가 gh workflow run 으로 부른다. 입력은 이벤트 파일에서 읽는다.
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: "보낼 내용 (최대 200자)"
+        required: true
+      link:
+        description: "눌렀을 때 열 주소"
+        required: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send KakaoTalk
+        env:
+          KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          BRIEF_URL: https://kimsehan113.github.io/portfolio-map/os/
+        run: python scripts/kakao.py notify

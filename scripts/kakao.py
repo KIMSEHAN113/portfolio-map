@@ -1,6 +1,7 @@
 """카카오톡 '나에게 보내기'로 아침 브리핑을 보낸다.
 
   python scripts/kakao.py          브리핑 발송 (briefing/meta.json 필요)
+  python scripts/kakao.py notify   AI 비서(운영체제) 알림: 워크플로 입력 text·link 를 그대로 보냄
   python scripts/kakao.py setup    최초 1회: 인가 코드(KAKAO_AUTH_CODE)로 토큰을 받아 GitHub Secret 에 저장
 
 환경 변수 (GitHub Secrets)
@@ -139,5 +140,21 @@ def send():
     print("카카오톡 발송 완료" if r.get("result_code") == 0 else f"발송 응답: {r}")
 
 
+def notify():
+    """os-notify 워크플로: 입력 text(최대 200자)와 link 를 '나에게 보내기' 텍스트로 보낸다."""
+    event = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text(encoding="utf-8"))
+    inputs = event.get("inputs") or {}
+    text = str(inputs.get("text", "")).strip()
+    if not text:
+        raise SystemExit("보낼 내용이 비어 있어요.")
+    j = token_request({"grant_type": "refresh_token", "refresh_token": os.environ["KAKAO_REFRESH_TOKEN"]})
+    if j.get("refresh_token"):
+        save_secret("KAKAO_REFRESH_TOKEN", j["refresh_token"])
+    link = str(inputs.get("link", "")).strip() or os.environ["BRIEF_URL"]
+    tpl = {"object_type": "text", "text": text[:200], "link": {"web_url": link, "mobile_web_url": link},
+           "button_title": "대시보드 보기"}
+    r = post("https://kapi.kakao.com/v2/api/talk/memo/default/send", {"template_object": json.dumps(tpl, ensure_ascii=False)}, j["access_token"])
+    print("카카오톡 발송 완료" if r.get("result_code") == 0 else f"발송 응답: {r}")
+
 if __name__ == "__main__":
-    setup() if sys.argv[1:] == ["setup"] else send()
+    {"setup": setup, "notify": notify}.get((sys.argv[1:] or [""])[0], send)()
