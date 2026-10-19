@@ -6968,9 +6968,9 @@
   },
   {
    "date": "2026-10-19",
-   "updatedAt": "2026-10-19T17:56:41+09:00",
+   "updatedAt": "2026-10-19T18:07:59+09:00",
    "fx": {
-    "usdkrw": 1329.02,
+    "usdkrw": 1329.64,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -7014,8 +7014,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 221000.0,
-     "chgPct": 2.55,
+     "price": 220500.0,
+     "chgPct": 2.32,
      "asOf": "2026-10-19"
     },
     {
@@ -7028,8 +7028,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7530.0,
-     "chgPct": 0.53,
+     "price": 7500.0,
+     "chgPct": 0.13,
      "asOf": "2026-10-19"
     },
     {

@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-19T17:56:47+09:00",
+ "updatedAt": "2026-10-19T18:08:07+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "2026년 10월 19일 주식시장 뉴스",
+   "title": "Stock Market News for Oct 19, 2026",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1FCM1pkMkZRaTRYN01tNHNILXRFT3BxZ1JhY1ZqWUpKb2NPaUd1ZHAxYTh3UkpNOFpuQ3ZHWHRvY19RWThHNmJXd0xlUXdSczZHd2tYVWh0a1ZwT0QtRm9kWERxT3Nkc3hmRFNINE96WF9rd2RrN3NFek9Va1ZlRFlDSXFHa1ZDMkxqLWNNUmlCTW8?oc=5",
+   "published": "2026-10-19T16:11+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
@@ -24,7 +45,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "'검은 월요일'은 없나요? 나스닥, S&P 500, 다우 선물은 이번 주 거대 기술 기업의 수익이 예상되면서 급등합니다. 소매업체는 여전히 조심스럽습니다.",
+   "summary": "'검은 월요일'은 없나요? 나스닥, S&P 500, 다우 선물은 이번 주에 거대 기술 기업의 수익이 예상됨에 따라 급등합니다. 소매업체는 여전히 조심스럽습니다.",
    "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGtzY3RHLXBKS05JREhZb2FSUjdPWC1VdmVYaVQxQjctWm92ZDI5UUExWFJBN25WZG42dFRud3J3bjFtRy1yX05TcmRSWC1mQV9qVTZpZXpnNWNacmNwUElfMXJQSlhxU3VvSldxUGRaV0E0enF4VHBTcV83WEFHVGdBa0tTT19mM3kxUjR5ZU1PYms?oc=5",
@@ -92,29 +113,8 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Anthropic IPO Buzz에는 Nasdaq 주식 및 ECM 수수료 승자를 관찰하는 투자자가 있습니다.",
-   "title": "Anthropic IPO Buzz Has Investors Watching Nasdaq Stock And ECM Fee Winners",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT24xWUZOYW1fTVo2T0dGYmhtV01KRmRNLXhPY0Vtb0V1bG1vVVhSQ0MtNS14TmthYlFaTGdUTnJzSjFUaHRfcnlxZUFLS0lGU2hucnFaUVRVU1VFLXF3WlA3LXpPZVZMbHhkQXNSSS1jbjNDZXNiVmt5WVJzdnZBdU5zaHUxcE9lYV9md1FaVE1qWTVmOUt0aVZObm1kNDMzZlJCZw?oc=5",
-   "published": "2026-10-19T10:12+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.15,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Reply, 생산 준비가 완료된 로봇공학 및 디지털 트윈을 위한 \"NVIDIA Physical AI 전문화\" 획득",
+   "summary": "Reply, 생산 준비가 완료된 로봇공학 및 디지털 트윈을 위한 \"NVIDIA Physical AI 전문화\" 취득",
    "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR?oc=5",
