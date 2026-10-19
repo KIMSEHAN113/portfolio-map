@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-19T08:18:38+09:00",
+ "updatedAt": "2026-10-19T17:56:47+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
-   "title": "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
+   "summary": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2F1X0NFSEExdXFUR3VwSEVRd29YMi1QQjFVb24tZ2NXbEtJZDJsY3djQzNlclRFYm05SktkNDUxS1hoX1o0VkI1ZkNETjdtNVNkdTlKaGo2TlctTEZjeEhVT0Z4ZmJPNVBCQTZKOXk3NjctMlBIZzdhYXdFY1NzZG5PQXlncEpBZ3g2anNkdjJPMVdQQUhwQg?oc=5",
-   "published": "2026-10-19T02:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5",
+   "published": "2026-10-19T15:36+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,162 +24,101 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Should You Invest in the S&P 500 Right Now or Wait? There's 1 Clear Answer",
-   "title": "Should You Invest in the S&P 500 Right Now or Wait? There's 1 Clear Answer",
+   "summary": "'검은 월요일'은 없나요? 나스닥, S&P 500, 다우 선물은 이번 주 거대 기술 기업의 수익이 예상되면서 급등합니다. 소매업체는 여전히 조심스럽습니다.",
+   "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXJVNjJBLW1nd3JpZEZrQWdLdmFRYUQ0eWo5UnNZaUJhWXl4MXh3X2p1ZFRscUN4emk1NFREa1FoQXUxeUhfQkdIWXlHa0cyLXhTMVVsZUVLUzFjTnVsSEJCQWl3em1EY3ROMXRMdENxSlJTVnVZeWJkZ094UzB1azMyUmdTQlVkYTRIV2hZVQ?oc=5",
-   "published": "2026-10-19T01:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGtzY3RHLXBKS05JREhZb2FSUjdPWC1VdmVYaVQxQjctWm92ZDI5UUExWFJBN25WZG42dFRud3J3bjFtRy1yX05TcmRSWC1mQV9qVTZpZXpnNWNacmNwUElfMXJQSlhxU3VvSldxUGRaV0E0enF4VHBTcV83WEFHVGdBa0tTT19mM3kxUjR5ZU1PYms?oc=5",
+   "published": "2026-10-19T13:07+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-   "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
-   "published": "2026-10-19T00:59+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Here are the 3 big things we're watching in the stock market this week",
-   "title": "Here are the 3 big things we're watching in the stock market this week",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalM5MHcycVJEWlZaYjhZQWRMUUx2ckVLNTd2dU94aEwtZTVIM0E1eGlxZDRpYTE0Q1Q3eDVrVl9nOWc2djM2bWhseWFiYkJWOG5Pb3dyU1BIVE56TVl1R1ctSEM4WFItZnRZLXRoTWFxMFBBOE9WZHpKN044NW5yWW8wTUFMWUpZVHdKSWdjWHRocFFjcVQ5Z2duRXpIa2V1YU5XbVhQZUlUOFQwamMtaEJUbFYzVzJ3TzRxag?oc=5",
-   "published": "2026-10-19T00:24+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
-   "title": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUml4c3A4TVZIQ1loSk0tLUd2VEVYdUdSRW85Z2RfSnVCUWp6OUlIMktVTWN2UERncmhqbzFibDAzSmNBWDluMU9TdXo3WHpOdkp2MjhSbHZ3ckpCZThQUnl2Y0FXdFdBZ1VLd1k1Zk92VDZ5cW1XTzNiSng4d0lEd2hHZDZPQzVJUnlsVzJmQlZEMjh1?oc=5",
-   "published": "2026-10-19T00:07+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Why Micron's Latest Long-Term Deals Are a Game-Changer for Investors",
-   "title": "Why Micron's Latest Long-Term Deals Are a Game-Changer for Investors",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFpNc3FBR05PNV84aVJEUldEdnBfZ3k3VzVrekpIdTdnNE5yM0lpQjlGS0FJc25fV1RfM25wTndNOTdGVEdKU3RWUnBWVllMU25ib3drOElFVGhsYUxKTkRCRS1zYm1aNTNOdWFfa3M4cW5xZm5tNmQ3LTNQRW45SHpicWM5SkVqdkgydkFJTDF6QXBVUV9raw?oc=5",
-   "published": "2026-10-19T05:05+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.63,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "History Says Nvidia Stock Does This in November. Here's the 1 Thing That Could Break the Pattern.",
-   "title": "History Says Nvidia Stock Does This in November. Here's the 1 Thing That Could Break the Pattern.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWJ0SURkS2FydW9RTU5veXNxdmZmdFJfZGRkYTZOdG9CN2Jva2czT1dMV3JKRF9Ta25IOTZheV8zWUdxWjRHZ1BKdE5RcXEzeGRKTE1SdHNmdXpKSmk5YWJZc3Z0cjhzMFZBNTB2MFJrV0ozQlJTcnVXUzIxd3dicjJQMHdmS3BOMkVTelY3TEZ5eEpuV2QxWUxLcw?oc=5",
-   "published": "2026-10-19T01:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
-   "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWdNdGZSeFJpNll0RnpoS0VKUzFBaHRUYWFmcE1JUE5EVGEwWVlaa2ZoNkNsN1BiRExXMHQxR01pY3ZRV0NvcDdNNm9tN1BvdjBSZ2JuelRfT252ODVDY29sR0JMTXZhVy14NDFnVXJ4ZHhnUVBwbjZXTUkzUm5nWEpZeUlvWWY2dVVscS1Xb2Vwdw?oc=5",
-   "published": "2026-10-19T01:04+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.63,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.15,
      "asOf": "2026-10-16"
     },
     {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -2.28,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "GTA 6을 위해 완전히 재구축된 Rockstar: 11월 19일에 월스트리트에서 인수할 예정인가요?",
+   "title": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkNKUUJZTU1BeGJIREpqYjhCSUdDaHFpNkVTc1NyV25LSTZOeDBReTJ5QlZ6N2o0YmVTTG45TmlVTlJyVlRGVTNydXdUMWJNUVozWEg2UVI3UndwOHJDemtrZHU2a25Bd3RXWFFJVWY3SHpQdnZhTzNrS3Jhb1VXYmZWN1dVd3gxS2ViS1plYk80Uk9RSjA5dk5R?oc=5",
+   "published": "2026-10-19T12:40+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.09,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "금요일 매도 이후 나스닥 선물 랠리로 블랙 먼데이에 대한 두려움이 사라짐",
+   "title": "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5",
+   "published": "2026-10-19T10:31+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.15,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Anthropic IPO Buzz에는 Nasdaq 주식 및 ECM 수수료 승자를 관찰하는 투자자가 있습니다.",
+   "title": "Anthropic IPO Buzz Has Investors Watching Nasdaq Stock And ECM Fee Winners",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT24xWUZOYW1fTVo2T0dGYmhtV01KRmRNLXhPY0Vtb0V1bG1vVVhSQ0MtNS14TmthYlFaTGdUTnJzSjFUaHRfcnlxZUFLS0lGU2hucnFaUVRVU1VFLXF3WlA3LXpPZVZMbHhkQXNSSS1jbjNDZXNiVmt5WVJzdnZBdU5zaHUxcE9lYV9md1FaVE1qWTVmOUt0aVZObm1kNDMzZlJCZw?oc=5",
+   "published": "2026-10-19T10:12+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.15,
      "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
-   "title": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
+   "summary": "Reply, 생산 준비가 완료된 로봇공학 및 디지털 트윈을 위한 \"NVIDIA Physical AI 전문화\" 획득",
+   "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXBTejZkWTlFVVQxUzJWMldfak96aEdzT0czU3dwaDVrMnJVNC13Tm1TWnlxRjZNX0tfNld1d09XNGtaX2hqRFBqcnFyNTdHMm0xSHZDRVpxamJseXZLeXFsXzJ0b1FhOW1rR3VZakQ2R1FHNkpDVXNzR0RUeWdQemlPRktsVzliSkRWUHFHYkRZZDQ?oc=5",
-   "published": "2026-10-18T23:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR?oc=5",
+   "published": "2026-10-19T17:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -194,11 +133,72 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "In Massachusetts, $700 utility bills push homeowner to weigh cashing out Nvidia stock for roof and solar",
-   "title": "In Massachusetts, $700 utility bills push homeowner to weigh cashing out Nvidia stock for roof and solar",
+   "summary": "대만의 마이크론 연합은 파업을 승인하기 위해 99%의 투표를 했습니다. 주식을 팔아야 하는가?",
+   "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0ExdmdzRTYyMElBV1pUUWs5TG40Vkh0V3BMU1NSYWU1VFdObTdTZ1ROdFZrb21BM1Awd2drSHRSa05PRmJrWnNHQ1FxN0dlRUdIdTFFd0VHeVlJUHlwSXM3Y3JoSHdobjIyU25uQmFtTjExT1Jhekt3cDJuUnhzNWRqaUxlaTZoTFlKQ0wtVWxRamVtLUJKUQ?oc=5",
-   "published": "2026-10-18T21:49+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0pYaEF1bUhLVTdXOFB1S3NyTTZMd3BWY2JIVjBnWjZ4RGxtc05Cay1EQWxacWRVbC1vRXB1UVZZa0lkYUhGeU93Z3Npb09RXzBMSGpocFo2bGJhbkRmc1hzZ0Z5LUlkelRYYkVQbk9aRzBVMkpDek9fQ1RKXzdta0wyVk1Hdm5FeWN6Y2x5Q2o4LUtqOUIzUQ?oc=5",
+   "published": "2026-10-19T16:46+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.63,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "2030년까지 Nvidia 주식에 대한 10,000달러 투자의 가치는 다음과 같습니다.",
+   "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFhBeFNLSGRFT0wzZTBUVmtJbUhhQUZGOWNNZWszTXVDNjVSeWlMNVlGVU5hdVFzZUhfYXBQRmx2RnhRQVNoRVZwS2M0RE1hX0J2UkJzczVIcTluSldnSkt5QkNsNTMyN0xadklsYWNWRjRQRVp5UHlZUGg2WHJLY1RDOXZyQWNMLUxIcFNrNmZMN2k0YVdpVkI2WQ?oc=5",
+   "published": "2026-10-19T10:06+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "향후 5년 동안 인공지능(AI) 메모리 주식을 1개만 소유할 수 있다면 그것은 Micron이 아닐 것입니다.",
+   "title": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHpNeVo1Q2E0M012ei04SHFBZVlUeFM1QXpMUEctaVRKdE1PdDJCZWMtMDkyd05OWjliWjJMVHlKNlc2SG5tQjcyN0FWQ2VZS1pHRi1XWUQyRUNYUWtsQmFMYzFIUWxSeW5EU2tRWE00U0FsalRhUm9oaTk1OHlwODVDWHM0YjdNNVNxSzh6aU1zcVU1OGc?oc=5",
+   "published": "2026-10-19T09:20+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.63,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "채권 시장은 Nvidia 주주들에게 경고를 보내고 있습니다",
+   "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE1HRUhGZTZFbkE2YjJfRE84U3JiRi00RktCVE45YzN0SHVEMm4tTE43dXlOcTB1V3pLTk15Q3BDRWhhd1JhRUdDWmFUTWJrTm8tUVJ0R2pDSXEyM2pjNTBmbDlGVFNYVjdtOFRhZi1sMUZwQ2FLUGR2aHQxN1VZUFJ4ZUJCbm5HRlY5WmljUFhGT3dKdXNUNUUwLTJaeDZ3?oc=5",
+   "published": "2026-10-19T07:30+09:00",
    "holdings": [
     "soxl"
    ],

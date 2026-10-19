@@ -6968,9 +6968,9 @@
   },
   {
    "date": "2026-10-19",
-   "updatedAt": "2026-10-19T08:18:32+09:00",
+   "updatedAt": "2026-10-19T17:56:41+09:00",
    "fx": {
-    "usdkrw": 1334.53,
+    "usdkrw": 1329.02,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -6984,8 +6984,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 758,
-     "price": 26410.0,
-     "chgPct": 0.0,
+     "price": 26095.0,
+     "chgPct": -1.19,
      "asOf": "2026-10-19",
      "dca": "매주 월 +2"
     },
@@ -6999,8 +6999,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 595,
-     "price": 22340.0,
-     "chgPct": 0.0,
+     "price": 22240.0,
+     "chgPct": -0.45,
      "asOf": "2026-10-19",
      "dca": "매주 월 +2"
     },
@@ -7014,8 +7014,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 215500.0,
-     "chgPct": 0.0,
+     "price": 221000.0,
+     "chgPct": 2.55,
      "asOf": "2026-10-19"
     },
     {
@@ -7028,8 +7028,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7490.0,
-     "chgPct": 0.0,
+     "price": 7530.0,
+     "chgPct": 0.53,
      "asOf": "2026-10-19"
     },
     {
@@ -7196,8 +7196,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 11980.0,
-     "chgPct": 0.0,
+     "price": 12090.0,
+     "chgPct": 0.92,
      "asOf": "2026-10-19"
     },
     {
@@ -7210,8 +7210,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23320.0,
-     "chgPct": 0.0,
+     "price": 23180.0,
+     "chgPct": -0.6,
      "asOf": "2026-10-19"
     },
     {
@@ -7224,8 +7224,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 26410.0,
-     "chgPct": 0.0,
+     "price": 26095.0,
+     "chgPct": -1.19,
      "asOf": "2026-10-19"
     },
     {
@@ -7238,8 +7238,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14830.0,
-     "chgPct": 0.0,
+     "price": 14705.0,
+     "chgPct": -0.84,
      "asOf": "2026-10-19"
     }
    ]
