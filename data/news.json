@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-10-20T22:11:05+09:00",
+ "updatedAt": "2026-10-21T07:46:39+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "투자자들은 강세장을 재설정하기 위해 수익을 기대합니다. S&P 500에서 주목해야 할 핵심 수준",
-   "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mQjZveGx2a21tNnQwTkdwMkRfaEw5WDZpVE9faW5PZGtVLUc0ekV5MFpUdWdZMGFnalU3eHlCd19DczNuV3FSdmNEeVV2N3pzRE0zWjZiSlFMcjJTTzFUS2RCXzc0REFGNzBZWllHR1UyMTItdjVqcHp30gF_QVVfeXFMUFRvbjFEV2xCeEZLdHVIRFRaZTJVdHZCZkkzNjB1NlFzWFhnQlRMX2xWLUR6aERxZHFnWnFVSWcxSmdOa0JpUERDeG1ucVRzNkFEdFFpdXEwenQxUW1uNlJhTFoxQzk4NWtMU2FqbDh2X1ZIcHVWU3FCSTJHQ1ZPMA?oc=5",
-   "published": "2026-10-20T21:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.41,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "FactSet과 Nasdaq 사모 시장 제휴로 사모 시장 데이터의 투명성 향상",
-   "title": "FactSet and Nasdaq Private Market Partner to Bring Greater Transparency to Private Markets Data",
+   "summary": "업데이트: 통신 서비스의 약점으로 미국 주식 지수가 혼합되고 기술로 인해 Nasdaq Composite가 제한됨",
+   "title": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2hvTmJmakpOVXpaVElDUmMyUjJFQ1B5NnBVdTBFRnlzWU1qZThwcDFCMktZVVdVVXdyU1AyamdUYkJqbk1WYkhHR3FUYkd5dFdYUFhsVG1TNTdvSG5McEJiYkpGd2k4UkVDUXN5MThnT3FtQm11S184cGZfem5uOV91ZUpGQkJ3dWZBVHltZFE5NDF6Y3ZsQU9pU01VbE9CbjlraA?oc=5",
-   "published": "2026-10-20T21:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVphOUhDSF9vMDZ4OFRleG9EbUd3Y3k1Nzl0eWM5RUZTMGF1c29NMVRGSEV0SUtfd3J4cUxpTnFheVBjX3ZFT2hKbVkzd2VuRzM2VDNrV0pOUm1EbVZMSU5PUXk2MGxjV2VDYjNmLWxUMmhQa3RSNUJUWEUyUE5YdlF2WHNadm9LcG82N2xiNGFyd2plejQxQTBFOXVKUQ?oc=5",
+   "published": "2026-10-21T06:34+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -38,60 +17,18 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": 1.11,
-     "asOf": "2026-10-19"
+     "chgPct": -0.02,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "NVIDIA는 계속 하락하고 월스트리트는 목표를 움직이지 않을 것입니다. 구매할 시간인가?",
-   "title": "NVIDIA Keeps Falling and Wall Street Won’t Move Its Target. Is It Time To Buy?",
+   "summary": "United Parcel Service(UPS)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "United Parcel Service (UPS) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXdRTEZ3b2xDdW96M2hORTVLZkcweW5wcHh1NWpZWWg5SWU0QU1PYkNpYl9HV2JXcExUUl9tWnQyX0VHU3RoMVZmWk9PUHRFbENVVlMwQmNrdzF1ZkZzOWpkNTR2a3pDSFVJQnc5aHpPbWF6aERzUVFJWFhTbmRoOVMzckIxQXJzbEtseU1BVlQ4cGpCZWZfV0tQQ3FzQQ?oc=5",
-   "published": "2026-10-20T21:00+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 1.38,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 단 한 세션 후에 마이크론에게 1조 달러의 왕관을 돌려주었습니다.",
-   "title": "Wall Street Gave Micron Back Its $1 Trillion Crown Just One Session Later",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnlaU2tIdXQ3YWV3YzV1NGFad3ZFbjI1QUNIOEUzUUtiZF9aaDhHRXNpQUFjOGZVUEh1YTFUVy1ITGxzN1FndVRuSEJPbGlnNmN3VklXWDNsVS13blhFdnBsVloxOWFGXzRJaElhcUJRUDNDcnVRbjlQaDNTSEpEZThKS2tZOW5sd3BFdEJKY3BIajZhaEh4Wg?oc=5",
-   "published": "2026-10-20T20:55+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.97,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "2026년 10월 20일 주식 시장 뉴스",
-   "title": "Stock Market News for Oct 20, 2026",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTZpbU9xOEhwbGhfMFI1ZUZSNUhRTHk5Vi1nSGVKLXVwSDhGOFVRS2g3RHNEZ2Z3bFdRV1cxUVo5TzlVY3pya0xfSTJsX2V0aXlWTWRqVzFkTGx6RUpZbGRjWlJMblh5UGxGZXJhNG95Vl90ZHB3eFJWbFRWcUZmbnlQR1dMMVhwckRPcWN5RGMzdnc?oc=5",
-   "published": "2026-10-20T20:38+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOENyYTVBaGM4STE1elpmZE5aOVhheFZiMFliODFQRTJvREV5MFRHMDFKSldrMnp6TnpNUkg1aEpFSVdlNXhQSlZQOE02blFmVWZLSlZuLTF1OGg4LXY0czhhUnB2NkgwemtkMXp1R2c5VU8yTFJvVEs5UTk3cFMxVUY2TnJpLV8wREJCbnN3VHc1X3B6SGwtbVF3?oc=5",
+   "published": "2026-10-21T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -101,37 +38,81 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.41,
-     "asOf": "2026-10-19"
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "AI 거래 반등 실패로 칩주 하락",
-   "title": "Chip stocks decline as AI-trade rebound fizzles",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDViMGFNcUdvenVkaVBsb3IzUzF2QmJoQ1JMTnlsUGk2NTFtaWVYMVZld1dhS3BvWjNSdVNEYkh3R2tBOFZfNDAyeFpVZGhNSDgtcDN6U3EtR2UyYlc2QzRYMlVDZkpFS00yXzNKalBTTGJackRBYTNYaUlJMzJBYXRKX2F5Tk5UYmJVOFJJdDBfZDIzRHpTbGpiSXU?oc=5",
-   "published": "2026-10-20T22:04+09:00",
+   "category": "미국 지수",
+   "summary": "RCM Technologies, Inc.(RCMT)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
+   "title": "RCM Technologies, Inc. (RCMT) Outpaces Stock Market Gains: What You Should Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHp6MmJDTmtMQ2t0N1NjeU1vWU9xb0x5U2IzSGYwOFNLZm5PYzlEY2FHeDVjWFp6aEY5YkFjYW9yNHZsbWg5SU9ra3ZUTHhkNmFwcUJxd0dORXBZOTd0LUxzaE4tZ1VJTmVIelpkTUFER3ZWY3M2QzA5QnZ4a3YxUk05dGZPQVVUWGt0SG10WHlCczhDR0g5RXNYTlhuU0xJ?oc=5",
+   "published": "2026-10-21T06:00+09:00",
    "holdings": [
-    "soxl"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 1.73,
-     "asOf": "2026-10-19"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Gladstone Commercial (GOOD)이 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "Gladstone Commercial (GOOD) Beats Stock Market Upswing: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnJoRkpQZXo4LXNrUTU2Y0t6NDVycElvVzMxcF9GM2xQdS16cmZyWVVnWUlUSUUxRTZqOXJLZWVhOHphWXNDeEJBSGxNdnlTWDdHS2Z5NllLMElhckRiMmxJNklveFQwZDJJODEtY3BPR1JTeGJETXUwcnU5d0pjcXppY0Fwc043QmZNZ3FJVERULTNGUU9IRWFUNXhDS2FsVGk3Nw?oc=5",
+   "published": "2026-10-21T06:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Allstate (ALL)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
+   "title": "Allstate (ALL) Outpaces Stock Market Gains: What You Should Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE56T1FLSlVrUmZlYzhOWjFiSHRIX3lGb3ZTeUVybWpHZVpEakxZWm9CU2hDM3dZQUxKTHQtcFA4amxKN0E5TlZmSjRCcFJCYnBxOW11dXQ3QjdKakJEN3JnUmVxczhLNEY3dl9RWDRtMFJobjNzZzdkX1gxYjBxREpEUjM3SXdSWUhFY01MUDhlemhDX1dTVXlnZ0ZyUkJYalhn?oc=5",
+   "published": "2026-10-21T05:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia, 유럽 AI 이니셔티브에 따라 100억 달러 규모의 독일 스타트업에 수백만 달러 지원 약속",
-   "title": "Nvidia Pledges Millions To German Startups Under $10 Billion European AI Initiative",
+   "summary": "시장 잡담: Amazon은 전력을 공급할 수 있는 것보다 더 많은 Nvidia AI 하드웨어를 구매하고 있습니다.",
+   "title": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFhsTHk0TkJVVWJRYWVvcldEYkgxeTJOVlh6ZkJ3OGVOWG8zU3ZELVdTRTNRTkxMUHFHdXNCZ1lsRjVSS3l1VnF6WW54Sm51MnFtVXI5QzJXNjF6MzBUM2lQdXlUbHFpSWk5U2k4NDZkcDJBYzlTYUlBUldsa3ZaRXJOYnlUalhOQjdPeGZ3VFFwQ0FzNXZHRUlBUWVPUlgwQ3VGdDlB?oc=5",
-   "published": "2026-10-20T21:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1QwbjdqVlV4MEl5LVpwWFgxOTJqT1lScGpjNVM0TEt5ek9sbWdYbnhRNC1OTVZjRFhLTXZOVlBxMnd0djNYakk1SU9OaEp0NXIzcnJfZHg0cEc2ZzJDSURpblNrbnc4MWlrcTdQbG50VUNQd1FoeEVmYUgyRktfdEdFSDJjcUg0QkNzQU93R2hPdWxMdGp4YTQ0cVJsdw?oc=5",
+   "published": "2026-10-21T04:29+09:00",
    "holdings": [
     "soxl"
    ],
@@ -139,56 +120,45 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 1.38,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "칩 주식이 시판 전 압박을 받음에 따라 주식 선물이 혼합됨",
-   "title": "Stock futures mixed as chip stocks come under pressure in premarket",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSG5yQmZWYTNmdktvRTQ1TVJWajRPQllpbG5YT1l2dy1CbVNxT2t1T2xCQ3N6WEJkajZtMy1sSDk2cFBpdGdaUlRQaTdzQTNmWlNKcFlyR1g2am9mb2FfaEpIb3hoQ3JRMEhESi1veXM0MjZWN21GVXZickFMMEpfbUNkLW5VSm5RUkFjNnNsN2VDTDluMFRNcUZxczQ2ZFVpVXVlNWRiYmZiM2R1bUE0?oc=5",
-   "published": "2026-10-20T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    },
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 1.73,
-     "asOf": "2026-10-19"
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 0.07,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "칩 주식은 8일 만에 2조 달러 손실을 입어 AI 붐에 대한 투자자의 믿음을 시험했습니다.",
-   "title": "Chip Stocks Lost $2 Trillion in 8 Days, Testing Investor Faith in the AI Boom",
+   "summary": "마이크론은 한 달 만에 10% 하락했습니다. 판매할 시간인가, 아니면 장전할 시간인가?",
+   "title": "Micron Just Dropped 10% in a Month. Is It Time to Sell, or Load Up?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDlyUG1uRmo5RThSaGNQMG55dnpzODN4Ykw4OHlLalZrNGtqQ0Q5VUV3RmpOell0amtReHJPbUNRSWF0SlA2aEJoZ01obzdvX1BzQWJrSkwxQmc3NF82TFJEUFlCaWxjTGpZVndlaVJ5LUtudllkSE5YcEhzSHhBZlV6NXVPcWRTQU9oU0RaWFd6dndRdDBj?oc=5",
-   "published": "2026-10-20T11:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlVadjNwQzdEd3pKYkhYd2VSR19wY2NFT1RDTnRLb1FoYjZSeVNkZkFvLWdwZ1hfOEF3QXNFMWwxYXFKeUtRWThvak1CVlI4TjJIUTZWUkkzVF9hYmkxNktQcjNQQy1KbDJ6cXVMeFMzbFZHSFM3MURXZEVvWjRIck5WSmxaaG9LYTRLNWg4NjkzRmxlWE9kUw?oc=5",
+   "published": "2026-10-21T03:46+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 1.73,
-     "asOf": "2026-10-19"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -0.98,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "'AI를 위한 문을 열어라': 독일 총리, Nvidia의 새로운 투자 발표에 따라 기업들이 AI를 수용할 것을 촉구",
-   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5",
-   "published": "2026-10-20T11:16+09:00",
+   "summary": "투자 서밋: 독일 정부, 엔비디아와 AI 계약 체결",
+   "title": "Investment summit: German government strikes AI deal with Nvidia",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmUxTzhOREtWUTYtQlhLRkR4Z0FPaGRueUR4VHBGV1phOTZBMjFXaFc2Z2VPWGtrMF9zOGtJOWlubjZuNXBXT3ZNSHJBbnNXbmVDaUdIcXJ3cnVncXV4RWRVdU5JWFVnT3Q2NjdvcHR0d1VnczNyTGxkUjZ6M1BJT19vVDVZdDJRa0ROWXpXV1NNX1ZNTUhz?oc=5",
+   "published": "2026-10-21T03:44+09:00",
    "holdings": [
     "soxl"
    ],
@@ -196,8 +166,46 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 1.38,
-     "asOf": "2026-10-19"
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia, 대규모 신규 AI 투자로 지분 증대",
+   "title": "Nvidia Raises Stakes With Massive New AI Investment",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2tJaVJDQnJ5TWFzSkRjRjQtQnZxT0VGbTJOWWtCNnFqR2ZMbzVrdWFfZnRIbzE5LWFBdW5fcUVZUjdrX2s4SXdHV0dMVTNCaVVLcE5xQjQ2dEFhb2hiRms1aFRsMXA5YmFEMnAwQktxdXE4UmFCZTk3TWxEWDR3QlFSTUJEQmlna0JGeTh4d3A5dUhoWGtaOGxHMA?oc=5",
+   "published": "2026-10-21T00:16+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 주가는 최고치에 가까워졌지만 시장은 흔들리고 있습니다. 투자자는 매도해야 하는가?",
+   "title": "Nvidia Stock Is Near Its High, but the Market Is Wobbling. Should Investors Sell?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGxVZ2laZlJRTlFWdUhaX0pQdGdtR3hObHBJOW1iV21udTVHRTgzSUdkZW9Sa1I3dFBDYTdscE9yQzM4N2xFcmRKVjJLYmxBSTJ5Y2wtZTVVOGJocWRjZlJBcjB1MGs3WWJkSG9hMWJGdGkzcFZrNl9SMUs3T0JpTHV1bmxkVXNtakpucFNrZGdBRVpsdVNpRVh3?oc=5",
+   "published": "2026-10-21T00:05+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
     }
    ]
   }
