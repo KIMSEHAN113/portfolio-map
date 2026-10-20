@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-20T09:24:55+09:00",
+ "updatedAt": "2026-10-20T15:58:55+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "주식시장이 걱정되나요? 이 고수익 ETF는 수십 년 동안 안정성을 제공하고 수동적 소득을 창출할 수 있습니다.",
-   "title": "Worried About the Stock Market? This High-Yielding ETF Can Provide Stability and Generate Passive Income for Decades",
+   "summary": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVNGVUtqYXI1RkpCc3hBNUJ5ckwtRlRTVkU1N053VlBPTlV3Y052SEJWTnF0LTNxQ3JaRDdfSGxrUUtMaGlSNXVORWFuUkU4S1p2bTMydWlxUXc5Q1phdW1tdWdGMGZWYnRtVE5td01rRVduSXo3RDMwY2RBcC04aWtudXFRS3lPZ29SNjdYMXByYVVPWmxDcWdIOFVlUmJq?oc=5",
-   "published": "2026-10-20T07:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlSOUotSHVkWGJlVGY3TWJ2YzZPMGdBaW1ua08zSng3bkFNcWtnaVhibmQwcW1FNmZKaGMxZVRCdUtvZ0FyaTA0RUEwT3dVSHNNcUJhSFBNWHgtQ2liOE1OVklWV214N3JBNmpXUkhNZzlUN2E3NVZFblQ5Ym1mSzQyT3Y4RkQyeE1WYmRwRkhuZw?oc=5",
+   "published": "2026-10-20T15:36+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "F.N.B. (FNB) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "F.N.B. (FNB) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmw2UTI5VVVlV3h2b2FudThuMnNLQUhKWmMwN0NHUmQ1RG5aTVZvN2tTY3Mydm1JMjZNQ0lhZzNVOXcxd3llcnBGanJIV2duNjE4d0tSQUxvUjVZV21CRGtucllHX3BjNDdyR0tVdDFOdVlZX0Q0RFIwVUdfaWUtQVhNUQ?oc=5",
-   "published": "2026-10-20T07:00+09:00",
+   "summary": "미국에는 K자형 주식시장이 있고, 중국은 K자형 경제가 있습니다: PIIE의 Adam Posen",
+   "title": "U.S. has a K-shaped stock market, China a K-shaped economy: PIIE's Adam Posen",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTJjZlFNWXdfZ01zUTRBaVhuTExJREhXcDhoc0xSLWJJWDJ1dWtMN3BPbnpsZVNPZjNEOEFZR3lrc052WXkxcVVJOHB0ZDZ0RE5RaGxlcTFZWk9UcnRIUThtWHJWaEpDTTNnY3JxTzlGbVZhOXVKYXhCeXVtQktFUlN4X1BFbVl5NklhV3gtVmZFOEVIMW9VUUZlOWk3QTQ3QTVmVmlyMnY0NVJ1ZmFZ?oc=5",
+   "published": "2026-10-20T14:16+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "아에로멕시코(AERO) 3분기 수익: 월스트리트 추정치와 주요 지표 비교",
-   "title": "Aeromexico (AERO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0ljR2RiRVBNSi1QVTNfZVB2eTdWenhNWVJ0NGpDc25TUHUzS214RFFWZDdIYU9CVGN4dWhIcG1YXzByTzhKbUNQUkR6NlYxS3hfQnZCNHdUcUtMWng5VVZuelhDb0FmTkVXX2MxTVVidC1haFNoTjJ5NWsyeDV4ak5UeG9LbmczNWNqWHRaRUQyZ2dyWUszVkZURzI?oc=5",
-   "published": "2026-10-20T06:30+09:00",
+   "summary": "General Motors는 종소리가 울리기 전에 수익을 보고할 예정입니다. 월스트리트가 기대하는 바는 다음과 같습니다.",
+   "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMWE1MVhZSW5sc0Q4NlFGbW1lek1Yclo2dVFGOGkwZnNUbk01ejNJYnZhNmFkaDBGVWNIS21jdUs0ZjBxYWg0TGh2QWlIQWpGQ3lLdm13T1BZTnAxT1VsWTdtbk5aUVlXeXlkd2xfM2I5Z2RVTzlrWWh6QdIBgAFBVV95cUxNNmMzUnhUbG10RmJRLW9BNlRfOVRyV1JYYWljWWFwbk05UGZQSGl2TFA3SHFEU2JpQW9vVDkzUW1aWi1NUGx1N21ZR3B4SG1UdkhpdGJ0dERIZG1HWWlaUnlFTHlyN0ppS1J1MnZJNzUwcXg5V2RYN25KdXF4a2Utcw?oc=5",
+   "published": "2026-10-20T13:01+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,11 +66,38 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wintrust(WTFC) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Wintrust (WTFC) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "Dow, S&P 500, Nasdaq Edge는 3분기 실적 시즌이 다가오면서 기술 반등 속에서 상승: ​​DJT, AMZN, CBRS, CRWV 주식에 집중",
+   "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVNNeTNIbUFOSXhHU18zSmhVWGVsVmh6bHJjMmNQYTFMa0lxeXpzZzUzcmMtSkJJaVFYaHF6NEJnTmdKMHFDeGxPdWlFa3FmY3YxNmFwSDRodDZYWVBKR2c0ZGZNYnZzLUdUT3FZOVN4OHYtUDNnYkt4VEt4MVVpQmJNOFFzQkdmcllLWWNKTmdXZnB1NjFzUW5B?oc=5",
-   "published": "2026-10-20T06:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5",
+   "published": "2026-10-20T12:31+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.11,
+     "asOf": "2026-10-19"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "AI 주식이 월스트리트에서 반등을 주도한 후 아시아 주식은 대부분 하락",
+   "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+   "published": "2026-10-20T12:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -86,22 +113,91 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "왜 V.F. (VFC)가 오늘 주식 시장을 능가했습니다.",
-   "title": "Why V.F. (VFC) Outpaced the Stock Market Today",
+   "category": "반도체 · 메모리",
+   "summary": "칩 주식은 8일 만에 2조 달러 손실을 입어 AI 붐에 대한 투자자의 믿음을 시험했습니다.",
+   "title": "Chip Stocks Lost $2 Trillion in 8 Days, Testing Investor Faith in the AI Boom",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdNTkc3akJvOGNsVzBPWlNSbmlQUmlXbnhrcllOZVBySzdlYnktdDg2c25kM2wyeVpYcUJObU5YWHp6TUVvNnoxcmNOalZVaWQ2QVkwVl9wWC1xZnhNRktXbWJMU29VUHQxTExBdzVQNHBLcWpkN0w3VVVwTnZkMlBQTlYzRzM2ODdDZi1B?oc=5",
-   "published": "2026-10-20T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDlyUG1uRmo5RThSaGNQMG55dnpzODN4Ykw4OHlLalZrNGtqQ0Q5VUV3RmpOell0amtReHJPbUNRSWF0SlA2aEJoZ01obzdvX1BzQWJrSkwxQmc3NF82TFJEUFlCaWxjTGpZVndlaVJ5LUtudllkSE5YcEhzSHhBZlV6NXVPcWRTQU9oU0RaWFd6dndRdDBj?oc=5",
+   "published": "2026-10-20T11:30+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.41,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 1.73,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 대 AMD: 누가 연구 지출의 다음 점프를 감당할 수 있습니까?",
+   "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t?oc=5",
+   "published": "2026-10-20T11:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.38,
+     "asOf": "2026-10-19"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 1.76,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 주식이 10조 달러에 도달할 수 있다고 생각하시나요? 내가 조심해야 하는 한 가지 이유는 다음과 같습니다.",
+   "title": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXZmUkFoLVl3Z1VvS0l3UTBMQ2ZWMjRHTGl3bnlPRjllbXhNUUt0VWR3bGRQRDVzRzMzNXpKejVlUU5qZmpVbG1BeHZMSmxtR3J4SkpLMEFadDBwM09sQ2RVNVJEWnJOZS1LZW1uRFJXQlpyWFJ5Rk5GeURNcXlZLU4tTnRkVDVrX0ZDanlMSzB0WEd2MV96S29JVHY?oc=5",
+   "published": "2026-10-20T08:29+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 1.38,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Applied Materials, Lam Research, Marvell Technology, Micron 및 Semtech 주가 급등, 알아야 할 사항",
+   "title": "Applied Materials, Lam Research, Marvell Technology, Micron, and Semtech Shares Skyrocket, What You Need To Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlF2UWEwdVNYZUlZRTYxTC04cmNHSjJZSy1PQW9LcXA1c2lyUTFHTUZ4TlRpaEpPaWNtYmlpSzFRaTRFM1Q1dEU3bXlKMWNwTjB4cnoxMHhndDRUVGMtLXNuVktoRkxVaS1UTm12VVJFd2Q5NVdqY082TmhOM0ZjN0F0Smw4ZXpPQTFDQTVwVlAyTXRNcUlodFNPNXMtZXlfOFJqaWtB?oc=5",
+   "published": "2026-10-20T06:28+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.97,
+     "asOf": "2026-10-19"
+    },
+    {
+     "symbol": "MRVL",
+     "name": "마벨",
+     "chgPct": 4.06,
      "asOf": "2026-10-19"
     }
    ]
@@ -120,96 +216,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "투자자들이 AI 거래에 다시 뛰어들면서 인텔은 칩 주식을 더 높게 이끌었습니다.",
-   "title": "Intel leads chip stocks higher as investors jump back into AI trade",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
-   "published": "2026-10-20T05:23+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -5.79,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "인텔, AMD, 엔비디아 선두 칩 주가 잔혹한 매도 이후 반등",
-   "title": "Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGZmZWxMSTVpT0k0SDVxUTk0ZFBGSHVzRnVZZ0FCUndBVjFaUDY2S1lXdmpYOGZ1UlR6LXIyV2I0SExac0lGYVduMDFpcTJoMGJtLUw5VWFFZ0tyVnpHY1RfQVBZSS05SThSZWkzSDFXcks5TG5ROUlPalQxSGh1TEFObUpjQlFaZm8yVEVZMXotaG5pc0E?oc=5",
-   "published": "2026-10-20T04:49+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -5.95,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 대 AMD: 누가 연구 지출의 다음 점프를 감당할 수 있습니까?",
-   "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t?oc=5",
-   "published": "2026-10-20T03:56+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -5.95,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아(NVDA) 주가가 맞나요?",
-   "title": "Is Nvidia (NVDA) Stock Priced Right?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28?oc=5",
-   "published": "2026-10-20T03:07+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
+     "chgPct": 1.38,
+     "asOf": "2026-10-19"
     }
    ]
   }
