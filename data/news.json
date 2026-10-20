@@ -1,27 +1,6 @@
 {
- "updatedAt": "2026-10-20T15:58:55+09:00",
+ "updatedAt": "2026-10-20T16:00:21+09:00",
  "items": [
-  {
-   "category": "미국 지수",
-   "summary": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlSOUotSHVkWGJlVGY3TWJ2YzZPMGdBaW1ua08zSng3bkFNcWtnaVhibmQwcW1FNmZKaGMxZVRCdUtvZ0FyaTA0RUEwT3dVSHNNcUJhSFBNWHgtQ2liOE1OVklWV214N3JBNmpXUkhNZzlUN2E3NVZFblQ5Ym1mSzQyT3Y4RkQyeE1WYmRwRkhuZw?oc=5",
-   "published": "2026-10-20T15:36+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.41,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
   {
    "category": "미국 지수",
    "summary": "미국에는 K자형 주식시장이 있고, 중국은 K자형 경제가 있습니다: PIIE의 Adam Posen",
@@ -98,6 +77,27 @@
    "source": "AP News",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
    "published": "2026-10-20T12:20+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "기술 회복으로 월스트리트가 반등한 이후 미국 주식 선물은 안정적",
+   "title": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnBFbW9YcHNIbnM0c3BIb00tWWdkTEhZLUJQX0FUeDZMQnBjVjUwOF9DSEVMVkZqSzBLSTZva0h5dWw3S1h5eFZlU0diVmpxM2ZycngwMEVFQ3JpZVBfa0FqNzNaaHNtdDhqMkFQWEk5eE1fVkhiMkFQRUQ3UDFRWEJZQ2ZoZ2h1V3N5cWlETEFRaUpZTlh3?oc=5",
+   "published": "2026-10-20T10:21+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
