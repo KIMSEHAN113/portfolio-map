@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T16:00:21+09:00",
+ "updatedAt": "2026-10-20T16:02:55+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -8,27 +8,6 @@
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTJjZlFNWXdfZ01zUTRBaVhuTExJREhXcDhoc0xSLWJJWDJ1dWtMN3BPbnpsZVNPZjNEOEFZR3lrc052WXkxcVVJOHB0ZDZ0RE5RaGxlcTFZWk9UcnRIUThtWHJWaEpDTTNnY3JxTzlGbVZhOXVKYXhCeXVtQktFUlN4X1BFbVl5NklhV3gtVmZFOEVIMW9VUUZlOWk3QTQ3QTVmVmlyMnY0NVJ1ZmFZ?oc=5",
    "published": "2026-10-20T14:16+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.41,
-     "asOf": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "General Motors는 종소리가 울리기 전에 수익을 보고할 예정입니다. 월스트리트가 기대하는 바는 다음과 같습니다.",
-   "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMWE1MVhZSW5sc0Q4NlFGbW1lek1Yclo2dVFGOGkwZnNUbk01ejNJYnZhNmFkaDBGVWNIS21jdUs0ZjBxYWg0TGh2QWlIQWpGQ3lLdm13T1BZTnAxT1VsWTdtbk5aUVlXeXlkd2xfM2I5Z2RVTzlrWWh6QdIBgAFBVV95cUxNNmMzUnhUbG10RmJRLW9BNlRfOVRyV1JYYWljWWFwbk05UGZQSGl2TFA3SHFEU2JpQW9vVDkzUW1aWi1NUGx1N21ZR3B4SG1UdkhpdGJ0dERIZG1HWWlaUnlFTHlyN0ppS1J1MnZJNzUwcXg5V2RYN25KdXF4a2Utcw?oc=5",
-   "published": "2026-10-20T13:01+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,6 +87,27 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "전문가들은 나스닥 주식이 30% 폭락할 수 있다고 경고했다.",
+   "title": "Nasdaq Stocks Could Crash 30% If This Happens, Experts Warn",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmx4a253ZldKS0RxUE8ta256NGFpS3Y4NnF2Y1ZOdTExRy1uT2lveVpqTURRYkFhOTUzcGdCRWdlNUxkTUswcEdWMHlCVjhxMWt1b0NVeEtKLUNuNHZlTHdyZGpaeV8wRjNzYmF0clBTRkJNSERHNFk3TlNDXy1uQ3k1b3pnS2pwZjR6TWFGNjItbXhrRzlpSQ?oc=5",
+   "published": "2026-10-20T08:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.11,
      "asOf": "2026-10-19"
     }
    ]
