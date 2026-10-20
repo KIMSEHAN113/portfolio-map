@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-21T07:46:39+09:00",
+ "updatedAt": "2026-10-21T08:56:43+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "알래스카 항공(ALK) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Alaska Air (ALK) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX28tVTFaWVRfZ2RPT0gzVjdEaXJLVGxJS1h0RVNkNU1SOXJXb19DVmw0WnN0WlJVY3JDLUFyRE1QRGlLNkw0cEpSNlZWOTZEQnBNbFkwZnZub3Y4TlJyR096ajViLTBrOG4wbWZZbm5lX3laOC0yOFlheHd2aVZZTHU1bTg3M05sc09qNzVZRGcyeHo0TFE?oc=5",
+   "published": "2026-10-21T07:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SpaceX(SPCX) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "SpaceX (SPCX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2tRUkVWcm9CMk95WkQ3dkgxSXZ3Qmg1elhIQzh4eWhxdzBzTlU4ampjUnRQRk9sZmpQSHA4c1plUFZoclItWWNmT09RbV81N2lWcW1xU1VMaV9SS3UzUHNLdm9EQ2s3VGJPdXd5cUNSVDJrdXpkZHpyZFI4RDNlWG1iNW5ZQUkwRnJvRDlZUkZzUVBrSW1N?oc=5",
+   "published": "2026-10-21T07:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "업데이트: 통신 서비스의 약점으로 미국 주식 지수가 혼합되고 기술로 인해 Nasdaq Composite가 제한됨",
@@ -24,74 +66,32 @@
   },
   {
    "category": "미국 지수",
+   "summary": "폐기물 관리(WM)가 주식 시장 상승세를 이깁니다: 투자자가 알아야 할 사항",
+   "title": "Waste Management (WM) Beats Stock Market Upswing: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGgwNk1iYURNS0NOc0pPczhhMm9RbVBQR0pnLXMxSWVKNHZNT1JXXzI4eXphbkZab2xpRGphcFE3bzNvdGVFVEdOalFsM0kwcEpXakgtem5BSkc4Wldvbkx3eWYwUUxlaXU1MUNJTGJFTzZkRVhCelIyLW5lVS12b0lLRDhvWnQxVE01ZTdZVVctWlFKVXJWTGVNUEI?oc=5",
+   "published": "2026-10-21T06:15+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
    "summary": "United Parcel Service(UPS)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
    "title": "United Parcel Service (UPS) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOENyYTVBaGM4STE1elpmZE5aOVhheFZiMFliODFQRTJvREV5MFRHMDFKSldrMnp6TnpNUkg1aEpFSVdlNXhQSlZQOE02blFmVWZLSlZuLTF1OGg4LXY0czhhUnB2NkgwemtkMXp1R2c5VU8yTFJvVEs5UTk3cFMxVUY2TnJpLV8wREJCbnN3VHc1X3B6SGwtbVF3?oc=5",
    "published": "2026-10-21T06:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "RCM Technologies, Inc.(RCMT)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "RCM Technologies, Inc. (RCMT) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHp6MmJDTmtMQ2t0N1NjeU1vWU9xb0x5U2IzSGYwOFNLZm5PYzlEY2FHeDVjWFp6aEY5YkFjYW9yNHZsbWg5SU9ra3ZUTHhkNmFwcUJxd0dORXBZOTd0LUxzaE4tZ1VJTmVIelpkTUFER3ZWY3M2QzA5QnZ4a3YxUk05dGZPQVVUWGt0SG10WHlCczhDR0g5RXNYTlhuU0xJ?oc=5",
-   "published": "2026-10-21T06:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Gladstone Commercial (GOOD)이 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
-   "title": "Gladstone Commercial (GOOD) Beats Stock Market Upswing: What Investors Need to Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnJoRkpQZXo4LXNrUTU2Y0t6NDVycElvVzMxcF9GM2xQdS16cmZyWVVnWUlUSUUxRTZqOXJLZWVhOHphWXNDeEJBSGxNdnlTWDdHS2Z5NllLMElhckRiMmxJNklveFQwZDJJODEtY3BPR1JTeGJETXUwcnU5d0pjcXppY0Fwc043QmZNZ3FJVERULTNGUU9IRWFUNXhDS2FsVGk3Nw?oc=5",
-   "published": "2026-10-21T06:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Allstate (ALL)가 주식 시장 이익을 능가합니다: 알아야 할 사항",
-   "title": "Allstate (ALL) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE56T1FLSlVrUmZlYzhOWjFiSHRIX3lGb3ZTeUVybWpHZVpEakxZWm9CU2hDM3dZQUxKTHQtcFA4amxKN0E5TlZmSjRCcFJCYnBxOW11dXQ3QjdKakJEN3JnUmVxczhLNEY3dl9RWDRtMFJobjNzZzdkX1gxYjBxREpEUjM3SXdSWUhFY01MUDhlemhDX1dTVXlnZ0ZyUkJYalhn?oc=5",
-   "published": "2026-10-21T05:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -127,27 +127,6 @@
      "symbol": "AMZN",
      "name": "아마존",
      "chgPct": 0.07,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 한 달 만에 10% 하락했습니다. 판매할 시간인가, 아니면 장전할 시간인가?",
-   "title": "Micron Just Dropped 10% in a Month. Is It Time to Sell, or Load Up?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlVadjNwQzdEd3pKYkhYd2VSR19wY2NFT1RDTnRLb1FoYjZSeVNkZkFvLWdwZ1hfOEF3QXNFMWwxYXFKeUtRWThvak1CVlI4TjJIUTZWUkkzVF9hYmkxNktQcjNQQy1KbDJ6cXVMeFMzbFZHSFM3MURXZEVvWjRIck5WSmxaaG9LYTRLNWg4NjkzRmxlWE9kUw?oc=5",
-   "published": "2026-10-21T03:46+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -0.98,
      "asOf": "2026-10-20"
     }
    ]
@@ -205,6 +184,25 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI 불안이 사라지면서 칩 재고가 회복됨",
+   "title": "Chip stocks recover as AI jitters fade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDdoTjJDcjViQks3MFlQdURUUkJfeDE5c011VlRuT0FYQlFCdXUxTzZmbzBOd1dRZWtoY0JQTWRRc05POW5TNThvSXVLSzBsM1JaelhRTElRc3Y0bmhob25QaXBsbDlGdTREbTVVdlUyUHVCVDNKcjJ4S0RkSVI1bkZISTBlTE5yUll3bEM1cWt5REJYaTAwbkNFcw?oc=5",
+   "published": "2026-10-20T23:46+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -0.38,
      "asOf": "2026-10-20"
     }
    ]
