@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-19T18:08:07+09:00",
+ "updatedAt": "2026-10-20T09:24:55+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "2026년 10월 19일 주식시장 뉴스",
-   "title": "Stock Market News for Oct 19, 2026",
+   "summary": "주식시장이 걱정되나요? 이 고수익 ETF는 수십 년 동안 안정성을 제공하고 수동적 소득을 창출할 수 있습니다.",
+   "title": "Worried About the Stock Market? This High-Yielding ETF Can Provide Stability and Generate Passive Income for Decades",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1FCM1pkMkZRaTRYN01tNHNILXRFT3BxZ1JhY1ZqWUpKb2NPaUd1ZHAxYTh3UkpNOFpuQ3ZHWHRvY19RWThHNmJXd0xlUXdSczZHd2tYVWh0a1ZwT0QtRm9kWERxT3Nkc3hmRFNINE96WF9rd2RrN3NFek9Va1ZlRFlDSXFHa1ZDMkxqLWNNUmlCTW8?oc=5",
-   "published": "2026-10-19T16:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVNGVUtqYXI1RkpCc3hBNUJ5ckwtRlRTVkU1N053VlBPTlV3Y052SEJWTnF0LTNxQ3JaRDdfSGxrUUtMaGlSNXVORWFuUkU4S1p2bTMydWlxUXc5Q1phdW1tdWdGMGZWYnRtVE5td01rRVduSXo3RDMwY2RBcC04aWtudXFRS3lPZ29SNjdYMXByYVVPWmxDcWdIOFVlUmJq?oc=5",
+   "published": "2026-10-20T07:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,18 +17,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "summary": "F.N.B. (FNB) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "F.N.B. (FNB) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5",
-   "published": "2026-10-19T15:36+09:00",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmw2UTI5VVVlV3h2b2FudThuMnNLQUhKWmMwN0NHUmQ1RG5aTVZvN2tTY3Mydm1JMjZNQ0lhZzNVOXcxd3llcnBGanJIV2duNjE4d0tSQUxvUjVZV21CRGtucllHX3BjNDdyR0tVdDFOdVlZX0Q0RFIwVUdfaWUtQVhNUQ?oc=5",
+   "published": "2026-10-20T07:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,87 +38,144 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "'검은 월요일'은 없나요? 나스닥, S&P 500, 다우 선물은 이번 주에 거대 기술 기업의 수익이 예상됨에 따라 급등합니다. 소매업체는 여전히 조심스럽습니다.",
-   "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+   "summary": "아에로멕시코(AERO) 3분기 수익: 월스트리트 추정치와 주요 지표 비교",
+   "title": "Aeromexico (AERO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGtzY3RHLXBKS05JREhZb2FSUjdPWC1VdmVYaVQxQjctWm92ZDI5UUExWFJBN25WZG42dFRud3J3bjFtRy1yX05TcmRSWC1mQV9qVTZpZXpnNWNacmNwUElfMXJQSlhxU3VvSldxUGRaV0E0enF4VHBTcV83WEFHVGdBa0tTT19mM3kxUjR5ZU1PYms?oc=5",
-   "published": "2026-10-19T13:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0ljR2RiRVBNSi1QVTNfZVB2eTdWenhNWVJ0NGpDc25TUHUzS214RFFWZDdIYU9CVGN4dWhIcG1YXzByTzhKbUNQUkR6NlYxS3hfQnZCNHdUcUtMWng5VVZuelhDb0FmTkVXX2MxTVVidC1haFNoTjJ5NWsyeDV4ak5UeG9LbmczNWNqWHRaRUQyZ2dyWUszVkZURzI?oc=5",
+   "published": "2026-10-20T06:30+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.15,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wintrust(WTFC) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Wintrust (WTFC) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVNNeTNIbUFOSXhHU18zSmhVWGVsVmh6bHJjMmNQYTFMa0lxeXpzZzUzcmMtSkJJaVFYaHF6NEJnTmdKMHFDeGxPdWlFa3FmY3YxNmFwSDRodDZYWVBKR2c0ZGZNYnZzLUdUT3FZOVN4OHYtUDNnYkt4VEt4MVVpQmJNOFFzQkdmcllLWWNKTmdXZnB1NjFzUW5B?oc=5",
+   "published": "2026-10-20T06:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "왜 V.F. (VFC)가 오늘 주식 시장을 능가했습니다.",
+   "title": "Why V.F. (VFC) Outpaced the Stock Market Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdNTkc3akJvOGNsVzBPWlNSbmlQUmlXbnhrcllOZVBySzdlYnktdDg2c25kM2wyeVpYcUJObU5YWHp6TUVvNnoxcmNOalZVaWQ2QVkwVl9wWC1xZnhNRktXbWJMU29VUHQxTExBdzVQNHBLcWpkN0w3VVVwTnZkMlBQTlYzRzM2ODdDZi1B?oc=5",
+   "published": "2026-10-20T06:15+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.41,
+     "asOf": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia(NVDA)가 시장 수익률을 초과함: 고려해야 할 몇 가지 사실",
+   "title": "Nvidia (NVDA) Exceeds Market Returns: Some Facts to Consider",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSm5QNGpBX2Y3enZaNnFXX1VZR090MVFOcUVPLTBFdjZ3enF0T0twTkw2cXZmUEVsOVR3YVZvbHU2NmRDQmVMUTRIYTZZTXowSVMydC1nUHhqNWZHY29heGNIeGRGcmRPSkkzWWZ1ODFkV2tKSTBXUUdQYWVKR2RuQWw4cHhlT2NIMS10dmZpQnBtTEVOVE1ZYl9VT3JSZ3o5?oc=5",
+   "published": "2026-10-20T05:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "투자자들이 AI 거래에 다시 뛰어들면서 인텔은 칩 주식을 더 높게 이끌었습니다.",
+   "title": "Intel leads chip stocks higher as investors jump back into AI trade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
+   "published": "2026-10-20T05:23+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -5.79,
+     "asOf": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "인텔, AMD, 엔비디아 선두 칩 주가 잔혹한 매도 이후 반등",
+   "title": "Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGZmZWxMSTVpT0k0SDVxUTk0ZFBGSHVzRnVZZ0FCUndBVjFaUDY2S1lXdmpYOGZ1UlR6LXIyV2I0SExac0lGYVduMDFpcTJoMGJtLUw5VWFFZ0tyVnpHY1RfQVBZSS05SThSZWkzSDFXcks5TG5ROUlPalQxSGh1TEFObUpjQlFaZm8yVEVZMXotaG5pc0E?oc=5",
+   "published": "2026-10-20T04:49+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.43,
      "asOf": "2026-10-16"
     },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "GTA 6을 위해 완전히 재구축된 Rockstar: 11월 19일에 월스트리트에서 인수할 예정인가요?",
-   "title": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkNKUUJZTU1BeGJIREpqYjhCSUdDaHFpNkVTc1NyV25LSTZOeDBReTJ5QlZ6N2o0YmVTTG45TmlVTlJyVlRGVTNydXdUMWJNUVozWEg2UVI3UndwOHJDemtrZHU2a25Bd3RXWFFJVWY3SHpQdnZhTzNrS3Jhb1VXYmZWN1dVd3gxS2ViS1plYk80Uk9RSjA5dk5R?oc=5",
-   "published": "2026-10-19T12:40+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.09,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "금요일 매도 이후 나스닥 선물 랠리로 블랙 먼데이에 대한 두려움이 사라짐",
-   "title": "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5",
-   "published": "2026-10-19T10:31+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.15,
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -5.95,
      "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Reply, 생산 준비가 완료된 로봇공학 및 디지털 트윈을 위한 \"NVIDIA Physical AI 전문화\" 취득",
-   "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
+   "summary": "Nvidia 대 AMD: 누가 연구 지출의 다음 점프를 감당할 수 있습니까?",
+   "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR?oc=5",
-   "published": "2026-10-19T17:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t?oc=5",
+   "published": "2026-10-20T03:56+09:00",
    "holdings": [
     "soxl"
    ],
@@ -128,77 +185,22 @@
      "name": "엔비디아",
      "chgPct": -1.43,
      "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "대만의 마이크론 연합은 파업을 승인하기 위해 99%의 투표를 했습니다. 주식을 팔아야 하는가?",
-   "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0pYaEF1bUhLVTdXOFB1S3NyTTZMd3BWY2JIVjBnWjZ4RGxtc05Cay1EQWxacWRVbC1vRXB1UVZZa0lkYUhGeU93Z3Npb09RXzBMSGpocFo2bGJhbkRmc1hzZ0Z5LUlkelRYYkVQbk9aRzBVMkpDek9fQ1RKXzdta0wyVk1Hdm5FeWN6Y2x5Q2o4LUtqOUIzUQ?oc=5",
-   "published": "2026-10-19T16:46+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.63,
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -5.95,
      "asOf": "2026-10-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "2030년까지 Nvidia 주식에 대한 10,000달러 투자의 가치는 다음과 같습니다.",
-   "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
+   "summary": "엔비디아(NVDA) 주가가 맞나요?",
+   "title": "Is Nvidia (NVDA) Stock Priced Right?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFhBeFNLSGRFT0wzZTBUVmtJbUhhQUZGOWNNZWszTXVDNjVSeWlMNVlGVU5hdVFzZUhfYXBQRmx2RnhRQVNoRVZwS2M0RE1hX0J2UkJzczVIcTluSldnSkt5QkNsNTMyN0xadklsYWNWRjRQRVp5UHlZUGg2WHJLY1RDOXZyQWNMLUxIcFNrNmZMN2k0YVdpVkI2WQ?oc=5",
-   "published": "2026-10-19T10:06+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.43,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "향후 5년 동안 인공지능(AI) 메모리 주식을 1개만 소유할 수 있다면 그것은 Micron이 아닐 것입니다.",
-   "title": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHpNeVo1Q2E0M012ei04SHFBZVlUeFM1QXpMUEctaVRKdE1PdDJCZWMtMDkyd05OWjliWjJMVHlKNlc2SG5tQjcyN0FWQ2VZS1pHRi1XWUQyRUNYUWtsQmFMYzFIUWxSeW5EU2tRWE00U0FsalRhUm9oaTk1OHlwODVDWHM0YjdNNVNxSzh6aU1zcVU1OGc?oc=5",
-   "published": "2026-10-19T09:20+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.63,
-     "asOf": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "채권 시장은 Nvidia 주주들에게 경고를 보내고 있습니다",
-   "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE1HRUhGZTZFbkE2YjJfRE84U3JiRi00RktCVE45YzN0SHVEMm4tTE43dXlOcTB1V3pLTk15Q3BDRWhhd1JhRUdDWmFUTWJrTm8tUVJ0R2pDSXEyM2pjNTBmbDlGVFNYVjdtOFRhZi1sMUZwQ2FLUGR2aHQxN1VZUFJ4ZUJCbm5HRlY5WmljUFhGT3dKdXNUNUUwLTJaeDZ3?oc=5",
-   "published": "2026-10-19T07:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28?oc=5",
+   "published": "2026-10-20T03:07+09:00",
    "holdings": [
     "soxl"
    ],
