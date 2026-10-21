@@ -1,97 +1,13 @@
 {
- "updatedAt": "2026-10-21T22:11:42+09:00",
+ "updatedAt": "2026-10-21T23:33:14+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "IREN Limted는 이번 달에 40% 하락했습니다: 월스트리트 분석가 3명이 4배로 성장할 것이라는 데 동의합니다.",
-   "title": "IREN Limted Crashed 40% This Month: Three Wall Street Analysts Agree It’s Going to Quadruple",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkdRZF9pNlBweExhemtsVjg4U0kzeWhlM3lxdzNhTmtEam1OdWN6N2NnM1QxZjBrbUpKUjg5Sk00OENwZTV2SjAycEdxdndKUWkwckVBSGlZNFcyZEwxWlVOcjdWMEtLNzRncWVKUm9QSS1kTG8yX284R01GWDZBeGpoa2RBT0lOSkdCRlVub2NUMnp5Wmxidg?oc=5",
-   "published": "2026-10-21T21:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "수요일 최고의 월스트리트 분석가 연구 전화는 다음과 같습니다: Applied Digital, Chipotle Mexican Grill, Cirrus Logic, Costco, Digital Realty Trust, Intuitive Surgical, Netflix, Robinhood Markets, Zscaler 등",
-   "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Applied Digital, Chipotle Mexican Grill, Cirrus Logic, Costco, Digital Realty Trust, Intuitive Surgical, Netflix, Robinhood Markets, Zscaler, and More",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1FPa040c09ZdTYxRDRFNUNlcnpfVTY2VlZBbWVXN0lOU0lPTlJFN0lPWmxiMGVzdHk4Wmh0SUh0NnQ5Z2t4TXIySExuY1o3djAxdHFwb2x5Zlg4d1I5NXlTMGFjVm52WnRla1pzSm5kbW1ISm5iczVHTnhFUC1IeVFvT044eDk0RUpickgzOEk1eG8wbUFLQmNad0c1Q3M?oc=5",
-   "published": "2026-10-21T21:02+09:00",
-   "holdings": [
-    "soxl",
-    "hood",
-    "rise-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "HOOD",
-     "name": "로빈후드",
-     "chgPct": 1.75,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트가 SpaceX, Netflix의 수익을 소화함에 따라 미국 선물은 대부분 상승",
-   "title": "US futures mostly higher as Wall Street digests earnings from SpaceX, Netflix",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
-   "published": "2026-10-21T20:44+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "SpaceX 수익, 월스트리트 프리벨의 AI 낙관론 재점화 아시아 혼합, 유럽 위",
-   "title": "SpaceX Earnings Reignite AI Optimism on Wall Street Pre-Bell; Asia Mixed, Europe Up",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGU0Z1lNSVU5OG5ReTUtSmNpZ3FkVlRlQjYyRFdCSzRGal9hQ1B4WGEyNnhYR0Q5d3M2RkI1RkdxQUZlWEJjQWxRNTdhc05sVGJ5T0EtSzUzX0QtSWJGR0hPQjlLRHJ1d0Y1ckZqVGw1RWhQdGo1bTc1NE1hS05DQldrbk8xVzlvRVFpVnVHblU3Tk5YQm5GMllJUnZyRzE3YzUw?oc=5",
-   "published": "2026-10-21T20:15+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "머스크의 SpaceX는 주식 시장 상승을 촉진합니다",
-   "title": "Musk's SpaceX helps fuel stock market gains",
+   "summary": "머스크의 SpaceX는 주식 시장 상승을 돕습니다.",
+   "title": "Musk's SpaceX helps launch stock market gains",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlVqZGkwZHAzbi1NaV8xMTdXLUcxelRJU1NsSTh6cW1DdXpBbmkyWXNaOUJRS2VrbVFEU3MxZUp3al9KczBOSUpVRGNVa1hQLXhLd0VIUmhsQ0RVUThUX1NralJNVWhsRWpDUHlrZEFsOG9pSkM4cV9pZWdTc0hGZ25LWDlZN3FEZ0x2bUxxZWlfRXRJbzlzWlRjcjZVNlh0OTFR?oc=5",
-   "published": "2026-10-21T20:07+09:00",
+   "published": "2026-10-21T22:53+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -102,17 +18,170 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Netflix 다운그레이드, Zoom 업그레이드: 월스트리트의 최고 분석가 호출",
+   "title": "Netflix downgraded, Zoom upgraded: Wall Street's top analyst calls",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkRDOTdfV0pOVWpiQ2ZxN2swb09fbDh5cjZYaGRhcWlmejJra3MydndRZDF2a3dGV1ctdU5sWjUwZlJkdUpEZTFERnB4aEV0RDU5aGN5ZER3S2ZwYW02SnlVTUtjRjduOE9VYVFzMHFQc0VlbHMyT2RxNXZwdmxpWDJwQUtleVZ2QUVydFREM3lrZ3V6THVkLTU0Szc1M1ZkcFlfSw?oc=5",
+   "published": "2026-10-21T22:43+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트가 4분기 수익 예측 실패로 목표 가격을 낮추면서 넷플릭스 주가가 하락했습니다.",
+   "title": "Netflix stock sinks as Wall Street lowers price targets following Q4 revenue forecast miss",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
+   "published": "2026-10-21T22:39+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "투자자들이 수익을 평가하고 주요 기술 결과를 기다리면서 미국 주식 선물 포인트 상승: Dow Jones, S&P, Nasdaq, Wall Street",
+   "title": "US Stock Futures Point Higher as Investors Assess Earnings and Await Major Technology Results: Dow Jones, S&P, Nasdaq, Wall Street",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGJNV3dEbUNfdHVkX2NSUzduZlIwOEtaeGlKOWNxNFdpSzJZaVNsRmhBZllGbjhVSnV4dzl0TWdLSGVVd2I0c0lyMFRNVDY0YmNmaWtNRHJVWllzbkJRQWl4R0tLMmJSakJrQlUyTFFHVHhLbjRVY183eEdlRWdadEJTdVc?oc=5",
+   "published": "2026-10-21T22:21+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.02,
+     "asOf": "2026-10-20"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 1.02,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "기업 수익 지원 기술 주식으로 월스트리트 선물 상승: Dow Jones, S&P, Nasdaq",
+   "title": "Wall Street Futures Rise as Corporate Earnings Support Technology Stocks: Dow Jones, S&P, Nasdaq",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbE9WVl9QMjc0NjFFV2FmaC1HSk5iSkpGZ1ZWZU9KMm9hbml2MHg1YXM1Mk5OR0VYQlU2d05RVTBGT0Zpei1aS1N1dkQ2VmpCOWFHMUtKbGJ1Q2RRLXFNNmNTVHZPRHlQNUdmVjlaQ0dFV0NuZ2lBVGdvZUtRTHQ2X0ZlaE1ScDdHYzFRRHdiV2hyY3Y0R0huOWQwVDFPeTZm?oc=5",
+   "published": "2026-10-21T22:20+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.02,
+     "asOf": "2026-10-20"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 1.02,
      "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론 주가 상승. 투자자들이 다음에 주목하고 있는 것은 다음과 같습니다.",
-   "title": "Micron Stock Rises. Here's What Investors Are Watching Next",
+   "summary": "NVIDIA AI 보안 파트너십 확장으로 CrowdStrike 주가가 상승하는 이유는 무엇입니까?",
+   "title": "Why Is CrowdStrike Stock Rising Following Its Expanded NVIDIA AI Security Partnership?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2FjSDhBZmFlMk01TXpTSW5RMUozejdHa3MyeWxQMmE0THVjV0JTTWo1b2dQZmpXUWwzQVE4c1R1Z3E4NGtwcDMwb09OOG1FRUhVN0tPUlhyTWJLWkVRNWFVb2VyRUc2YTFUdFJvekQ0OVJwT2FjcXZyXzdPbUxyQkxGRV9TaHB4UVk2eXVpd0Z2ZUxldHk5WHdfRmlqRzBF?oc=5",
-   "published": "2026-10-21T21:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0dHZWRyRHIzX3NrZ1k4WjlwT0dTNHZiOW9WZ1Mwd3N2c2trUjg0OTBrZUdjaENwNk4zVWIzVV94cFdxejZEeDk0Ml9oZEJkc05Icko2YkZUamZBV1UxT1RCOEliZWtlZXhVZHh0ZVZ5cldDeXdzMElOcjBYWlduTkZBSzVsb3lKM21odVdWMmgwcjhTSmJwczNFNHA5dW55NkRZTA?oc=5",
+   "published": "2026-10-21T23:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ByteDance, Alibaba 및 Tencent는 방금 350억 달러 규모의 Nvidia 칩을 주문했습니다.",
+   "title": "ByteDance, Alibaba and Tencent Just Ordered $35 Billion of Nvidia Chips",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2MtUGxqTUVkZTVzZEQtNXhEbUtuSnotMmlkaTBPeUM2RFRwczdPMkFOUWk3WEtYc0wzZTFrdVhrcU84Sml3czB0dkJfX01vbHpaTlRySi1GNFVFSkd5aHFoSWp3S0pqSENmM1M1Q1ZpZ0FKbXctZ0FDLVFEYXJTQktlOEZNSXFHQk03YmxEZGZ3TFVZZC1KWXhHZG9TeWZL?oc=5",
+   "published": "2026-10-21T22:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 주식 이익. 유럽 ​​파트너십으로 새로운 성장 시장 개척 가능",
+   "title": "Nvidia Stock Gains. Its European Partnerships Could Open New Growth Market",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREVQSGpRZ0ptZ2xpbW44cTlodGduX2prVE5QTXJ5a1hDdVo3a0ZVRk9hZld5NU5vUndkV0RnaXBQU1N4b2VtM0xtUHpvY3U5MFF6VHZRSVlsUFFBWm5yT0N4N2luSG1UMjFtZzVUckI0SmdxWUctTDIyY25rVi1QMFEwVEtBX2NPZVE0RTFpU01OVzJOZXc4V0dUdHJzY2pzbXFJ?oc=5",
+   "published": "2026-10-21T22:19+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론이 기록적인 이익을 내고 있습니다. 대만 노동자들이 나가고 있다",
+   "title": "Micron Is Making Record Profits. Its Taiwan Workers Are Walking Out",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQl9BQ0hFRnJnZVRPMUxrbGhfMVlrWFV2dGtPcl9sUlIwSmtNOE1IUWxmeS1OdXIycDJJcW5rSWlLclVHN29ndmxiVUE1dGhEcnZ1RU1DdDNPbk9MYUhpQjhVQWJObHJCVGJYWGNNOTlmNHpIS0k3c29OWGM2OXFtR0dIVnp6Z0pmVDZHX1J1ZzF4dFFsa3ZIRUxhalUwdEVER0E?oc=5",
+   "published": "2026-10-21T22:13+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -129,76 +198,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA AI 보안 파트너십 확대로 CrowdStrike 주가 상승",
-   "title": "CrowdStrike stock rises on expanded NVIDIA AI security partnership",
+   "summary": "2027년 투자자들을 놀라게 할 반도체 주식 1종",
+   "title": "One Semiconductor Stock That Could Surprise Investors in 2027",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmhjTGRkTEZOUndUWjB2NEFZOEtBRENmQ0dhVy1GRkY2S3I3ZlBYanBuSXdrUW5ocnpDTUV4LWVYaV9TMnNYNGxZaGFmLVEtdXZQTnRwQVZqSGxCck9Fb0NfRUNoN2pJRzNLNkk1RlNaXzB6N0k4bmRLXzFTVUtHU1VDNUw1aGxQenFnWlhMTjFHVWEwZGJQTDV2ZTdkazVDdjRKckZn?oc=5",
-   "published": "2026-10-21T21:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTUyOWw2eTVjSk84ckJEVi15NUdNZkNRTEQ3RzVJOG1ReFdfTVd2SVpLdDE0WExjSHNTN052RmdmS2Izd3lWOWc1MWZtQzJEaVZXRXVBb3lxOTNtNHFDUTVwMjdEQV9lYU5ZT2N1V1R0YVNaMG9DbENoYm1sSXlQeUxleWxZZG9CdFg5RGNTeWxsdE1SaElHUmRQUVczS1NwSGJqLU5B?oc=5",
+   "published": "2026-10-21T21:45+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVDA, ZM, SPCX 주식 상승 프리마켓: Nvidia, AI Factory 포드 발표, Zoom 업그레이드, SpaceX 목표 상승",
-   "title": "NVDA, ZM, SPCX Stocks Rise Premarket: Nvidia Announces AI Factory Pods, Zoom Gets Upgrade, SpaceX Target Rises",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelAyY21HT3RjY0t4X005MDk4Z1M0akpYRGlXUTJkNkZONTRIYVh5b0M5bWNYbVJtOTAyeDU0cURuODZNMnlRMExqS3dqdnJPcUVkZEh2VkxpLXkxT3c1TFk0ek8taU0xN1ZPMEVmb21xaWJXYm96WEZWVm5JdjNXWWc1SVBYZS1kZFlOeVR1SjJ4ZkE?oc=5",
-   "published": "2026-10-21T20:31+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아, 호주 IPO 취소 후 Firmus Grid에 대한 투자 논의한 것으로 알려짐",
-   "title": "Nvidia Reportedly Discusses Investment in Firmus Grid Following Cancelled Australian IPO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NYSWNvRGJqX1lpRHJhajdWNHBGamZUd2o5Zy1sc211Z05ibEVfTW9nQ0wzR3NrcEtIYng1VURtTS1Kb3BCQWVEbnBjVDNwZ2VCSTh2WUlIRVkzSVBqTDkxQ3NmSlFqNjNJVXJEY2EzOWh1dWZxbVFlRUhzSGJIc3Q5UkRDcFpYbExTM2VhRVZFYWY2V1VLMUFQTXJXX3pqSWx3M0lISVRkRG5UUVE?oc=5",
-   "published": "2026-10-21T19:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아, IPO 취소 후 Firmus Grid에 투자 논의 중 - The Information",
-   "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVllMWGh1MWdWeGtyVnQ1NHpTRFVLSlpMS3owVG4zeHVnUmZOdDA4SUs2WDlJeVZFbGJPakFod0tBamRNRXpjQ1ppaENhak02N2xFeDF2VVJvZ25Xdk9NX3RnWHF4MnFxLU9QUVRfcmd5dG5vdFdLbWNrNkNRQXZOQ0p2QlNJamdiZGxJdV9XMWlGSGRmN01MZUFSMVI?oc=5",
-   "published": "2026-10-21T14:18+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -0.38,
      "asOf": "2026-10-20"
     }
    ]
