@@ -7524,9 +7524,9 @@
   },
   {
    "date": "2026-10-21",
-   "updatedAt": "2026-10-21T08:56:36+09:00",
+   "updatedAt": "2026-10-21T22:11:37+09:00",
    "fx": {
-    "usdkrw": 1324.34,
+    "usdkrw": 1326.24,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -7540,8 +7540,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 760,
-     "price": 25905.0,
-     "chgPct": 0.0,
+     "price": 26005.0,
+     "chgPct": 0.39,
      "asOf": "2026-10-21",
      "dca": "매주 월 +2"
     },
@@ -7555,8 +7555,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 597,
-     "price": 22140.0,
-     "chgPct": 0.0,
+     "price": 22175.0,
+     "chgPct": 0.16,
      "asOf": "2026-10-21",
      "dca": "매주 월 +2"
     },
@@ -7570,8 +7570,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 211500.0,
-     "chgPct": 0.0,
+     "price": 223500.0,
+     "chgPct": 5.67,
      "asOf": "2026-10-21"
     },
     {
@@ -7584,8 +7584,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7270.0,
-     "chgPct": 0.0,
+     "price": 7350.0,
+     "chgPct": 1.1,
      "asOf": "2026-10-21"
     },
     {
@@ -7752,8 +7752,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 11800.0,
-     "chgPct": 0.0,
+     "price": 12160.0,
+     "chgPct": 3.05,
      "asOf": "2026-10-21"
     },
     {
@@ -7766,8 +7766,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23060.0,
-     "chgPct": 0.0,
+     "price": 23110.0,
+     "chgPct": 0.22,
      "asOf": "2026-10-21"
     },
     {
@@ -7780,8 +7780,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 25905.0,
-     "chgPct": 0.0,
+     "price": 26005.0,
+     "chgPct": 0.39,
      "asOf": "2026-10-21"
     },
     {
@@ -7794,8 +7794,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14630.0,
-     "chgPct": 0.0,
+     "price": 14650.0,
+     "chgPct": 0.14,
      "asOf": "2026-10-21"
     }
    ]

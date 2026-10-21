@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-21T08:56:43+09:00",
+ "updatedAt": "2026-10-21T22:11:42+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "알래스카 항공(ALK) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Alaska Air (ALK) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "IREN Limted는 이번 달에 40% 하락했습니다: 월스트리트 분석가 3명이 4배로 성장할 것이라는 데 동의합니다.",
+   "title": "IREN Limted Crashed 40% This Month: Three Wall Street Analysts Agree It’s Going to Quadruple",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX28tVTFaWVRfZ2RPT0gzVjdEaXJLVGxJS1h0RVNkNU1SOXJXb19DVmw0WnN0WlJVY3JDLUFyRE1QRGlLNkw0cEpSNlZWOTZEQnBNbFkwZnZub3Y4TlJyR096ajViLTBrOG4wbWZZbm5lX3laOC0yOFlheHd2aVZZTHU1bTg3M05sc09qNzVZRGcyeHo0TFE?oc=5",
-   "published": "2026-10-21T07:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkdRZF9pNlBweExhemtsVjg4U0kzeWhlM3lxdzNhTmtEam1OdWN6N2NnM1QxZjBrbUpKUjg5Sk00OENwZTV2SjAycEdxdndKUWkwckVBSGlZNFcyZEwxWlVOcjdWMEtLNzRncWVKUm9QSS1kTG8yX284R01GWDZBeGpoa2RBT0lOSkdCRlVub2NUMnp5Wmxidg?oc=5",
+   "published": "2026-10-21T21:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "SpaceX(SPCX) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "SpaceX (SPCX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "수요일 최고의 월스트리트 분석가 연구 전화는 다음과 같습니다: Applied Digital, Chipotle Mexican Grill, Cirrus Logic, Costco, Digital Realty Trust, Intuitive Surgical, Netflix, Robinhood Markets, Zscaler 등",
+   "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Applied Digital, Chipotle Mexican Grill, Cirrus Logic, Costco, Digital Realty Trust, Intuitive Surgical, Netflix, Robinhood Markets, Zscaler, and More",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2tRUkVWcm9CMk95WkQ3dkgxSXZ3Qmg1elhIQzh4eWhxdzBzTlU4ampjUnRQRk9sZmpQSHA4c1plUFZoclItWWNmT09RbV81N2lWcW1xU1VMaV9SS3UzUHNLdm9EQ2s3VGJPdXd5cUNSVDJrdXpkZHpyZFI4RDNlWG1iNW5ZQUkwRnJvRDlZUkZzUVBrSW1N?oc=5",
-   "published": "2026-10-21T07:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1FPa040c09ZdTYxRDRFNUNlcnpfVTY2VlZBbWVXN0lOU0lPTlJFN0lPWmxiMGVzdHk4Wmh0SUh0NnQ5Z2t4TXIySExuY1o3djAxdHFwb2x5Zlg4d1I5NXlTMGFjVm52WnRla1pzSm5kbW1ISm5iczVHTnhFUC1IeVFvT044eDk0RUpickgzOEk1eG8wbUFLQmNad0c1Q3M?oc=5",
+   "published": "2026-10-21T21:02+09:00",
+   "holdings": [
+    "soxl",
+    "hood",
+    "rise-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "HOOD",
+     "name": "로빈후드",
+     "chgPct": 1.75,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트가 SpaceX, Netflix의 수익을 소화함에 따라 미국 선물은 대부분 상승",
+   "title": "US futures mostly higher as Wall Street digests earnings from SpaceX, Netflix",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
+   "published": "2026-10-21T20:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,32 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "업데이트: 통신 서비스의 약점으로 미국 주식 지수가 혼합되고 기술로 인해 Nasdaq Composite가 제한됨",
-   "title": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite",
+   "summary": "SpaceX 수익, 월스트리트 프리벨의 AI 낙관론 재점화 아시아 혼합, 유럽 위",
+   "title": "SpaceX Earnings Reignite AI Optimism on Wall Street Pre-Bell; Asia Mixed, Europe Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVphOUhDSF9vMDZ4OFRleG9EbUd3Y3k1Nzl0eWM5RUZTMGF1c29NMVRGSEV0SUtfd3J4cUxpTnFheVBjX3ZFT2hKbVkzd2VuRzM2VDNrV0pOUm1EbVZMSU5PUXk2MGxjV2VDYjNmLWxUMmhQa3RSNUJUWEUyUE5YdlF2WHNadm9LcG82N2xiNGFyd2plejQxQTBFOXVKUQ?oc=5",
-   "published": "2026-10-21T06:34+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.02,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "폐기물 관리(WM)가 주식 시장 상승세를 이깁니다: 투자자가 알아야 할 사항",
-   "title": "Waste Management (WM) Beats Stock Market Upswing: What Investors Need to Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGgwNk1iYURNS0NOc0pPczhhMm9RbVBQR0pnLXMxSWVKNHZNT1JXXzI4eXphbkZab2xpRGphcFE3bzNvdGVFVEdOalFsM0kwcEpXakgtem5BSkc4Wldvbkx3eWYwUUxlaXU1MUNJTGJFTzZkRVhCelIyLW5lVS12b0lLRDhvWnQxVE01ZTdZVVctWlFKVXJWTGVNUEI?oc=5",
-   "published": "2026-10-21T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGU0Z1lNSVU5OG5ReTUtSmNpZ3FkVlRlQjYyRFdCSzRGal9hQ1B4WGEyNnhYR0Q5d3M2RkI1RkdxQUZlWEJjQWxRNTdhc05sVGJ5T0EtSzUzX0QtSWJGR0hPQjlLRHJ1d0Y1ckZqVGw1RWhQdGo1bTc1NE1hS05DQldrbk8xVzlvRVFpVnVHblU3Tk5YQm5GMllJUnZyRzE3YzUw?oc=5",
+   "published": "2026-10-21T20:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "United Parcel Service(UPS)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
-   "title": "United Parcel Service (UPS) Beats Stock Market Upswing: What Investors Need to Know",
+   "summary": "머스크의 SpaceX는 주식 시장 상승을 촉진합니다",
+   "title": "Musk's SpaceX helps fuel stock market gains",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOENyYTVBaGM4STE1elpmZE5aOVhheFZiMFliODFQRTJvREV5MFRHMDFKSldrMnp6TnpNUkg1aEpFSVdlNXhQSlZQOE02blFmVWZLSlZuLTF1OGg4LXY0czhhUnB2NkgwemtkMXp1R2c5VU8yTFJvVEs5UTk3cFMxVUY2TnJpLV8wREJCbnN3VHc1X3B6SGwtbVF3?oc=5",
-   "published": "2026-10-21T06:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlVqZGkwZHAzbi1NaV8xMTdXLUcxelRJU1NsSTh6cW1DdXpBbmkyWXNaOUJRS2VrbVFEU3MxZUp3al9KczBOSUpVRGNVa1hQLXhLd0VIUmhsQ0RVUThUX1NralJNVWhsRWpDUHlrZEFsOG9pSkM4cV9pZWdTc0hGZ25LWDlZN3FEZ0x2bUxxZWlfRXRJbzlzWlRjcjZVNlh0OTFR?oc=5",
+   "published": "2026-10-21T20:07+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,55 +108,32 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "시장 잡담: Amazon은 전력을 공급할 수 있는 것보다 더 많은 Nvidia AI 하드웨어를 구매하고 있습니다.",
-   "title": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
+   "summary": "마이크론 주가 상승. 투자자들이 다음에 주목하고 있는 것은 다음과 같습니다.",
+   "title": "Micron Stock Rises. Here's What Investors Are Watching Next",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1QwbjdqVlV4MEl5LVpwWFgxOTJqT1lScGpjNVM0TEt5ek9sbWdYbnhRNC1OTVZjRFhLTXZOVlBxMnd0djNYakk1SU9OaEp0NXIzcnJfZHg0cEc2ZzJDSURpblNrbnc4MWlrcTdQbG50VUNQd1FoeEVmYUgyRktfdEdFSDJjcUg0QkNzQU93R2hPdWxMdGp4YTQ0cVJsdw?oc=5",
-   "published": "2026-10-21T04:29+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2FjSDhBZmFlMk01TXpTSW5RMUozejdHa3MyeWxQMmE0THVjV0JTTWo1b2dQZmpXUWwzQVE4c1R1Z3E4NGtwcDMwb09OOG1FRUhVN0tPUlhyTWJLWkVRNWFVb2VyRUc2YTFUdFJvekQ0OVJwT2FjcXZyXzdPbUxyQkxGRV9TaHB4UVk2eXVpd0Z2ZUxldHk5WHdfRmlqRzBF?oc=5",
+   "published": "2026-10-21T21:23+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    },
-    {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": 0.07,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -0.98,
      "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "투자 서밋: 독일 정부, 엔비디아와 AI 계약 체결",
-   "title": "Investment summit: German government strikes AI deal with Nvidia",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmUxTzhOREtWUTYtQlhLRkR4Z0FPaGRueUR4VHBGV1phOTZBMjFXaFc2Z2VPWGtrMF9zOGtJOWlubjZuNXBXT3ZNSHJBbnNXbmVDaUdIcXJ3cnVncXV4RWRVdU5JWFVnT3Q2NjdvcHR0d1VnczNyTGxkUjZ6M1BJT19vVDVZdDJRa0ROWXpXV1NNX1ZNTUhz?oc=5",
-   "published": "2026-10-21T03:44+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia, 대규모 신규 AI 투자로 지분 증대",
-   "title": "Nvidia Raises Stakes With Massive New AI Investment",
+   "summary": "NVIDIA AI 보안 파트너십 확대로 CrowdStrike 주가 상승",
+   "title": "CrowdStrike stock rises on expanded NVIDIA AI security partnership",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2tJaVJDQnJ5TWFzSkRjRjQtQnZxT0VGbTJOWWtCNnFqR2ZMbzVrdWFfZnRIbzE5LWFBdW5fcUVZUjdrX2s4SXdHV0dMVTNCaVVLcE5xQjQ2dEFhb2hiRms1aFRsMXA5YmFEMnAwQktxdXE4UmFCZTk3TWxEWDR3QlFSTUJEQmlna0JGeTh4d3A5dUhoWGtaOGxHMA?oc=5",
-   "published": "2026-10-21T00:16+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmhjTGRkTEZOUndUWjB2NEFZOEtBRENmQ0dhVy1GRkY2S3I3ZlBYanBuSXdrUW5ocnpDTUV4LWVYaV9TMnNYNGxZaGFmLVEtdXZQTnRwQVZqSGxCck9Fb0NfRUNoN2pJRzNLNkk1RlNaXzB6N0k4bmRLXzFTVUtHU1VDNUw1aGxQenFnWlhMTjFHVWEwZGJQTDV2ZTdkazVDdjRKckZn?oc=5",
+   "published": "2026-10-21T21:12+09:00",
    "holdings": [
     "soxl"
    ],
@@ -171,11 +148,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 최고치에 가까워졌지만 시장은 흔들리고 있습니다. 투자자는 매도해야 하는가?",
-   "title": "Nvidia Stock Is Near Its High, but the Market Is Wobbling. Should Investors Sell?",
+   "summary": "NVDA, ZM, SPCX 주식 상승 프리마켓: Nvidia, AI Factory 포드 발표, Zoom 업그레이드, SpaceX 목표 상승",
+   "title": "NVDA, ZM, SPCX Stocks Rise Premarket: Nvidia Announces AI Factory Pods, Zoom Gets Upgrade, SpaceX Target Rises",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGxVZ2laZlJRTlFWdUhaX0pQdGdtR3hObHBJOW1iV21udTVHRTgzSUdkZW9Sa1I3dFBDYTdscE9yQzM4N2xFcmRKVjJLYmxBSTJ5Y2wtZTVVOGJocWRjZlJBcjB1MGs3WWJkSG9hMWJGdGkzcFZrNl9SMUs3T0JpTHV1bmxkVXNtakpucFNrZGdBRVpsdVNpRVh3?oc=5",
-   "published": "2026-10-21T00:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelAyY21HT3RjY0t4X005MDk4Z1M0akpYRGlXUTJkNkZONTRIYVh5b0M5bWNYbVJtOTAyeDU0cURuODZNMnlRMExqS3dqdnJPcUVkZEh2VkxpLXkxT3c1TFk0ek8taU0xN1ZPMEVmb21xaWJXYm96WEZWVm5JdjNXWWc1SVBYZS1kZFlOeVR1SjJ4ZkE?oc=5",
+   "published": "2026-10-21T20:31+09:00",
    "holdings": [
     "soxl"
    ],
@@ -190,19 +167,38 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AI 불안이 사라지면서 칩 재고가 회복됨",
-   "title": "Chip stocks recover as AI jitters fade",
+   "summary": "엔비디아, 호주 IPO 취소 후 Firmus Grid에 대한 투자 논의한 것으로 알려짐",
+   "title": "Nvidia Reportedly Discusses Investment in Firmus Grid Following Cancelled Australian IPO",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDdoTjJDcjViQks3MFlQdURUUkJfeDE5c011VlRuT0FYQlFCdXUxTzZmbzBOd1dRZWtoY0JQTWRRc05POW5TNThvSXVLSzBsM1JaelhRTElRc3Y0bmhob25QaXBsbDlGdTREbTVVdlUyUHVCVDNKcjJ4S0RkSVI1bkZISTBlTE5yUll3bEM1cWt5REJYaTAwbkNFcw?oc=5",
-   "published": "2026-10-20T23:46+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NYSWNvRGJqX1lpRHJhajdWNHBGamZUd2o5Zy1sc211Z05ibEVfTW9nQ0wzR3NrcEtIYng1VURtTS1Kb3BCQWVEbnBjVDNwZ2VCSTh2WUlIRVkzSVBqTDkxQ3NmSlFqNjNJVXJEY2EzOWh1dWZxbVFlRUhzSGJIc3Q5UkRDcFpYbExTM2VhRVZFYWY2V1VLMUFQTXJXX3pqSWx3M0lISVRkRG5UUVE?oc=5",
+   "published": "2026-10-21T19:10+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.38,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아, IPO 취소 후 Firmus Grid에 투자 논의 중 - The Information",
+   "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVllMWGh1MWdWeGtyVnQ1NHpTRFVLSlpMS3owVG4zeHVnUmZOdDA4SUs2WDlJeVZFbGJPakFod0tBamRNRXpjQ1ppaENhak02N2xFeDF2VVJvZ25Xdk9NX3RnWHF4MnFxLU9QUVRfcmd5dG5vdFdLbWNrNkNRQXZOQ0p2QlNJamdiZGxJdV9XMWlGSGRmN01MZUFSMVI?oc=5",
+   "published": "2026-10-21T14:18+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.29,
      "asOf": "2026-10-20"
     }
    ]
