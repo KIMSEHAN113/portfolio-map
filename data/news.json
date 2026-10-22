@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T04:03:45+09:00",
+ "updatedAt": "2026-10-23T04:05:50+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -24,7 +24,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 비용 우려로 나스닥이 2% 이상 하락하면서 월스트리트가 침몰",
+   "summary": "AI 비용 우려로 나스닥이 2% 이상 하락하면서 월스트리트는 하락",
    "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
@@ -39,6 +39,27 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": 1.05,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "트럼프의 이란 대결, 유가 급등으로 월스트리트를 뒤흔들다",
+   "title": "Trump's Iran showdown rattles Wall Street as oil prices spike",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNGNfZjFiTVpoVE9oS1kzSi1VbXlwNG9KbWwzSEVHa2tBLVU3dV96WWZISEtZc2RzRXg0N28zU1lBcTA5Q3lzR0lPRUdfSVdXN19fUkJjT2JIeWs?oc=5",
+   "published": "2026-10-23T03:04+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
      "asOf": "2026-10-21"
     }
    ]
@@ -86,27 +107,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "RealReal의 3분기 결과는 월스트리트의 관점을 바꿀 것 같지 않다고 UBS는 말합니다.",
-   "title": "RealReal's Q3 Results Unlikely to Shift Wall Street Views, UBS Says",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnBGalVHalhOMFFCZ0toTGN0UzJmRXFiQmRnZi1FOFVtaUVYajVEZnlIMGcwRTlBRko3RVVIQWY4elFDQ1RteHVadnZLbWw0NTFiUnVoQ1JIYjZyUzdvUm5BdHFLY1Y1eWVJR2V4aGVPR0M3N2o4Uy1IU0tMZXprNTNDSjF3N1lFRzFnTFh2Y0hwdzZ5MHJPSWsyeHhPTlk?oc=5",
-   "published": "2026-10-23T02:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "Taiwan Semiconductor와 ASML은 훌륭하지만 이러한 독점 칩 주식 중 하나가 훨씬 안전합니다.",
    "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
@@ -133,34 +133,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "BofA, Nvidia, Intel 및 Micron 최고의 AI 승자를 1조 달러 지출 직기로 선정",
-   "title": "BofA Names Nvidia, Intel and Micron Top AI Winners as $1 Trillion Spending Looms",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0ZPTnpOUV9HM0dpdktPRVpMQzhDM0RNWno5ODNnYklhYTVYWXFEMnhjLVF2bDhlZEFsdVFSVktIb1AxZWlrNDZtVkY5d0N1Z2ZNR29vcndqeGNmczFPWDJGRWZWRVlxZ3NlRFZDc2RlbVpnNEdJRDM0bFFBeks4Y1lfLWEyYXotVnpZRDRYSXhUMVZfeXpHVWhn?oc=5",
-   "published": "2026-10-23T01:09+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AI 매도 심화로 공급 경고로 칩 재고 하락: Marvell과 AMD는 8% 하락, Intel은 7% 하락",
+   "summary": "공급 경고가 AI 매도를 심화함에 따라 칩 재고 하락: Marvell과 AMD는 8% 하락, Intel은 7% 하락",
    "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjE3M1E5SV9QdGI0djdaX000RGV5MTRzLWlJZ1BLeEZ4X2dwWXlwVWVmblhIVEhiMXU0U2JHOHMzV2pHM3JnZ0RfWDRsS2dzVHQ0SG5KczFUVFd4ZUZFQmRjZUpPRS01RWVRdnFwTGFYcG51NkVyN0JFTFZBaGhwLTVrTXVMUVd5SmxSajRacF9vMzhuZWRn?oc=5",
@@ -217,6 +190,25 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": 2.07,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "슈퍼 마이크로, 주가가 거의 10% 상승한 후 새로운 NVIDIA AI 랙 공개",
+   "title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw?oc=5",
+   "published": "2026-10-22T21:24+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.54,
      "asOf": "2026-10-21"
     }
    ]
