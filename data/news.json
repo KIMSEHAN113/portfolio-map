@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-22T11:32:00+09:00",
+ "updatedAt": "2026-10-22T15:02:17+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "강한 이익이 월스트리트 랠리를 주도한 후 아시아 증시는 하락세를 보이고 있습니다.",
+   "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNby1WeWk1UkhfLVBEMGJVcXhKSEFyNDZ6NThnQTBuSFpkbldUcTNydXBoUlNrcEYtSHQ2NW9EQlBNaXdiMVBWWm82dVNyV2NkbGI1NjlwRElpdTZhMUdlMDFmM0RrZDFlLUNYWVlFbW5qbnYwM0NQdU9tTlQwQzlpdkxhSXVxLXhZMWYwbXRXOXZtaVQwd3k3QkUwZGR3VXhPeHdtOWFoOVNPbFU?oc=5",
+   "published": "2026-10-22T13:43+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "CSI 300 지수가 10주 연속 하락함에 따라 중국 증시는 약세 영역에 진입했습니다.",
+   "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+   "published": "2026-10-22T12:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Healthcare Triangle, Inc., Nasdaq 규정 준수 계획의 일환으로 20대 1 주식 분할 발표",
@@ -18,27 +60,6 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": 1.05,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "윈덤(WH) 3분기 수익: 월스트리트 추정치와 주요 지표 비교",
-   "title": "Wyndham (WH) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS24tTWNZSERENXdLOXhBVzNwSExRMjdtV2FCMVo4ZW5xS0ljYUdXemw5M0thUWJmMkdweS16aHBrRzQ0T2VtdnVsUHRGZEFlNmw0cy1xYmgyNG9sU3p5WFBUbzNPaWJaWlRJM2hYeml3WF9XanU1ZWlXMFYyTVpjVGtjcXRBNEQ3dE1RbnpRNmhScXBqdFE?oc=5",
-   "published": "2026-10-22T08:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
      "asOf": "2026-10-21"
     }
    ]
@@ -92,33 +113,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "SpaceX가 Meta, Tesla 수익을 앞서면서 나스닥이 월스트리트를 더 높게 이끌었습니다.",
-   "title": "Nasdaq Leads Wall Street Higher as SpaceX Soars Ahead of Meta, Tesla Earnings",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDJwSzV4SzQ3cVUxRFUzXy0yNGxaZWpoRkZVdmVrUjhYcmZxV21TYkg4WWRWa0dWNFpxcHBVLW5vMElCQkFfMkxjcTZyUTlNLUxfazJNTDRZWjdaWEVuSHUweTBUQTVvVjliYU56dnQ1V2x0dFBvZkJUUGVEZ3BfSkNPdlhOclNVSTNNQTQybFI1TTdxbmk5dEFXbnQ?oc=5",
-   "published": "2026-10-22T07:24+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": 3.41,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "Micron (MU) 주식은 중요한 광물 거래 후 완전히 가치가 높아 보입니다.",
    "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
@@ -135,25 +129,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 디자인이 더 빠른 AI 출력을 목표로 함에 따라 Vertiv 주식은 5.35% 상승",
-   "title": "Vertiv Stocks Jump 5.35% as Nvidia Design Targets Faster AI Output",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGN4TGYtR0hTSHlQVDVWZ1pnNXYxM3RhcG9UeVl3MG16QWR1N2pPcmtXTmZDQzRzZ0U1SHV2Zm5nZHFFcWstaXJqbVBBcU1KVnNwcy1aMnFXeDRGdGdxZnppS1VaUkZhTjVyNWYxMXo1SGVjajZMd3o4Q0NfRTY2RGMzNzJjMjhWTDg1RjFQT3U?oc=5",
-   "published": "2026-10-22T05:38+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
      "asOf": "2026-10-21"
     }
    ]
@@ -181,6 +156,33 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "ASML은 Nvidia 주식 및 Micron 주식 투자자를 위한 놀라운 소식을 전합니다.",
+   "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R?oc=5",
+   "published": "2026-10-22T03:52+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "CoreWeave 주식을 매도할 시간인가요? Nvidia CEO Jensen Huang은 그렇게 생각하지 않습니다.",
    "title": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
    "source": "Yahoo Finance",
@@ -200,21 +202,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스(SKHY) 영업이익률 76%, 유지될까?",
-   "title": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
+   "summary": "이번 달 가장 저렴한 NVIDIA 제품: 가격 목표가 말하는 것",
+   "title": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzNiYnFKSEtLTW1sZzF5bDRia3dQSmYxZGZETlNuOTlxSjVfWmZSRTlxZnNiVDJ0Wk1GZ3ZDT2VwZmtFWWJLVkNMWjJMQzJhOEZoQVZxRjh0dk0zQzFxclJUTE00enJlMF9rRl9UemdZejhpekRuTVBNcG94bDd5eVJ5cEVvZVlEYV9KTngxelI?oc=5",
-   "published": "2026-10-22T02:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGp1ODVMZ3piaG1PZWZSOUdLdFVqV29Zd2owRFlLMFpuTk1iYjJkbjlOWVZ0QVVVVjFqZDdUcGZyNlNpSFhMWU5fa1pKWXo0TWpuRkE3UC1nUmY4bkpOM0g3UUo5cDdxb3poUnhCMzl1eWF5ZU96c3RmOEJ6UmVaZWMyY1JHcG5QNzA3NnNxNUMwU1Jra05LVlhrRm9VM2FG?oc=5",
+   "published": "2026-10-22T02:00+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 5.81,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.54,
      "asOf": "2026-10-21"
     }
    ]
