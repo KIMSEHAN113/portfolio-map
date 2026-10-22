@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-10-22T07:45:27+09:00",
+ "updatedAt": "2026-10-22T09:01:40+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+   "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
+   "published": "2026-10-22T08:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": -1.59,
+     "asOf": "2026-10-20"
+    },
+    {
+     "symbol": "TSLA",
+     "name": "테슬라",
+     "chgPct": 1.54,
+     "asOf": "2026-10-20"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Nasdaq Leads Wall Street Higher as SpaceX Soars Ahead of Meta, Tesla Earnings",
@@ -17,14 +44,14 @@
     {
      "symbol": "META",
      "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
+     "chgPct": -1.59,
+     "asOf": "2026-10-20"
     },
     {
      "symbol": "TSLA",
      "name": "테슬라",
-     "chgPct": 3.41,
-     "asOf": "2026-10-21"
+     "chgPct": 1.54,
+     "asOf": "2026-10-20"
     }
    ]
   },
@@ -72,11 +99,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Think It's Too Risky to Invest in the Stock Market Right Now? History Says Waiting Is Even Riskier.",
-   "title": "Think It's Too Risky to Invest in the Stock Market Right Now? History Says Waiting Is Even Riskier.",
+   "summary": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
+   "title": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRnUDN4eThCVTZNdnJEcEI3WUNXWkFOSmM0NlByemJYOEZEMDhPc01uUDdTYUFmTjdYcGxDaXpRYmhwQmRyd0V2a29ZVW5POGdqSjBtdHZMb3RJbS12aE4yT0o5dkdsdHJGb09NVWRJM2pyOEpSVXJoN3ZlZ1RyTWRsbUFxSUg3cmcxMFRpWlRzZTRDVXJnVg?oc=5",
-   "published": "2026-10-22T06:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzhHQzdaNVB0b2VzUjhsbXJMcHQ5cVdHZ3Y5R1pXNmlDQjF3ZmdZRnl4dFhDTmNDcG1oVW9XMU5JbDF2cW9kcVZGRldJLUlPaDNFcWJwZTJQS3JaVVhlZEpzNVBTaVBtN1liYWhuTk90ZFdUajd4YkxlODB3UTlzaGgyTGZ1M1N5ZnhJbTQwQVVHUWdY?oc=5",
+   "published": "2026-10-22T06:21+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -92,23 +119,23 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Emerson Electric (EMR) Outpaces Stock Market Gains: What You Should Know",
-   "title": "Emerson Electric (EMR) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOW16TkpsS3RvbnN1aUVqc3BfUDFHblY0Q0tTRDMwUjlEa0p2a3JGdEc2d2w0US1wRFc4OEczZWtWbzllNm5jM0tDYVN0TEVTNHJ4X1pkSFB5MS1zbW9Vcy1lQlllTXIyMGRpNWhMUnZkOVhWTnlnV2w3V3NLVjNtWDRWczNOMzh6ZlZNWg?oc=5",
-   "published": "2026-10-22T05:50+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage",
+   "title": "Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdnbmpUQVVmTnBSY29zak1PVUtXMDBxX3pRbFZ5R3djaFBwaC1IeVk2YVIybF9xRjlCeENTMi1ZQXhFUXlydllWSWFVcnZwZWVVd1JHRHZtVW1ralNHSjdoNkJ4QmRwbFNtY3RlR0V4UnY3SXp4N1kwNDVwc3k2SjR6TGRuaXh4WDcyU0Zqb0xEaFNEQ2QxLQ?oc=5",
+   "published": "2026-10-22T07:28+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -0.98,
+     "asOf": "2026-10-20"
     }
    ]
   },
@@ -126,8 +153,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
     }
    ]
   },
@@ -147,8 +174,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
+     "chgPct": -0.98,
+     "asOf": "2026-10-20"
     }
    ]
   },
@@ -166,39 +193,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
-   "title": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
+   "summary": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
+   "title": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzNiYnFKSEtLTW1sZzF5bDRia3dQSmYxZGZETlNuOTlxSjVfWmZSRTlxZnNiVDJ0Wk1GZ3ZDT2VwZmtFWWJLVkNMWjJMQzJhOEZoQVZxRjh0dk0zQzFxclJUTE00enJlMF9rRl9UemdZejhpekRuTVBNcG94bDd5eVJ5cEVvZVlEYV9KTngxelI?oc=5",
-   "published": "2026-10-22T02:28+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 5.81,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
-   "title": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGp1ODVMZ3piaG1PZWZSOUdLdFVqV29Zd2owRFlLMFpuTk1iYjJkbjlOWVZ0QVVVVjFqZDdUcGZyNlNpSFhMWU5fa1pKWXo0TWpuRkE3UC1nUmY4bkpOM0g3UUo5cDdxb3poUnhCMzl1eWF5ZU96c3RmOEJ6UmVaZWMyY1JHcG5QNzA3NnNxNUMwU1Jra05LVlhrRm9VM2FG?oc=5",
-   "published": "2026-10-22T02:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUtzb3dyanFKWVp6WFdCYm1Od0RtQXM4b0wtM3BuazVPLTAxUUVLYlFkWTRwaGZqT1ZPZFAyMDJOWGcweTk2amxWTjR6SGVsaTk1LWxTSTVDNXNhYndjOWtjNFoxbHk5TmZaMVVfdzVBdUpkRlc3dkJ6cndZUUd2OXhwLU8xdGlGY0I5aG9hMTdjYnJCdGxaODNoYW1kdw?oc=5",
+   "published": "2026-10-22T03:35+09:00",
    "holdings": [
     "soxl"
    ],
@@ -206,8 +212,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
+     "chgPct": -0.29,
+     "asOf": "2026-10-20"
     }
    ]
   }
