@@ -8080,9 +8080,9 @@
   },
   {
    "date": "2026-10-23",
-   "updatedAt": "2026-10-23T00:42:28+09:00",
+   "updatedAt": "2026-10-23T00:44:19+09:00",
    "fx": {
-    "usdkrw": 1326.07,
+    "usdkrw": 1326.25,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
