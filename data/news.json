@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-23T03:50:04+09:00",
+ "updatedAt": "2026-10-23T04:03:45+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Meta의 새로운 비의결권 주식은 돌출부를 생성하며 월스트리트는 이를 없애기를 원합니다.",
+   "title": "Meta's new nonvoting shares create an overhang — and Wall Street wants it gone",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNpWjBTNHNYeEllV1pjUDVEV0otck9RUUxSWjJrUHBhTXJCR3pCa21PY1ZxdmtUSTlaejJ6YVVmWnhIZkZyQlJrZ2tOTFpfalRQQ2pDYVI2QldWMm9wVUxMS250M08xZHprS0twNDQtS2lTWGhQRG5RX3RUUEs4N1RHdlJmRTJjUUFHa1pqRlRFVVNNSjcxSng5NklSeTNFdXhoc20ycjltYmdfcXZPUGpBVzFoNWE5eGsyOUJNTVI1dEZCSmNEZlNVUXBzeF9pZmNKdHBEVQ?oc=5",
+   "published": "2026-10-23T03:59+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 0.47,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "AI 비용 우려로 나스닥이 2% 이상 하락하면서 월스트리트가 침몰",
@@ -24,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "추가 조사가 필요한 월스트리트가 선호하는 주식 중 1개와 무시하는 주식 2개",
-   "title": "1 of Wall Street’s favorite stocks to research further and 2 we ignore",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1FlZUk1cE9OQVkyd3Y4aVpsWk5vTmg5SE5ONkZMNE0xa3pocW1IZ2JUenE3b0gtUXAwdEc2R2d4QVU3dU5CUmR2NGNyZEVGSExiVFMwNlNGUW9qSktma2N1SF9zNmljWE9Ydks5Q3ozRmpUd2FKdFhnWS1KaXFxeF9MMTI0NFY2VWJKUEVXcmt6NFIwTlpzNFdB?oc=5",
-   "published": "2026-10-23T03:05+09:00",
+   "summary": "트럼프의 이란 대결, 유가 급등으로 월스트리트를 뒤흔들다",
+   "title": "Trump's Iran showdown rattles Wall Street as oil prices spike",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNGNfZjFiTVpoVE9oS1kzSi1VbXlwNG9KbWwzSEVHa2tBLVU3dV96WWZISEtZc2RzRXg0N28zU1lBcTA5Q3lzR0lPRUdfSVdXN19fUkJjT2JIeWs?oc=5",
+   "published": "2026-10-23T03:04+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -86,27 +107,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Nasdaq, Inc. 2026년 3분기 실적 요약",
-   "title": "Nasdaq, Inc. Q3 2026 Earnings Call Summary",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHhTdG1EQ0VLUWFXSGRNX0hQeXNFV2NlWE54YlVKOFd2aUMzemVHaG5VWWFSZDFtZnVuUERRSzRoVUZVWjAzM1FpcF9HWklFZzlLUHZFdU56djBibUx5NW5wRTF3TkhvWFppaXQ5ODdkRVJtdUI1OGdkQTlTTkRyUEw4a2g1Q19VU0hoRGJ5WEp6QnRWYzFN?oc=5",
-   "published": "2026-10-23T02:50+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.05,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "Taiwan Semiconductor와 ASML은 훌륭하지만 이러한 독점 칩 주식 중 하나가 훨씬 안전합니다.",
    "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
@@ -133,7 +133,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "BofA, 1조 달러 지출 직기로 Nvidia, Intel 및 Micron 최고의 AI 승자로 선정",
+   "summary": "BofA, Nvidia, Intel 및 Micron 최고의 AI 승자를 1조 달러 지출 직기로 선정",
    "title": "BofA Names Nvidia, Intel and Micron Top AI Winners as $1 Trillion Spending Looms",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0ZPTnpOUV9HM0dpdktPRVpMQzhDM0RNWno5ODNnYklhYTVYWXFEMnhjLVF2bDhlZEFsdVFSVktIb1AxZWlrNDZtVkY5d0N1Z2ZNR29vcndqeGNmczFPWDJGRWZWRVlxZ3NlRFZDc2RlbVpnNEdJRDM0bFFBeks4Y1lfLWEyYXotVnpZRDRYSXhUMVZfeXpHVWhn?oc=5",
