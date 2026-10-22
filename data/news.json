@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-10-22T15:02:17+09:00",
+ "updatedAt": "2026-10-22T22:10:39+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "강한 이익이 월스트리트 랠리를 주도한 후 아시아 증시는 하락세를 보이고 있습니다.",
-   "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+   "summary": "Meta의 새로운 비의결권 주식은 돌출부를 생성하며 월스트리트는 이를 없애기를 원합니다.",
+   "title": "Meta's new nonvoting shares create an overhang — and Wall Street wants it gone",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNby1WeWk1UkhfLVBEMGJVcXhKSEFyNDZ6NThnQTBuSFpkbldUcTNydXBoUlNrcEYtSHQ2NW9EQlBNaXdiMVBWWm82dVNyV2NkbGI1NjlwRElpdTZhMUdlMDFmM0RrZDFlLUNYWVlFbW5qbnYwM0NQdU9tTlQwQzlpdkxhSXVxLXhZMWYwbXRXOXZtaVQwd3k3QkUwZGR3VXhPeHdtOWFoOVNPbFU?oc=5",
-   "published": "2026-10-22T13:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNpWjBTNHNYeEllV1pjUDVEV0otck9RUUxSWjJrUHBhTXJCR3pCa21PY1ZxdmtUSTlaejJ6YVVmWnhIZkZyQlJrZ2tOTFpfalRQQ2pDYVI2QldWMm9wVUxMS250M08xZHprS0twNDQtS2lTWGhQRG5RX3RUUEs4N1RHdlJmRTJjUUFHa1pqRlRFVVNNSjcxSng5NklSeTNFdXhoc20ycjltYmdfcXZPUGpBVzFoNWE5eGsyOUJNTVI1dEZCSmNEZlNVUXBzeF9pZmNKdHBEVQ?oc=5",
+   "published": "2026-10-22T21:49+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 0.47,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘 미국 주식 시장: 영국 인플레이션 서프라이즈로 S&P 500 선물 하락",
+   "title": "US Stock Market Today: S&P 500 Futures Fall On Hot UK Inflation Surprise",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFOTFqU3NYNjhiNDJfNnR6UDN2di0yRzhDUXM0TWYzTV8wcGlQUnBmYXY3cVM3bHNPRzVOWHZfSXJPTUx4TUlUM1VURWpEVTJlQ3hFenRaOW40SlRHU29OelQyYmVHNnBOVGxLem0wczh6MHB6bjZwM24tZlI?oc=5",
+   "published": "2026-10-22T21:18+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,32 +45,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "CSI 300 지수가 10주 연속 하락함에 따라 중국 증시는 약세 영역에 진입했습니다.",
-   "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+   "summary": "오늘 캐나다 주식 시장: TSX 선물, 유가 급등 및 주택 데이터 상승",
+   "title": "Canadian Stock Market Today: TSX Futures Edge Higher On Oil Spike And Housing Data",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUVwczZBUl9VQ0Vta2ljOXozQ05DeTdFLXFSUk5xZ2cxM0ZBbTFUSGQ5V054QXluZ0RELWdkRDEtblRfZWMwdTVIVm1kTmhpR3N3bmVzTnN6bE5LZFdkV1pTRVBjdVNaRUNSd0JmcF9WVFYxYXNpY3dJMU1kRDR4aDZaajh2dXhhRUJmM0dndDk1Q0ZwcVVYUG52WE0?oc=5",
+   "published": "2026-10-22T21:12+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq CEO 겸 회장인 Adena Friedman과의 CNBC 전체 인터뷰를 시청하세요.",
+   "title": "Watch CNBC's full interview with Nasdaq CEO and Chair Adena Friedman",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
-   "published": "2026-10-22T12:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Healthcare Triangle, Inc., Nasdaq 규정 준수 계획의 일환으로 20대 1 주식 분할 발표",
-   "title": "Healthcare Triangle, Inc. Announces 1-for-20 Reverse Stock Split as Part of Nasdaq Compliance Plan",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVY1TWJQT21TQXZGelhSTzFaTnlEdFpva2lQOU1MQ1BnaVd2SXpsQzg5Z0hENVdjMzFadTEzQ2I5SUpoUFU1WEZxY00yYWtQRXQxM083YXQ3QVFRTlZ4MkVNSFlvWWJvaWRCYkUyalZYVldoMkJkYW9FRDdvZFBQRm5uNlM4MzA1bVNJNUpOZnlnTDJncEdzQ1NsVG02OUFXM1E?oc=5",
-   "published": "2026-10-22T11:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnlxOEluZVhpNldPUDRZYmhab2hrNGd1RS04REZKaEd6RVUtaVpYREFIQy1FMGFpckNKX3oyZ040cm12MDZENzdzT0VnR3VNTDZZUXBMSHhBSlNKb1FQYXVFdVNlU0ZNSTdoQWctY2lIdDhWc1VLTnFtU2JmT0NsOWJlMkU4ZWxtaVpZNVhkVXhDemVXR25rQjBTYlk4QWlGSkVCZUJJYzg2bzNNR3I4?oc=5",
+   "published": "2026-10-22T20:46+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
-   "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
-   "published": "2026-10-22T08:15+09:00",
+   "summary": "Nasdaq CEO Adena Friedman이 3분기 결과, IPO 파이프라인 및 토큰화 노력에 대해 설명합니다.",
+   "title": "Nasdaq CEO Adena Friedman on Q3 results, IPO pipeline and tokenization efforts",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm5EZVZPc2lSYjJCVTItRkg2NEk4bHlacjFLTm5DbXNBNl9RTTZVc3ZlTzNvcDBIam9mdUFuRTJsd0FfR0dvZ2xRWWdUeFBQZk5IWVZhTmVkVkdZQ25VRGlBS3FYQ2dTekVoWEdLRUxLVGVOZngxTEN4SUl0NVhQZkd1NW1JVS1uLWZvd1RRYTVCVk5fcmF4SERYTDZteEZuZHZiaGxIckkwWVZ3cGNRUmx6ckVSc1pocWNXVw?oc=5",
+   "published": "2026-10-22T20:46+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -78,116 +99,39 @@
    ],
    "moves": [
     {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": 3.41,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "SL Green (SLG) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "SL Green (SLG) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkpta1pfdGc5dkVTRDg0bEJ6UEk3ZzNaYncwaUZTZUNTUm5haFRzSUU3d01TdnRuTnJSaTFBcEJEYktoY3hiVzlHTGtUckJvR1J1NlhnenAtQjBSd3BwcThkSXI1NnkyWExhTmhXOGE0a0FXWlNFM1A1RHhsR0YzdXVpMU5BUUNTeW1oYmJqZUpRNFU?oc=5",
-   "published": "2026-10-22T07:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
      "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron (MU) 주식은 중요한 광물 거래 후 완전히 가치가 높아 보입니다.",
-   "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
+   "summary": "장비 제조사 Lam Research가 '공급망 제약'을 언급하면서 칩 재고 하락",
+   "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEdGRmdiWk0xMkVvSG9zT1ZZWVBMR0JQNUt6Vkk2OXpIVjRFeWVrTXdCSm9DT0lWQXluSnhtaXhYR0ZVbXR4NUNLclluWnRGTVVodkJnWGUyQnNiTFRMZVZOaTN0TXhGU1AzQ0Z4dWZ1Y1o4dTFIWVRHcVVQZVZZWmVsZkZsOW9rSVRxS20zckxIekI1VmtJ?oc=5",
-   "published": "2026-10-22T10:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
+   "published": "2026-10-22T22:06+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 2.07,
      "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "2026년 Micron은 221% 상승하고 Seagate는 155% 상승: 이익을 얻을 것인가, 아니면 계속해서 나아갈 것인가?",
-   "title": "Micron Is Up 221% in 2026 and Seagate Is Up 155%: Take Profits, or Hold On for the Ride?",
+   "summary": "슈퍼 마이크로, 주가가 거의 10% 상승한 후 새로운 NVIDIA AI 랙 공개",
+   "title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJbEtncUUybHhIV0FmYjQtV0JzaEwyOXhxV1N6eVhma0FtakplY19KdkFQZkNaWUwycXVJZmg2TXdaNkFET1hVcklRcDBUYWt4STNFcHJHN0wtUU41aGdBU05YVm5pNk9LRXdjb3c4amN1N012c01kaW56MTVOdVBFQkl0d0o4MEJaVndKdk1SQjYxVFp3?oc=5",
-   "published": "2026-10-22T03:54+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "ASML은 Nvidia 주식 및 Micron 주식 투자자를 위한 놀라운 소식을 전합니다.",
-   "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R?oc=5",
-   "published": "2026-10-22T03:52+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "CoreWeave 주식을 매도할 시간인가요? Nvidia CEO Jensen Huang은 그렇게 생각하지 않습니다.",
-   "title": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUtzb3dyanFKWVp6WFdCYm1Od0RtQXM4b0wtM3BuazVPLTAxUUVLYlFkWTRwaGZqT1ZPZFAyMDJOWGcweTk2amxWTjR6SGVsaTk1LWxTSTVDNXNhYndjOWtjNFoxbHk5TmZaMVVfdzVBdUpkRlc3dkJ6cndZUUd2OXhwLU8xdGlGY0I5aG9hMTdjYnJCdGxaODNoYW1kdw?oc=5",
-   "published": "2026-10-22T03:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw?oc=5",
+   "published": "2026-10-22T21:24+09:00",
    "holdings": [
     "soxl"
    ],
@@ -202,11 +146,32 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "이번 달 가장 저렴한 NVIDIA 제품: 가격 목표가 말하는 것",
-   "title": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
+   "summary": "Micron은 542억 3천만 달러의 분기를 기록했으며 다음 분기에는 615억 달러를 기록했습니다.",
+   "title": "Micron Posted a $54.23 Billion Quarter and Guided to $61.5 Billion for Next Quarter",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGp1ODVMZ3piaG1PZWZSOUdLdFVqV29Zd2owRFlLMFpuTk1iYjJkbjlOWVZ0QVVVVjFqZDdUcGZyNlNpSFhMWU5fa1pKWXo0TWpuRkE3UC1nUmY4bkpOM0g3UUo5cDdxb3poUnhCMzl1eWF5ZU96c3RmOEJ6UmVaZWMyY1JHcG5QNzA3NnNxNUMwU1Jra05LVlhrRm9VM2FG?oc=5",
-   "published": "2026-10-22T02:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEF2R29jYXBJZl9Yb2t3ZXZQcE9YbUhPYU8tMnZvdnNHdnVWRnRDb2pCOEJIZjlDbzd5UnkzZ0Jkd3NlWmItXzVCUEJpQXJ2NDIwQjlwZ011NFlOUlB2ZG51QlE5LTZSQ3RZdFYtNTNKTFFaa2VKdEx4SGszRUt5SXBqSzBrbC1CZXBGYjRTREtPRGhTeUJz?oc=5",
+   "published": "2026-10-22T20:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 Jensen Huang은 AI 칩이 '금융 자산'이 되기를 원하며 Neocloud 수요는 '차트에서 벗어났다'고 말합니다.",
+   "title": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNckZqcjdFb1ZMdWZwV1h4RE4xbGZWekk5dVlsRDNaaHpuMlRUOWh5WVlnRk1vV3FGY2pCazNhLVJ4UENfWnpqVXVVWVROTVZMUUswRnRXZjVOYkM5UnVGVVhiR2g3M0ZIUlJKa0NFQl9KaG9JSnBKc3BvTFF1SUs5S1A5Q3RSaHVTQWNxMmNFeC1fU1lB?oc=5",
+   "published": "2026-10-22T19:57+09:00",
    "holdings": [
     "soxl"
    ],
@@ -216,6 +181,33 @@
      "name": "엔비디아",
      "chgPct": 2.54,
      "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "시장 잡담: Nvidia, Tesla, 삼성전기에 28억 달러 투자",
+   "title": "Market Chatter: Nvidia, Tesla to Invest $2.80 Billion in Samsung Electro-Mechanics",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjVKMDN4ZjJIVHpQaE1GY0MzWWE5OURuMFFVaFA2LVNqZng3TjBsVEVYMlVFQVdTZTZRQmh2dEVaZVctTlBpVlVxNHJkLUhvMkFaYnhoR3d2YWJrTmJVN19DcWtoOC1GczRDcFk0dGFlZVlZMGJ5QjVhTkw4aGxJU2hGdnBjdmd1cVpvUm9SUDA4Q3h3WlhVYldrRQ?oc=5",
+   "published": "2026-10-22T17:25+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": -4.03,
+     "asOf": "2026-10-22"
     }
    ]
   }
