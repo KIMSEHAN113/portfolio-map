@@ -1,76 +1,13 @@
 {
- "updatedAt": "2026-10-23T00:44:27+09:00",
+ "updatedAt": "2026-10-23T03:50:04+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "주식 시장 붕괴가 다가오고 있다면, 역사에 따르면 이 한 가지를 하는 투자자는 항상 승리합니다",
-   "title": "If a Stock Market Crash Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEs0bUFTQzNYMzNlNTFIRGM0S1FzM2Z0YUR0cERERFZLRDVkelpKLXFvd1RGZjlPMWNUazBTbDhWMjNUQnd2QmgwVVBTZGtPRUFUMms2UVBWanVhWklvc3otNkNvVlJPZVpSSWltVW1RQVJmQjJmTVZuU3FHRG84S0ZHS0MzZTYtU2hvVDlKbTZjWXZ6MV9yNUJrSGttVkU?oc=5",
-   "published": "2026-10-23T00:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 Tesla의 Cybercab을 잊었나요?",
-   "title": "Did Wall Street forget about Tesla's Cybercab?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnozbHRlSDlpeGJnc2VKYUJYSFhkQUpPQk1pZi1oeGotNktzRzBXY1FCVEVZWXU5YTItVnREXy1janMwN1NMbDlzR3lpVU1OQ0xSbzZScUI4ZE4tbFExNlh4bFM0di1RaU1kLTFNdGR2Y3I3UzdrSTA3d1E0NkZmcXpn?oc=5",
-   "published": "2026-10-23T00:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": 3.41,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Netflix는 또 다른 힘든 달을 보냈습니다. 10% 하락: 이 월스트리트 전문가는 90% 상승이 앞으로 있을 것이라고 말합니다.",
-   "title": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnRuck1vc2toaXBIYndfZVBsOUYyNUk1MWV2cE0xRVNCeF9vZlR5TzFCMndtdEIydGxMbjZFdmRob0tZNlBCXzVYS0RIb0I5ZEJqem9YdWxGNlZldWFNTWNmVGdxYjh2aWczdnpwRGhCeE9HWVduZjgtQzJTb0dwTkZhQTFHcU50bXJ6c2R2U0hTSW5VVzlocVpzWDRKUHdZdU5z?oc=5",
-   "published": "2026-10-22T23:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥은 월스트리트의 AI 지출 불안감을 낮추었습니다. 유가 반등",
-   "title": "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
+   "summary": "AI 비용 우려로 나스닥이 2% 이상 하락하면서 월스트리트가 침몰",
+   "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-   "published": "2026-10-22T23:20+09:00",
+   "published": "2026-10-23T03:35+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -87,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "SpaceX는 월스트리트의 3분기 목표를 무너뜨렸습니다. 그러나 잠재적인 Tesla 합병은 훨씬 더 큰 뉴스입니다.",
-   "title": "SpaceX Just Crushed Wall Street's Q3 Targets -- but a Potential Tesla Merger Is Even Bigger News",
+   "summary": "추가 조사가 필요한 월스트리트가 선호하는 주식 중 1개와 무시하는 주식 2개",
+   "title": "1 of Wall Street’s favorite stocks to research further and 2 we ignore",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkdDTVY0NzBvYWhaMkk1TUIwWGZRSlo2ZnJrWGc0SDNHRUc4TG56ZjloZTVxMVFWLTMyeC1uYnpvR2ZGcUtiVjZnRUFveDljdVBkaVZfRG1HSUJUbEhxNGhWT3VLbE13cktkeEJScXNORlRLckVOMUNRODRpakxwSUFmY3FDYV9memVCSldwX3M1d2h1Z0FoRm9kZ2MzZw?oc=5",
-   "published": "2026-10-22T23:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1FlZUk1cE9OQVkyd3Y4aVpsWk5vTmg5SE5ONkZMNE0xa3pocW1IZ2JUenE3b0gtUXAwdEc2R2d4QVU3dU5CUmR2NGNyZEVGSExiVFMwNlNGUW9qSktma2N1SF9zNmljWE9Ydks5Q3ozRmpUd2FKdFhnWS1KaXFxeF9MMTI0NFY2VWJKUEVXcmt6NFIwTlpzNFdB?oc=5",
+   "published": "2026-10-23T03:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -99,9 +36,168 @@
    ],
    "moves": [
     {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": 3.41,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Spago Nanomedical 이사회는 총회 승인에 따라 NASDAQ First North Growth Market 상장 폐지를 신청하기로 결정했습니다.",
+   "title": "The Board of Directors of Spago Nanomedical Has Resolved, Subject to the Approval of the General Meeting, to Apply for Delisting From the NASDAQ First North Growth Market",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlNJMzVNMlNITi1iY0t4ZHp2NWxBcXJwRGtXMjJaNmNnczJCN1N5cjRablpJV2tVRWNnRmwzWFRMYlBweWNpenVOTTBBSnlrcklYVUpaLWFNRVpOR1B5Z0U0WXQ3NWtOSHZSTzktcmxYVXBKUDBWVEhRUllPSjhJankxbHNLbEhJdEZfMzk5V0U0V2Y2NE1NbXZ6UWxfbGtoSDZzXzlB?oc=5",
+   "published": "2026-10-23T02:55+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "RealReal의 3분기 결과는 월스트리트의 관점을 바꿀 것 같지 않다고 UBS는 말합니다.",
+   "title": "RealReal's Q3 Results Unlikely to Shift Wall Street Views, UBS Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnBGalVHalhOMFFCZ0toTGN0UzJmRXFiQmRnZi1FOFVtaUVYajVEZnlIMGcwRTlBRko3RVVIQWY4elFDQ1RteHVadnZLbWw0NTFiUnVoQ1JIYjZyUzdvUm5BdHFLY1Y1eWVJR2V4aGVPR0M3N2o4Uy1IU0tMZXprNTNDSjF3N1lFRzFnTFh2Y0hwdzZ5MHJPSWsyeHhPTlk?oc=5",
+   "published": "2026-10-23T02:52+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq, Inc. 2026년 3분기 실적 요약",
+   "title": "Nasdaq, Inc. Q3 2026 Earnings Call Summary",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHhTdG1EQ0VLUWFXSGRNX0hQeXNFV2NlWE54YlVKOFd2aUMzemVHaG5VWWFSZDFtZnVuUERRSzRoVUZVWjAzM1FpcF9HWklFZzlLUHZFdU56djBibUx5NW5wRTF3TkhvWFppaXQ5ODdkRVJtdUI1OGdkQTlTTkRyUEw4a2g1Q19VU0hoRGJ5WEp6QnRWYzFN?oc=5",
+   "published": "2026-10-23T02:50+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Taiwan Semiconductor와 ASML은 훌륭하지만 이러한 독점 칩 주식 중 하나가 훨씬 안전합니다.",
+   "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWxEN05udW5ZSU1udEloR0JrcHNjQlJ5bDBpT2gxd28teGhSV0dNWnpMSDUxSW4yTy1PdlRqZGRrYVR1N1dUbzBaOEZ1all3bjVPSVNHMWxsbXk3S3IwNmFnbG5QRkIzTExjcUxNYzIwUThKUUZ5V2Y1UTZsaUF0UTdURFpwejlPdG43TUhsQ2d3NHRoNHR1YlVQcUpvLVFSeDdhblZB?oc=5",
+   "published": "2026-10-23T03:05+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": 1.6,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "ASML",
+     "name": "ASML",
+     "chgPct": 2.81,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "BofA, 1조 달러 지출 직기로 Nvidia, Intel 및 Micron 최고의 AI 승자로 선정",
+   "title": "BofA Names Nvidia, Intel and Micron Top AI Winners as $1 Trillion Spending Looms",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0ZPTnpOUV9HM0dpdktPRVpMQzhDM0RNWno5ODNnYklhYTVYWXFEMnhjLVF2bDhlZEFsdVFSVktIb1AxZWlrNDZtVkY5d0N1Z2ZNR29vcndqeGNmczFPWDJGRWZWRVlxZ3NlRFZDc2RlbVpnNEdJRDM0bFFBeks4Y1lfLWEyYXotVnpZRDRYSXhUMVZfeXpHVWhn?oc=5",
+   "published": "2026-10-23T01:09+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI 매도 심화로 공급 경고로 칩 재고 하락: Marvell과 AMD는 8% 하락, Intel은 7% 하락",
+   "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjE3M1E5SV9QdGI0djdaX000RGV5MTRzLWlJZ1BLeEZ4X2dwWXlwVWVmblhIVEhiMXU0U2JHOHMzV2pHM3JnZ0RfWDRsS2dzVHQ0SG5KczFUVFd4ZUZFQmRjZUpPRS01RWVRdnFwTGFYcG51NkVyN0JFTFZBaGhwLTVrTXVMUVd5SmxSajRacF9vMzhuZWRn?oc=5",
+   "published": "2026-10-23T00:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 3.36,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": 1.39,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI 거래가 압박을 받으면서 메타 및 칩 주식이 하락합니다: AlphaCheck",
+   "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5",
+   "published": "2026-10-23T00:39+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 0.47,
      "asOf": "2026-10-21"
     }
    ]
@@ -121,92 +217,6 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": 2.07,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "슈퍼 마이크로, 주가가 거의 10% 상승한 후 새로운 NVIDIA AI 랙 공개",
-   "title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw?oc=5",
-   "published": "2026-10-22T21:24+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron은 542억 3천만 달러의 분기를 기록하고 다음 분기에 615억 달러를 기록했습니다.",
-   "title": "Micron Posted a $54.23 Billion Quarter and Guided to $61.5 Billion for Next Quarter",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEF2R29jYXBJZl9Yb2t3ZXZQcE9YbUhPYU8tMnZvdnNHdnVWRnRDb2pCOEJIZjlDbzd5UnkzZ0Jkd3NlWmItXzVCUEJpQXJ2NDIwQjlwZ011NFlOUlB2ZG51QlE5LTZSQ3RZdFYtNTNKTFFaa2VKdEx4SGszRUt5SXBqSzBrbC1CZXBGYjRTREtPRGhTeUJz?oc=5",
-   "published": "2026-10-22T20:15+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia의 Jensen Huang은 AI 칩이 '금융 자산'이 되기를 원하며 Neocloud 수요는 '차트에서 벗어났다'고 말합니다.",
-   "title": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNckZqcjdFb1ZMdWZwV1h4RE4xbGZWekk5dVlsRDNaaHpuMlRUOWh5WVlnRk1vV3FGY2pCazNhLVJ4UENfWnpqVXVVWVROTVZMUUswRnRXZjVOYkM5UnVGVVhiR2g3M0ZIUlJKa0NFQl9KaG9JSnBKc3BvTFF1SUs5S1A5Q3RSaHVTQWNxMmNFeC1fU1lB?oc=5",
-   "published": "2026-10-22T19:57+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "시장 잡담: 엔비디아, 테슬라, 삼성전기에 28억 달러 투자",
-   "title": "Market Chatter: Nvidia, Tesla to Invest $2.80 Billion in Samsung Electro-Mechanics",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjVKMDN4ZjJIVHpQaE1GY0MzWWE5OURuMFFVaFA2LVNqZng3TjBsVEVYMlVFQVdTZTZRQmh2dEVaZVctTlBpVlVxNHJkLUhvMkFaYnhoR3d2YWJrTmJVN19DcWtoOC1GczRDcFk0dGFlZVlZMGJ5QjVhTkw4aGxJU2hGdnBjdmd1cVpvUm9SUDA4Q3h3WlhVYldrRQ?oc=5",
-   "published": "2026-10-22T17:25+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "005930.KS",
-     "name": "삼성전자",
-     "chgPct": 5.67,
      "asOf": "2026-10-21"
     }
    ]
