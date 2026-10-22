@@ -7802,9 +7802,9 @@
   },
   {
    "date": "2026-10-22",
-   "updatedAt": "2026-10-22T09:04:14+09:00",
+   "updatedAt": "2026-10-22T11:31:52+09:00",
    "fx": {
-    "usdkrw": 1327.5,
+    "usdkrw": 1324.18,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -7818,8 +7818,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 760,
-     "price": 26070.0,
-     "chgPct": 0.25,
+     "price": 25895.0,
+     "chgPct": -0.42,
      "asOf": "2026-10-22",
      "dca": "매주 월 +2"
     },
@@ -7833,8 +7833,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 597,
-     "price": 22225.0,
-     "chgPct": 0.23,
+     "price": 22140.0,
+     "chgPct": -0.16,
      "asOf": "2026-10-22",
      "dca": "매주 월 +2"
     },
@@ -7848,8 +7848,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 222500.0,
-     "chgPct": -0.45,
+     "price": 216500.0,
+     "chgPct": -3.13,
      "asOf": "2026-10-22"
     },
     {
@@ -7862,8 +7862,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7270.0,
-     "chgPct": -1.09,
+     "price": 7190.0,
+     "chgPct": -2.18,
      "asOf": "2026-10-22"
     },
     {
@@ -8030,8 +8030,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12140.0,
-     "chgPct": -0.16,
+     "price": 11975.0,
+     "chgPct": -1.52,
      "asOf": "2026-10-22"
     },
     {
@@ -8044,8 +8044,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23165.0,
-     "chgPct": 0.24,
+     "price": 23077.0,
+     "chgPct": -0.14,
      "asOf": "2026-10-22"
     },
     {
@@ -8058,8 +8058,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 26070.0,
-     "chgPct": 0.25,
+     "price": 25895.0,
+     "chgPct": -0.42,
      "asOf": "2026-10-22"
     },
     {
@@ -8072,8 +8072,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14670.0,
-     "chgPct": 0.14,
+     "price": 14615.0,
+     "chgPct": -0.24,
      "asOf": "2026-10-22"
     }
    ]

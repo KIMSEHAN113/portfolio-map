@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-22T09:04:20+09:00",
+ "updatedAt": "2026-10-22T11:32:00+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Healthcare Triangle, Inc., Nasdaq 규정 준수 계획의 일환으로 20대 1 주식 분할 발표",
+   "title": "Healthcare Triangle, Inc. Announces 1-for-20 Reverse Stock Split as Part of Nasdaq Compliance Plan",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVY1TWJQT21TQXZGelhSTzFaTnlEdFpva2lQOU1MQ1BnaVd2SXpsQzg5Z0hENVdjMzFadTEzQ2I5SUpoUFU1WEZxY00yYWtQRXQxM083YXQ3QVFRTlZ4MkVNSFlvWWJvaWRCYkUyalZYVldoMkJkYW9FRDdvZFBQRm5uNlM4MzA1bVNJNUpOZnlnTDJncEdzQ1NsVG02OUFXM1E?oc=5",
+   "published": "2026-10-22T11:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.05,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "윈덤(WH) 3분기 수익: 월스트리트 추정치와 주요 지표 비교",
+   "title": "Wyndham (WH) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS24tTWNZSERENXdLOXhBVzNwSExRMjdtV2FCMVo4ZW5xS0ljYUdXemw5M0thUWJmMkdweS16aHBrRzQ0T2VtdnVsUHRGZEFlNmw0cy1xYmgyNG9sU3p5WFBUbzNPaWJaWlRJM2hYeml3WF9XanU1ZWlXMFYyTVpjVGtjcXRBNEQ3dE1RbnpRNmhScXBqdFE?oc=5",
+   "published": "2026-10-22T08:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
@@ -17,20 +59,41 @@
     {
      "symbol": "META",
      "name": "메타",
-     "chgPct": -1.59,
-     "asOf": "2026-10-20"
+     "chgPct": 0.47,
+     "asOf": "2026-10-21"
     },
     {
      "symbol": "TSLA",
      "name": "테슬라",
-     "chgPct": 1.54,
-     "asOf": "2026-10-20"
+     "chgPct": 3.41,
+     "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq Leads Wall Street Higher as SpaceX Soars Ahead of Meta, Tesla Earnings",
+   "summary": "SL Green (SLG) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "SL Green (SLG) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkpta1pfdGc5dkVTRDg0bEJ6UEk3ZzNaYncwaUZTZUNTUm5haFRzSUU3d01TdnRuTnJSaTFBcEJEYktoY3hiVzlHTGtUckJvR1J1NlhnenAtQjBSd3BwcThkSXI1NnkyWExhTmhXOGE0a0FXWlNFM1A1RHhsR0YzdXVpMU5BUUNTeW1oYmJqZUpRNFU?oc=5",
+   "published": "2026-10-22T07:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.58,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SpaceX가 Meta, Tesla 수익을 앞서면서 나스닥이 월스트리트를 더 높게 이끌었습니다.",
    "title": "Nasdaq Leads Wall Street Higher as SpaceX Soars Ahead of Meta, Tesla Earnings",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDJwSzV4SzQ3cVUxRFUzXy0yNGxaZWpoRkZVdmVrUjhYcmZxV21TYkg4WWRWa0dWNFpxcHBVLW5vMElCQkFfMkxjcTZyUTlNLUxfazJNTDRZWjdaWEVuSHUweTBUQTVvVjliYU56dnQ1V2x0dFBvZkJUUGVEZ3BfSkNPdlhOclNVSTNNQTQybFI1TTdxbmk5dEFXbnQ?oc=5",
@@ -44,87 +107,24 @@
     {
      "symbol": "META",
      "name": "메타",
-     "chgPct": -1.59,
-     "asOf": "2026-10-20"
+     "chgPct": 0.47,
+     "asOf": "2026-10-21"
     },
     {
      "symbol": "TSLA",
      "name": "테슬라",
-     "chgPct": 1.54,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Oct. 21: Airline Shares Rise After United Issues Stronger Revenue Guidance",
-   "title": "Stock Market Today, Oct. 21: Airline Shares Rise After United Issues Stronger Revenue Guidance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWlDa1QxQmtyUGRHNnd6bzJLbnBNZ0l5VW1NY3R4ZG9pUEhKZ25zTl9ZenlxSXZyVzJFd0JXYUJsaGZEUWwzWmJoM2xvV0dYRXhvRDM1ejAxUlRnaXd3Yk1YU1c0anlHT0dGdEJaQ1BfX0d3aWdKNkhQZEllX2hXeUJJem9OV2tZaTFIM1ROYllXbExy?oc=5",
-   "published": "2026-10-22T06:53+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat",
-   "title": "Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUZCbTdMR0RybXpPcVRsQVJNVE5PT1hCZkpRRDRjSGY1aTVodlQ2TlZxdTNvQVREODRhQko3cXI4b18zMU00OXppbTB1ODFKUm9xQVVxSUIweGpWbS1fcW93S1REM1RCbDIwZlR4clZzLVJFN1AzOGV3WEMwcXBMZlFUdWh2RkZYblJyRjlUekVMWEo0?oc=5",
-   "published": "2026-10-22T06:40+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
-   "title": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzhHQzdaNVB0b2VzUjhsbXJMcHQ5cVdHZ3Y5R1pXNmlDQjF3ZmdZRnl4dFhDTmNDcG1oVW9XMU5JbDF2cW9kcVZGRldJLUlPaDNFcWJwZTJQS3JaVVhlZEpzNVBTaVBtN1liYWhuTk90ZFdUajd4YkxlODB3UTlzaGgyTGZ1M1N5ZnhJbTQwQVVHUWdY?oc=5",
-   "published": "2026-10-22T06:21+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.58,
+     "chgPct": 3.41,
      "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage",
-   "title": "Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage",
+   "summary": "Micron (MU) 주식은 중요한 광물 거래 후 완전히 가치가 높아 보입니다.",
+   "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdnbmpUQVVmTnBSY29zak1PVUtXMDBxX3pRbFZ5R3djaFBwaC1IeVk2YVIybF9xRjlCeENTMi1ZQXhFUXlydllWSWFVcnZwZWVVd1JHRHZtVW1ralNHSjdoNkJ4QmRwbFNtY3RlR0V4UnY3SXp4N1kwNDVwc3k2SjR6TGRuaXh4WDcyU0Zqb0xEaFNEQ2QxLQ?oc=5",
-   "published": "2026-10-22T07:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEdGRmdiWk0xMkVvSG9zT1ZZWVBMR0JQNUt6Vkk2OXpIVjRFeWVrTXdCSm9DT0lWQXluSnhtaXhYR0ZVbXR4NUNLclluWnRGTVVodkJnWGUyQnNiTFRMZVZOaTN0TXhGU1AzQ0Z4dWZ1Y1o4dTFIWVRHcVVQZVZZWmVsZkZsOW9rSVRxS20zckxIekI1VmtJ?oc=5",
+   "published": "2026-10-22T10:23+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -134,14 +134,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -0.98,
-     "asOf": "2026-10-20"
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Vertiv Stocks Jump 5.35% as Nvidia Design Targets Faster AI Output",
+   "summary": "Nvidia 디자인이 더 빠른 AI 출력을 목표로 함에 따라 Vertiv 주식은 5.35% 상승",
    "title": "Vertiv Stocks Jump 5.35% as Nvidia Design Targets Faster AI Output",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGN4TGYtR0hTSHlQVDVWZ1pnNXYxM3RhcG9UeVl3MG16QWR1N2pPcmtXTmZDQzRzZ0U1SHV2Zm5nZHFFcWstaXJqbVBBcU1KVnNwcy1aMnFXeDRGdGdxZnppS1VaUkZhTjVyNWYxMXo1SGVjajZMd3o4Q0NfRTY2RGMzNzJjMjhWTDg1RjFQT3U?oc=5",
@@ -153,14 +153,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Is Up 221% in 2026 and Seagate Is Up 155%: Take Profits, or Hold On for the Ride?",
+   "summary": "2026년 Micron은 221% 상승하고 Seagate는 155% 상승: 이익을 얻을 것인가, 아니면 계속해서 나아갈 것인가?",
    "title": "Micron Is Up 221% in 2026 and Seagate Is Up 155%: Take Profits, or Hold On for the Ride?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJbEtncUUybHhIV0FmYjQtV0JzaEwyOXhxV1N6eVhma0FtakplY19KdkFQZkNaWUwycXVJZmg2TXdaNkFET1hVcklRcDBUYWt4STNFcHJHN0wtUU41aGdBU05YVm5pNk9LRXdjb3c4amN1N012c01kaW56MTVOdVBFQkl0d0o4MEJaVndKdk1SQjYxVFp3?oc=5",
@@ -174,33 +174,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -0.98,
-     "asOf": "2026-10-20"
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet",
-   "title": "Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVkzTm9raWlWZUF5ZDNnbHViRkl2WUhobkZKbUJDYlppTVNhZWx3Rk9SNVhibHhXQ3EydDJTU2VMNXJYbnBMSFNTcFBNT1AtYW44bW5GaGRVRWF4Rjl3eWlhOWR0cUI0TDNpT3hsUGdXUDZxUXFSN0lxT0FyXzhqRDE4ckI2NHdpNml6ejA5a1hsZw?oc=5",
-   "published": "2026-10-22T03:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
+   "summary": "CoreWeave 주식을 매도할 시간인가요? Nvidia CEO Jensen Huang은 그렇게 생각하지 않습니다.",
    "title": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUtzb3dyanFKWVp6WFdCYm1Od0RtQXM4b0wtM3BuazVPLTAxUUVLYlFkWTRwaGZqT1ZPZFAyMDJOWGcweTk2amxWTjR6SGVsaTk1LWxTSTVDNXNhYndjOWtjNFoxbHk5TmZaMVVfdzVBdUpkRlc3dkJ6cndZUUd2OXhwLU8xdGlGY0I5aG9hMTdjYnJCdGxaODNoYW1kdw?oc=5",
@@ -212,8 +193,29 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -0.29,
-     "asOf": "2026-10-20"
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK하이닉스(SKHY) 영업이익률 76%, 유지될까?",
+   "title": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzNiYnFKSEtLTW1sZzF5bDRia3dQSmYxZGZETlNuOTlxSjVfWmZSRTlxZnNiVDJ0Wk1GZ3ZDT2VwZmtFWWJLVkNMWjJMQzJhOEZoQVZxRjh0dk0zQzFxclJUTE00enJlMF9rRl9UemdZejhpekRuTVBNcG94bDd5eVJ5cEVvZVlEYV9KTngxelI?oc=5",
+   "published": "2026-10-22T02:28+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 5.81,
+     "asOf": "2026-10-21"
     }
    ]
   }
