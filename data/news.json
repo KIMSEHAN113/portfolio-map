@@ -1,55 +1,13 @@
 {
- "updatedAt": "2026-10-23T04:05:50+09:00",
+ "updatedAt": "2026-10-23T07:43:19+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Meta의 새로운 비의결권 주식은 돌출부를 생성하며 월스트리트는 이를 없애기를 원합니다.",
-   "title": "Meta's new nonvoting shares create an overhang — and Wall Street wants it gone",
+   "summary": "전망이 유망한 월스트리트의 인기 주식 중 1개와 위험하다고 판단되는 2개",
+   "title": "1 of Wall Street’s Favorite Stocks with Promising Prospects and 2 We Find Risky",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNpWjBTNHNYeEllV1pjUDVEV0otck9RUUxSWjJrUHBhTXJCR3pCa21PY1ZxdmtUSTlaejJ6YVVmWnhIZkZyQlJrZ2tOTFpfalRQQ2pDYVI2QldWMm9wVUxMS250M08xZHprS0twNDQtS2lTWGhQRG5RX3RUUEs4N1RHdlJmRTJjUUFHa1pqRlRFVVNNSjcxSng5NklSeTNFdXhoc20ycjltYmdfcXZPUGpBVzFoNWE5eGsyOUJNTVI1dEZCSmNEZlNVUXBzeF9pZmNKdHBEVQ?oc=5",
-   "published": "2026-10-23T03:59+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI 비용 우려로 나스닥이 2% 이상 하락하면서 월스트리트는 하락",
-   "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-   "published": "2026-10-23T03:35+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.05,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "트럼프의 이란 대결, 유가 급등으로 월스트리트를 뒤흔들다",
-   "title": "Trump's Iran showdown rattles Wall Street as oil prices spike",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNGNfZjFiTVpoVE9oS1kzSi1VbXlwNG9KbWwzSEVHa2tBLVU3dV96WWZISEtZc2RzRXg0N28zU1lBcTA5Q3lzR0lPRUdfSVdXN19fUkJjT2JIeWs?oc=5",
-   "published": "2026-10-23T03:04+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm9FTjlPdGp0YWs0YVhxSUtHMUZVc2tJYk1vV1NLWHl3OUFDWHpuX1UySlJZa0NsSnBodGFsR2hWTmRkY3VRQVZUSWRuRkt2QlBlOE04NEhPV2t6YkZGVWRLSVRjZy0tSnoyVkJQc1IxeDFhSjRaclIyM2NQdnR5WElvaHhKcUlIS3gwVzU1SEVURnJ5b05UY29B?oc=5",
+   "published": "2026-10-23T06:49+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +17,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
+     "chgPct": -1.21,
+     "asOf": "2026-10-22"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "트럼프의 이란 대결, 유가 급등으로 월스트리트를 뒤흔들다",
-   "title": "Trump's Iran showdown rattles Wall Street as oil prices spike",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNGNfZjFiTVpoVE9oS1kzSi1VbXlwNG9KbWwzSEVHa2tBLVU3dV96WWZISEtZc2RzRXg0N28zU1lBcTA5Q3lzR0lPRUdfSVdXN19fUkJjT2JIeWs?oc=5",
-   "published": "2026-10-23T03:04+09:00",
+   "summary": "오늘, 10월 22일 주식 시장: SpaceX 수익이 이익 실현을 앞질렀습니다.",
+   "title": "Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3MweU9KOXg5aU9JYUJ0RDVDeWpfcFNaN0dnZ0RQSkZOd3NvOHRpd0lWaVFKaDJwcjBxTXAzR3B2WUJ2UU80emRsaDlCWFd6X09jS3JLY0gzYzlxSUwyUEdmLUEweHpYUGU2dkZrX19FUWt2ekhtMVdzNGVJU09kamp3bUdxVWYycGJIQW5TVVdVTjQt?oc=5",
+   "published": "2026-10-23T06:25+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,18 +38,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.58,
-     "asOf": "2026-10-21"
+     "chgPct": -1.21,
+     "asOf": "2026-10-22"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Spago Nanomedical 이사회는 총회 승인에 따라 NASDAQ First North Growth Market 상장 폐지를 신청하기로 결정했습니다.",
-   "title": "The Board of Directors of Spago Nanomedical Has Resolved, Subject to the Approval of the General Meeting, to Apply for Delisting From the NASDAQ First North Growth Market",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlNJMzVNMlNITi1iY0t4ZHp2NWxBcXJwRGtXMjJaNmNnczJCN1N5cjRablpJV2tVRWNnRmwzWFRMYlBweWNpenVOTTBBSnlrcklYVUpaLWFNRVpOR1B5Z0U0WXQ3NWtOSHZSTzktcmxYVXBKUDBWVEhRUllPSjhJankxbHNLbEhJdEZfMzk5V0U0V2Y2NE1NbXZ6UWxfbGtoSDZzXzlB?oc=5",
-   "published": "2026-10-23T02:55+09:00",
+   "summary": "나스닥은 6월 5일 이후 최악의 날을 보냈다",
+   "title": "Nasdaq has worst day since June 5",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzdkQwVnk4UjJ2VVNmNGZTdmVsbVFaWHFjV1I2ck5QZ0RiMldxajJZd1gzdE84YVYxT2N0dWNsSENQZXYyNGsxYUVPcDUwV3BiZ0k5V09vRWtQVnM?oc=5",
+   "published": "2026-10-23T06:19+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -101,8 +59,107 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": 1.05,
-     "asOf": "2026-10-21"
+     "chgPct": -2.6,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 10월 22일 주식 시장: 흑색종 백신 데이터 유출 보고서로 인해 Moderna 주가가 18% 급락했습니다.",
+   "title": "Stock Market Today, Oct. 22: Moderna Stock Plummets 18% on Melanoma Vaccine Data Leak Reports",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXRyQmhxLWF6NDZJOHYxNlF1RThSZlNwZWhpcDhUN3dIZ1N5d1RkWjRYM1U0OWRYRVpIMVh6U3AzQU5OUVlLWkpVc3ItRGpGRnlBZERaQ3E5V0txMWR4V1J0OUdKYzlMRHVRTmlpS2lpRkxDLUlNSDB3UFQycG0yNlhveDM0NzliR09fdk5BNm1CRTJo?oc=5",
+   "published": "2026-10-23T06:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.21,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "업데이트: 나스닥, AI 지출 우려 재부상으로 6월 이후 최악의 날 기록",
+   "title": "Update: Nasdaq Marks Worst Day Since June as AI Spending Worries Resurface",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHg2WE9GR3QyaGFoczlnbVEycTlHem1ZczBTdFQxRElOc1F4M2l3T3ZSaGVmVDJrYVdvLWZhamhNbnd1VnJacVZFcmxUSGlqWGlBaDVEcDlGRlNrN0lDTHJwVEVmQXNVNERrQXVOREhSYzBudXJHUjg1a0hhQTdmZ2RVSnJIWXZrcC0zaDRyeHRlcTBqSnY2eQ?oc=5",
+   "published": "2026-10-23T05:45+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.6,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "칩 주식은 3조 달러의 대패 이후 베어 트랩을 깨뜨렸습니다. 강세장이 유지해야 할 수준은 다음과 같습니다.",
+   "title": "Chip stocks break a bear trap after a $3 trillion rout — here are the levels bulls need to hold",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdy0wY0VMdkFpaWc0Yk1sRFdWVUNRYWpJNGxSaXhyQmRlTk0zTmlfRXNNak01QUF4bE8tS0FnZ0h1TDRmU1hkeWlTTDN6T1J0cDhnWFJqTFE3S2J2cTdtNnh6WW4xVnNPUTNZMXNZOUFKZkczNlFtcWNRajFOcGRtcGpXVDRUTWFQd2ljWk1EWFNFVHEwcHZmOHVvblBzQXItQW1fNFVweUFTdEFxeFhUV1V2Z3JiSU5fXzlHbmd4RExiVHB0d2JXUkdpTGNBdExHaGZndnBuWXFVVGJ0eTNxdVRlcHQ?oc=5",
+   "published": "2026-10-23T05:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -6.79,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 최고의 양자 컴퓨팅 주식입니까?",
+   "title": "Is Nvidia a Top Quantum Computing Stock?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWlMU2xIY282dXc0VE03UHZhLXZIZ2VSUlNlOGtrZEptc3o5VWVOR1FuaWdOVHJsLXNmX2J6ZlFpRWJ0clk5d21qZzV0Y085a1ZwWU1oWlg2UUF1WWVQTURKT2dzaWNaVmpaa0NyWWstaWtuZ0pJMFl5andJNWtjcGdjeUp5X1ZXMVUyc3pRYVZTQzZtTE04MUFyMVdXMHFs?oc=5",
+   "published": "2026-10-23T05:14+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.4,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "장비 제조사 Lam Research가 '공급망 제약'을 언급하면서 칩 재고 하락",
+   "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
+   "published": "2026-10-23T05:05+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -6.79,
+     "asOf": "2026-10-22"
     }
    ]
   },
@@ -120,87 +177,24 @@
     {
      "symbol": "TSM",
      "name": "TSMC",
-     "chgPct": 1.6,
-     "asOf": "2026-10-21"
+     "chgPct": -4.52,
+     "asOf": "2026-10-22"
     },
     {
      "symbol": "ASML",
      "name": "ASML",
-     "chgPct": 2.81,
-     "asOf": "2026-10-21"
+     "chgPct": -6.93,
+     "asOf": "2026-10-22"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "공급 경고가 AI 매도를 심화함에 따라 칩 재고 하락: Marvell과 AMD는 8% 하락, Intel은 7% 하락",
-   "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+   "summary": "Nvidia 수익은 다음 달에 나올 예정이며 결과에 관계없이 주가가 하락할 것으로 보입니다.",
+   "title": "Nvidia Earnings Are Coming Next Month and the Stock Looks Poised to Dip Regardless of the Outcome",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjE3M1E5SV9QdGI0djdaX000RGV5MTRzLWlJZ1BLeEZ4X2dwWXlwVWVmblhIVEhiMXU0U2JHOHMzV2pHM3JnZ0RfWDRsS2dzVHQ0SG5KczFUVFd4ZUZFQmRjZUpPRS01RWVRdnFwTGFYcG51NkVyN0JFTFZBaGhwLTVrTXVMUVd5SmxSajRacF9vMzhuZWRn?oc=5",
-   "published": "2026-10-23T00:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 3.36,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": 1.39,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AI 거래가 압박을 받으면서 메타 및 칩 주식이 하락합니다: AlphaCheck",
-   "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5",
-   "published": "2026-10-23T00:39+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "장비 제조사 Lam Research가 '공급망 제약'을 언급하면서 칩 재고 하락",
-   "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
-   "published": "2026-10-22T22:32+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.07,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "슈퍼 마이크로, 주가가 거의 10% 상승한 후 새로운 NVIDIA AI 랙 공개",
-   "title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw?oc=5",
-   "published": "2026-10-22T21:24+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3ZMLWo3N3dGUEZMWGFvU1U4X01QcEtiYUptQkZ2SFluei1ZbTlXYjZpaGpQT0J3THZldTZpbXRMc3c3cHF6RGtyWjNUOHV3XzU1VU9nczM4NzIwSTNraTlLSW9GdVNndWhhX0RqRDVlWkRHSzNnRWNSeFowWmJEN2pUdjA2NU9kczF1dEFDS0N5UU1xdGxuREJ4cGZEZEE?oc=5",
+   "published": "2026-10-23T02:37+09:00",
    "holdings": [
     "soxl"
    ],
@@ -208,8 +202,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
+     "chgPct": -4.4,
+     "asOf": "2026-10-22"
     }
    ]
   }
