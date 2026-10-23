@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-23T22:10:33+09:00",
+ "updatedAt": "2026-10-24T07:42:51+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "헬스케어의 22% 성장 예측은 S&P 500을 능가합니다.",
-   "title": "Healthcare’s 22% Growth Forecast Beats The S&P 500",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFIzRHRoOHNWRDFJcXhkTUhKZl9KQXA3M2F4dDZuRjMwWDhya1ZxWUNIdGVWM1lJOXhCSk12Nms3Z3NGTm9TaTI1VVIwNVR5TzVybW93cFpNd2l0eEJEVUUycEVJZDUxQ0pxeU1IY2FpSWota25yNEduQ2hqRi1yRVhsUTVwRFRsTlE?oc=5",
-   "published": "2026-10-23T21:31+09:00",
+   "summary": "AI 픽시더스트가 주식시장의 지배력을 잃고 있다",
+   "title": "AI pixie dust is losing its stock market power",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
+   "published": "2026-10-24T06:37+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,18 +17,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.21,
-     "asOf": "2026-10-22"
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "대부분의 S&P 500 주식은 이미 조정 영역에 있습니다.",
-   "title": "Most S&P 500 Stocks Are Already In Correction Territory",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xd216SUJfTzFkSVo4VUR1LTY3Q2dtWjNmdnBmYWp3WlpnaUZsMTNIY21lelRoZUlzdkJDa3lMekVVdWJNcXBqU2lBYUNvOTZNY2ZjQ1dNN2ZTWDJsbmVyUFU0QmgySFBzei01VFZmTmNobktaWldIY2Q5eWg?oc=5",
-   "published": "2026-10-23T21:27+09:00",
+   "summary": "월스트리트는 Anthropic의 IPO와 더 많은 AI 뉴스를 기다리고 있습니다",
+   "title": "Wall Street is awaiting Anthropic's IPO — and more AI news",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnFZUU4yUVFhNVRTTDZZZFFaOWl4Ny14VFB1eU9DT0F5RGNiQ0x5azloUkw5ZjF4ZTV3NFNKMzhaRGVCUFB3TWJhZGNzcDk4Z0loTWkzOU9kNS1CVkd4OFlFY0NpcXBRYWdEQm1hYVZFZTlvaUQyN29uQmw2YlljTmJIM19iNXhYckMtY2JzUXVSVFRhd2V4ZlJCaE1HTXc?oc=5",
+   "published": "2026-10-24T06:18+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,18 +38,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.21,
-     "asOf": "2026-10-22"
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘 미국 주식 시장: S&P 500 선물은 견고한 일자리와 PMI 초점을 유지하고 있습니다.",
-   "title": "US Stock Market Today: S&P 500 Futures Steady On Strong Jobs And PMI Focus",
+   "summary": "업데이트: 유가 급등으로 월스트리트는 고르지 못한 주를 낮췄습니다.",
+   "title": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDBOQ1dkbktOWXVmaFVma2Q0VHY3NmswODNqTUtCYVUycjdTR2pxVnNKRVFfRTE4LVBtakJtNVRZUVMtUjU1WWlCTmg4dFdrQmpqWWJKQ3NOcjBuclhNZVJaX1ppYkk0RFVvdDFjTi02V3Q3MzdHZVE2YzdWZG1xeXhxdC1SSGtuTkpYdmNrcmI3dw?oc=5",
-   "published": "2026-10-23T21:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkJFVUFaN2swVHF2WWlFdVAzZHpXNW1RbmdjVHJpOEYyaWh5aUdpSzZSVjNzV2VVRHJkcXhsZnQwYzE3R1dPSV84Q3R5RnZkMjZ3R25EYWVjMzR3MDRQSHI4WmlkTVBoSUxoNnpCek9WTGMxQlBmaUlvaGRNTnhOU1ZxRWtrODd0UmFpX0Q3RQ?oc=5",
+   "published": "2026-10-24T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +59,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.21,
-     "asOf": "2026-10-22"
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘 캐나다 주식 시장: TSX 선물, 생산자 인플레이션 및 소매 테스트 완화",
-   "title": "Canadian Stock Market Today: TSX Futures Ease On Hotter Producer Inflation And Retail Test",
+   "summary": "S&P 500은 AI 지출 우려로 인해 주간 소폭 하락세를 기록했습니다.",
+   "title": "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlpnTnhTMkRBT2tWYmxmVmVkM1dHcHVkN2NRZTdzdlJ0cmx4SjZ2VEVfbHVCOHY3aXJMRkNkNko5SHkxWkVieFFYRmNFRndHTjExdGJoQXRHMFdZLTVpWk5yRFd6cFNqeHpLRjZNaE5pVS1GQ1ZQbndxZkN1RlJCOV9oWUtTUnhYbVRFZm9PTHNZUGIxWnAwLTdqY0Y?oc=5",
-   "published": "2026-10-23T21:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxLTVBZeDUzTmZsY1dMblFIdTBrNS1XVWpQX1NFTmdwa0dEazJVU2NmQjhIbkloaXBSNFhqejdCYVI3TlVhOHpMdXNBdkFKM2VXQm5vd0JjYW1KVHJEU0lsWGtSSGVxaFhKampEZDdhSFIyMVZVR3Ffd1Z0dDh6Yzd5bWxjd3hNN25UdHRyaGVwOGxz?oc=5",
+   "published": "2026-10-24T05:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,18 +80,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.21,
-     "asOf": "2026-10-22"
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "금요일 최고의 월스트리트 분석가 연구 전화는 다음과 같습니다: Deckers Outdoor, Globe Life, Guardant Health, Hess Midstream LP, Kimberly-Clark, Natera, NVR, SpaceX, Thermo Fisher Scientific 등",
-   "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Deckers Outdoor, Globe Life, Guardant Health, Hess Midstream LP, Kimberly-Clark, Natera, NVR, SpaceX, Thermo Fisher Scientific, and More",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGt0bmNBTjljNTE4dEYxRGdYOHc1U0Q4Tk44YUcxSXhmQ0VqVWdORkJKdmRwc2E2YWFHUkE2dmpjb1dyMjFoNy1ZWTlkODlyV0FjUC0wRXdfOEp4Ri1TQWhfN0Q1b1U5TWJSVlhjYmg4YmQ1RVZFN1FJM2VDYkRQQy1LTUNEcUdiSG4wWXZ3QV85REprSzFPT2JBVQ?oc=5",
-   "published": "2026-10-23T20:51+09:00",
+   "summary": "월스트리트, 은행 계좌에 접근하는 악성 AI 에이전트에 경보 발령",
+   "title": "Wall Street raises alarms over rogue AI agents accessing bank accounts",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYmhtak9wSDd6MGtKS1dpcVdlODVHa2RnOHZKUVRYWUNDMDVPeHZwQ20tckE3czgxWEEzNGVGZl9vQ0RCaXZSa3FlQlJkdXFsa1pkVXdpMl9wdmM?oc=5",
+   "published": "2026-10-24T05:32+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -101,106 +101,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.21,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron에 10,000달러를 투자하면 평생을 살 수 있을까요?",
-   "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0VGLVprb1ZMR0NrQk9GaE53UHFCYVJkSkR1M2ttWkZHQy1QbEFFdVBENnpMQktON3RSOGpySHA2bnpJTTdVMlExQ2dha256RW9vRy1YYjJKbWMxVWtjMTJBVmdEYVFkWHNpSHY0NW5adVc4Vy1zaGZhOHdja0dJSDFCYWxQY1hudFRKUHRCR01XRktoN09tTDR3MA?oc=5",
-   "published": "2026-10-23T21:33+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -6.26,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "주식 분할 시계: Micron이 다음 차례인가요?",
-   "title": "Stock Split Watch: Is Micron Next?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEJqTE9aVU8yN2w5QTJOUWtqc1JPQ184V2VVTUQtenJ0MlJaOGN3S2lYUTNHaEk1VGhmUGFOVHhrTkpFb0lwd1JnUkZZMFFfN2pVdHNaem1zcnNNblVlaHRkOVI3dGZFVUlwaUJFYzRISWtnZUJLcjNxbGE2T1RkVTB1WHM5b0l5Sk91eTFoU3BhYjYxR3lfcXZ3?oc=5",
-   "published": "2026-10-23T21:22+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -6.26,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "iShares PHLX SOX Semiconductor(SOXX)가 매입한 것: 수요일에 AMD가 선두를 차지했습니다.",
-   "title": "What iShares PHLX SOX Semiconductor (SOXX) Bought: AMD Leads on Wednesday",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVNEWmR6dFppa25MZkRXT2dJR1Vac3RGTlFmaEpRMjdnYU9ETkVNNWdSXzlXeHlHTVZBamo5bDhOTjZ6M05EOWFMRUxIWDRwcEFlelRGRUtCMDA1cDNoa05HZ0htMG5BM0N6S1RKMTVUOHpndUxtTWVmWTlhcDhyc3FFdmd1SEpubUpBcFhzck54dWtZNGNpV3E5OFNRRG1RTlE?oc=5",
-   "published": "2026-10-23T20:03+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -8.1,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "더 나은 메모리 주식: SK 하이닉스 vs. 마이크론",
-   "title": "Better Memory Stock: SK Hynix vs. Micron",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkRJSXlCM0lMRlJqZlRrMEFESi1WTWN5dVlxYzVGLUxzMXNHdXZISWhPUlRGcWVTbkx0d0tRcXBZVnZVanJqa1ZjVXZHdE5fNFlnSklnNExlREQxeGNab3IxX3MzZ3k5NkIxYmdGQWQxR1pkd0hDbWNlVV8yYTlhWHcxY2NtY3dYak1tdENVdHJJZnE0Vmozdg?oc=5",
-   "published": "2026-10-23T18:35+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -6.26,
-     "asOf": "2026-10-22"
-    },
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 4.42,
+     "chgPct": -0.52,
      "asOf": "2026-10-23"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "더 나은 메모리 재고: Micron 대 Sandisk",
-   "title": "Better Memory Stock: Micron vs. Sandisk",
+   "summary": "Micron Technology(MU)가 위험을 감수하고 공급 움직임이 투자자에게 의미할 수 있는 것은 무엇입니까?",
+   "title": "What Could Micron Technology (MU) Strike Risk And Supply Moves Mean For Investors?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjgxYWpWQUVNSTJOb1dRdEpxemFxXzVrcXozZXVjWFRDZWZvSC1KeWdpX2xJVFFfZURseXpBR1M2aUsyLThuVmw2R0pFVGlwaG5QeFNEVmg3ZlI2NXR6VV9Denl5N1BTYVZLRTdON2d5RlFFUzlGY1FQb3RldTNFbk92TXA2aXQ4WkdFTEc0S1RSMVlLM3ZLNURR?oc=5",
-   "published": "2026-10-23T18:04+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1NSLUxySzlsNnBqd2dQNjhQeHliel8wRHFXNmR2WFpIbFhRbnVobnFaQXBtOXAwTGh1R2hLajFKcHVJcXU2cEx5d19UWXhFNDQ1aVlHYWxBT25DSGVrSzQ1UTN5R2pIVXFOZlBsSnJzSHZqTnhqUXVDUUZucWpoUnJSWXBvWjhOcXBxcEVQbWRuX2JGMHZyV2ZUS216dGM?oc=5",
+   "published": "2026-10-24T06:14+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -210,14 +122,94 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -6.26,
-     "asOf": "2026-10-22"
+     "chgPct": 2.46,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK 하이닉스(NasdaqGS:SKHY) 주가는 33% 매도 이후 여전히 합리적으로 보입니다.",
+   "title": "SK Hynix (NasdaqGS:SKHY) Stock Still Looks Reasonable Following Its 33% Selloff",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjdMU05ETjUzQTFBdEdFX2VxazYwai1SUmlmdWdqSnNGOHltT1BVbWhWcUVhbl96M1lRNzBTY3lfSmNPVnJrOGMyUnBGQU04RUpqcUJaRHhrLVZILU84Y1NURzYtT0Q4bHhhcWNNZ25DSHh3S3BwcmlLLVZXcTBvU0h0SEFsWW92M1FlTEZFNFFzVXphRmlKZQ?oc=5",
+   "published": "2026-10-24T04:07+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 4.42,
+     "asOf": "2026-10-23"
     },
     {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -8.51,
-     "asOf": "2026-10-22"
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.21,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "항만 연구에서 Nvidia 주식에 대한 Stark Nvidia 경고 발행",
+   "title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjNyZ28tWDR1VGFiZzFTcXJYNHhja20zdTVsLTZYVzRQb1B5OFdtVXZwM1RueGN6dDBnYzBtYzExd1pfTzlXR0hQQW1QQkFTWmwtT3JabVlCbnozMXpvY0NUWlYtR3YtbDdfVHhSNVlLRk04THAxOVFRcGhubWhDbUFwamhydEhPRm5lbjJfM1JLOWhOVldMUjVsMFc0SzV6b1FJ?oc=5",
+   "published": "2026-10-24T04:02+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론(MU)이 놀라운 성장 주식인 이유 3가지",
+   "title": "Micron (MU) is an Incredible Growth Stock: 3 Reasons Why",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVhXbU1jei01bzFkekM5SFZqOXNhVTJnczFONExnSmdyNExGUmFsejRFZ3FZNC1Nb0pkWkRxQkdJcjMySzIyMmoxaUxqek9PZm00VkladHhwOWFMN29ZaGR0Z2xhTWJuVnoyTk16V3BWb1NPMnpaR3lBNFZCeWVQdUwxTU05M0NHWDByTmNRSnFkUmN3SEI2bWpRS2padDg?oc=5",
+   "published": "2026-10-24T00:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.46,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "단기적 마찰 무시: Nvidia의 비교할 수 없는 규모와 CUDA 생태계 잠금으로 인해 모든 철수는 향후 몇 년간 구매 기회가 됩니다",
+   "title": "Ignore Near-Term Friction: Nvidia’s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTmx4QlAxZ2F1MjVYTWYwQkd4SGp1cnBuVmJ1NlZnLTF3Njk3TVN5T3RPRHhLOWViQTFDbXZnZGJOVm5qUzBNVkh0dGcxT3dWTWt6N0VGclJETGNObVlMNjgyT3JnWERhU3dmTDdBdkc1YjFFTkZ4SU1ya1hmUmtweDRSRFN2QU5VLTRpR2doZm1XalRudnJlbmk2X2lXdw?oc=5",
+   "published": "2026-10-23T23:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
     }
    ]
   }
