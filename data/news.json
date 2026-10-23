@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-23T07:43:19+09:00",
+ "updatedAt": "2026-10-23T09:00:29+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "3개의 Vanguard ETF는 최대 3.71%의 수익률을 내고 있으며, 그중 하나는 S&P 500을 능가합니다.",
+   "title": "3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnE1REdRYmxPanA5WDZmODF5cDRnT2RESjJQdkpwUFBTQ3JrSVExbDN2bDRRVDZKQWEwOUdoc3Q0dVh1TzVDMVZFX1A3NFk5WnFtM0UxUF9aRHZzSVJBdTFWVkhad0FIMkdEcEJZWkpqVjZPQjB1WnJDd3k2T3dDLUV5VXNzbjVBWGtoLTZjZw?oc=5",
+   "published": "2026-10-23T08:03+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.21,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "전망이 유망한 월스트리트의 인기 주식 중 1개와 위험하다고 판단되는 2개",
@@ -86,23 +107,44 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "업데이트: 나스닥, AI 지출 우려 재부상으로 6월 이후 최악의 날 기록",
-   "title": "Update: Nasdaq Marks Worst Day Since June as AI Spending Worries Resurface",
+   "category": "반도체 · 메모리",
+   "summary": "마이크론 주식이 목요일에 하락한 이유",
+   "title": "Why Micron Stock Dropped on Thursday",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHg2WE9GR3QyaGFoczlnbVEycTlHem1ZczBTdFQxRElOc1F4M2l3T3ZSaGVmVDJrYVdvLWZhamhNbnd1VnJacVZFcmxUSGlqWGlBaDVEcDlGRlNrN0lDTHJwVEVmQXNVNERrQXVOREhSYzBudXJHUjg1a0hhQTdmZ2RVSnJIWXZrcC0zaDRyeHRlcTBqSnY2eQ?oc=5",
-   "published": "2026-10-23T05:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUJTTHZMRXZtaXhGU3pzdjhvek43SkFTb3VGVjhfMVhpV3ZXdDdkZTZ0LUFnUWRXQXRlYTNEb1RNSlc2R2ozNmw5ZkZoWGt4bkNwSldmTlg5R0NHVl9faWlPTkFCYklrTDh4WHpPQnRJOHlCQkNXczN1R2Z2ejNLRmstTWVZbWlTbU10RHlwelcwZW9RNUxmUDZ3cFJCNEE?oc=5",
+   "published": "2026-10-23T07:49+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.6,
-     "asOf": "2026-10-22"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론(MU)은 더 넓은 시장보다 더 가파르게 하락합니다: 투자자가 알아야 할 사항",
+   "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWt0NnY3S2wzWWtveXR5MGVsOVRBTDUweVo5MGNSYVpTaXl0UWh6OWtLc2Z3dTdXWGJEOG5MT0pWRElkT1ZXb044eV9GQ3hwTGtQcXZKbG1SbUNHSkpVaXhtR1BXMFAwckRDa2xkR1h2NFZEalVfeXo1NjRxb2NOQmluaw?oc=5",
+   "published": "2026-10-23T05:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 1.96,
+     "asOf": "2026-10-21"
     }
    ]
   },
@@ -120,8 +162,8 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -6.79,
-     "asOf": "2026-10-22"
+     "chgPct": 2.07,
+     "asOf": "2026-10-21"
     }
    ]
   },
@@ -139,8 +181,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.4,
-     "asOf": "2026-10-22"
+     "chgPct": 2.54,
+     "asOf": "2026-10-21"
     }
    ]
   },
@@ -158,52 +200,8 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -6.79,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Taiwan Semiconductor와 ASML은 훌륭하지만 이러한 독점 칩 주식 중 하나가 훨씬 안전합니다.",
-   "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWxEN05udW5ZSU1udEloR0JrcHNjQlJ5bDBpT2gxd28teGhSV0dNWnpMSDUxSW4yTy1PdlRqZGRrYVR1N1dUbzBaOEZ1all3bjVPSVNHMWxsbXk3S3IwNmFnbG5QRkIzTExjcUxNYzIwUThKUUZ5V2Y1UTZsaUF0UTdURFpwejlPdG43TUhsQ2d3NHRoNHR1YlVQcUpvLVFSeDdhblZB?oc=5",
-   "published": "2026-10-23T03:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -4.52,
-     "asOf": "2026-10-22"
-    },
-    {
-     "symbol": "ASML",
-     "name": "ASML",
-     "chgPct": -6.93,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 수익은 다음 달에 나올 예정이며 결과에 관계없이 주가가 하락할 것으로 보입니다.",
-   "title": "Nvidia Earnings Are Coming Next Month and the Stock Looks Poised to Dip Regardless of the Outcome",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3ZMLWo3N3dGUEZMWGFvU1U4X01QcEtiYUptQkZ2SFluei1ZbTlXYjZpaGpQT0J3THZldTZpbXRMc3c3cHF6RGtyWjNUOHV3XzU1VU9nczM4NzIwSTNraTlLSW9GdVNndWhhX0RqRDVlWkRHSzNnRWNSeFowWmJEN2pUdjA2NU9kczF1dEFDS0N5UU1xdGxuREJ4cGZEZEE?oc=5",
-   "published": "2026-10-23T02:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.4,
-     "asOf": "2026-10-22"
+     "chgPct": 2.07,
+     "asOf": "2026-10-21"
     }
    ]
   }
