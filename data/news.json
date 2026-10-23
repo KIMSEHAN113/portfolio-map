@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-10-23T09:00:29+09:00",
+ "updatedAt": "2026-10-23T09:32:16+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "나스닥 100시계는 투자자들이 Capex, 부채 증가에 지쳐 4개월 만에 최악의 날 — META, SPCX, BE, MRNA 초점",
+   "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlfQ1ItMS1TRWVZMW9QcFdpNkZrOUVUMHM5c25wck4tU09jYWZyNXc5YTdYQmJ0dDdRbHVFajRhZ0VicWEzV21ycDhLTXZtRXNNeDQwQmpCZXhDa3hUV1NzVjNBMFFCRWdmaWdYQ3dDY0s0TjZNcVcyUVgya3BFMENRWnNkZF9BNjl2MVpJejJQdlphMS1V?oc=5",
+   "published": "2026-10-23T08:44+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 0.47,
+     "asOf": "2026-10-21"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.6,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "3개의 Vanguard ETF는 최대 3.71%의 수익률을 내고 있으며, 그중 하나는 S&P 500을 능가합니다.",
@@ -66,11 +93,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥은 6월 5일 이후 최악의 날을 보냈다",
-   "title": "Nasdaq has worst day since June 5",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzdkQwVnk4UjJ2VVNmNGZTdmVsbVFaWHFjV1I2ck5QZ0RiMldxajJZd1gzdE84YVYxT2N0dWNsSENQZXYyNGsxYUVPcDUwV3BiZ0k5V09vRWtQVnM?oc=5",
-   "published": "2026-10-23T06:19+09:00",
+   "summary": "S&P 500, 나스닥, AI 의심 부활로 기술 매도 촉발로 급락 마감",
+   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
+   "published": "2026-10-23T05:47+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -82,26 +109,32 @@
      "name": "나스닥",
      "chgPct": -2.6,
      "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘, 10월 22일 주식 시장: 흑색종 백신 데이터 유출 보고서로 인해 Moderna 주가가 18% 급락했습니다.",
-   "title": "Stock Market Today, Oct. 22: Moderna Stock Plummets 18% on Melanoma Vaccine Data Leak Reports",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXRyQmhxLWF6NDZJOHYxNlF1RThSZlNwZWhpcDhUN3dIZ1N5d1RkWjRYM1U0OWRYRVpIMVh6U3AzQU5OUVlLWkpVc3ItRGpGRnlBZERaQ3E5V0txMWR4V1J0OUdKYzlMRHVRTmlpS2lpRkxDLUlNSDB3UFQycG0yNlhveDM0NzliR09fdk5BNm1CRTJo?oc=5",
-   "published": "2026-10-23T06:05+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
+    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -1.21,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK하이닉스, 시장상황 이유로 솔리드다임 IPO 계획 취소",
+   "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1VISzgxWnF3eWRqY3FOY3BvMU9hTGlLWFhyckRLOUFqOG1NLThoakU4bVlOQ3lGcmxUcHpGNUJjQVM3bW84SHh1MlhBNS1pYTRXWUs2RmdEeDJRVVB5OEFLNXo0TjNTaEJaMFVKMXltUDQ2UkdnUmpsbnJrNk01S3Y3cw?oc=5",
+   "published": "2026-10-23T09:09+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -5.49,
      "asOf": "2026-10-22"
     }
    ]
@@ -182,25 +215,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": 2.54,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "장비 제조사 Lam Research가 '공급망 제약'을 언급하면서 칩 재고 하락",
-   "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
-   "published": "2026-10-23T05:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.07,
      "asOf": "2026-10-21"
     }
    ]
