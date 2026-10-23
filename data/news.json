@@ -1,13 +1,40 @@
 {
- "updatedAt": "2026-10-24T07:42:51+09:00",
+ "updatedAt": "2026-10-24T08:52:41+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "AI 픽시더스트가 주식시장의 지배력을 잃고 있다",
-   "title": "AI pixie dust is losing its stock market power",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
-   "published": "2026-10-24T06:37+09:00",
+   "summary": "다음 주 연준 회의를 앞두고 유가 상승으로 인플레이션 우려가 높아짐에 따라 S&P 500, 다우 하락 — AAPL, AXP, CART, UBER 집중",
+   "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkpId3lQbkNYNFNObEg4YnRsMTBvWDBTLVpwdUNnNFdqUzg2eVlnWGhuT05YemVpT1RzQlhueVJabHdtaV9ha0VQLWlkNGstWUg2Z1c2QWlLZzRJZVE0ZDJzLUlRTkpzYU5VWUdKRnlhNVU2ZWU0Y0ZjcExjSWwwcWR6VnhKQmQ3d3FoOHpIV1FTQQ?oc=5",
+   "published": "2026-10-24T07:35+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": -1.23,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Kinder Morgan(KMI) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Kinder Morgan (KMI) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS29aaVotTFd6U2R3R2tPLVk0NTRtclo4YkVSU3Q2QngydUhJUjdrQ3h4aUZ3VUp2b2pRRDAtSmZkeUI5ckcwU1RoNmxnRk91TnhJSEtUVVhScWVDSk1PQXBMQ0xSM2pBRkV1N2xvaV8tWVg0RlBITVpmSTktZklGWW9Za1J3bWZsWDZLNDFQUHhoLUhMTEJuVGRn?oc=5",
+   "published": "2026-10-24T07:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +51,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 Anthropic의 IPO와 더 많은 AI 뉴스를 기다리고 있습니다",
-   "title": "Wall Street is awaiting Anthropic's IPO — and more AI news",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnFZUU4yUVFhNVRTTDZZZFFaOWl4Ny14VFB1eU9DT0F5RGNiQ0x5azloUkw5ZjF4ZTV3NFNKMzhaRGVCUFB3TWJhZGNzcDk4Z0loTWkzOU9kNS1CVkd4OFlFY0NpcXBRYWdEQm1hYVZFZTlvaUQyN29uQmw2YlljTmJIM19iNXhYckMtY2JzUXVSVFRhd2V4ZlJCaE1HTXc?oc=5",
-   "published": "2026-10-24T06:18+09:00",
+   "summary": "AI 픽시더스트가 주식시장의 지배력을 잃고 있다",
+   "title": "AI pixie dust is losing its stock market power",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
+   "published": "2026-10-24T06:37+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,32 +93,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500은 AI 지출 우려로 인해 주간 소폭 하락세를 기록했습니다.",
+   "summary": "S&P 500은 AI 지출 우려로 주간 소폭 하락세 기록",
    "title": "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxLTVBZeDUzTmZsY1dMblFIdTBrNS1XVWpQX1NFTmdwa0dEazJVU2NmQjhIbkloaXBSNFhqejdCYVI3TlVhOHpMdXNBdkFKM2VXQm5vd0JjYW1KVHJEU0lsWGtSSGVxaFhKampEZDdhSFIyMVZVR3Ffd1Z0dDh6Yzd5bWxjd3hNN25UdHRyaGVwOGxz?oc=5",
    "published": "2026-10-24T05:50+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.52,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트, 은행 계좌에 접근하는 악성 AI 에이전트에 경보 발령",
-   "title": "Wall Street raises alarms over rogue AI agents accessing bank accounts",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYmhtak9wSDd6MGtKS1dpcVdlODVHa2RnOHZKUVRYWUNDMDVPeHZwQ20tckE3czgxWEEzNGVGZl9vQ0RCaXZSa3FlQlJkdXFsa1pkVXdpMl9wdmM?oc=5",
-   "published": "2026-10-24T05:32+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -175,6 +181,27 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "SK하이닉스 주가, 솔리드다임 IPO 계획 철회 후 반등",
+   "title": "SK Hynix Stock Rebounds After Scrapping Solidigm IPO Plans",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFphN0k1eEh2dWhkVG42NnVxY01CcVpMb2g5MXdlR3JyWk1sdDJZTnh4UWppMFFyRmszbU9OMVZ0T1N1QjZBT2Z3eEZFem1XaGczaVdDYmdnWTdmTjdRUk5qNElIdDJiMlFvbzR4UUd6NFJwMmtIRDRWV2VkRkJsbFVNcDhWaENRUjVMVkhXdW5kb3kzOHNsMFJVN2ZKNFU?oc=5",
+   "published": "2026-10-24T01:54+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 4.42,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "마이크론(MU)이 놀라운 성장 주식인 이유 3가지",
    "title": "Micron (MU) is an Incredible Growth Stock: 3 Reasons Why",
    "source": "Yahoo Finance",
@@ -190,25 +217,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": 2.46,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "단기적 마찰 무시: Nvidia의 비교할 수 없는 규모와 CUDA 생태계 잠금으로 인해 모든 철수는 향후 몇 년간 구매 기회가 됩니다",
-   "title": "Ignore Near-Term Friction: Nvidia’s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTmx4QlAxZ2F1MjVYTWYwQkd4SGp1cnBuVmJ1NlZnLTF3Njk3TVN5T3RPRHhLOWViQTFDbXZnZGJOVm5qUzBNVkh0dGcxT3dWTWt6N0VGclJETGNObVlMNjgyT3JnWERhU3dmTDdBdkc1YjFFTkZ4SU1ya1hmUmtweDRSRFN2QU5VLTRpR2doZm1XalRudnJlbmk2X2lXdw?oc=5",
-   "published": "2026-10-23T23:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
      "asOf": "2026-10-23"
     }
    ]
