@@ -1,40 +1,13 @@
 {
- "updatedAt": "2026-10-23T09:32:16+09:00",
+ "updatedAt": "2026-10-23T22:10:33+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "나스닥 100시계는 투자자들이 Capex, 부채 증가에 지쳐 4개월 만에 최악의 날 — META, SPCX, BE, MRNA 초점",
-   "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
+   "summary": "헬스케어의 22% 성장 예측은 S&P 500을 능가합니다.",
+   "title": "Healthcare’s 22% Growth Forecast Beats The S&P 500",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlfQ1ItMS1TRWVZMW9QcFdpNkZrOUVUMHM5c25wck4tU09jYWZyNXc5YTdYQmJ0dDdRbHVFajRhZ0VicWEzV21ycDhLTXZtRXNNeDQwQmpCZXhDa3hUV1NzVjNBMFFCRWdmaWdYQ3dDY0s0TjZNcVcyUVgya3BFMENRWnNkZF9BNjl2MVpJejJQdlphMS1V?oc=5",
-   "published": "2026-10-23T08:44+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 0.47,
-     "asOf": "2026-10-21"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.6,
-     "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "3개의 Vanguard ETF는 최대 3.71%의 수익률을 내고 있으며, 그중 하나는 S&P 500을 능가합니다.",
-   "title": "3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnE1REdRYmxPanA5WDZmODF5cDRnT2RESjJQdkpwUFBTQ3JrSVExbDN2bDRRVDZKQWEwOUdoc3Q0dVh1TzVDMVZFX1A3NFk5WnFtM0UxUF9aRHZzSVJBdTFWVkhad0FIMkdEcEJZWkpqVjZPQjB1WnJDd3k2T3dDLUV5VXNzbjVBWGtoLTZjZw?oc=5",
-   "published": "2026-10-23T08:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFIzRHRoOHNWRDFJcXhkTUhKZl9KQXA3M2F4dDZuRjMwWDhya1ZxWUNIdGVWM1lJOXhCSk12Nms3Z3NGTm9TaTI1VVIwNVR5TzVybW93cFpNd2l0eEJEVUUycEVJZDUxQ0pxeU1IY2FpSWota25yNEduQ2hqRi1yRVhsUTVwRFRsTlE?oc=5",
+   "published": "2026-10-23T21:31+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -51,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "전망이 유망한 월스트리트의 인기 주식 중 1개와 위험하다고 판단되는 2개",
-   "title": "1 of Wall Street’s Favorite Stocks with Promising Prospects and 2 We Find Risky",
+   "summary": "대부분의 S&P 500 주식은 이미 조정 영역에 있습니다.",
+   "title": "Most S&P 500 Stocks Are Already In Correction Territory",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm9FTjlPdGp0YWs0YVhxSUtHMUZVc2tJYk1vV1NLWHl3OUFDWHpuX1UySlJZa0NsSnBodGFsR2hWTmRkY3VRQVZUSWRuRkt2QlBlOE04NEhPV2t6YkZGVWRLSVRjZy0tSnoyVkJQc1IxeDFhSjRaclIyM2NQdnR5WElvaHhKcUlIS3gwVzU1SEVURnJ5b05UY29B?oc=5",
-   "published": "2026-10-23T06:49+09:00",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xd216SUJfTzFkSVo4VUR1LTY3Q2dtWjNmdnBmYWp3WlpnaUZsMTNIY21lelRoZUlzdkJDa3lMekVVdWJNcXBqU2lBYUNvOTZNY2ZjQ1dNN2ZTWDJsbmVyUFU0QmgySFBzei01VFZmTmNobktaWldIY2Q5eWg?oc=5",
+   "published": "2026-10-23T21:27+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 10월 22일 주식 시장: SpaceX 수익이 이익 실현을 앞질렀습니다.",
-   "title": "Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking",
+   "summary": "오늘 미국 주식 시장: S&P 500 선물은 견고한 일자리와 PMI 초점을 유지하고 있습니다.",
+   "title": "US Stock Market Today: S&P 500 Futures Steady On Strong Jobs And PMI Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3MweU9KOXg5aU9JYUJ0RDVDeWpfcFNaN0dnZ0RQSkZOd3NvOHRpd0lWaVFKaDJwcjBxTXAzR3B2WUJ2UU80emRsaDlCWFd6X09jS3JLY0gzYzlxSUwyUEdmLUEweHpYUGU2dkZrX19FUWt2ekhtMVdzNGVJU09kamp3bUdxVWYycGJIQW5TVVdVTjQt?oc=5",
-   "published": "2026-10-23T06:25+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDBOQ1dkbktOWXVmaFVma2Q0VHY3NmswODNqTUtCYVUycjdTR2pxVnNKRVFfRTE4LVBtakJtNVRZUVMtUjU1WWlCTmg4dFdrQmpqWWJKQ3NOcjBuclhNZVJaX1ppYkk0RFVvdDFjTi02V3Q3MzdHZVE2YzdWZG1xeXhxdC1SSGtuTkpYdmNrcmI3dw?oc=5",
+   "published": "2026-10-23T21:12+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,23 +66,38 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, 나스닥, AI 의심 부활로 기술 매도 촉발로 급락 마감",
-   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+   "summary": "오늘 캐나다 주식 시장: TSX 선물, 생산자 인플레이션 및 소매 테스트 완화",
+   "title": "Canadian Stock Market Today: TSX Futures Ease On Hotter Producer Inflation And Retail Test",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-   "published": "2026-10-23T05:47+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlpnTnhTMkRBT2tWYmxmVmVkM1dHcHVkN2NRZTdzdlJ0cmx4SjZ2VEVfbHVCOHY3aXJMRkNkNko5SHkxWkVieFFYRmNFRndHTjExdGJoQXRHMFdZLTVpWk5yRFd6cFNqeHpLRjZNaE5pVS1GQ1ZQbndxZkN1RlJCOV9oWUtTUnhYbVRFZm9PTHNZUGIxWnAwLTdqY0Y?oc=5",
+   "published": "2026-10-23T21:08+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.6,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.21,
      "asOf": "2026-10-22"
-    },
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "금요일 최고의 월스트리트 분석가 연구 전화는 다음과 같습니다: Deckers Outdoor, Globe Life, Guardant Health, Hess Midstream LP, Kimberly-Clark, Natera, NVR, SpaceX, Thermo Fisher Scientific 등",
+   "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Deckers Outdoor, Globe Life, Guardant Health, Hess Midstream LP, Kimberly-Clark, Natera, NVR, SpaceX, Thermo Fisher Scientific, and More",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGt0bmNBTjljNTE4dEYxRGdYOHc1U0Q4Tk44YUcxSXhmQ0VqVWdORkJKdmRwc2E2YWFHUkE2dmpjb1dyMjFoNy1ZWTlkODlyV0FjUC0wRXdfOEp4Ri1TQWhfN0Q1b1U5TWJSVlhjYmg4YmQ1RVZFN1FJM2VDYkRQQy1LTUNEcUdiSG4wWXZ3QV85REprSzFPT2JBVQ?oc=5",
+   "published": "2026-10-23T20:51+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -120,102 +108,116 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스, 시장상황 이유로 솔리드다임 IPO 계획 취소",
-   "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1VISzgxWnF3eWRqY3FOY3BvMU9hTGlLWFhyckRLOUFqOG1NLThoakU4bVlOQ3lGcmxUcHpGNUJjQVM3bW84SHh1MlhBNS1pYTRXWUs2RmdEeDJRVVB5OEFLNXo0TjNTaEJaMFVKMXltUDQ2UkdnUmpsbnJrNk01S3Y3cw?oc=5",
-   "published": "2026-10-23T09:09+09:00",
+   "summary": "Micron에 10,000달러를 투자하면 평생을 살 수 있을까요?",
+   "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0VGLVprb1ZMR0NrQk9GaE53UHFCYVJkSkR1M2ttWkZHQy1QbEFFdVBENnpMQktON3RSOGpySHA2bnpJTTdVMlExQ2dha256RW9vRy1YYjJKbWMxVWtjMTJBVmdEYVFkWHNpSHY0NW5adVc4Vy1zaGZhOHdja0dJSDFCYWxQY1hudFRKUHRCR01XRktoN09tTDR3MA?oc=5",
+   "published": "2026-10-23T21:33+09:00",
    "holdings": [
     "dram",
     "ram",
     "samsung"
    ],
    "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -6.26,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "주식 분할 시계: Micron이 다음 차례인가요?",
+   "title": "Stock Split Watch: Is Micron Next?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEJqTE9aVU8yN2w5QTJOUWtqc1JPQ184V2VVTUQtenJ0MlJaOGN3S2lYUTNHaEk1VGhmUGFOVHhrTkpFb0lwd1JnUkZZMFFfN2pVdHNaem1zcnNNblVlaHRkOVI3dGZFVUlwaUJFYzRISWtnZUJLcjNxbGE2T1RkVTB1WHM5b0l5Sk91eTFoU3BhYjYxR3lfcXZ3?oc=5",
+   "published": "2026-10-23T21:22+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -6.26,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "iShares PHLX SOX Semiconductor(SOXX)가 매입한 것: 수요일에 AMD가 선두를 차지했습니다.",
+   "title": "What iShares PHLX SOX Semiconductor (SOXX) Bought: AMD Leads on Wednesday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVNEWmR6dFppa25MZkRXT2dJR1Vac3RGTlFmaEpRMjdnYU9ETkVNNWdSXzlXeHlHTVZBamo5bDhOTjZ6M05EOWFMRUxIWDRwcEFlelRGRUtCMDA1cDNoa05HZ0htMG5BM0N6S1RKMTVUOHpndUxtTWVmWTlhcDhyc3FFdmd1SEpubUpBcFhzck54dWtZNGNpV3E5OFNRRG1RTlE?oc=5",
+   "published": "2026-10-23T20:03+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -8.1,
+     "asOf": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "더 나은 메모리 주식: SK 하이닉스 vs. 마이크론",
+   "title": "Better Memory Stock: SK Hynix vs. Micron",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkRJSXlCM0lMRlJqZlRrMEFESi1WTWN5dVlxYzVGLUxzMXNHdXZISWhPUlRGcWVTbkx0d0tRcXBZVnZVanJqa1ZjVXZHdE5fNFlnSklnNExlREQxeGNab3IxX3MzZ3k5NkIxYmdGQWQxR1pkd0hDbWNlVV8yYTlhWHcxY2NtY3dYak1tdENVdHJJZnE0Vmozdg?oc=5",
+   "published": "2026-10-23T18:35+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -6.26,
+     "asOf": "2026-10-22"
+    },
     {
      "symbol": "000660.KS",
      "name": "SK하이닉스",
-     "chgPct": -5.49,
+     "chgPct": 4.42,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "더 나은 메모리 재고: Micron 대 Sandisk",
+   "title": "Better Memory Stock: Micron vs. Sandisk",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjgxYWpWQUVNSTJOb1dRdEpxemFxXzVrcXozZXVjWFRDZWZvSC1KeWdpX2xJVFFfZURseXpBR1M2aUsyLThuVmw2R0pFVGlwaG5QeFNEVmg3ZlI2NXR6VV9Denl5N1BTYVZLRTdON2d5RlFFUzlGY1FQb3RldTNFbk92TXA2aXQ4WkdFTEc0S1RSMVlLM3ZLNURR?oc=5",
+   "published": "2026-10-23T18:04+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -6.26,
      "asOf": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론 주식이 목요일에 하락한 이유",
-   "title": "Why Micron Stock Dropped on Thursday",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUJTTHZMRXZtaXhGU3pzdjhvek43SkFTb3VGVjhfMVhpV3ZXdDdkZTZ0LUFnUWRXQXRlYTNEb1RNSlc2R2ozNmw5ZkZoWGt4bkNwSldmTlg5R0NHVl9faWlPTkFCYklrTDh4WHpPQnRJOHlCQkNXczN1R2Z2ejNLRmstTWVZbWlTbU10RHlwelcwZW9RNUxmUDZ3cFJCNEE?oc=5",
-   "published": "2026-10-23T07:49+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론(MU)은 더 넓은 시장보다 더 가파르게 하락합니다: 투자자가 알아야 할 사항",
-   "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWt0NnY3S2wzWWtveXR5MGVsOVRBTDUweVo5MGNSYVpTaXl0UWh6OWtLc2Z3dTdXWGJEOG5MT0pWRElkT1ZXb044eV9GQ3hwTGtQcXZKbG1SbUNHSkpVaXhtR1BXMFAwckRDa2xkR1h2NFZEalVfeXo1NjRxb2NOQmluaw?oc=5",
-   "published": "2026-10-23T05:45+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 1.96,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "칩 주식은 3조 달러의 대패 이후 베어 트랩을 깨뜨렸습니다. 강세장이 유지해야 할 수준은 다음과 같습니다.",
-   "title": "Chip stocks break a bear trap after a $3 trillion rout — here are the levels bulls need to hold",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdy0wY0VMdkFpaWc0Yk1sRFdWVUNRYWpJNGxSaXhyQmRlTk0zTmlfRXNNak01QUF4bE8tS0FnZ0h1TDRmU1hkeWlTTDN6T1J0cDhnWFJqTFE3S2J2cTdtNnh6WW4xVnNPUTNZMXNZOUFKZkczNlFtcWNRajFOcGRtcGpXVDRUTWFQd2ljWk1EWFNFVHEwcHZmOHVvblBzQXItQW1fNFVweUFTdEFxeFhUV1V2Z3JiSU5fXzlHbmd4RExiVHB0d2JXUkdpTGNBdExHaGZndnBuWXFVVGJ0eTNxdVRlcHQ?oc=5",
-   "published": "2026-10-23T05:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.07,
-     "asOf": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia는 최고의 양자 컴퓨팅 주식입니까?",
-   "title": "Is Nvidia a Top Quantum Computing Stock?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWlMU2xIY282dXc0VE03UHZhLXZIZ2VSUlNlOGtrZEptc3o5VWVOR1FuaWdOVHJsLXNmX2J6ZlFpRWJ0clk5d21qZzV0Y085a1ZwWU1oWlg2UUF1WWVQTURKT2dzaWNaVmpaa0NyWWstaWtuZ0pJMFl5andJNWtjcGdjeUp5X1ZXMVUyc3pRYVZTQzZtTE04MUFyMVdXMHFs?oc=5",
-   "published": "2026-10-23T05:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.54,
-     "asOf": "2026-10-21"
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -8.51,
+     "asOf": "2026-10-22"
     }
    ]
   }
