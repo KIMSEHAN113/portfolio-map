@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-25T07:42:37+09:00",
+ "updatedAt": "2026-10-25T08:19:37+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Vanguard S&P 500 ETF를 구매하기 전에 투자자가 알아야 할 은밀한 위험 1가지가 있습니다.",
+   "summary": "Vanguard S&P 500 ETF를 구매하기 전에 투자자가 알아야 할 1가지 비열한 위험이 있습니다.",
    "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOellkTWRVUld5cVJrVnZTOTFMNTE1ZmFweENDbHhEeXJrYXVTZWVyWDNDZ3VfRG82YXNGa2haMGJVQzltV3BMSllmdm1YODg5eEdpZE5YLXRYeFFoU0lVQnhRdXg5NGktSlRJV0RuVERTY3VwNDdYLVl1Y20xV0M2MEhNa0d2RWkwNjR5cUpsUzY?oc=5",
@@ -146,31 +146,6 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple이 5조 달러 클럽에 Nvidia에 합류했습니다. 다음은 내가 생각하는 주식이 먼저 10조 달러에 도달할 수 있다고 생각하는 것입니다.",
-   "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZzVWVvN1ZJT19fTTlZQ1o3M1ZuNmZDcHZ0NGpRR3ZGUjBvNXJESjdFMXQ0OFNkZzdTd0Y4UGlocTdjNmU5VHZUbTBNa0JJa3VZVUZsOXVhMUt4LU1XWjlZUGE3bVM2MVpYMDJyTktvVHcyQmxVRE9KSWR4UGJaTGhBbUt4TEcwc2JzY2JJSQ?oc=5",
-   "published": "2026-10-25T03:17+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -0.14,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
    "summary": "Micron은 AI가 데이터 센터 SSD 개발 시간을 60% 단축했다고 밝혔습니다. 2031년까지 주식이 갈 수 있는 곳은 다음과 같습니다",
    "title": "Micron Says AI Cut Its Data Center SSD Development Time by 60%. Here’s Where the Stock Could Go by 2031",
    "source": "Yahoo Finance",
@@ -213,6 +188,27 @@
      "symbol": "SNDK",
      "name": "샌디스크",
      "chgPct": -1.82,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "메모리 주가 급락. Jensen Huang은 곰들이 잘못했다고 말합니다.",
+   "title": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYThWTzBHUHd5Rm1WRkRZWlpYRDRYNk82TG1tRDJNZ2F5aEVSNnpVb1pESTlaeU56bjBPX1dGQURKMkFwM1FPbzJlclc1QVRXRDIyVTVYNG00ZXU0NHRuVUVmT2gzRGRPTXh0bnZia2xHZ29JUjVJSWk5WjVnVFAwNUhQUHkxZjJPU0ZsVmNJcjd0YTRtSFFIY21pamZfZnI2ZzFJTEFR?oc=5",
+   "published": "2026-10-24T12:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 0.53,
      "asOf": "2026-10-23"
     }
    ]
