@@ -1,40 +1,13 @@
 {
- "updatedAt": "2026-10-24T08:52:41+09:00",
+ "updatedAt": "2026-10-24T22:10:26+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "다음 주 연준 회의를 앞두고 유가 상승으로 인플레이션 우려가 높아짐에 따라 S&P 500, 다우 하락 — AAPL, AXP, CART, UBER 집중",
-   "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
+   "summary": "나는 즉시 S&P 500 펀드에 일시불 대부분을 투자할 것입니다. 내가하지 않을 때가 있습니다.",
+   "title": "I'd Put Most of a Lump Sum Into an S&P 500 Fund Right Away. Here's When I Wouldn't.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkpId3lQbkNYNFNObEg4YnRsMTBvWDBTLVpwdUNnNFdqUzg2eVlnWGhuT05YemVpT1RzQlhueVJabHdtaV9ha0VQLWlkNGstWUg2Z1c2QWlLZzRJZVE0ZDJzLUlRTkpzYU5VWUdKRnlhNVU2ZWU0Y0ZjcExjSWwwcWR6VnhKQmQ3d3FoOHpIV1FTQQ?oc=5",
-   "published": "2026-10-24T07:35+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.52,
-     "asOf": "2026-10-23"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -1.23,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Kinder Morgan(KMI) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Kinder Morgan (KMI) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS29aaVotTFd6U2R3R2tPLVk0NTRtclo4YkVSU3Q2QngydUhJUjdrQ3h4aUZ3VUp2b2pRRDAtSmZkeUI5ckcwU1RoNmxnRk91TnhJSEtUVVhScWVDSk1PQXBMQ0xSM2pBRkV1N2xvaV8tWVg0RlBITVpmSTktZklGWW9Za1J3bWZsWDZLNDFQUHhoLUhMTEJuVGRn?oc=5",
-   "published": "2026-10-24T07:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEdwOXlmLW9Xb3N1bVAwZXpUejdFYm9vNW9IX2xZc1Naek9HX09fbWl3TVR4V0NwSG85bVdEc016Tzd0a2NTWThudTBabUNuMVZtZ1J6eUIybTVZYVZyeERvTUY4WVVYaWhwc0dETk5BMWdiODVPdDd6SHBZZlhPZFJJNFlmd2QyWHNrRDhn?oc=5",
+   "published": "2026-10-24T21:12+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -51,11 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 픽시더스트가 주식시장의 지배력을 잃고 있다",
-   "title": "AI pixie dust is losing its stock market power",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
-   "published": "2026-10-24T06:37+09:00",
+   "summary": "나스닥은 12월 6일을 앞두고 3가지 일박 리스크에 대해 경고 신호를 보냈으며 이는 퇴직금에 매우 큰 위협이 됩니다.",
+   "title": "Nasdaq raises red flag on 3 overnight risks ahead of Dec. 6 — and they pose an extra-big threat to retirement nest eggs",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMy1BdUVvdUl4NHBrY1FPYzcxQm90alM3MjBwc25CUDFBbGJXXzkwc2s4MmhlVGQ0dUNvc1NRUjVUWGhuZU9xUlBrWndBZnlMMVJIUzhZTFdGNFI0LU4xbUJGblk4OEpNYXloTFU2bDdIRDVtak1zckpIY01xMU9iMEU2S1E1WEpkV1htMHE2WlZCWHM?oc=5",
+   "published": "2026-10-24T20:35+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.21,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500 너머를 보고 계십니까? 이 2개의 국제 ETF는 매우 다른 기회를 제공합니다",
+   "title": "Looking Beyond the S&P 500? These 2 International ETFs Offer Very Different Opportunities",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalN0d1RKcm1FUUJJLWw2bDJ6ODVfTmlKZ0pBZ0doeXc4VWpEYnRfN2J5X1I4MDBzaVk2YnQwNHVBaGhBUGswY2tsUnRWUWFRLWdKbjhUTGVzNG83OEtIUzU4LU1BMmZRZEZSakI0ZWNRTVJTaV8wUlFxZDlNVkxKbUFwaTB4akNvVWtMRzJqUWdoQTNqV3dlSFNn?oc=5",
+   "published": "2026-10-24T18:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "업데이트: 유가 급등으로 월스트리트는 고르지 못한 주를 낮췄습니다.",
-   "title": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar",
+   "summary": "주식 시장 투자자들은 트럼프 대통령의 경제에 대해 나쁜 소식을 접했습니다. 역사는 이것이 다음에 일어날 수 있다고 말합니다.",
+   "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkJFVUFaN2swVHF2WWlFdVAzZHpXNW1RbmdjVHJpOEYyaWh5aUdpSzZSVjNzV2VVRHJkcXhsZnQwYzE3R1dPSV84Q3R5RnZkMjZ3R25EYWVjMzR3MDRQSHI4WmlkTVBoSUxoNnpCek9WTGMxQlBmaUlvaGRNTnhOU1ZxRWtrODd0UmFpX0Q3RQ?oc=5",
-   "published": "2026-10-24T06:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmNVY1ZrMFg3cnZEN1kxTHRkRzdkMWtvdUhjTTZ5aE9aaTgwNFVNNVc2R2ZKaFFaUjZfYWRzZjJoREFoR2ZNckp5cFh4eTFlUl9zU2lXeDhEMlAtcjdad1N0YW9RRVhyQUl5MjljdmZ1WHhrV3U5LXl3SEFRSTVqMzJxYTNtaElJMjV1RWcyR25FSEtPR1UxenlEUzA?oc=5",
+   "published": "2026-10-24T18:08+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,21 +87,63 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500은 AI 지출 우려로 주간 소폭 하락세 기록",
-   "title": "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxLTVBZeDUzTmZsY1dMblFIdTBrNS1XVWpQX1NFTmdwa0dEazJVU2NmQjhIbkloaXBSNFhqejdCYVI3TlVhOHpMdXNBdkFKM2VXQm5vd0JjYW1KVHJEU0lsWGtSSGVxaFhKampEZDdhSFIyMVZVR3Ffd1Z0dDh6Yzd5bWxjd3hNN25UdHRyaGVwOGxz?oc=5",
-   "published": "2026-10-24T05:50+09:00",
+   "summary": "Nasdaq US Mid Cap Banks NTR Ind(^NQUSM3010N) 구성요소",
+   "title": "Nasdaq US Mid Cap Banks NTR Ind (^NQUSM3010N) components",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jN2M2a2Yyc0xzZ3VVaXdSaEJGOGpGaXNpVWw4YmRoOWNueS1sWmw0eGw2aThVOFB2LV9FS19NSlFnZGdLUnhUenc2MUw4REwzOGY5Ql9ZRzBUaW5tYm0tbExYM3hrMTVZaGRmWA?oc=5",
+   "published": "2026-10-24T16:10+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.52,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.21,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "메모리 주가 급락. Jensen Huang은 곰들이 잘못했다고 말합니다.",
+   "title": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYThWTzBHUHd5Rm1WRkRZWlpYRDRYNk82TG1tRDJNZ2F5aEVSNnpVb1pESTlaeU56bjBPX1dGQURKMkFwM1FPbzJlclc1QVRXRDIyVTVYNG00ZXU0NHRuVUVmT2gzRGRPTXh0bnZia2xHZ29JUjVJSWk5WjVnVFAwNUhQUHkxZjJPU0ZsVmNJcjd0YTRtSFFIY21pamZfZnI2ZzFJTEFR?oc=5",
+   "published": "2026-10-24T12:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 0.53,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SK하이닉스(KOSE:A000660) 주가는 엄청난 상승세 이후 합리적으로 보인다",
+   "title": "SK hynix (KOSE:A000660) Stock Looks Reasonable After Its Huge Run",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGM2UDhEdmRjaEtuUkRrckdGUy1hbC1yOUZKU3ROcm1iQWJfU3RLMlQ1QXNRR3NqS01PRDJGbktWM0RyZ29hVkxEWUpIRFZaWXZxcWNjT3U0VVloQTJXSVBaS29RTEo4ZG1rNmdnc3dWLWoxQUNEUHp2NnFXUzFUOTZvRU5xWTQ4UE1idnJmejJoU0p0dFA0?oc=5",
+   "published": "2026-10-24T07:13+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 4.42,
      "asOf": "2026-10-23"
     }
    ]
@@ -135,6 +171,27 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "SK하이닉스가 Solidigm의 ​​미국 IPO를 취소함에 따라 SKHY 주식이 급락했습니다.",
+   "title": "SKHY Stock Pops as SK Hynix Scraps Solidigm's U.S. IPO",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0pwbnJ5WHl5RlZSYnNxMHZycjhSZUpvbmZfTXdKOFdXU0RrOExXbkFoU3o2UkNkcm0wMDVpMzVRZjhZRng3TGlOTndxeGFBTjhkbFd6MEdJNk1RYUk5akl6aHQtS3d2dHFQd2ljQlJtX3YxQVo2cEJvZjhnSWJrakhvSk8zQzBPbjl5c1hQaV9lS1E?oc=5",
+   "published": "2026-10-24T04:54+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 4.42,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "SK 하이닉스(NasdaqGS:SKHY) 주가는 33% 매도 이후 여전히 합리적으로 보입니다.",
    "title": "SK Hynix (NasdaqGS:SKHY) Stock Still Looks Reasonable Following Its 33% Selloff",
    "source": "Yahoo Finance",
@@ -156,67 +213,6 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": -0.21,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "항만 연구에서 Nvidia 주식에 대한 Stark Nvidia 경고 발행",
-   "title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjNyZ28tWDR1VGFiZzFTcXJYNHhja20zdTVsLTZYVzRQb1B5OFdtVXZwM1RueGN6dDBnYzBtYzExd1pfTzlXR0hQQW1QQkFTWmwtT3JabVlCbnozMXpvY0NUWlYtR3YtbDdfVHhSNVlLRk04THAxOVFRcGhubWhDbUFwamhydEhPRm5lbjJfM1JLOWhOVldMUjVsMFc0SzV6b1FJ?oc=5",
-   "published": "2026-10-24T04:02+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스 주가, 솔리드다임 IPO 계획 철회 후 반등",
-   "title": "SK Hynix Stock Rebounds After Scrapping Solidigm IPO Plans",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFphN0k1eEh2dWhkVG42NnVxY01CcVpMb2g5MXdlR3JyWk1sdDJZTnh4UWppMFFyRmszbU9OMVZ0T1N1QjZBT2Z3eEZFem1XaGczaVdDYmdnWTdmTjdRUk5qNElIdDJiMlFvbzR4UUd6NFJwMmtIRDRWV2VkRkJsbFVNcDhWaENRUjVMVkhXdW5kb3kzOHNsMFJVN2ZKNFU?oc=5",
-   "published": "2026-10-24T01:54+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 4.42,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론(MU)이 놀라운 성장 주식인 이유 3가지",
-   "title": "Micron (MU) is an Incredible Growth Stock: 3 Reasons Why",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVhXbU1jei01bzFkekM5SFZqOXNhVTJnczFONExnSmdyNExGUmFsejRFZ3FZNC1Nb0pkWkRxQkdJcjMySzIyMmoxaUxqek9PZm00VkladHhwOWFMN29ZaGR0Z2xhTWJuVnoyTk16V3BWb1NPMnpaR3lBNFZCeWVQdUwxTU05M0NHWDByTmNRSnFkUmN3SEI2bWpRS2padDg?oc=5",
-   "published": "2026-10-24T00:45+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.46,
      "asOf": "2026-10-23"
     }
    ]
