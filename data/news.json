@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-25T08:19:37+09:00",
+ "updatedAt": "2026-10-25T22:10:28+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Vanguard S&P 500 ETF를 구매하기 전에 투자자가 알아야 할 1가지 비열한 위험이 있습니다.",
-   "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
+   "summary": "주식시장이 붕괴된다면, 이것이 내가 싣고 있는 첫 번째 ETF이다",
+   "title": "If the Stock Market Crashes, This Is the First ETF I'm Loading Up On",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOellkTWRVUld5cVJrVnZTOTFMNTE1ZmFweENDbHhEeXJrYXVTZWVyWDNDZ3VfRG82YXNGa2haMGJVQzltV3BMSllmdm1YODg5eEdpZE5YLXRYeFFoU0lVQnhRdXg5NGktSlRJV0RuVERTY3VwNDdYLVl1Y20xV0M2MEhNa0d2RWkwNjR5cUpsUzY?oc=5",
-   "published": "2026-10-25T06:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjFSVmNLQ2FvRVJJeGFCWVVOSkYwTXJ0NUNpM2prbEh3MnpBWU44QWo0TFNsdjllUXpwMnJFN3JzcXpLZTMtdlBjQWJOMTJhSlpFUE9qNE9lRXpUQmY5UzU2akhlTXFRVFhvSEZnMTV3RDRlX2dlNHNZOWVIdVZfLU5zam1faUNKQzNzUDFyRjBUaXZDekkyTmNNRQ?oc=5",
+   "published": "2026-10-25T20:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "과매도된 AI 주식 5개: 월스트리트 분석가들이 50% 이상의 상승 여력을 발견한 곳",
-   "title": "5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlFlZW9xRXpScTRoWS0ybU9UOW5waXlSNVZ6dFQ2Q0FFaWtST0VqOVktTmYtSVh1RmRQbG1lU2stSEt4RzdrUmZGcERtN3ZKYmU1bk81WUpJWVd0VUQ2ZmVNYUFWNmlBY2dkX2R1SjI0VG9fVmJhSWRoZ1Z2SGRmNjItWXJ0Q3ZJMHJfblMzb3I5LXJiSUE?oc=5",
-   "published": "2026-10-25T04:59+09:00",
+   "summary": "CEO 일요일: Atomic Wings CEO가 월스트리트에서 레스토랑 사업까지의 여정을 공유합니다.",
+   "title": "CEO SUNDAY: Atomic Wings CEO shares his journey from Wall Street to the restaurant business",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEhZVWYyNUZiMG9IVnlZSlFhYm1xUUhCLUpDS2txZ2sxaDRlMFRrSlZMQnRVQTBudW4yZ3RUSGg1cFJ1Y2dMdXNnSzlkYmlNWjlWbVdTZnNCbnlUdkhDVzAyclE0dHhpUzlVMDA1bWc3Qnh0ekFKY1JPSG14bm1QWFE1MExReDcwRHFmdC1DQnFsdGVqU3BqUzhBQ2pfckxIdVl5Z0dtY3BNTksta3dPZEprV2h3eEFwNGtYUzhDNXZRZnM1NVNv0gHMAUFVX3lxTFAzM3p6MFhjSEJxYno5SDgxVlpSbnZ6VWFiOWM3ZTlmSl9MOFZ2UFUyT3A0OGEtbHNzb0pKU1RMNHFwanVKWko1cXNMV0pEZ21KVlJQc2xUcmFpYWJMNnpvUjc1RkduX2N4TVpTSVdGSTJwY1hiSVJkSkFzTWRXVTR4Yk9YQ0RNWXNhYjV1aTB0TWQtZC1jRjNCd2dkOVp5S1k2UW43czA0TEs3VHc3bGFnQVlBYVlLdHJRM3UyVzJjbzhYMVY5RHpuOE9sRA?oc=5",
+   "published": "2026-10-25T20:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +45,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥은 4개월 만에 최악의 날을 보냈습니다. 조정 신호를 보내는 수준과 이에 대해 역사가 말하는 투자자는 다음과 같습니다.",
-   "title": "The Nasdaq Just Had Its Worst Day in 4 Months. Here's the Level That Would Signal a Correction, and What History Says Investors Can Do About It.",
+   "summary": "우리는 지난 100년 동안 주식 시장이 세 번째로 어떤 일을 하는 것을 목격하고 있으며, 주식의 다음 단계에 대한 역사는 명백합니다.",
+   "title": "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWtnRXRlZk9iei01RTZRREZZMzFhZVhtcFNMWW8zZXpJUnlrb0dlUlhQSHVBVmppWDhpZXdtV2VsNHVzRUhUM05aU0lWeVlHckk5NC1EdHZEYWdCTkx5aGhyUmVnZUt6NEtXb1ZyM1FiaFJ3Y1VWTm9SLWY1azAyQW5RdjE2Z0dsOHlTUHpRTGlPRXgt?oc=5",
-   "published": "2026-10-25T04:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5",
+   "published": "2026-10-25T19:56+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.52,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "2027년 나스닥 종합지수를 이길 수 있는 3가지 AI 주식",
+   "title": "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWNJdW9yelBsTWJlWndkUzlxS3ZNZFpOWC1tZ2R4OE52bklTUkR0LXFIa0N3cmZSSUhDSEJRY2RpQlFfWVAwT1AtN0VUZmltMENOYXlFbVJDeVVfNVRWbDhnQXNZWUl1X1VCUDZxQ28xMTNyb3B3el9qQTdHZklvR1ZvME9JU0Vjdnh6UVFzeEE?oc=5",
+   "published": "2026-10-25T18:50+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "중국 주식시장이 역사상 가장 큰 폭으로 미국을 추격하고 있다",
-   "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
+   "summary": "월스트리트는 AI 기술에 보너스를 부여하고 있습니다. 그의 $220,000 급여는 여전히 사회보장국의 $184,500 한도에 도달합니다.",
+   "title": "Wall Street Is Tying Bonuses to AI Skills. His $220,000 Paycheck Still Hits Social Security’s $184,500 Ceiling",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFpEVS05QzlFMHZpaU9IN3JBeTFZRDVLOFlMTWJaMzk0Y01DdDJha3R0d1FtZ2FLRVNNSVE1Q2pSUldqTjgyaXplaUJ4QldscEFpOFBuRWVyQW5MNGtjaVR0dTN3emwtdzBGbzFwcGpweHNJUm1ZaGJVTUJWbWFidnNFZ3NJaUJFUWtRT1BkMFlTanROSXlsZWlNUmVtV3hCbGdz?oc=5",
-   "published": "2026-10-25T01:57+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1pxVWIzYVVtdnRpLUVva2Q5c2pFX21EdXVGb2syeXkzc0oxdU8yS3psNFBjdHo1SEt6ZlFnX1prQkJmR1dRakttSENXWV9hcWpHUFRxVnAteG5kTTJNbE1fYUJfQnlfTUV2QnpncW5LY3pwZXl1bGNENUZvM2xGVTZQeHRlQlZTeDk4dGRnRHdJSFNhSGRuSw?oc=5",
+   "published": "2026-10-25T18:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -86,22 +107,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트는 온화한 겨울이 다가옴에 따라 천연가스에 큰 투자를 하고 있습니다.",
-   "title": "Wall Street Is Betting Big Against Natural Gas as a Mild Winter Looms",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 Jensen Huang은 AI 에이전트가 토큰을 보냈고 GPU 수요가 '지붕을 통해' 전달되었다고 말합니다. Gene Munster는 1,500만 명의 봇 사용자가 수십억 명으로 급증하는 것을 목격했습니다.",
+   "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWZ4aDVDdmR3MHZxamN4OFBMak5KU1RaS1pSNW9QVDV1M2txeHBKcWo2c1Qyd0dhZGlpdy1FMGNBakZoZFJYWlJJSHJWTDZXVmdQRmFjLWYxSzdqVzkzQVVOdGxDaVVsSGcxa1VIdEVHZVoyYngwZWt2WHNxTU1oNkdrRDZMNExjMDBBbjBNcHNwZlJPeEpUN0l2MnlxVnA1Uzhn?oc=5",
-   "published": "2026-10-25T01:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1EcXoxY09jT1IzdTlXRlZBZ1kyMEozME5xSFJyeWRsVXBUdFd3aTJ3eDFxbzFvdFZHaWVRLXgyRFp0dWpMaGRVdHdsUVI4OEVsR19yczBzTm1aTjg5MFBXWW1odklWQVlxbVh2d2xZU2ViSkl3TEpSMzAwLV85VVZFeWxBQ1pWcDVZclZtOFNuQ1BJSWc?oc=5",
+   "published": "2026-10-25T10:30+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.52,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
      "asOf": "2026-10-23"
     }
    ]
@@ -146,6 +165,31 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "아마존은 AI 칩 경쟁에서 엔비디아로부터 시장 점유율을 빼앗을 수 있을까?",
+   "title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZZdm1LNU1hQXdJN2dval9rNUpjVUp4SXhONjdFOUVQc0JVZXcxaVR3QWVpVlcyVW9ZeHBJUXdxcUxSMWM0UVliN1ZnWGxTWFdDTXAwTWFDMGlvcVdHZXlyMFpWMmQ5ZXJVYnpPYlRBcGF4dUt0dFdCRDVvZzBDdHg4V2NSNnhYaXlhZ2pvaGRvMmswQmFxaw?oc=5",
+   "published": "2026-10-25T00:35+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
+    },
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": -0.95,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Micron은 AI가 데이터 센터 SSD 개발 시간을 60% 단축했다고 밝혔습니다. 2031년까지 주식이 갈 수 있는 곳은 다음과 같습니다",
    "title": "Micron Says AI Cut Its Data Center SSD Development Time by 60%. Here’s Where the Stock Could Go by 2031",
    "source": "Yahoo Finance",
@@ -161,54 +205,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": 2.46,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron vs. Sandisk: 향후 3년 동안 소유하기에 더 나은 AI 메모리 주식은 무엇입니까?",
-   "title": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVBRaFNhTkpyeEZmQWtnZWE3UFNEQzM3d3lndzhpWTFadU9JbGhYTWRCMzhaZ0toeUF0S3NiTUdCaDBzazhuNDFyVmxXOG9ZWldXc0JpUHdiaTFjSXpCTHlWcmp0c2pUaDN5RjlvUWZUeGJDTzhyZmZJQ2xXemo3QlJFZXVIWUlKaFpoRFByMF9OQ2lTNC1B?oc=5",
-   "published": "2026-10-24T22:22+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.46,
-     "asOf": "2026-10-23"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -1.82,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "메모리 주가 급락. Jensen Huang은 곰들이 잘못했다고 말합니다.",
-   "title": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYThWTzBHUHd5Rm1WRkRZWlpYRDRYNk82TG1tRDJNZ2F5aEVSNnpVb1pESTlaeU56bjBPX1dGQURKMkFwM1FPbzJlclc1QVRXRDIyVTVYNG00ZXU0NHRuVUVmT2gzRGRPTXh0bnZia2xHZ29JUjVJSWk5WjVnVFAwNUhQUHkxZjJPU0ZsVmNJcjd0YTRtSFFIY21pamZfZnI2ZzFJTEFR?oc=5",
-   "published": "2026-10-24T12:15+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 0.53,
      "asOf": "2026-10-23"
     }
    ]
