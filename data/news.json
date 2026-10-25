@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-10-25T22:10:28+09:00",
+ "updatedAt": "2026-10-26T07:42:39+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "주식시장이 붕괴된다면, 이것이 내가 싣고 있는 첫 번째 ETF이다",
-   "title": "If the Stock Market Crashes, This Is the First ETF I'm Loading Up On",
+   "summary": "'세계의 슈퍼 회사': 월스트리트는 SpaceX 수익에 무게를 두고 있으며, 회사의 Tesla 제휴 가능성",
+   "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjFSVmNLQ2FvRVJJeGFCWVVOSkYwTXJ0NUNpM2prbEh3MnpBWU44QWo0TFNsdjllUXpwMnJFN3JzcXpLZTMtdlBjQWJOMTJhSlpFUE9qNE9lRXpUQmY5UzU2akhlTXFRVFhvSEZnMTV3RDRlX2dlNHNZOWVIdVZfLU5zam1faUNKQzNzUDFyRjBUaXZDekkyTmNNRQ?oc=5",
-   "published": "2026-10-25T20:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2FvMEk4MFF5d0d3cDBiOTcxLW81U2IxdDY2SWt1R0NLUTR4eWRrWjltR2hwNktSVTZudXgyUC1waDJXUFdNMjlFcktuVVprWTJZOFlIUjNZZHFWVzdWRE5RZFBqaVJCWmZCS09EMFM5NEM5YTA2WGhkNVdDOEVkWW1lOVNkN0hEamlUaW94UndEZGhwY0Z3SzlJaDZnaUUzdi1Ibm80VDNuMjVBQXlKaEFTRWhqUWVyYnJOQ0Y2X0JoZjJyOTREN2p4UV9rZjZfanRzeWM4aE5yX1ZIOEZ0LW1DNDdZZmc?oc=5",
+   "published": "2026-10-26T02:39+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "TSLA",
+     "name": "테슬라",
+     "chgPct": -0.63,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Calamos S&P 500 Structured Alt CPSY 주식 예측 및 목표 가격",
+   "title": "Calamos S&P 500 Structured Alt CPSY Stock Forecast & Price Target",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXB0a29vSnBxcER6d3FiMjFFMXNUWGYySnpYTlBWNHQxSlg4TUU2SXYzd3JkS29xUVRtU3ZKazdNbGJLMmpIV2ExVE12eGE3ZEJaWjZCaW1LeXBFakFDRFhZUEhab3pvVnpSMU53MU1mQlVUMUhKLVBCU2RRMDZ4TnpxMWNaVFhuTUE?oc=5",
+   "published": "2026-10-26T00:51+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "CEO 일요일: Atomic Wings CEO가 월스트리트에서 레스토랑 사업까지의 여정을 공유합니다.",
-   "title": "CEO SUNDAY: Atomic Wings CEO shares his journey from Wall Street to the restaurant business",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEhZVWYyNUZiMG9IVnlZSlFhYm1xUUhCLUpDS2txZ2sxaDRlMFRrSlZMQnRVQTBudW4yZ3RUSGg1cFJ1Y2dMdXNnSzlkYmlNWjlWbVdTZnNCbnlUdkhDVzAyclE0dHhpUzlVMDA1bWc3Qnh0ekFKY1JPSG14bm1QWFE1MExReDcwRHFmdC1DQnFsdGVqU3BqUzhBQ2pfckxIdVl5Z0dtY3BNTksta3dPZEprV2h3eEFwNGtYUzhDNXZRZnM1NVNv0gHMAUFVX3lxTFAzM3p6MFhjSEJxYno5SDgxVlpSbnZ6VWFiOWM3ZTlmSl9MOFZ2UFUyT3A0OGEtbHNzb0pKU1RMNHFwanVKWko1cXNMV0pEZ21KVlJQc2xUcmFpYWJMNnpvUjc1RkduX2N4TVpTSVdGSTJwY1hiSVJkSkFzTWRXVTR4Yk9YQ0RNWXNhYjV1aTB0TWQtZC1jRjNCd2dkOVp5S1k2UW43czA0TEs3VHc3bGFnQVlBYVlLdHJRM3UyVzJjbzhYMVY5RHpuOE9sRA?oc=5",
-   "published": "2026-10-25T20:00+09:00",
+   "summary": "35% 상승, 코카콜라가 S&P 500을 얼마나 오랫동안 계속해서 무너뜨릴 수 있을까요?",
+   "title": "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5",
+   "published": "2026-10-26T00:40+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "우리는 지난 100년 동안 주식 시장이 세 번째로 어떤 일을 하는 것을 목격하고 있으며, 주식의 다음 단계에 대한 역사는 명백합니다.",
-   "title": "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5",
-   "published": "2026-10-25T19:56+09:00",
+   "summary": "이번 주 주식 시장에서 주목해야 할 4가지 주요 소식은 다음과 같습니다.",
+   "title": "Here are 4 big things we're watching in the stock market this week",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5",
+   "published": "2026-10-25T23:58+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "2027년 나스닥 종합지수를 이길 수 있는 3가지 AI 주식",
-   "title": "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
+   "summary": "Roundhill S&P 500 Target 10,000 XX 주식 예측 및 목표 가격",
+   "title": "Roundhill S&P 500 Target 10,000 XX Stock Forecast & Price Target",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWNJdW9yelBsTWJlWndkUzlxS3ZNZFpOWC1tZ2R4OE52bklTUkR0LXFIa0N3cmZSSUhDSEJRY2RpQlFfWVAwT1AtN0VUZmltMENOYXlFbVJDeVVfNVRWbDhnQXNZWUl1X1VCUDZxQ28xMTNyb3B3el9qQTdHZklvR1ZvME9JU0Vjdnh6UVFzeEE?oc=5",
-   "published": "2026-10-25T18:50+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.21,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 AI 기술에 보너스를 부여하고 있습니다. 그의 $220,000 급여는 여전히 사회보장국의 $184,500 한도에 도달합니다.",
-   "title": "Wall Street Is Tying Bonuses to AI Skills. His $220,000 Paycheck Still Hits Social Security’s $184,500 Ceiling",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1pxVWIzYVVtdnRpLUVva2Q5c2pFX21EdXVGb2syeXkzc0oxdU8yS3psNFBjdHo1SEt6ZlFnX1prQkJmR1dRakttSENXWV9hcWpHUFRxVnAteG5kTTJNbE1fYUJfQnlfTUV2QnpncW5LY3pwZXl1bGNENUZvM2xGVTZQeHRlQlZTeDk4dGRnRHdJSFNhSGRuSw?oc=5",
-   "published": "2026-10-25T18:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1BLcTROdEljcnViYVdSa2Y4QkN0SW9wemFsTWZjcjlIQkxMNGctY1ZfWDdiRE1aMGd0ZVRrcnNRN2VqZUdjV1dHUzFTX1JoWFl6dzVyUm9JdmQ5YmsxZEQzYWZPSXU4aWh5aGlzQmhKeTBpR2VTMVUxblNSZ21QZjA3V20?oc=5",
+   "published": "2026-10-25T22:54+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -102,6 +102,86 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -0.52,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Palogic Value Management L.P.가 NVIDIA Corporation $NVDA 주식 6,000주를 매입했습니다.",
+   "title": "6,000 NVIDIA Corporation $NVDA Shares Purchased by Palogic Value Management L.P.",
+   "source": "MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbU1oNklfTDRzcnFyRXBDZXF0ZWxIaktfcFE1QmFaVXJlNzBxRXRzdG90b3ZkZlRObFNqTGZ4Yk0tR1B0RE1YeGFBY3hjQ2l2Qlk3UTBZN2FweTNrWTBkN1lIbzFVODUtVXFIZ2tWRkdyYlVYZ2JHQlB3akZWcFV0WE1lV3p6RGhCMDZBeGV6TllUZ3BGVkZTUGRCaERqVFBseDJTUUdYdTBFUHllRlZ5TGhKQ2xlN1F6SFNzVGRfRWh2YVRqUVJnWmMyTmFBVUViRXE4?oc=5",
+   "published": "2026-10-26T05:14+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아(NVDA)가 중국 AI 가속기 시장을 잃었다",
+   "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXBrdnEtYnZLWk95RmJjZlRTeFR2ZjZDaGM5dDR4VW9KNWdDZjRjTmJidlY0eWExNVJVYUZ2NGJlNlo3NXZYMzFTZkhYeUU4ZC1RSGUzMXhLYkdkRUZXMEt5bVJRY1E0LW52Z0QzaWFYRTE3bDh1SVBMWnRNZUs0dndHVXBXdmZkYjBoRWFsX0p6RG8?oc=5",
+   "published": "2026-10-26T04:06+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론이 새로운 사업 전략을 공개했다. 그 변화로 인해 엄청난 구매가 이루어졌습니다.",
+   "title": "Micron Just Revealed a New Business Strategy. That Change Makes It a Screaming Buy.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzJEanVQYlFGY2pNd3VnRC1zZllfbG1LLVRsVWwtbGtMNVNsVWZ4Y3k5M09OZTBNdWdTUEVScUVMeXY5N0I2UElNVFdkNUh6R2IxUnlWMkFJQXA4Nm5rZ3VUNGlIOXVqSnEteHRQekhOS2I4YUs5RmtlQ1RxUi1tTmpSUFJjQXlpa1pnc2steERfdGRMaGFtby11cWdzTXZEcTV5alhR?oc=5",
+   "published": "2026-10-25T23:51+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.46,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "주식분할 관찰: 마이크론이 다음인가?",
+   "title": "Stock-Split Watch: Is Micron Next?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVo0czRwU1JlaEpkQnBEM2lZSUFmdGthc0hRS2ZLbWdfREpJY0I3RjI4Z3FENGVEZmY4TmVsc29xTk9lQnM4dkRhamlpSTVDc2s3VXNuanN3WVFIb0Rmc2daRkdMRG9hZDBzRTZ1cmdNYlRFVklRVVJqand4SXdSUnhmUWdFQV94dHVXazB3eUxmb3ZWbGNudnhn?oc=5",
+   "published": "2026-10-25T21:33+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.46,
      "asOf": "2026-10-23"
     }
    ]
@@ -121,90 +201,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Elon Musk는 Nvidia 투자자들에게 환상적인 소식을 전했습니다.",
-   "title": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTNPTEJ6LVI3ZFNZd2E4NFk3M0JQNVhrMUNQSmwtQVBBY3lEZEpkS3ZzSGdmbTd5YzNoYzZVU3ZXNk5ESXJDc2RScHZzLTIyRlpLWUo5WEJvZlVZSlRqX2ZMbTJDMG0zTkpxWlZOYzJIc0ZWTjY2Unh5cEJZcTlCaWV6YzFicjMwQkdhVTluVUFxMEVmT0pBZjhn?oc=5",
-   "published": "2026-10-25T05:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 신용 스트레스로 인해 Hannover Re Stock 및 기타 AI 보험 이름이 상승할 수 있음",
-   "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMndMTWQ2WkRmcXlmMG93d3NhZEh2eG1lbDFBYkIya2ZVTUc1VmF3bkdfT1dnWXJneGpHM2tCNURadldZM3JZc1JZbHNqb28xaF9nVEFjQW1XVHdRMUt1U1BmWW1rWjFWVEdicEo0OTE1WU83T05DMG9hT1JCMS10N0F1TlhDYVZ5OHp0c2dHMm1qemp4WlREZ3BjNWU?oc=5",
-   "published": "2026-10-25T04:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "아마존은 AI 칩 경쟁에서 엔비디아로부터 시장 점유율을 빼앗을 수 있을까?",
-   "title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZZdm1LNU1hQXdJN2dval9rNUpjVUp4SXhONjdFOUVQc0JVZXcxaVR3QWVpVlcyVW9ZeHBJUXdxcUxSMWM0UVliN1ZnWGxTWFdDTXAwTWFDMGlvcVdHZXlyMFpWMmQ5ZXJVYnpPYlRBcGF4dUt0dFdCRDVvZzBDdHg4V2NSNnhYaXlhZ2pvaGRvMmswQmFxaw?oc=5",
-   "published": "2026-10-25T00:35+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    },
-    {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": -0.95,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron은 AI가 데이터 센터 SSD 개발 시간을 60% 단축했다고 밝혔습니다. 2031년까지 주식이 갈 수 있는 곳은 다음과 같습니다",
-   "title": "Micron Says AI Cut Its Data Center SSD Development Time by 60%. Here’s Where the Stock Could Go by 2031",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXU0OVIzRnJVdTBmVGtXbm8xWG14UDFKNkVydXIxQ0hjbmVpSVJvbEFYdGJISHVCczQ0X2hPYWp0TnBEMEVLNVgxWGxWQnR5Vi02eGdJblZjNzVLT2JaY1hJUTRiajhPV0hmN1NzUVo5RFFwUmt0TDRpampVLUxzV0YtSDlGMnl2NUpMalpGM3RXQQ?oc=5",
-   "published": "2026-10-25T00:16+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.46,
      "asOf": "2026-10-23"
     }
    ]
