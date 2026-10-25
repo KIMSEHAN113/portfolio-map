@@ -8914,9 +8914,9 @@
   },
   {
    "date": "2026-10-26",
-   "updatedAt": "2026-10-26T07:42:32+09:00",
+   "updatedAt": "2026-10-26T08:19:00+09:00",
    "fx": {
-    "usdkrw": 1323.34,
+    "usdkrw": 1323.44,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -8931,8 +8931,8 @@
      "currency": "KRW",
      "qty": 760,
      "price": 25475.0,
-     "chgPct": -0.97,
-     "asOf": "2026-10-23",
+     "chgPct": 0.0,
+     "asOf": "2026-10-26",
      "dca": "매주 월 +2"
     },
     {
@@ -8946,8 +8946,8 @@
      "currency": "KRW",
      "qty": 597,
      "price": 21990.0,
-     "chgPct": -0.27,
-     "asOf": "2026-10-23",
+     "chgPct": 0.0,
+     "asOf": "2026-10-26",
      "dca": "매주 월 +2"
     },
     {
@@ -8960,9 +8960,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 213500.0,
-     "chgPct": -0.47,
-     "asOf": "2026-10-23"
+     "price": 215500.0,
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     },
     {
      "id": "lgdisplay",
@@ -8974,9 +8974,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7100.0,
-     "chgPct": -1.8,
-     "asOf": "2026-10-23"
+     "price": 7150.0,
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     },
     {
      "id": "qqqm",
@@ -9143,8 +9143,8 @@
      "currency": "KRW",
      "qty": 110,
      "price": 12055.0,
-     "chgPct": 1.64,
-     "asOf": "2026-10-23"
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     },
     {
      "id": "irp-kodex-sp500",
@@ -9157,8 +9157,8 @@
      "currency": "KRW",
      "qty": 140,
      "price": 22915.0,
-     "chgPct": -0.3,
-     "asOf": "2026-10-23"
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     },
     {
      "id": "irp-kodex-nasdaq100",
@@ -9171,8 +9171,8 @@
      "currency": "KRW",
      "qty": 120,
      "price": 25475.0,
-     "chgPct": -0.97,
-     "asOf": "2026-10-23"
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     },
     {
      "id": "irp-ace-nasdaq-bond",
@@ -9185,8 +9185,8 @@
      "currency": "KRW",
      "qty": 100,
      "price": 14490.0,
-     "chgPct": -0.48,
-     "asOf": "2026-10-23"
+     "chgPct": 0.0,
+     "asOf": "2026-10-26"
     }
    ]
   }
