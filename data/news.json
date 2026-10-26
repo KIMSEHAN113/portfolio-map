@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-27T00:32:23+09:00",
+ "updatedAt": "2026-10-27T07:43:00+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Anthropic IPO 제출로 인해 Nasdaq에 \"ANT\"가 추가되었습니다. Claude Maker가 비트코인보다 더 크게 데뷔할 수 있을까요?",
-   "title": "Anthropic IPO Filing Puts “ANT” on Nasdaq: Could the Claude Maker Debut Bigger Than Bitcoin?",
+   "summary": "나스닥은 지난주 하루에 700포인트 폭락했습니다. 한 주요 월스트리트 기업은 조정이 중간고사 후에 끝날 것이라고 예측하고 있습니다.",
+   "title": "The Nasdaq Crashed 700 Points in a Day Last Week. One Major Wall Street Firm is Predicting the Correction Will End After Midterms.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblp3YTRJamJKX2tnRVZTc0FQeDFIQUszSW9mRUMtRmZXRHhKdU1sdDVTVDAxeU9mTFZ5YVhsbXRRUlczam1jQmZXelZldmd3eDBVMlAwWHFEbXY2MnFnTFpaTWV0aDNoTHBYQ08zalloREF5elIwNVc1T1BKR2FNemNPWkJaaFppeWVwaXg1WDdtVk5UMm9iMTJR?oc=5",
-   "published": "2026-10-27T00:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2p1bFcwYjlYcUJnU0J3eFdyeGE0RWswU2xCazdWMWZsNEVWLUpPM1VrM0ZUaVFDYjBpVlJvbFZjeTJhT3FxcUtvUk1tZGVmeUwzMVh1aFNwMGplZk9adFZTVk9oTHVpblNfYTRzRjlGTVdIMFFtYXlheWFwT2FRcnNn?oc=5",
+   "published": "2026-10-27T06:18+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -17,39 +17,18 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -0.21,
-     "asOf": "2026-10-23"
+     "chgPct": 0.82,
+     "asOf": "2026-10-26"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "일주일 전: Big Tech가 보고한 대로 월스트리트는 AI 붐을 테스트합니다.",
-   "title": "Week ahead: Wall Street tests the AI boom as Big Tech reports",
+   "summary": "오늘, 10월 26일 주식 시장: Vale은 브라질 선거 결과 및 최근 UBS 목표 삭감에 하락세를 보였습니다.",
+   "title": "Stock Market Today, Oct. 26: Vale Falls on Brazil Election Outcome and Recent UBS Target Cut",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzVCMjh0ZDZsTnRYWHJ4WXdKUnhxZk9zNndGX0w0QjVKbElSQkNCQ2tVbmtfdjNPM1pHMVhZSG5tdlJ0a2hXR2s2TjREX1B2YUNqbGlidm5sS2lBWUJtSldOQUZtNjdtOVNtclZoYUswdHFjbWhwNnNONFctY2VpMF8wZ25BTVhaZ1ZDeDRmT29hYjRsZmQw?oc=5",
-   "published": "2026-10-26T23:42+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.52,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트의 스마트머니는 코로나 사태 이후 볼 수 없었던 충격을 받았다",
-   "title": "Wall Street’s Smart Money Just Suffered a Shock Not Seen Since the COVID Crash",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXNpQmpOUnF6VUNaSVd2OUFXeDA4NjZacm5KTzNKMThLRzFKbXg2T1F1bndRYzVRM3hRX3Q1Vnh2TUlMRnRRWWl4ZHpCbmx4MHFUUm5wSHg1QXdNWHdlcFJ3WGo3RzROSlVfVEpDMnltM1B3dHFhaVI0Um9pRWt1eHVZZGI1eGZDejZkY1NYX3ZFek1QaHNrTg?oc=5",
-   "published": "2026-10-26T23:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGNEbVBtNFpIY1RTcWdFX2kwMnF1R0doZmY5TTVOcDJjU1ZhTXhOLWwtT3QweFNBMFlYVjRMSm9Na1NMN0VIVDV4b0NEZ21Iakt6YXNqZjJEZ2dnaDNIakUwVnpPdDMxWGRPMV9LMEdRN2Z1Qk5faXZpZkdiemJLbU9ZemQxZ2lpNUFxVVhoTnZVLUtM?oc=5",
+   "published": "2026-10-27T06:03+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +38,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.52,
-     "asOf": "2026-10-23"
+     "chgPct": 0.7,
+     "asOf": "2026-10-26"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "AI의 안전성에 대한 의문이 소용돌이치면서 Anthropic은 주식 시장에 데뷔할 예정입니다.",
-   "title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1YLTNtdm5GR09teUtsaERLNXRmTkh0dmQySzVWcF9EcUFfemVNOEZfRHIzQ09TTExNcVNXSTI5NGlvb1liVVEyNm1OTVhsX2Z2OXdBZUkwb0NUZ0J2T1FUT3EtLUtZbnJIRjNqbEg3ZDJYSEhsekJkb3czVlhoQXAxcE1NcVVPYVREejJFUk5mV2QwMkZhY0lMaXE?oc=5",
-   "published": "2026-10-26T22:49+09:00",
+   "summary": "AI 주식이 계속 흔들리면서 월스트리트가 상승합니다.",
+   "title": "Wall Street rises as AI stocks keep swinging",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVDbFMzWWNkWEw1NzNQRUJLek52UWF2ZUh1dDVXM2FHNXhYekVEOUpNejc5djNNX0hTWDZiLVpaWUNnaGZ6b29iMS0wNHM0M0Y1eG9MdC1yVUVpTV9QbDlieDVrS3NLemIzTFdPOHFRTG1JSEpzbEc5MFR2aUhRMmFpSGJaZDJRV1d6bW1hUlVJUDdUSkFkMg?oc=5",
+   "published": "2026-10-27T06:02+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,18 +59,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.52,
-     "asOf": "2026-10-23"
+     "chgPct": 0.7,
+     "asOf": "2026-10-26"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Tesla는 업그레이드되고 Block은 다운그레이드됨: 월스트리트의 최고 분석가 호출",
-   "title": "Tesla upgraded, Block downgraded: Wall Street's top analyst calls",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0VjTmxzcGVxYTl6ZUVxQmVoSVVmZ2NXN2ZEbnlnekpLb1M1cmw5U0hMcHFncXRhZVdQYkswYndFTzc5cENCSDRyOW9IOXJUOW9VVGVZTVVoVFBHVUhhWmNZQTB4Sm1MRnVjUDVwR0dFV01mUHFRUDJLNDJ5OTBxRy1fZUwwTnB3SVBqcGFiT3JsdWRHMExsS1diVE5MQVdyWkE0b3p3?oc=5",
-   "published": "2026-10-26T22:42+09:00",
+   "summary": "더치 브라더스(BROS)가 주식 시장 이익을 앞지릅니다: 알아야 할 사항",
+   "title": "Dutch Bros (BROS) Outpaces Stock Market Gains: What You Should Know",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUx1X3FEcVVKWlNEdEI0amt6TlBBR3MwWXpYb1dFUEtMZ18tRkk0VnIwUjlKNUJnMTJDV3lZVlFWR3JGaDVqekxQbG9XVUtTRXhqWVhUbTZkUzA3bi1UVjdlZ2dIdHZFcV9HLXNYeEF2dG13YllpRzRldkdUb1NSSURIOGFUQQ?oc=5",
+   "published": "2026-10-27T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -99,10 +78,69 @@
    ],
    "moves": [
     {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": -0.63,
-     "asOf": "2026-10-23"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.7,
+     "asOf": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "FirstSun Capital(FSUN) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "FirstSun Capital (FSUN) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN09SSXY1WGtEVWNQWmsxYXRydzdwbW1WTzQ0MlNFT3hYWDZ5U0pjM2NIY1FGNXR1UEpKbFR2MGlvTzc0bHZSVGNQM0k4VmZrbWZibE5rdDNTMElBTW5aVjZSQ3NKUUtON0lOZVFoV0JUcHFfYldYOUdsZnRzM2lQVTFnR043UzIzT1JabWZ1djhlbGd2elpDb1MyUXBOYm8?oc=5",
+   "published": "2026-10-27T06:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.7,
+     "asOf": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia(NVDA)가 시장 수익률을 능가함: 알아야 할 몇 가지 사실",
+   "title": "Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnNyZ1g4R2pVdTJTQW1HNE53cGJLSDVBbGFTUWZlOFd0akxCQUJ6SzBwWVVlaDFYZjlLdXA3TktObUZrdnJRX1lCcEFnbDBvZTliYUVCeC1OUDMtVGxhT2pvVWxnYm05UUhEUnRER1NGbFVLZmhWVG8wYVcxQ3hKRHdjdnNkMkRGWFFuRjBFRjdUeE5oU1drR3oxV2tyUUFCcExN?oc=5",
+   "published": "2026-10-27T05:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.39,
+     "asOf": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 Mercedes와 함께 자율주행차 분야에서 두 배로 성장했습니다. Jensen Huang이 자율주행 시장을 노리고 있습니다.",
+   "title": "Nvidia Just Doubled Down on Self-Driving Cars With Mercedes. Jensen Huang Is Coming for the Self-Driving Market.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVB2YUcwRW5rSHdGdEtLVFctY2Q1aFpXLUgwXzF2a3hkTTBCOHJScDhVT25sQ1p1TUhwQ3FzTVg2bENXbXVGWUJjOG1TUmk5ZUtzVzIyNDBmZmlkbGtsU01vNGs1c3RCUWk4d285dUhZMlVnYlJPY3BxWlp0cWlnV256Q2l5TXhpcE5UemVTSmVGbFFXeVpQcA?oc=5",
+   "published": "2026-10-26T23:59+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.39,
+     "asOf": "2026-10-26"
     }
    ]
   },
@@ -120,39 +158,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
+     "chgPct": 2.39,
+     "asOf": "2026-10-26"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Anthropic IPO 신청으로 칩 재고가 증가함에 따라 월스트리트가 더 높게 열렸습니다.",
-   "title": "Wall street opens higher as Anthropic IPO filing boosts chip stocks",
-   "source": "CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmEydTNKbnplZnlZaWdsNGhvOVdrcE9rTVV1ek1rM0hCbG9hNml0TWZLbGs5UHk0R05kZXhRZ0hzVzZCSHp4Y2p6MUExTUhhczlxb1B1OEtLbkxUV0FmT21WWk9VZ05mMmdYblJfNkR3WjdxaFlsajZlVkx0VWU2SkY5eF9wTGJwQkkyaTNwTndnckl5Mm1DNzlDMklBRWdCNE1qdtIBqgFBVV95cUxNX19icjY3N1pNSVRDTUxVQU9lYldEUEM5Q3RqN1BRU1J5LV9OSVU3RlFINDdnQXVrczE2WkdiQThhaTZzdmRmSndYMktya1VzRkQ1UTRCZC1pMzQ1REYwbWRpSTQzY3ZBZVk1R2NXTE5iREx6eG1aWEt3dnAtMURhV1hGTDBwdVhWS0tMYlBaY0V5STRUZzZab045bUF4cUNvYmphVXV2eXdsZw?oc=5",
-   "published": "2026-10-26T23:23+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 0.53,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스, 키옥시아 지분 매각으로 보고된 120억 달러 특별 배당금으로 3% 이익 획득",
-   "title": "SK hynix Gains 3% on Reported $12 Billion Special Dividend From Kioxia Stake Sale",
+   "summary": "Micron은 방금 몬스터 쿼터를 배송했지만 주가가 폭락하고 있습니다. 이유는 분명합니다.",
+   "title": "Micron Just Delivered a Monster Quarter, but the Stock Is Plummeting. The Reason Is Obvious.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG10QlM2bmR0cFZpdHozVGUzY0VXeHVWYTFDWE5lSkUwMGNCSzI1LUk1X1J0ZVBBSW9zeVhNSVlVeHBQSG1RQmNIYU5SR2dTYUE2VFJjRGltSHFNNG1nTHdpM3EtZEN0ZUF2X016UUJvaE5RMkIxQUZnX0RJZlpmdzRWX2c1OGZIQ1YtcXBlYWI2SDNC?oc=5",
-   "published": "2026-10-26T22:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG8tM2JnYmdKRVRUTjhrVVpYT3l0a2J6VDNhYkJlTjVHNzdhYzNQVmlPNDdPd2paOWZ2LUxDVzN0MGNBbFdoQmZkaGZsM3pBQ0Rwbm8xRC04SFBtQ0NEM09ueFdsTDRycHp0NnloNGNGZWZNTnd3S0VJeS05dmwzcU02RV9iRjlLWGNlTmE5R0tybUNOU21NNFFoQUNMb3FFLXloUA?oc=5",
+   "published": "2026-10-26T22:20+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -160,10 +177,10 @@
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 4.42,
-     "asOf": "2026-10-23"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.98,
+     "asOf": "2026-10-26"
     }
    ]
   },
@@ -183,33 +200,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.46,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Meta, 350억 달러 규모의 주식 공모 개시, 2027년에 또 다른 600억 달러 프로그램 계획: Nvidia, AMD, Broadcom Eye 최대 50억 달러 투자",
-   "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUZTaHN0QlFyYk9uM1pRZWtkcWV4T19femtzQ3FwWXpGQnhDZDh0WFdQUU1EREtESlhjeUVKRUpfTkxfUjVhVGFFNFFnSUJ6NEc4RWNoUkJqZ19WdlNUNDZMb3U3N3RKUzZKa24zaTd0dkM0R0VLdThfUThyM1lIU2NOdlRXSHJTVXJyeUxfS1AtUnZqaVotNElVakI2QQ?oc=5",
-   "published": "2026-10-26T21:17+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    },
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": -0.48,
-     "asOf": "2026-10-23"
+     "chgPct": 2.98,
+     "asOf": "2026-10-26"
     }
    ]
   }
