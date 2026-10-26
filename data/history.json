@@ -8914,9 +8914,9 @@
   },
   {
    "date": "2026-10-26",
-   "updatedAt": "2026-10-26T08:19:00+09:00",
+   "updatedAt": "2026-10-26T22:10:38+09:00",
    "fx": {
-    "usdkrw": 1323.44,
+    "usdkrw": 1324.85,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -8930,8 +8930,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 760,
-     "price": 25475.0,
-     "chgPct": 0.0,
+     "price": 25345.0,
+     "chgPct": -0.51,
      "asOf": "2026-10-26",
      "dca": "매주 월 +2"
     },
@@ -8945,8 +8945,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 597,
-     "price": 21990.0,
-     "chgPct": 0.0,
+     "price": 21870.0,
+     "chgPct": -0.55,
      "asOf": "2026-10-26",
      "dca": "매주 월 +2"
     },
@@ -8960,8 +8960,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 215500.0,
-     "chgPct": 0.0,
+     "price": 213500.0,
+     "chgPct": -0.93,
      "asOf": "2026-10-26"
     },
     {
@@ -8974,8 +8974,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7150.0,
-     "chgPct": 0.0,
+     "price": 7300.0,
+     "chgPct": 2.1,
      "asOf": "2026-10-26"
     },
     {
@@ -9142,8 +9142,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12055.0,
-     "chgPct": 0.0,
+     "price": 11985.0,
+     "chgPct": -0.58,
      "asOf": "2026-10-26"
     },
     {
@@ -9156,8 +9156,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 22915.0,
-     "chgPct": 0.0,
+     "price": 22790.0,
+     "chgPct": -0.55,
      "asOf": "2026-10-26"
     },
     {
@@ -9170,8 +9170,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 25475.0,
-     "chgPct": 0.0,
+     "price": 25345.0,
+     "chgPct": -0.51,
      "asOf": "2026-10-26"
     },
     {
@@ -9184,8 +9184,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14490.0,
-     "chgPct": 0.0,
+     "price": 14460.0,
+     "chgPct": -0.21,
      "asOf": "2026-10-26"
     }
    ]
