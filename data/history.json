@@ -9192,9 +9192,9 @@
   },
   {
    "date": "2026-10-27",
-   "updatedAt": "2026-10-27T10:31:39+09:00",
+   "updatedAt": "2026-10-27T22:10:56+09:00",
    "fx": {
-    "usdkrw": 1324.68,
+    "usdkrw": 1327.34,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -9208,8 +9208,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 762,
-     "price": 25755.0,
-     "chgPct": 1.62,
+     "price": 25580.0,
+     "chgPct": 0.93,
      "asOf": "2026-10-27",
      "dca": "매주 월 +2"
     },
@@ -9223,8 +9223,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 599,
-     "price": 22065.0,
-     "chgPct": 0.89,
+     "price": 22005.0,
+     "chgPct": 0.62,
      "asOf": "2026-10-27",
      "dca": "매주 월 +2"
     },
@@ -9238,8 +9238,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 224250.0,
-     "chgPct": 5.28,
+     "price": 225000.0,
+     "chgPct": 5.63,
      "asOf": "2026-10-27"
     },
     {
@@ -9252,8 +9252,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7440.0,
-     "chgPct": 1.64,
+     "price": 7470.0,
+     "chgPct": 2.05,
      "asOf": "2026-10-27"
     },
     {
@@ -9420,8 +9420,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12390.0,
-     "chgPct": 3.38,
+     "price": 12290.0,
+     "chgPct": 2.54,
      "asOf": "2026-10-27"
     },
     {
@@ -9434,8 +9434,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23020.0,
-     "chgPct": 1.01,
+     "price": 22945.0,
+     "chgPct": 0.68,
      "asOf": "2026-10-27"
     },
     {
@@ -9448,8 +9448,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 25755.0,
-     "chgPct": 1.62,
+     "price": 25580.0,
+     "chgPct": 0.93,
      "asOf": "2026-10-27"
     },
     {
@@ -9462,8 +9462,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14585.0,
-     "chgPct": 0.86,
+     "price": 14530.0,
+     "chgPct": 0.48,
      "asOf": "2026-10-27"
     }
    ]
