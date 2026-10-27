@@ -1,103 +1,13 @@
 {
- "updatedAt": "2026-10-28T01:02:20+09:00",
+ "updatedAt": "2026-10-28T07:42:26+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트 은행, Anthropic을 위한 Broadcom AI 칩 자금 조달에 630억 달러 제공",
-   "title": "Wall Street Banks Provide $63 Billion To Finance Broadcom AI Chips For Anthropic",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaURpMTZfVThMYTM0SVpUTGpvYjJSSVhKVjNpQkxpcmNRcGdmSjFRN3pBZ181bDVwd0E2eks2cmlqcnBHUHBoOVBSakJGaHRBWDIxN1IwUndBSnhkcG5sX2ZGX0RMWTRqVE1GeVI3TENLNnZwVWp1amRUMWNKSDFCdkpWTW1WdG5QcHVTMF94bnk1Znl1bmpj?oc=5",
-   "published": "2026-10-27T23:34+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 2.33,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "제너럴모터스(GM), 2026년 11월 17일 주식 상장을 나스닥으로 이전할 예정 주가 상승 2.4%",
-   "title": "General Motors to Transfer Stock Listing to Nasdaq on November 17, 2026; Shares Rise 2.4%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcE5nb3JXZUFESUlyckVfNG9sZEZnTHBlMXNfWDZ6dUxfMWJudFhOdzM0dXViemc4SjFCRm1mM0lWRTl1LUdIT3JJTlk4SXVmc21MZ2U0TzBHTHhXZ0FtbUVEcUR4NFJ1dXdXNERrczZRSUI4eVFIakFzSlpWS3RCbTk2amttUnItbWpvX1o4QUF1ZjBCR0pneDJwdGllOHNMVmRmRg?oc=5",
-   "published": "2026-10-27T23:30+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.82,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Janus Henderson, Stellar 독점 원심분리기 포함 Onchain Nasdaq-100 펀드 출시",
-   "title": "Janus Henderson Launches Onchain Nasdaq-100 Fund With Centrifuge, Exclusively on Stellar",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVgxZGtOaHhWTmp4bGE1MnM4LS1BeGpxZzI1MWw4QVBNOUxYelVuQWkyREVjRllBMWN0c0ZkR0Fzd3czaEM1a3FzMzNGWXZpNXdpTlJzX25FekZQYjB0bnNEZ3FGV1dNSE56a2FXUnh4aE9vSEh3SHZYUGZSanR4aVU1T3pRNU9wNHpZRHdGMk9ET0VRTGtra0pMTzFZaXhRRnhhS2FfOA?oc=5",
-   "published": "2026-10-27T22:48+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.82,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI 개발 및 수익 지원 시장 회복으로 미국 주식 선물 포인트 상승: Dow Jones, S&P, Nasdaq, Wall Street",
-   "title": "U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLUpWa0hvUnc1d0F5OXpVWVBxTUJyZHNaV1hucl8tX1ZmZXZiZ0tWcmp2ZHJmUm1UNEhIT21QNVhZOV9VelZueEVWYWpxU05KNDJpZVhsQXpfQTNybEYxOTNBZjc5ODUtTF9vLXRPOXl3QmpERjdlYVloU0kxdWU3Q3lUTkZ1LTVRS2pYU1pFZy1oWnRwTVM1VA?oc=5",
-   "published": "2026-10-27T22:34+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.82,
-     "asOf": "2026-10-26"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.28,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Watsco(WSO) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Watsco (WSO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE5FektoTGRiTHFXaTU0UjAwaDZ4VkNtLVFZSjFGd1VSR3UzY2ItbG5YUzNLb2V2eDJQbHlwSmVlYlZ5VHRsZktWci1icGNuMm9id2VvNUpPNEJmdjhYU2k4Y0VmSHZyMHVRWmdtclNwTnBHd1FhT3VDQ3N0WTJ2cFZFR0ZEZ2R0b2hhdkhQTThyb0hHOGc?oc=5",
-   "published": "2026-10-27T22:30+09:00",
+   "summary": "GM, 월스트리트의 기술 분야로 이동",
+   "title": "GM shifts into Wall Street's tech lane",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5",
+   "published": "2026-10-28T06:29+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -107,8 +17,161 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.7,
-     "asOf": "2026-10-26"
+     "chgPct": 0.6,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Caesars Entertainment(CZR) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Caesars Entertainment (CZR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWl5YlhTekZ0V3ZMR0E5bFZjZ010dnY4VElhT2pZUTIyT2RIakNVTDZDYnBhM0s5aVl5Z0lxT3dnUk0tYWIxc2pPbjdfRzFzaEdnNkZSUlpKZk8tUkpnYk5Mb2lHQ0R6MEI5alFoRjlLazhqMXpOLVFiSVZTdGRnQUZ6Mjl2MHN2NV8wYXJIWXpHSFN3MEphSWVjdXRPZkNLUm13TQ?oc=5",
+   "published": "2026-10-28T06:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.6,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "업데이트: 새로운 수익 보고서에 이어 Nasdaq, S&P 500 연속 상승세",
+   "title": "Update: Nasdaq, S&P 500 Notch Back-to-Back Gains Following Fresh Earnings Reports",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVpqMy1aaDJUVkpWWTZ1eUt0cnhjX1F0TXpfZ3lFVVY0OEtNS1J1M3dCRk5jLUc5UlU4bTFYT1lnb1c1cmRQdnVuckFnNDd0bE5wQkczaDF0N1VJVXl1UTltLWJwMkVJcFZjdWJZeTVRMnU5ZnJTZzQ4RGJIYXdENXgyRHVhS3NUbUl0UFZuU2d6dw?oc=5",
+   "published": "2026-10-28T05:53+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.18,
+     "asOf": "2026-10-27"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.6,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Okta(OKTA)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "Okta (OKTA) Beats Stock Market Upswing: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUZheC03Ym10VnBHaG8xcFRuNWxwUVlaRXYzV1V5Y3VjNWxPME9aLVZkSVg1NXliTm9nSEc1LVZFS2tvUndwd2dtdEpCQ1duZDU4ekNZT0F4bWt6UzFfb2o0Q2pJV09Zb2hvVFQwTWpPaTBpcTBZWkZKczZHTzJRYVZNUm5zNzN5a0RyYkRzY2dkdXkwNVdGMA?oc=5",
+   "published": "2026-10-28T05:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.6,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "CGC(Canopy Growth Corporation)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+   "title": "Canopy Growth Corporation (CGC) Beats Stock Market Upswing: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTRXamk0Zkotc0ZDTkVjQmRjc29yVVdLbnIydkJIS2tiSld1c3ZpZWhaeUJ4aG8zMFV5eW03T0pGM0pRcWJDRzVsT1NUOXlmU3hpVXRUcE43emtlUGVuUkUtVlBuOEtSbFBvY1gxdWM2RXg4RmhISjliZi1GeTdzT05GX2JtTDJrNDBQZUJaOGczSXZuX0Z3Wnlhcl9Zckx5Q1E?oc=5",
+   "published": "2026-10-28T05:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.6,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 새로운 30억 달러 AI 베팅은 자체 고객 중 한 명에게 있습니다",
+   "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3llTkxNaWxNc1hqa3J6UEJQbXlTelByVXhXRlFrNWJLX0ZJN2NTY3p5bWRCU3otdzhoN3lWYXI4TEgxMkd6Yl9pNGNobFJ2RXZiSTFSekRFY0FsOTRuMjhzdVBIY3V0UlRxYUNhWG0xTmVQMFV2ZEpDSHFCMjBYY0lVYXE0bmt1ejdmMF9BSFI?oc=5",
+   "published": "2026-10-28T06:40+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 주식은 최고치에서 12% 하락했습니다. 역사가 말하는 다음은 다음과 같습니다.",
+   "title": "Nvidia Stock Is Down 12% From Its High. Here's What History Says Happens Next.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVlEMHoyS0FUdW1kRU5pR3VROE9rXy1QU2VKeXNraDdJbUxIMTJNcDFLcXhBRjN6Q0hGUE1Ia3VtVDZlamNkQXhET3VPODJvSVdObWtJZHVkcWRKMGVpSDZ3QURLdzVhVjhabE9IREJGaDl5cGYwN1VBbmRPd2RuQ0o3anNVQTZiTjRpMGJ0eUFQbUp5?oc=5",
+   "published": "2026-10-28T05:01+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AMD와 Nvidia가 AI 칩 시장을 분할합니다. 1 주식은 오늘 훨씬 저렴합니다.",
+   "title": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw?oc=5",
+   "published": "2026-10-28T00:35+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 5.45,
+     "asOf": "2026-10-27"
     }
    ]
   },
@@ -128,14 +191,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.98,
-     "asOf": "2026-10-26"
+     "chgPct": 2.77,
+     "asOf": "2026-10-27"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
     }
    ]
   },
@@ -153,77 +216,8 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": 2.85,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "칩 주가 상승으로 기술주 이틀 연속 상승: AlphaCheck",
-   "title": "Tech rises for second day in a row as chip stocks gain: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbE1sVE5vV2pLNXBydk1yRWFDX0Fkc0FyRDBvTnBKWm95TkJkYkYzS2t3N1hQVFNXeE1aRzdtaXR1ZnJkMW4ySXF2Y1dWcVk1cW5hdllBU1dEZVFIRmVfVUF5VWZwc2ZwdTBaSlU5ckNydmNSOEh1enlrS2tLQmJHYkM2NGY3ZC01ZE82bm5kc2RqVG5MYzlLU2MxMW5YelkxdFlDdS1ZT1R1Sk16WUphNnMxanMwT1kzbnFn?oc=5",
-   "published": "2026-10-27T22:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.85,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Stock은 메타와 관련된 AI 인프라 주식 검색을 주도합니다.",
-   "title": "Nvidia Stock Leads Search For AI Infrastructure Shares Tied To Meta",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa09FWE9iVVhIcERQblM3b2VNX1ItM3NKSUVoRHZGNjBLLTR2anFXTEpUZm5JWWw1dmxEaVhlOXQ2RV9jSHFXM2stUXJyMzgyS2NESDlqaHRWUk5ZT0ZCUzhOc00wdzR4Nk9CNnZjbVhKcjJobnNHTTZ0N2pzSXhtNngzbEhGTVI0MnFvMlNfdXYycFhaVmRn?oc=5",
-   "published": "2026-10-27T22:15+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
-    },
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -1.88,
-     "asOf": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia, Meta에 30억 달러 투자, Muse와의 파트너십 확대",
-   "title": "Nvidia to invest $3 billion in Meta, expand partnership on Muse",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFVwN1hfQVhaWm9LZkY0bERYY0JtOVBtR2dSSHV4T1c0eU91TjN6WXAwTHNvZmhnQlpkUENkSGhYT21aNWlBWjM0dXNFSHp5andOeTlKRzhDN3NremU5QzhTdDlRMThvMGZFck02ZnUtRWIybmloSTJPVnktWlVSRWdOZ1c3QWY3bk1GVUN1YWx4aExfRnJ4b2VtNlFia0wtVWNQZE5mcl9Ld2JUT3g5X1FRT1lYSUVpVWc?oc=5",
-   "published": "2026-10-27T21:52+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
-    },
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -1.88,
-     "asOf": "2026-10-26"
+     "chgPct": 3.91,
+     "asOf": "2026-10-27"
     }
    ]
   }
