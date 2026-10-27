@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T10:23:02+09:00",
+ "updatedAt": "2026-10-27T10:31:45+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -114,6 +114,31 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "Intel vs. Nvidia: 정체된 추세 vs. 수익의 급속한 확장",
+   "title": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1ZOUGpRR1BkSzVoMFU5ODF0Z1lBSktYclk1YV9hZzlja05iaFFIckxSME9YNUtGM1pQQldTZ2QxcTkyRmpaOGVCMWVyellaWDVBaWFWX2NXQS1HR3lMTVRua1ZWcDJoN3JiTGk1a2c3ZDN6YXN4RjVEczhyLVkyanBnc0ZrbWEtNTItSnZtOGNHLWI3eTlR?oc=5",
+   "published": "2026-10-27T07:20+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.59,
+     "asOf": "2026-10-23"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": 1.72,
+     "asOf": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Nvidia(NVDA)가 시장 수익률을 능가함: 알아야 할 몇 가지 사실",
    "title": "Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
    "source": "Yahoo Finance",
@@ -127,25 +152,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -0.59,
-     "asOf": "2026-10-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Alpha and Omega Semiconductor Limited (AOSL) 주가, 뉴스, 시세 및 내역",
-   "title": "Alpha and Omega Semiconductor Limited (AOSL) stock price, news, quote and history",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLU5wWUhGM3pyOUNnNjVxWXBpUWZRSVBmWnZjOTEwQmxaNlVObkZfVjRJeTVRWUZaOTJMc25Pbm1xRktpQW5udGVlZDdVNDRtX1E?oc=5",
-   "published": "2026-10-27T05:39+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 0.53,
      "asOf": "2026-10-23"
     }
    ]
