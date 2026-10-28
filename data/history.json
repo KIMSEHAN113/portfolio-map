@@ -9470,9 +9470,9 @@
   },
   {
    "date": "2026-10-28",
-   "updatedAt": "2026-10-28T09:31:58+09:00",
+   "updatedAt": "2026-10-28T09:33:54+09:00",
    "fx": {
-    "usdkrw": 1329.48,
+    "usdkrw": 1328.88,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -9486,8 +9486,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 762,
-     "price": 26130.0,
-     "chgPct": 2.15,
+     "price": 26120.0,
+     "chgPct": 2.11,
      "asOf": "2026-10-28",
      "dca": "매주 월 +2"
     },
@@ -9501,8 +9501,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 599,
-     "price": 22240.0,
-     "chgPct": 1.07,
+     "price": 22235.0,
+     "chgPct": 1.05,
      "asOf": "2026-10-28",
      "dca": "매주 월 +2"
     },
@@ -9516,8 +9516,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 233500.0,
-     "chgPct": 5.18,
+     "price": 234500.0,
+     "chgPct": 5.63,
      "asOf": "2026-10-28"
     },
     {
@@ -9530,8 +9530,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7570.0,
-     "chgPct": 2.02,
+     "price": 7590.0,
+     "chgPct": 2.29,
      "asOf": "2026-10-28"
     },
     {
@@ -9698,8 +9698,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12530.0,
-     "chgPct": 1.95,
+     "price": 12535.0,
+     "chgPct": 1.99,
      "asOf": "2026-10-28"
     },
     {
@@ -9712,8 +9712,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23185.0,
-     "chgPct": 1.05,
+     "price": 23180.0,
+     "chgPct": 1.02,
      "asOf": "2026-10-28"
     },
     {
@@ -9726,8 +9726,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 26130.0,
-     "chgPct": 2.15,
+     "price": 26120.0,
+     "chgPct": 2.11,
      "asOf": "2026-10-28"
     },
     {
