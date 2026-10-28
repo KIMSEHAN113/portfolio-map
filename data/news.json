@@ -1,55 +1,13 @@
 {
- "updatedAt": "2026-10-29T04:02:49+09:00",
+ "updatedAt": "2026-10-29T07:49:10+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "나스닥 변동성이 주중에 냉각됨에 따라 칩 수익 전력 평균이 더 높아졌습니다.",
-   "title": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGVwM1NMOGtuZG94ZXVObTBtZWxrVmxTNy1TdXZBUk13OEFnQU1Ob0pGMmgyZV9XbnE1WVgyaFN2em1EOHAtRGQ3bE5hRHRhMHNSdmRUZ3FiZkVEbVhaTEFabnVEMGYzWHJibTQyLU1VbGN0QVkyeldENmc0ZGdIeEZMMlVyMXVaMXhQMFhoajBTdk9YaWpPT3Jhdld6ZDlmREE?oc=5",
-   "published": "2026-10-29T03:24+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.18,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Microsoft 수익 라이브: Microsoft는 Azure의 추가 성장을 위해 월스트리트와 함께 1분기 수익을 보고합니다.",
-   "title": "Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQUFab0V6U3FBYnBsV1o1Tlh0OUtpM3JtRGxicGdiNi0tNF9wQ1FPT0NocUx1Zl95eFR0RTBGZGpQTWozcW5NZDBsOV9rdnNsTVVzcTVfYW9pekJRZW84YURfcmxjOWktSGxTb3hEYjNnV0MyNThOZWVRNU14aTFiMnJ0ZkdwZDRXNEl1NENMOEozQm5PZkVWVGZRSk9Wc0lxZ2dmcUp4cXIzWXFQVTJMeTVKMG1BRDhuNXU2VkpPRDlTSXBlNS1IUFVWaTViMFpKbHdEYlBETjR4UzBjQTV3UGJiM2RTak11QlZ5ZzhRc0V3VDJtaE1tdmIteHIxZw?oc=5",
-   "published": "2026-10-29T02:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": -0.24,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 이 엄청난 주식을 과소평가했을 수도 있습니다",
-   "title": "Wall Street May Be Underestimating This Magnificent Seven Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlh1QkFudTNrWGZMUjRxSE1GQUZMVGZYamx0VVpiaHlCVlJwSFN0WGRxNHJRRGwxNGs0RTVpYkN2UzFIQThubTZmR0cwVngzcS1keW1rQktjQW5wWVFRNUo4SU5nWnhqaE1CODlrZXZ2c3puN2xXVThEaWNyNTFtSG4zNVhScnpOWHA4MklUeElqNlBpVE5ZblhCX3AtQ05sazlEcnQtZjl5S1Zi?oc=5",
-   "published": "2026-10-29T01:33+09:00",
+   "summary": "Weil, Gotshal & Manges, 오랜 월스트리트 법률 회사, 계획 축소",
+   "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFRvcngtMWpjNnNVWkVrYVhVR1phbExVZnhjeWhPdnpZUFo4Qm9IXzA5X2hRQXFYMjRYWnU1cmJvNkJ4dFd3czFkMlVKS20tYUV5NTZHTlZ1YS1rX1IwcmFjZ2djd0JoTkZ4MWVVMk1iYW12V3NMcFcyOFdfeDYzOUhMbGNZMDDSAYwBQVVfeXFMTTdPR2tpTkZMZ1VsWjRVNEpZYUVnWkx3WTNXZ2VmUUItaHF4UFJrTjcyVk56blUwd3FvY3ZBZ3Z3aVA5bUFyWmQ0RTNuU0FKVjVVTkh2d0JpZ2o1dFU3Vnc1dEZEdi03UDVuYmt5WVhyZEV6N3FRMTFlQlRoaGxxd19ndkctTHhTREI0Zmc?oc=5",
+   "published": "2026-10-29T07:23+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,60 +17,146 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.6,
-     "asOf": "2026-10-27"
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "폭스 월드 시리즈는 탬파 랠리로 부활하길 희망하지만 월스트리트 회사는 더 짧은 시리즈에서 제한적인 히트를 본다",
-   "title": "Fox World Series Hopes Revived By Tampa Rally, But A Wall Street Firm Sees Limited Hit From Shorter Series",
+   "summary": "월스트리트는 연준의 일시 정지를 지나 기술 수익과 AI 반등을 바라봅니다.",
+   "title": "Wall Street looks past Fed pause to tech earnings and AI rebound",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOENqX3J1NkZSemtaREtWTi1nSWNZNXhycVotU2p5cUloTnV2S0NESW5ZRUg0YUNUS1lQLXNJNk9EZXdhVzR3VWJZOExtUUh0RVhuSW4tXzA1b2hOMjlzZG9vcUs3dzJ2REhTZ2xiYWFNVnFSUlJ1aTRRRXkzWW8xQTZNUlRqQUZTbzEyUDhwOHhkaWtOMko5ZGxSTlVzZw?oc=5",
+   "published": "2026-10-29T06:55+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 10월 28일 주식 시장: SK 하이닉스, 기록적인 3분기 실적 및 AI 메모리 수요 급증",
+   "title": "Stock Market Today, Oct. 28: SK Hynix Surges on Record Q3 Results and AI-Memory Demand",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0I5dDhWdkRfbkhMTWhkZWE5cF9PZU1oZG5SQnpNZ2M1dkpWQ09maTM3dlpaRjRfbkhFXzhQc1lveHhpdHYxQzdPQTcyYU1rNjE1WGFmT2p6aVhxNFAtWXktcWJsbUwyTGx0VS1lMkw2aWRsd1NUQjJDbDBDNGRzalNRZTI0c3NPMjl3cmZ0QTFPamp5?oc=5",
+   "published": "2026-10-29T06:48+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 10.89,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "알파벳은 월스트리트의 수익 기대치를 놓치고 주식은 장기 거래에서 계속 하락",
+   "title": "Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNURmRi01T1pRa2lMMWNSUFVGUUFfaU9jRGJGSkVVc0FDTjZWSWU4aUVDNjBhSkhVYjFqSHRjZkdiT05UQk1VcVpoREdRT3pXWFV4enk2d3ZQUGRLdWpvZUNWNzJZQWhTXzNlaWJWRUlEQWVub3hOc1FyWjBGclpoZ2dRNndLazBRSThsOERYSkJzOFJXVEw1RTRSUkQxRzBfWC1jMXdwNmFzT0ZmMlFuN1VCNG11eGZlcjhVWThXZEtyWDlxLUVCNnZiWVVjNXBhdjYyNXFn?oc=5",
+   "published": "2026-10-29T06:34+09:00",
+   "holdings": [
+    "googl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": 1.34,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "포드는 수익을 앞지르고 월스트리트의 수익 기대치를 밑돌았습니다.",
+   "title": "Ford beats on earnings, misses Wall Street expectations on revenue",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTNveDNoMXpWOFp5QzlBb1NNRFl6OWZPX2tQcnJXbnE0M3lYREthZ2NNck1PM3NQVUw3Z24xZ3N0OWxfMkRBZ0tSYWdDRzhaeklfS2dubFdqUWRuc1BWV18tVE5qdVpIYkdFcDBlbWRlMXdyTWdxT0EyNkRyWWtPb1BtNkNSdHRkSmVNVmMtX282bTFDVlB5bDFFTFhyLXlfLWd1ZkVzX1lVZDZF?oc=5",
+   "published": "2026-10-29T06:10+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ON Semiconductor Corp.(ON) 주가는 하락했지만 시장은 상승했습니다: 주요 사실",
+   "title": "ON Semiconductor Corp. (ON) Stock Dips While Market Gains: Key Facts",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa19RZXNkYjFrZXF6cFRXbW5ib2dUVWZuRU1LOXIyT3c0N3Uxb2xTTXdsSXdYSVBDaG1jVmV1QTZfVFZKTFBaSy1hX3ktTld1dXlQNkgzVlZQLW51M2Q2eUJFcGxGUThqN24zY0hBb0twZG84Q1RDZnF1aFBwMzlqNkdHSWo1UQ?oc=5",
-   "published": "2026-10-29T01:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFB1bU5xOUh6WWhRYUY4TVFCelpLQWFQRHVzb2xsZktWUHcxZkV3akVnMjRoVk96U3BYTDE1NDhYejBIR3FFTzNsRUxqQlMtUElMREpIZUlVdmMtSS1BNktxRVF4ajhfYWZsZ1hJSEs1V1Bwb0tXbktyd0RqYzc1UWVLNGdta1VybnBkdw?oc=5",
+   "published": "2026-10-29T05:50+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.6,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "브루어스의 월드 시리즈 출전은 월스트리트에 밀워키를 응원할 이유를 줄 수 있다",
-   "title": "Brewers' World Series run may give Wall Street a reason to root for Milwaukee",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGUxbFZBd2Z0c1FpSjh1MF9KT19XVHhEYndMN1hDR0prTXRJSVlob01kakxuLXRkRFFzU0F3V1dDZHNXS2lkTUFPS2s0Y2ljQ3A0LWNvSVhLY2J6NVUwUHZISkJnYURZRDItYVpyMkJRay1jZ1J0WDUwaWVEX25FRXBOSEh5YkxfaWE2bmxDTy1BUkVZSURQZ2dTblpfMXZhbHRHdVU3SEczbGFrTnNDMWNTbVBUYjBTLThTVjNPc3hvZDZuOUkwTWtGUVJQQQ?oc=5",
-   "published": "2026-10-29T01:22+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.6,
-     "asOf": "2026-10-27"
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 2.13,
+     "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK 하이닉스: 장기 투자자를 위한 3가지 주요 시사점",
-   "title": "SK Hynix: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Meta는 975억 달러를 조달했습니다. Nvidia와 AMD가 인수하고 있습니다.",
+   "title": "Meta’s Raising $97.5 Billion. Nvidia and AMD Are Buying In.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkJZLWtmb2J0QkhTbF8yS2dIZDl3M2dYQ3ZXWXVpQzYzUU1QakVSQmRsYXVoNjRCbG4wZFhfNXJXVEdLSUhuU1hOYzVpczlxd0N5YjlXa1BxZ2tiZ05VajBRNjR2a21OblRsQ0FwQkFaTDZEbG9ROTBjeWhmSFRLWWg0ZWFQcHM4QlVmc01WZ3NzMmc?oc=5",
-   "published": "2026-10-29T02:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ4Vm91UVpOZkJKOHNQT3pZOVdhQy1vLTd3WFlvTk9XZEFxNUplVi1vS3FobTdOOXdXS1FiV1lHUXVsX09JTldOTWJ2bzlNcGxJM1RlRlJwbFdUSjl4MFgwZk5fWE00ZzBlaG5ac1JjQzAtZ0paMWpmWFg5cWRoVDNuOWIzbHRqYzJKQzlJQWk0dzlG?oc=5",
+   "published": "2026-10-29T05:20+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.17,
+     "asOf": "2026-10-28"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 3.24,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "영업이익률 80% 돌파하며 SK하이닉스 주가 상승",
+   "title": "SK Hynix Stock Rises as Operating Margin Hits Record 80%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVm02YUZwNjNGc28zQzNqUVFFT1dGRG1vY2gwMkxMY0U1aktYRVozRDVVcDFNZUpEdTlLVnFzMXExMDh3UENvR2hBRU9IRTVXNExNamtZZmdXVnVtRmR5YkxBUGRSWHZkWGtxNzNZZUZFTW9xbkVmNG1vVFp5d3hoRUtWMktCV0Q1VHNDOVB6aTQ2ZjJsODZUNUJscw?oc=5",
+   "published": "2026-10-29T05:05+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -129,32 +173,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스(SKHY) 주가 전망",
-   "title": "SK hynix Inc. (SKHY) Stock Forecasts",
+   "summary": "SK 하이닉스 기록적인 이익으로 Micron, Nvidia 및 AI 칩 주식 상승",
+   "title": "SK Hynix Record Profit Lifts Micron, Nvidia and AI Chip Stocks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUl0NnhreUVjX3FPWjNiRHdQYmZpZUlSNzVDMDkwRzNpb0VSdi15X2hETWJyWVhVSkJ0d0c0VDMwX2pZdmRTakNvQ1NsaERrSERoRTUzLWhtR0NwcEV1cU8wYWFIaXg0TWJOeEE5NzBLemNUMG5MMHEzUXgyYjRnYWhCckk3M1hYNW1JLQ?oc=5",
-   "published": "2026-10-29T01:43+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 10.89,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "오늘 Micron Technology 주식이 반등한 이유",
-   "title": "Why Micron Technology Stock Rallied Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0NKUDZrYmo5dEcyMllySC1BZFRZTUxPZFp5TzJmOGl5ZTdIaEpXcWJVSWtlNDhuWGFSclN6ZkJ3d29CLUluMWtUcGowaXBadVVBY0tqVS1mUkstcHFsLXI1RWp0RmpOdm5OZzJLSktYZ0tmZ0gwRG1XMFN5ZFdtaGNnenc4TVBsczR3d25fVlFrd3dMdGJjVXlMVFlUV2JqdkE?oc=5",
-   "published": "2026-10-29T01:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2g0SUg5Y2g0ekdoZ0prWFNNRnY4NEFfY1QzLUhjcGVNdFlQTDBzTmF0MnZCUjVnYkFORVQtX2x0M0dqYngzVDBYX2VsOFNDX1cxRWJuOTF2RU1yaFVDUUc3ZnpsWFhPX1g3UHdYeVd3NzNVcFJfcFZLN1g3TGppSWRHZnE1UGZIYzF6Z1VGelJYR2Z4WWdN?oc=5",
+   "published": "2026-10-29T05:02+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -164,37 +187,24 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.77,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia는 먼저 6조 달러를 침해할 가능성이 가장 높으므로 구매합니다.",
-   "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUVMOXpwOEF6NEtqZ3V2NkdWRDQxb1R0b2RFdzN4OEJNaUk0ckFrWWpGSzN6V2R6bVM4VXYyeWk0QmVWcnljakFUMXprY2gtTi1PZ1FVMy1JN05DblU2aEhBQnhBTmI4OE5OYjZHTUN1bVVsR3JYNkc3Z2hJY1lGZUgtYnRTODNDWkZHaVIxVkF4XzNjemZn?oc=5",
-   "published": "2026-10-28T23:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 0.9,
-     "asOf": "2026-10-27"
+     "chgPct": -1.17,
+     "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "오늘 SK하이닉스 주가가 폭등한 이유",
-   "title": "Why SK Hynix Stock Popped Today",
+   "summary": "오늘 마이크론 주식이 상승한 이유",
+   "title": "Why Micron Stock Is Up Today",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjJSUGhaeEc3MkxJMEp5VUlUUjZMVzlGTzFKQm1BZUVhOVhkeFROWHZsM3ljX0FOZk1OamQwNXJ5bEZDeXozLXljTHpFb1E0SW9qV0E0N2V2XzRVUXVyNTd2Q2pXb3hORl9vVktXU0pLTWw4ZUp4LTRmNWV5QlZpMHpYWGNfSmFMRmdpRzQtVktZMzFR?oc=5",
-   "published": "2026-10-28T23:22+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTJMOG1zSzlhSmpGWWI2MEp6Z3N5REo2Z1lUbzBjNkN6YzBVOEI3VlNBTkNUODJQaVRnU3Zfb2RvRTROMWQzemhaVXZmX2piQ3NBTGxSNDFfaEt6RmJiNWQxSFpvTkQzQmJQWW1uY0VlbFhZSGFTRTNVdklodWFIb01mazJPTUlmeVg3Sk15aXc?oc=5",
+   "published": "2026-10-29T03:51+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -202,9 +212,9 @@
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 10.89,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
      "asOf": "2026-10-28"
     }
    ]
