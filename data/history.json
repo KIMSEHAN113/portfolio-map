@@ -9470,9 +9470,9 @@
   },
   {
    "date": "2026-10-28",
-   "updatedAt": "2026-10-28T11:02:02+09:00",
+   "updatedAt": "2026-10-28T14:02:26+09:00",
    "fx": {
-    "usdkrw": 1335.18,
+    "usdkrw": 1341.84,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -9486,8 +9486,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 762,
-     "price": 26295.0,
-     "chgPct": 2.8,
+     "price": 26430.0,
+     "chgPct": 3.32,
      "asOf": "2026-10-28",
      "dca": "매주 월 +2"
     },
@@ -9501,8 +9501,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 599,
-     "price": 22335.0,
-     "chgPct": 1.5,
+     "price": 22450.0,
+     "chgPct": 2.02,
      "asOf": "2026-10-28",
      "dca": "매주 월 +2"
     },
@@ -9516,8 +9516,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 240500.0,
-     "chgPct": 8.33,
+     "price": 240750.0,
+     "chgPct": 8.45,
      "asOf": "2026-10-28"
     },
     {
@@ -9530,8 +9530,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7570.0,
-     "chgPct": 2.02,
+     "price": 7520.0,
+     "chgPct": 1.35,
      "asOf": "2026-10-28"
     },
     {
@@ -9698,8 +9698,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12810.0,
-     "chgPct": 4.23,
+     "price": 12835.0,
+     "chgPct": 4.43,
      "asOf": "2026-10-28"
     },
     {
@@ -9712,8 +9712,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 23302.0,
-     "chgPct": 1.56,
+     "price": 23395.0,
+     "chgPct": 1.96,
      "asOf": "2026-10-28"
     },
     {
@@ -9726,8 +9726,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 26295.0,
-     "chgPct": 2.8,
+     "price": 26430.0,
+     "chgPct": 3.32,
      "asOf": "2026-10-28"
     },
     {
@@ -9740,8 +9740,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14805.0,
-     "chgPct": 1.89,
+     "price": 14870.0,
+     "chgPct": 2.34,
      "asOf": "2026-10-28"
     }
    ]
