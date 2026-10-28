@@ -1,25 +1,19 @@
 {
- "updatedAt": "2026-10-28T09:34:00+09:00",
+ "updatedAt": "2026-10-28T10:32:04+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "투자자들이 10월 연준의 결정을 주시하면서 S&P 500, Nasdaq은 칩 제조업체의 강세를 보이고 있습니다 — ORCL, HOOD, JBLU, RIVN, SMCI 집중",
-   "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
+   "summary": "RenaissanceRe (RNR) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "RenaissanceRe (RNR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2x3QWVTTDM5RjlzVkd2ZWc2bEFMUlUzSXdFTGNSS21mVHVxMEtPQlVxOUJmU0JaT29MSXZWSlA2Uk5ncFNORWVSTGpabENCeTVNZ09IWHJoWWlGNFI2eHlHZ3JlcGZOcldOakxlR2M3Qm9td1c4RzBObm1xYXk2ZjNDYXZDdnFJMHpqcHhGMFA4S3c0bjBN?oc=5",
-   "published": "2026-10-28T08:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhRT1FiQ3A0OURTcGxvMWl6b0NsQnJONXdDZlk4cE1HNzZaa3VON0gtZlE3ZDd3a3otV1FocEt2SlMxSHZRdEVxdVRiRkJ3UDh6dnM0UG9Rb3pIdEJFd3RBZUJCUmpHMWdYWWw3U0laVUVIYWpweEd4ZWE4aE9oSVNzWDltQ2tjdHcybGdwMnpNSmNJa1lWYWd4MEM2SWc?oc=5",
+   "published": "2026-10-28T08:00+09:00",
    "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.18,
-     "asOf": "2026-10-27"
-    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -30,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "RenaissanceRe (RNR) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "RenaissanceRe (RNR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhRT1FiQ3A0OURTcGxvMWl6b0NsQnJONXdDZlk4cE1HNzZaa3VON0gtZlE3ZDd3a3otV1FocEt2SlMxSHZRdEVxdVRiRkJ3UDh6dnM0UG9Rb3pIdEJFd3RBZUJCUmpHMWdYWWw3U0laVUVIYWpweEd4ZWE4aE9oSVNzWDltQ2tjdHcybGdwMnpNSmNJa1lWYWd4MEM2SWc?oc=5",
-   "published": "2026-10-28T08:00+09:00",
+   "summary": "GM, 월스트리트의 기술 분야로 이동",
+   "title": "GM shifts into Wall Street's tech lane",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5",
+   "published": "2026-10-28T07:13+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "GM, 월스트리트의 기술 분야로 이동",
-   "title": "GM shifts into Wall Street's tech lane",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5",
-   "published": "2026-10-28T06:29+09:00",
+   "summary": "Caesars Entertainment(CZR) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Caesars Entertainment (CZR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWl5YlhTekZ0V3ZMR0E5bFZjZ010dnY4VElhT2pZUTIyT2RIakNVTDZDYnBhM0s5aVl5Z0lxT3dnUk0tYWIxc2pPbjdfRzFzaEdnNkZSUlpKZk8tUkpnYk5Mb2lHQ0R6MEI5alFoRjlLazhqMXpOLVFiSVZTdGRnQUZ6Mjl2MHN2NV8wYXJIWXpHSFN3MEphSWVjdXRPZkNLUm13TQ?oc=5",
+   "published": "2026-10-28T06:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,17 +87,23 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Caesars Entertainment(CZR) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Caesars Entertainment (CZR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "업데이트: 새로운 수익 보고서에 이어 Nasdaq, S&P 500 연속 상승세",
+   "title": "Update: Nasdaq, S&P 500 Notch Back-to-Back Gains Following Fresh Earnings Reports",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWl5YlhTekZ0V3ZMR0E5bFZjZ010dnY4VElhT2pZUTIyT2RIakNVTDZDYnBhM0s5aVl5Z0lxT3dnUk0tYWIxc2pPbjdfRzFzaEdnNkZSUlpKZk8tUkpnYk5Mb2lHQ0R6MEI5alFoRjlLazhqMXpOLVFiSVZTdGRnQUZ6Mjl2MHN2NV8wYXJIWXpHSFN3MEphSWVjdXRPZkNLUm13TQ?oc=5",
-   "published": "2026-10-28T06:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVpqMy1aaDJUVkpWWTZ1eUt0cnhjX1F0TXpfZ3lFVVY0OEtNS1J1M3dCRk5jLUc5UlU4bTFYT1lnb1c1cmRQdnVuckFnNDd0bE5wQkczaDF0N1VJVXl1UTltLWJwMkVJcFZjdWJZeTVRMnU5ZnJTZzQ4RGJIYXdENXgyRHVhS3NUbUl0UFZuU2d6dw?oc=5",
+   "published": "2026-10-28T05:53+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.18,
+     "asOf": "2026-10-27"
+    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -126,14 +126,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
     },
     {
      "symbol": "AAPL",
      "name": "애플",
-     "chgPct": -1.1,
-     "asOf": "2026-10-26"
+     "chgPct": 0.93,
+     "asOf": "2026-10-27"
     }
    ]
   },
@@ -151,15 +151,15 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스 3분기 이익, AI 메모리 강화로 예상치 크게 상회",
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+   "summary": "SK하이닉스, 3분기 이익 예상보다 250억 달러 이상 배당 및 자사주 매입 발표",
+   "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5",
    "published": "2026-10-28T08:34+09:00",
@@ -191,8 +191,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
     }
    ]
   },
@@ -210,8 +210,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.39,
-     "asOf": "2026-10-26"
+     "chgPct": 0.9,
+     "asOf": "2026-10-27"
     }
    ]
   }
