@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T10:01:13+09:00",
+ "updatedAt": "2026-10-29T11:02:14+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -17,13 +17,55 @@
     {
      "symbol": "GOOGL",
      "name": "알파벳",
-     "chgPct": 1.19,
-     "asOf": "2026-10-27"
+     "chgPct": 1.34,
+     "asOf": "2026-10-28"
     },
     {
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": 0.27,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "베테랑 월스트리트 회사인 Weil이 사업을 축소할 계획입니다. 그 이유는 다음과 같습니다.",
+   "title": "Veteran Wall Street Firm Weil Plans To Wind Down—Here’s Why",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmI2OHg0cUpZMmF6ZEpaVEVqT01HLWdMWWdtNHBQNjN1X29PRFdEZXVXWXdzY05pWm91c1NIcDJTODVPWUozMlN2bE8xMFNKY3IwQkE4ODgzTHJXb2NzRnllSXY3MHhjRGFseDRkTHFTX0h6djVSN1ByWkJsN1ZySDBXcGM?oc=5",
+   "published": "2026-10-29T09:03+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Raymond James Financial(RJF) 4분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Raymond James Financial (RJF) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlJJMW5VclBENERhY3RoTnRHcGVDdlJvT1lXZm5oTGdMSGVyS3h2QkZLMkVNS04wYVk4ekNHdGljaXVINGNIeUoyYVNpQzZtT0lfUDFLTHpnZ0l0NHBQZG5VeGtSNG9vTXJkNGFPSnNVcDV2ZXpNVlcxOXVYV0pydnJiaGUzTGlzRlA5VjJiSVJrUWhaRm4xS0RmMA?oc=5",
+   "published": "2026-10-29T09:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
      "asOf": "2026-10-28"
     }
    ]
@@ -71,48 +113,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "S&P 500이 주도권을 잡으면서 반도체 주식은 모멘텀을 잃습니다.",
-   "title": "Semiconductor stocks lose momentum as S&P 500 takes lead",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDgxb0gxQ25yWFJzSUpFVnFmZG9ZMWJ0alVTM1E2VkpWdWl5NFBMb0U0amZ4UU9UYkNsbnNLWGFoNndEd2ozLUNGQmpDVEVaYTZMei1VZnY1QnVJTGR0VWlnakdnUV81YTJNNkN3WGpUTWFONFBsVlZhZW9xQU5VdDJfcFlIOWIyTUVzY1FqNGVGVk4tUHF0WHF0NldTeXk4RmNv?oc=5",
-   "published": "2026-10-29T07:01+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Flowserve(FLS) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Flowserve (FLS) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzJWOFJBTW00ODBHV2FvVmVhbmVEMlFlVEtFUHBpcC1wMzByNzNpM1lHWDFjdjJtYjBsamVSeDMxN3RqWml3S1VVNVBXS1k3WjFCUG5ZMmoydzVyUFVGRl9vbmZLSWRBUUJnYlF4NlFsRFItSXY1X3ZOQWMtVVM4ckJUOEhRcWs0MGk0Y0VYNlVEem1uemI1bzVB?oc=5",
-   "published": "2026-10-29T07:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "인텔, 칩 주가 계속 반등하면서 3분기 실적 발표",
    "title": "Intel to report Q3 earnings as chip stocks continue to rebound",
@@ -126,53 +126,7 @@
     {
      "symbol": "INTC",
      "name": "인텔",
-     "chgPct": 3.61,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "ON Semiconductor Corp.(ON) 주가는 하락했지만 시장은 상승했습니다: 주요 사실",
-   "title": "ON Semiconductor Corp. (ON) Stock Dips While Market Gains: Key Facts",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFB1bU5xOUh6WWhRYUY4TVFCelpLQWFQRHVzb2xsZktWUHcxZkV3akVnMjRoVk96U3BYTDE1NDhYejBIR3FFTzNsRUxqQlMtUElMREpIZUlVdmMtSS1BNktxRVF4ajhfYWZsZ1hJSEs1V1Bwb0tXbktyd0RqYzc1UWVLNGdta1VybnBkdw?oc=5",
-   "published": "2026-10-29T05:50+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 3.91,
-     "asOf": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스, 마이크론 투자자들에게 희소식 전달",
-   "title": "SK Hynix Just Delivered Great News for Micron Investors",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlkzek9vVFF4a1QtSlhxdUxCNE9uN0NkWURxeE56WmQ3ZlZsZnJBaXhtNEFBLWZ0Vjc1eVpGUzg4TDQyWTNpV1pWNU9qOEF1ZFprZEtrbmtXZmhIUS1zV3R0dElJZ0N3Y0NwYmVUeEowM29jVkFkMXJ3bC1ULVMzRnVOT05sSnJ1NkZpdTFNZnJENFhZLTVxZTVR?oc=5",
-   "published": "2026-10-29T05:35+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.77,
-     "asOf": "2026-10-27"
-    },
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 10.89,
+     "chgPct": 1.91,
      "asOf": "2026-10-28"
     }
    ]
@@ -191,24 +145,45 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 0.9,
-     "asOf": "2026-10-27"
+     "chgPct": -1.17,
+     "asOf": "2026-10-28"
     },
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": 5.45,
-     "asOf": "2026-10-27"
+     "chgPct": 3.24,
+     "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK 하이닉스 기록적인 이익으로 Micron, Nvidia 및 AI 칩 주식 상승",
-   "title": "SK Hynix Record Profit Lifts Micron, Nvidia and AI Chip Stocks",
+   "summary": "영업이익률 80% 기록하며 SK하이닉스 주가 상승",
+   "title": "SK Hynix Stock Rises as Operating Margin Hits Record 80%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2g0SUg5Y2g0ekdoZ0prWFNNRnY4NEFfY1QzLUhjcGVNdFlQTDBzTmF0MnZCUjVnYkFORVQtX2x0M0dqYngzVDBYX2VsOFNDX1cxRWJuOTF2RU1yaFVDUUc3ZnpsWFhPX1g3UHdYeVd3NzNVcFJfcFZLN1g3TGppSWRHZnE1UGZIYzF6Z1VGelJYR2Z4WWdN?oc=5",
-   "published": "2026-10-29T05:02+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVm02YUZwNjNGc28zQzNqUVFFT1dGRG1vY2gwMkxMY0U1aktYRVozRDVVcDFNZUpEdTlLVnFzMXExMDh3UENvR2hBRU9IRTVXNExNamtZZmdXVnVtRmR5YkxBUGRSWHZkWGtxNzNZZUZFTW9xbkVmNG1vVFp5d3hoRUtWMktCV0Q1VHNDOVB6aTQ2ZjJsODZUNUJscw?oc=5",
+   "published": "2026-10-29T05:05+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 10.89,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "오늘 마이크론 주식이 상승한 이유",
+   "title": "Why Micron Stock Is Up Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTJMOG1zSzlhSmpGWWI2MEp6Z3N5REo2Z1lUbzBjNkN6YzBVOEI3VlNBTkNUODJQaVRnU3Zfb2RvRTROMWQzemhaVXZmX2piQ3NBTGxSNDFfaEt6RmJiNWQxSFpvTkQzQmJQWW1uY0VlbFhZSGFTRTNVdklodWFIb01mazJPTUlmeVg3Sk15aXc?oc=5",
+   "published": "2026-10-29T03:51+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -218,14 +193,35 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.77,
-     "asOf": "2026-10-27"
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "메모리 칩 붐으로 AI 거래가 증가함에 따라 Micron, AMD 및 Nvidia 주가 상승",
+   "title": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdURvVHZMekg4ejloWUVQX2dla0JKOTJsMzRfaU9BUmNEU29FU0xrTlMzVmEzQk9UYlhKZDJjcDFKZmFnQkNzb1JzN2g3dTlnZ2w3a2FMYkFwZWlhQ0tDNVl6SGs1M05NZms4TDJ0VUJVdC1wNE9LMVVWcklNRzNaX1k1Rnh0ZGVWUUV4UTFiT2sxRzlOT09SWWl3?oc=5",
+   "published": "2026-10-29T03:38+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 0.9,
-     "asOf": "2026-10-27"
+     "chgPct": -1.17,
+     "asOf": "2026-10-28"
     }
    ]
   }
