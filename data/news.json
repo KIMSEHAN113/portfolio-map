@@ -1,13 +1,30 @@
 {
- "updatedAt": "2026-10-29T22:32:14+09:00",
+ "updatedAt": "2026-10-30T03:01:52+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "ServiceNow는 1년 동안 20% 하락세를 유지했습니다. 이 저명한 월스트리트 회사는 앞으로 75%의 이익을 기대합니다.",
-   "title": "ServiceNow Remains Down 20% Over 1 Year: This Prominent Wall Street Firm Expects 75% Gains Ahead",
+   "summary": "일부 투자자들은 중간선거에 대한 불안감을 갖고 있습니다. 주식에 대한 역사가 보여주는 것은 다음과 같습니다.",
+   "title": "Some investors have midterm election jitters. Here’s what history shows about stocks",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkloOE1iMUlPS0h6NEh3ZW12aWZsWVJZTWpaNVhBbTUwUWVtbWRUYWRHLW92NW5hZVVva2x2UlRfVnpVYkliTkVxMGdFdnk2VlpzcW4tWV9nelR1QTJLZUlvU0hhbEVyVGlJWkpqaHdrNkRhZjU1NVZKTHNPYUdEcdIBhgFBVV95cUxQXzZmN2tEbFpRYWVLT1JpRVFmekhMM2NBZXFNT0JqZGNvSEdhOXdKeFNjVFpteV95S2N0emdzOERsVVQwY1NMLWVSMHI0aU5wa3FyNm91NXBLekFKczlqd0hzMndycEwtVUVkbENtWGFsTkVldER0b1Eyb0xiMUtkY0RHM1dvUQ?oc=5",
+   "published": "2026-10-30T02:26+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트는 트럼프의 게시물을 먼저 보기 위해 그의 회사에 돈을 지불하고 있다",
+   "title": "Wall Street Is Paying Trump’s Company to See His Posts First",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1lT08zcnJVbmZSZTd2SC1rZzJyYVFzdDhjMUt4TjFkS09kQ2E1Wm0xenZDTC1IMTYxOE1zdmlwV1F0SlJReUdobXh6ZXNjRlVrclZRZGt4Y1lNcEV1SVNPeE13MS1jYklGMWVORGhfQXd3TUM5dmw2ZFFsc0Y3TjQ2RUE3QzNVRTFYMU5NajJyM2NLbG1lWGoyajQ?oc=5",
-   "published": "2026-10-29T21:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkZWYUJHdVdNUmRqYWc0aWNCaEkwMVhOZ1p1dmRaN3BEMFRVcG9lRzJ3SUlZM3ZIalV1TU84c0JERFZqNDliNjR0SHFHREdPdG5kMDBlZHp6UGhXWkZxeWd1T0VERUozUzhNTldZZWFiVUtOZXEyclA3THN2ckNUaFRjYTRaeXZRU084VWFrUm5pbDVNVUNjUXhEVlZNZw?oc=5",
+   "published": "2026-10-30T01:39+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +41,53 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘 미국 주식 시장: S&P 500 선물은 장기 금리 집중으로 인해 상승세를 보이고 있습니다.",
-   "title": "US Stock Market Today: S&P 500 Futures Slip On Higher For Longer Rate Focus",
+   "summary": "월스트리트의 최고 분석가들은 Microsoft의 1분기 결과를 좋아합니다.",
+   "title": "Wall Street's top analysts are loving Microsoft's Q1 results",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXAxTXBWRjNLLUJDTTkxNDBuSEhvRF9uMEdnTHJwaC03TGV1VjBnWUhuc2VaSDRKMGZiTW84MkhhTEgzclplS0NQYUZZRlJ4ZExOTGxWN3hqMndyZHBCb0VpNEpqMlNFa0hIT0oxWXFGWjRJNHJHWEhhdGkzNEFwRFVGS0RGamFVeXNlNHNuVlVfdw?oc=5",
-   "published": "2026-10-29T21:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEFmRTFLdVJVUW1Yc0dGQTYxTXdsR1N4X3pYUDlrNWFLSmFfbldGMXNFbWdwbWtmRUN6d2VrWDRlS0ZLVUQwdEM1U29hWG9GbW1vM2ZyLXFJenc5U0NWTVpoTHh5c05MODFQMjNwNjB5a3YwQjVZNjdvX3VsQ056WXpkUGVMM3Q1dFFxTldTVXVJbFdkek9XSTBzQWFZUXNhemN5enR0dEJYZy1sQllRZXo0Qy15VU9ndEE?oc=5",
+   "published": "2026-10-30T01:18+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "MSFT",
+     "name": "마이크로소프트",
+     "chgPct": -0.06,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트의 브로드컴 목표가가 52주 최고가를 넘어섰습니다. 거리가 맞나요?",
+   "title": "Wall Street’s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHVxSGdiS3dXNkhtb3NlUDR5OHJhV2dneGJIcjVwZTlvSlY1bHluVThCampHTHRsYVFIa2tYZ0NfamY3Tko1bWxWOTJoenFNUUl0UmphMVk1MUFmUVpWYUhrTjJ0bkxjaDZwdmNyaTF1TUhWSEIwTko5bFh3amVLc3RMNG52ZmZ2X0x1NnFxWko2SFVSQzFUOHFPSUI4QQ?oc=5",
+   "published": "2026-10-30T01:03+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": 2.77,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "DTCC가 새로운 서비스를 출시함에 따라 월스트리트는 토큰화를 수용합니다.",
+   "title": "Wall Street embraces tokenization as DTCC launches new service",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOE93cXVuVXZjaEJ1WlI4eVpZeVVVVDFkZHdMQmJieG9DODFJa2xFbTZKRXRzQnVQTTBWUk84SU9yTjZwTENHbnptTVFRLXhMRXNES095TnJGU0hqR0Z4Q1FGa09tRkNTcFJ1ODVtcFdrLWdfdGdhanRBaFpoWFZoTW9RX2NzQThYUUI2Z1ZWUndKUkRGNzJSR0N1LXZvTDNzNmNVUXZtaklUVlU3UHc?oc=5",
+   "published": "2026-10-30T01:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -44,64 +103,47 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Dot Ai, Nasdaq 청문회로부터 유리한 결정을 받음",
-   "title": "Dot Ai Receives Favorable Decision from Nasdaq Hearing Panel",
+   "category": "반도체 · 메모리",
+   "summary": "삼성이 기록적인 칩 이익에도 불구하고 예측을 빗나감에 따라 마이크론 주가는 2.6% 하락",
+   "title": "Micron Shares Fall 2.6% as Samsung Earnings Miss Forecasts Despite Record Chip Profits",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmN0RHVYejBuTDYwTXRhZWNPR2s5SWxEUzRWNjNJMlYwR3BXMlJfRTdzQzJxZFpMNXI5dnlhckJfMnNnREc2R1MxT001TldnemllNERHcXdJUjRvM205cVd6NFFZa3pRY0NJbUk3ZGlXWktoRnd0NFEyRm51UnJoTUJXczlTcGN6emN6VUV3VU16cVFUSlFqMnAzUEJkbGJS?oc=5",
-   "published": "2026-10-29T21:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkZXTHp4R2pHRl9IdzhHZmpTWXprcGxZOE5oOTZzZmNTN3d3TXVfM0VzeDdsZTdZVHBYOFFmYkNEbW1pZEJ6b2F4cXJEUEdMbm9jTE5VbHhsM0Y5ckRCdDBESUZGcGRwMEk4ZkpyeUg4T2VBVjJpRzFvbXFQcDVralFNVTZLMVJiMjlV?oc=5",
+   "published": "2026-10-30T00:01+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.27,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": 9.01,
      "asOf": "2026-10-28"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "오늘 캐나다 주식 시장: BoC 인상으로 금리 기대치가 재편되면서 TSX 선물이 상승했습니다.",
-   "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 방금 SpaceX의 180억 달러 지분을 공개했습니다. Jensen Huang이 보고 있는 시장은 그렇지 않다고 보는 것은 다음과 같습니다.",
+   "title": "Nvidia Just Disclosed an $18 Billion Stake in SpaceX. Here's What Jensen Huang Sees That the Market Doesn't.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1NSU1RmN1dhVk0zUUlTbHVqX0xzUE9qS3M3ZDBBUFJNeE1DT2NqekFROWJMaW5SU1djakhBY2pPbVRlVFlwTjV2Ykc1M0ZoZmkxeUNqaHpCclZ2cU91TWl0NTByaDJ2X2ZuZVVGU3dFMXpzZ2JEV1RDei00b1NnOFk2QnpqMWl5b1U0aTJEd3hmLTJEc1QzVVZFX1p5X3ozWWlFTEpiYWVYdw?oc=5",
-   "published": "2026-10-29T21:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjVjYXFGQ2w3cUZOekZNN0huRGFrSjE2NTBjbVdzcThoX0I0ODJDdlhzSXRYZEdHb0xFUXpQWWFGMktTNndKZWpMYkdSNXVOTUJsWnhKNkhTZi1mUy1zUGVUVXFoYTJQaFhhYlEwbVVUR0dhbVNzeS1KVmNTclpndlJYRFNKTzhHeXRPY1VWV2pVb1ZlQnRxZjM4ZVl6UQ?oc=5",
+   "published": "2026-10-29T22:30+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "흥미로운 잠재력을 지닌 월스트리트가 선호하는 주식 2개와 우리가 거절하는 주식 1개",
-   "title": "2 of Wall Street’s favorite stocks with exciting potential and 1 we turn down",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRyTktuV3lNLXUteUN4YkU5UWFBMi0wUG1EN09oZmtISzBDdjNrOTFtVGV5ZS02U24xX0NoVUYtUUJ1UDdkTC1TVVQta0xDU05lWmN3NW9nRkgtdlJKLUppazltcklpM2dqOTZzMVkxaTA4VWVpSlhlbzZuZ3huaG1Hb1dwVTJVV1V0dzRYdDM4dTc2VHdOMlJn?oc=5",
-   "published": "2026-10-29T21:03+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.17,
      "asOf": "2026-10-28"
     }
    ]
@@ -128,8 +170,8 @@
     {
      "symbol": "005930.KS",
      "name": "삼성전자",
-     "chgPct": -4.13,
-     "asOf": "2026-10-29"
+     "chgPct": 9.01,
+     "asOf": "2026-10-28"
     }
    ]
   },
@@ -156,51 +198,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론 주식은 보기보다 위험합니까?",
-   "title": "Is Micron Stock Riskier Than It Looks?",
+   "summary": "Nvidia: AI 왕은 여전히 ​​최고치에 가까운 '매수' 상태",
+   "title": "Nvidia: The AI King Still A 'Buy' Near Its Highs",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakhON3hhTlhKQ2Zqdkp6djZHZDNnWklCV1lZRmdiMzBfM2VzbFNza2swWFJnS01zUTR0dFYwZkc3VE1FZk9GdVdvc1Judnp3RU9NYjhYcTRlYVNyeGFhNkJSX3RaQjNsd0dNYnMtVEpfWkNSbld2a253Zkc4Y2lQeXZORXlhVlpiT2h0Q2NnSzFISEVadXc?oc=5",
-   "published": "2026-10-29T20:44+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "iShares PHLX SOX Semiconductor(SOXX), 10월 27일 AMD 및 INTC 추가",
-   "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and INTC on Oct. 27",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU9BZS1GWnFwc3pVT1pud0gzWTdiZjhrR3UwSFF1OEthX1NBNkt6X3AwVmxVQ04wbXN1TG5NWU85OXVVdE04RmlJbVBFTlVXOW9NWVdCT0pBTjZsZ3hsNm5MdjFwX2lvVm1nUWhoelRSLTlvTHh5MXNVV1BCcjRkYThubFZ2ZWtBOEl1SkFDT1RkcHVNdzRETHBxSWFQR2FPLXc?oc=5",
-   "published": "2026-10-29T20:04+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 3.24,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) 주가, 뉴스, 시세 및 역사",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-   "published": "2026-10-29T18:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhHWmN0LUU0MGN5Y0NkVGhpb2Y0MnRoU3h6U2tTRDFMRURXUTBaNTNndzl4U3ktNzlNdGU4QXJISDdjR1dkWDFnMTNjWnJmaUVyWkR3ZGtnTTJWODF0UEp1ZXZEdzFUbThPcl9XNThMS19LeDdITldMWDd5QW9yNWFvazVINE5zSkwzVDUtMlQ5aUU?oc=5",
+   "published": "2026-10-29T20:56+09:00",
    "holdings": [
     "soxl"
    ],
