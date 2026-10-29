@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-29T22:10:54+09:00",
+ "updatedAt": "2026-10-29T22:32:14+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "ServiceNow는 1년 동안 20% 하락세를 유지했습니다. 이 저명한 월스트리트 기업은 향후 75%의 이익을 기대합니다.",
+   "summary": "ServiceNow는 1년 동안 20% 하락세를 유지했습니다. 이 저명한 월스트리트 회사는 앞으로 75%의 이익을 기대합니다.",
    "title": "ServiceNow Remains Down 20% Over 1 Year: This Prominent Wall Street Firm Expects 75% Gains Ahead",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1lT08zcnJVbmZSZTd2SC1rZzJyYVFzdDhjMUt4TjFkS09kQ2E1Wm0xenZDTC1IMTYxOE1zdmlwV1F0SlJReUdobXh6ZXNjRlVrclZRZGt4Y1lNcEV1SVNPeE13MS1jYklGMWVORGhfQXd3TUM5dmw2ZFFsc0Y3TjQ2RUE3QzNVRTFYMU5NajJyM2NLbG1lWGoyajQ?oc=5",
@@ -196,21 +196,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론(MU), 화요일 순 ETF 순매수가 7,040만 달러 확인",
-   "title": "Micron (MU) Sees $70.4 Million in Net ETF Buying on Tuesday",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTVLdENfbVBoUzFuQXEwUWhidFQ4X1VGemlDZ0huSExaRDFMVGU1ODljWVFDZUNXbjQyZGEtaUZFZ09pVURjeTB3Q1pKVHpOOFpGejZiQzFLd0h3U0dKaDEwcVZqYldFS2xybGxmeTJoam03TS1FSlVhdTJoSWU4RXd3bE5fRVRpUWwtUg?oc=5",
-   "published": "2026-10-29T20:01+09:00",
+   "summary": "NVIDIA Corporation (NVDA) 주가, 뉴스, 시세 및 역사",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "published": "2026-10-29T18:07+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.17,
      "asOf": "2026-10-28"
     }
    ]
