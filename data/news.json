@@ -1,6 +1,90 @@
 {
- "updatedAt": "2026-10-30T03:01:52+09:00",
+ "updatedAt": "2026-10-30T05:31:58+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "알파벳 실적 부진, 월스트리트에 충격파 보내",
+   "title": "Alphabet earnings miss sends shockwaves through Wall Street",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zd1ZpMkppWGw4WXp2RmRLaWJWR3R3REFtOXRUUmlGVzJSMkJWVFRDcTFwcU0zaWlsckZFYUJIeXRfQXJBdG1jcEJEOExlUk5PV2tYUUVnU2JHaGM?oc=5",
+   "published": "2026-10-30T05:08+09:00",
+   "holdings": [
+    "googl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": -12.64,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "알파벳 매출 부진으로 AI 투자 불안이 되살아나면서 월스트리트는 하락세로 마감",
+   "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZS1LektXY2xjaGVlZFhXckZrRFZFelBDOEVKX2tKWVpQVmk4THRhbmlYOEZKV1h3ZHdZOTFPbWFuelU0SENDVlN2U0VHaDhUNGNQRDhVSmZ6d0k4SElZMXlncGhZRnNPRWZxZUMtYnVVQnFWZEEzS1ljaklDcmpVS2FoaVJrc2tQY3cxNEtQRmhVVlJKa3lIdkkyaw?oc=5",
+   "published": "2026-10-30T05:00+09:00",
+   "holdings": [
+    "googl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": -12.64,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트는 AI 소프트웨어에 패스를 제공하지 않았습니다.",
+   "title": "Wall Street Is Done Giving AI Software a Pass",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0VuemVJaGJGZjJuWDZXdXRjcG85RE5fOUJoYTVmS3dSaEM3Tk9GZ3RnZG5LODhWM201TzkwcXJJSHpsYWFPYWVJblhrLVlkdWF2M19Vck93VVRhbnJ1SGtfRXRTNnRJTEk2b0hHZDgxOGF2UWYxRlpCcHdLSUtaWWhCUVZ5NTRWcGdKM29fbmNaVHdfV3c?oc=5",
+   "published": "2026-10-30T03:54+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "알파벳 매출 부진으로 AI 자본 지출 불안이 되살아나면서 월스트리트 하락",
+   "title": "Wall Street slides as Alphabet revenue miss revives AI capex jitters",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tULWRvRHZoRUxrM1Z6NnVOUUo5LUJWRVo2Z05nbmhDSFhjRjgtb3ZJUzF1TXJzdWYxWG1Sa0EtcHl1Wmd5M09ZcWVORWpNQzNuX2FnRUoxcUVHbmlwYUNmTWtVMlQ4TC0xR1hQVmpvQU5PM2NtaG1jcmdvRE1xODdKWTFHcHplNGVKUVdXaUhtOTBLb2xIOHZUa2hJZW5EdGc?oc=5",
+   "published": "2026-10-30T03:40+09:00",
+   "holdings": [
+    "googl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": -12.64,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "일부 투자자들은 중간선거에 대한 불안감을 갖고 있습니다. 주식에 대한 역사가 보여주는 것은 다음과 같습니다.",
@@ -13,92 +97,56 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트는 트럼프의 게시물을 먼저 보기 위해 그의 회사에 돈을 지불하고 있다",
-   "title": "Wall Street Is Paying Trump’s Company to See His Posts First",
+   "category": "반도체 · 메모리",
+   "summary": "SK하이닉스, 9월 이후 부진: Rosenblatt가 175% 상승여력을 보는 이유",
+   "title": "SK hynix Has Slumped Since September: Why Rosenblatt Sees 175% Upside",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkZWYUJHdVdNUmRqYWc0aWNCaEkwMVhOZ1p1dmRaN3BEMFRVcG9lRzJ3SUlZM3ZIalV1TU84c0JERFZqNDliNjR0SHFHREdPdG5kMDBlZHp6UGhXWkZxeWd1T0VERUozUzhNTldZZWFiVUtOZXEyclA3THN2ckNUaFRjYTRaeXZRU084VWFrUm5pbDVNVUNjUXhEVlZNZw?oc=5",
-   "published": "2026-10-30T01:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGxaeHlMdUJZUlIyNmQzOUY1N09GRmFHVkhmeG1FLTQ0NXo4OWVoX2RQbzc4VFJuQm1IZTQ0ZUo0WWlOVURRX1VpNDh3WGplVlhqaG1GWjFRNFowanJWTm5WdWlvM01iZ3lCSHY0dTVfSWc1R3BldzRGOUkzU3dWdjh3MTgtT0dlczkyYXBYNDlYYWVTbzBzQlZIWGsxdw?oc=5",
+   "published": "2026-10-30T04:23+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": 2.62,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트의 최고 분석가들은 Microsoft의 1분기 결과를 좋아합니다.",
-   "title": "Wall Street's top analysts are loving Microsoft's Q1 results",
+   "category": "반도체 · 메모리",
+   "summary": "Samsung Miss가 Sandisk 수익에 앞서 메모리 랠리를 식히면서 Sandisk와 Micron은 5% 하락했습니다. SK하이닉스 3% 하락, 웨스턴디지털 하락",
+   "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEFmRTFLdVJVUW1Yc0dGQTYxTXdsR1N4X3pYUDlrNWFLSmFfbldGMXNFbWdwbWtmRUN6d2VrWDRlS0ZLVUQwdEM1U29hWG9GbW1vM2ZyLXFJenc5U0NWTVpoTHh5c05MODFQMjNwNjB5a3YwQjVZNjdvX3VsQ056WXpkUGVMM3Q1dFFxTldTVXVJbFdkek9XSTBzQWFZUXNhemN5enR0dEJYZy1sQllRZXo0Qy15VU9ndEE?oc=5",
-   "published": "2026-10-30T01:18+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0lURlNVYTFJWUJFR1VKbnJGTzdTTGstMXJNVjhudzNZc1NKQ25uVUY2TTBjZm1Hc2x4d2paYl95WXVqMXJuQkoweHVOVEhrdjlkUk1RcktucjVMb2lqc2JMTkk1c19VY1NVaHNMcjRFWVV1VVpfeTNkaS16amVpcno3ZnhLbmZnUk81bW1tNGlMV3hHcDZNRjd3dw?oc=5",
+   "published": "2026-10-30T04:09+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": -0.06,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트의 브로드컴 목표가가 52주 최고가를 넘어섰습니다. 거리가 맞나요?",
-   "title": "Wall Street’s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHVxSGdiS3dXNkhtb3NlUDR5OHJhV2dneGJIcjVwZTlvSlY1bHluVThCampHTHRsYVFIa2tYZ0NfamY3Tko1bWxWOTJoenFNUUl0UmphMVk1MUFmUVpWYUhrTjJ0bkxjaDZwdmNyaTF1TUhWSEIwTko5bFh3amVLc3RMNG52ZmZ2X0x1NnFxWko2SFVSQzFUOHFPSUI4QQ?oc=5",
-   "published": "2026-10-30T01:03+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
+    },
     {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 2.77,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "DTCC가 새로운 서비스를 출시함에 따라 월스트리트는 토큰화를 수용합니다.",
-   "title": "Wall Street embraces tokenization as DTCC launches new service",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOE93cXVuVXZjaEJ1WlI4eVpZeVVVVDFkZHdMQmJieG9DODFJa2xFbTZKRXRzQnVQTTBWUk84SU9yTjZwTENHbnptTVFRLXhMRXNES095TnJGU0hqR0Z4Q1FGa09tRkNTcFJ1ODVtcFdrLWdfdGdhanRBaFpoWFZoTW9RX2NzQThYUUI2Z1ZWUndKUkRGNzJSR0N1LXZvTDNzNmNVUXZtaklUVlU3UHc?oc=5",
-   "published": "2026-10-30T01:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.28,
-     "asOf": "2026-10-28"
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -5.32,
+     "asOf": "2026-10-29"
     }
    ]
   },
@@ -118,14 +166,35 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
     },
     {
      "symbol": "005930.KS",
      "name": "삼성전자",
-     "chgPct": 9.01,
-     "asOf": "2026-10-28"
+     "chgPct": -4.13,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론은 지난 한 달 동안 17% 하락했습니다. 이 AI 주식은 여전히 ​​매수인가요?",
+   "title": "Micron Is Down 17% Over the Past Month. Is This AI Stock Still a Buy?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmNyZlQxU0lGamNJcmZ6dHROVjFxcmdXWU9ER3lKdmloYThpM2t3MHVQN0JIcDFlUTJzZmRTNDluUDRHQjFwbHBFSUw2bWNmM0RyRkZzcUY5b05kdy1oN093d3AxMjhJS04yQ0EtVFVYRHB4T0QyR2wzTHhTX3ZhUTJrUkkwaWJvVE1fNUE2dkZUVEk?oc=5",
+   "published": "2026-10-29T23:50+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
     }
    ]
   },
@@ -143,75 +212,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.17,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "삼성의 실적 후 매도세가 메모리 업계로 확산되면서 마이크론 주가 하락",
-   "title": "Micron shares dip as Samsung’s post-earnings selloff spreads to memory peers",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzVmS0pVRm5NNUJsYWtiR0RPMHpoSzVTSzlyX25aeXpMQi1IMTc2R0ZxZE5wWFpPQ2MwdmN1aDU0T3FRMloyREkwTkIyeFpodlVUY0t0S2hWU3djZ0VVaFVQNzF0cFRMNTJkQk1qcW9qYm40THoxNnRwMXByb3dtMnIwUUtXS1ZpYkxRTktfTnpOTGxIWjlPSTRpOA?oc=5",
-   "published": "2026-10-29T21:11+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
-    },
-    {
-     "symbol": "005930.KS",
-     "name": "삼성전자",
-     "chgPct": 9.01,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "2030년까지 메모리 부족? 반도체주가 다시 반등하는 이유",
-   "title": "A Memory Shortage Until 2030? Why Semiconductor Stocks Are Rallying Again",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlNEN1Z2SFBUaDBha2MtalAwbFVUYVdQOEMtZ0RYdE5qbFVLbUd0QXI1WWUyc0FUMTlsZktTRmduQ3N5dFZuYWFvd2g0SV81bUxkZ0VBLUpzUXo0RGctcEhwNFJZN1RuNmlzMU1JbHZZUnVjM1k4Ym9idjJBWWJFV3o3NFJTRGtHc0RVclpvbFF2V2ZFdnA5LTR5Yw?oc=5",
-   "published": "2026-10-29T21:08+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.13,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia: AI 왕은 여전히 ​​최고치에 가까운 '매수' 상태",
-   "title": "Nvidia: The AI King Still A 'Buy' Near Its Highs",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhHWmN0LUU0MGN5Y0NkVGhpb2Y0MnRoU3h6U2tTRDFMRURXUTBaNTNndzl4U3ktNzlNdGU4QXJISDdjR1dkWDFnMTNjWnJmaUVyWkR3ZGtnTTJWODF0UEp1ZXZEdzFUbThPcl9XNThMS19LeDdITldMWDd5QW9yNWFvazVINE5zSkwzVDUtMlQ5aUU?oc=5",
-   "published": "2026-10-29T20:56+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.17,
-     "asOf": "2026-10-28"
+     "chgPct": -0.8,
+     "asOf": "2026-10-29"
     }
    ]
   }
