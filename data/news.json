@@ -1,40 +1,13 @@
 {
- "updatedAt": "2026-10-29T11:02:14+09:00",
+ "updatedAt": "2026-10-29T22:10:54+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500, 나스닥 선물 하락으로 예상보다 약한 알파벳 수익으로 AI 지출 우려 재점화 — GOOGL, MSFT, ORCL, NVDA, MRVL 집중",
-   "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+   "summary": "ServiceNow는 1년 동안 20% 하락세를 유지했습니다. 이 저명한 월스트리트 기업은 향후 75%의 이익을 기대합니다.",
+   "title": "ServiceNow Remains Down 20% Over 1 Year: This Prominent Wall Street Firm Expects 75% Gains Ahead",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHFrQlZMOWZ1cW96WjF6VHJLWkI0c0dPcmJweHlhU0swOFh5aW9tMDVEM1BpUzNnQndUVEs3cXpsa2hUX0FPMTFIa0pZc3pFWlJBMzRhbFNLTkhrZThfTTVVVzhUTWNyZm9PMkVvOWdGSDNaQkJZbjB1clJiT1RaamRTUGVMX0ptN3ZwUFEtb3lyQVk?oc=5",
-   "published": "2026-10-29T09:10+09:00",
-   "holdings": [
-    "googl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 1.34,
-     "asOf": "2026-10-28"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.27,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "베테랑 월스트리트 회사인 Weil이 사업을 축소할 계획입니다. 그 이유는 다음과 같습니다.",
-   "title": "Veteran Wall Street Firm Weil Plans To Wind Down—Here’s Why",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmI2OHg0cUpZMmF6ZEpaVEVqT01HLWdMWWdtNHBQNjN1X29PRFdEZXVXWXdzY05pWm91c1NIcDJTODVPWUozMlN2bE8xMFNKY3IwQkE4ODgzTHJXb2NzRnllSXY3MHhjRGFseDRkTHFTX0h6djVSN1ByWkJsN1ZySDBXcGM?oc=5",
-   "published": "2026-10-29T09:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1lT08zcnJVbmZSZTd2SC1rZzJyYVFzdDhjMUt4TjFkS09kQ2E1Wm0xenZDTC1IMTYxOE1zdmlwV1F0SlJReUdobXh6ZXNjRlVrclZRZGt4Y1lNcEV1SVNPeE13MS1jYklGMWVORGhfQXd3TUM5dmw2ZFFsc0Y3TjQ2RUE3QzNVRTFYMU5NajJyM2NLbG1lWGoyajQ?oc=5",
+   "published": "2026-10-29T21:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -51,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Raymond James Financial(RJF) 4분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Raymond James Financial (RJF) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "오늘 미국 주식 시장: S&P 500 선물은 장기 금리 집중으로 인해 상승세를 보이고 있습니다.",
+   "title": "US Stock Market Today: S&P 500 Futures Slip On Higher For Longer Rate Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlJJMW5VclBENERhY3RoTnRHcGVDdlJvT1lXZm5oTGdMSGVyS3h2QkZLMkVNS04wYVk4ekNHdGljaXVINGNIeUoyYVNpQzZtT0lfUDFLTHpnZ0l0NHBQZG5VeGtSNG9vTXJkNGFPSnNVcDV2ZXpNVlcxOXVYV0pydnJiaGUzTGlzRlA5VjJiSVJrUWhaRm4xS0RmMA?oc=5",
-   "published": "2026-10-29T09:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXAxTXBWRjNLLUJDTTkxNDBuSEhvRF9uMEdnTHJwaC03TGV1VjBnWUhuc2VaSDRKMGZiTW84MkhhTEgzclplS0NQYUZZRlJ4ZExOTGxWN3hqMndyZHBCb0VpNEpqMlNFa0hIT0oxWXFGWjRJNHJHWEhhdGkzNEFwRFVGS0RGamFVeXNlNHNuVlVfdw?oc=5",
+   "published": "2026-10-29T21:14+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "12월 8일 IPO Edge Nasdaq Firesides 예정",
-   "title": "IPO Edge Nasdaq Firesides Scheduled for Dec 8",
+   "summary": "Dot Ai, Nasdaq 청문회로부터 유리한 결정을 받음",
+   "title": "Dot Ai Receives Favorable Decision from Nasdaq Hearing Panel",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVp2aDV1UWh4Z2dIQVVMdmtWRjc0dno4SGdDSUEwcWpFU2N3bVVyREZTaHhMcXhPVk5VQ2VSUXFuazczMVNwNW9iYUd3QTVRQUNWMVlCSm56SXBMNmtTZzFrNWI5WWlISHdKZzEwN1FCY1gxTDBzTFN4MElOSTN2TWZJSElNNkhQU1hjdTRfcHV0WnJ6VVFvRlhXSXRyMzBlLXc?oc=5",
-   "published": "2026-10-29T07:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmN0RHVYejBuTDYwTXRhZWNPR2s5SWxEUzRWNjNJMlYwR3BXMlJfRTdzQzJxZFpMNXI5dnlhckJfMnNnREc2R1MxT001TldnemllNERHcXdJUjRvM205cVd6NFFZa3pRY0NJbUk3ZGlXWktoRnd0NFEyRm51UnJoTUJXczlTcGN6emN6VUV3VU16cVFUSlFqMnAzUEJkbGJS?oc=5",
+   "published": "2026-10-29T21:13+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -93,11 +66,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Weil, Gotshal & Manges, 오랜 월스트리트 법률 회사, 계획 축소",
-   "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFRvcngtMWpjNnNVWkVrYVhVR1phbExVZnhjeWhPdnpZUFo4Qm9IXzA5X2hRQXFYMjRYWnU1cmJvNkJ4dFd3czFkMlVKS20tYUV5NTZHTlZ1YS1rX1IwcmFjZ2djd0JoTkZ4MWVVMk1iYW12V3NMcFcyOFdfeDYzOUhMbGNZMDDSAYwBQVVfeXFMTTdPR2tpTkZMZ1VsWjRVNEpZYUVnWkx3WTNXZ2VmUUItaHF4UFJrTjcyVk56blUwd3FvY3ZBZ3Z3aVA5bUFyWmQ0RTNuU0FKVjVVTkh2d0JpZ2o1dFU3Vnc1dEZEdi03UDVuYmt5WVhyZEV6N3FRMTFlQlRoaGxxd19ndkctTHhTREI0Zmc?oc=5",
-   "published": "2026-10-29T07:23+09:00",
+   "summary": "오늘 캐나다 주식 시장: BoC 인상으로 금리 기대치가 재편되면서 TSX 선물이 상승했습니다.",
+   "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1NSU1RmN1dhVk0zUUlTbHVqX0xzUE9qS3M3ZDBBUFJNeE1DT2NqekFROWJMaW5SU1djakhBY2pPbVRlVFlwTjV2Ykc1M0ZoZmkxeUNqaHpCclZ2cU91TWl0NTByaDJ2X2ZuZVVGU3dFMXpzZ2JEV1RDei00b1NnOFk2QnpqMWl5b1U0aTJEd3hmLTJEc1QzVVZFX1p5X3ozWWlFTEpiYWVYdw?oc=5",
+   "published": "2026-10-29T21:11+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.28,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "흥미로운 잠재력을 지닌 월스트리트가 선호하는 주식 2개와 우리가 거절하는 주식 1개",
+   "title": "2 of Wall Street’s favorite stocks with exciting potential and 1 we turn down",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRyTktuV3lNLXUteUN4YkU5UWFBMi0wUG1EN09oZmtISzBDdjNrOTFtVGV5ZS02U24xX0NoVUYtUUJ1UDdkTC1TVVQta0xDU05lWmN3NW9nRkgtdlJKLUppazltcklpM2dqOTZzMVkxaTA4VWVpSlhlbzZuZ3huaG1Hb1dwVTJVV1V0dzRYdDM4dTc2VHdOMlJn?oc=5",
+   "published": "2026-10-29T21:03+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,40 +108,84 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "인텔, 칩 주가 계속 반등하면서 3분기 실적 발표",
-   "title": "Intel to report Q3 earnings as chip stocks continue to rebound",
+   "summary": "삼성의 실적 후 매도세가 메모리 업계로 확산되면서 마이크론 주가 하락",
+   "title": "Micron shares dip as Samsung’s post-earnings selloff spreads to memory peers",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkctcG9uQk10dUx1NUxmQXFvcTg4TkVzQTJBVWhMVmJjdVo5S0lGOWxXYWFmdnZyX3JGOVBmaWhYRFNmTHZ1Rkk2T2RKTXFxa3VrU3lRQ2ZBM3B3eDhzUGQ1NlpSbjlGMWpRajJXOXEzbDBob0xaRTlna2hxeE94X0JNdmdaLUU0UUR4eURaYlhmTmY0SERKNFk1R1dzTGZ6anBmQVZFLVgtQVh4OUFMYU96Mzk1NHBZVUJ1VWJqMA?oc=5",
-   "published": "2026-10-29T07:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzVmS0pVRm5NNUJsYWtiR0RPMHpoSzVTSzlyX25aeXpMQi1IMTc2R0ZxZE5wWFpPQ2MwdmN1aDU0T3FRMloyREkwTkIyeFpodlVUY0t0S2hWU3djZ0VVaFVQNzF0cFRMNTJkQk1qcW9qYm40THoxNnRwMXByb3dtMnIwUUtXS1ZpYkxRTktfTnpOTGxIWjlPSTRpOA?oc=5",
+   "published": "2026-10-29T21:11+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": 1.91,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": -4.13,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "2030년까지 메모리 부족? 반도체주가 다시 반등하는 이유",
+   "title": "A Memory Shortage Until 2030? Why Semiconductor Stocks Are Rallying Again",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlNEN1Z2SFBUaDBha2MtalAwbFVUYVdQOEMtZ0RYdE5qbFVLbUd0QXI1WWUyc0FUMTlsZktTRmduQ3N5dFZuYWFvd2g0SV81bUxkZ0VBLUpzUXo0RGctcEhwNFJZN1RuNmlzMU1JbHZZUnVjM1k4Ym9idjJBWWJFV3o3NFJTRGtHc0RVclpvbFF2V2ZFdnA5LTR5Yw?oc=5",
+   "published": "2026-10-29T21:08+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 2.13,
      "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Meta는 975억 달러를 조달했습니다. Nvidia와 AMD가 인수하고 있습니다.",
-   "title": "Meta’s Raising $97.5 Billion. Nvidia and AMD Are Buying In.",
+   "summary": "마이크론 주식은 보기보다 위험합니까?",
+   "title": "Is Micron Stock Riskier Than It Looks?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ4Vm91UVpOZkJKOHNQT3pZOVdhQy1vLTd3WFlvTk9XZEFxNUplVi1vS3FobTdOOXdXS1FiV1lHUXVsX09JTldOTWJ2bzlNcGxJM1RlRlJwbFdUSjl4MFgwZk5fWE00ZzBlaG5ac1JjQzAtZ0paMWpmWFg5cWRoVDNuOWIzbHRqYzJKQzlJQWk0dzlG?oc=5",
-   "published": "2026-10-29T05:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakhON3hhTlhKQ2Zqdkp6djZHZDNnWklCV1lZRmdiMzBfM2VzbFNza2swWFJnS01zUTR0dFYwZkc3VE1FZk9GdVdvc1Judnp3RU9NYjhYcTRlYVNyeGFhNkJSX3RaQjNsd0dNYnMtVEpfWkNSbld2a253Zkc4Y2lQeXZORXlhVlpiT2h0Q2NnSzFISEVadXc?oc=5",
+   "published": "2026-10-29T20:44+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "iShares PHLX SOX Semiconductor(SOXX), 10월 27일 AMD 및 INTC 추가",
+   "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and INTC on Oct. 27",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU9BZS1GWnFwc3pVT1pud0gzWTdiZjhrR3UwSFF1OEthX1NBNkt6X3AwVmxVQ04wbXN1TG5NWU85OXVVdE04RmlJbVBFTlVXOW9NWVdCT0pBTjZsZ3hsNm5MdjFwX2lvVm1nUWhoelRSLTlvTHh5MXNVV1BCcjRkYThubFZ2ZWtBOEl1SkFDT1RkcHVNdzRETHBxSWFQR2FPLXc?oc=5",
+   "published": "2026-10-29T20:04+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.17,
-     "asOf": "2026-10-28"
-    },
     {
      "symbol": "AMD",
      "name": "AMD",
@@ -158,32 +196,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "영업이익률 80% 기록하며 SK하이닉스 주가 상승",
-   "title": "SK Hynix Stock Rises as Operating Margin Hits Record 80%",
+   "summary": "마이크론(MU), 화요일 순 ETF 순매수가 7,040만 달러 확인",
+   "title": "Micron (MU) Sees $70.4 Million in Net ETF Buying on Tuesday",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVm02YUZwNjNGc28zQzNqUVFFT1dGRG1vY2gwMkxMY0U1aktYRVozRDVVcDFNZUpEdTlLVnFzMXExMDh3UENvR2hBRU9IRTVXNExNamtZZmdXVnVtRmR5YkxBUGRSWHZkWGtxNzNZZUZFTW9xbkVmNG1vVFp5d3hoRUtWMktCV0Q1VHNDOVB6aTQ2ZjJsODZUNUJscw?oc=5",
-   "published": "2026-10-29T05:05+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 10.89,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "오늘 마이크론 주식이 상승한 이유",
-   "title": "Why Micron Stock Is Up Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTJMOG1zSzlhSmpGWWI2MEp6Z3N5REo2Z1lUbzBjNkN6YzBVOEI3VlNBTkNUODJQaVRnU3Zfb2RvRTROMWQzemhaVXZmX2piQ3NBTGxSNDFfaEt6RmJiNWQxSFpvTkQzQmJQWW1uY0VlbFhZSGFTRTNVdklodWFIb01mazJPTUlmeVg3Sk15aXc?oc=5",
-   "published": "2026-10-29T03:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTVLdENfbVBoUzFuQXEwUWhidFQ4X1VGemlDZ0huSExaRDFMVGU1ODljWVFDZUNXbjQyZGEtaUZFZ09pVURjeTB3Q1pKVHpOOFpGejZiQzFLd0h3U0dKaDEwcVZqYldFS2xybGxmeTJoam03TS1FSlVhdTJoSWU4RXd3bE5fRVRpUWwtUg?oc=5",
+   "published": "2026-10-29T20:01+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -194,33 +211,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": 5.86,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "메모리 칩 붐으로 AI 거래가 증가함에 따라 Micron, AMD 및 Nvidia 주가 상승",
-   "title": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdURvVHZMekg4ejloWUVQX2dla0JKOTJsMzRfaU9BUmNEU29FU0xrTlMzVmEzQk9UYlhKZDJjcDFKZmFnQkNzb1JzN2g3dTlnZ2w3a2FMYkFwZWlhQ0tDNVl6SGs1M05NZms4TDJ0VUJVdC1wNE9LMVVWcklNRzNaX1k1Rnh0ZGVWUUV4UTFiT2sxRzlOT09SWWl3?oc=5",
-   "published": "2026-10-29T03:38+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.17,
      "asOf": "2026-10-28"
     }
    ]
