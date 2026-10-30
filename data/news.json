@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-30T07:46:13+09:00",
+ "updatedAt": "2026-10-30T09:32:15+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "NASDAQ-100(^NDX) 계절별 수익률 차트",
-   "title": "NASDAQ-100 (^NDX) Seasonal returns chart",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45dXBaMmlTRmE3QmYyMXZGUDlXZVJDeVNoMTFNTWFFOGFWczNhLVFmZFJEdllhanpwNlpBb1h5dGJRNEhVSDZ2d1lMWDQ4WDFZdkRDanY1eW1rWHNJU1B4MmFJbC0?oc=5",
-   "published": "2026-10-30T07:06+09:00",
+   "summary": "Nasdaq 100 선물은 약한 Intel, Amazon 수익에 대한 부풀려진 Capex 우려로 인해 감정에 부담을 가중 — AMZN, INTC, SBUX, PLTR, ASTS 집중",
+   "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment — AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlNsa0lVbldjY0hjclktbElWSlBYWDhoN1llR3MtdFZOa3RnUmFUSnlFeXNJbjlGY2xTd3hoVE9lR0RzWnl5UjNCZ0JtQXZDSGdpWDJYeUp6Y1Y5ZjNnZnh6MUdsNzdNQ01RRU96REZWajJTYl9DZUR2U2hxS2h1YnI3dmNLdXJnS0tPMVZrLUE5MlRYUHVn?oc=5",
+   "published": "2026-10-30T08:54+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -15,20 +15,26 @@
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.38,
-     "asOf": "2026-10-29"
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": 1.91,
+     "asOf": "2026-10-28"
+    },
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 0.59,
+     "asOf": "2026-10-28"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Exelixis (EXEL) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Exelixis (EXEL) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "S&P 500 20년 역사 쇼: 이 단순한 전략은 \"완벽함\"보다 8.3% 낮습니다.",
+   "title": "20 Years of S&P 500 History Show: This Simple Strategy Is Only 8.3% Less Than \"Perfect\"",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnJqb3g4WWlQWThXRlJuRFA4TjFDQXNPSkdzU3B4NFJvN3VhRkFyZlIwX1lCdkgzQzV6U2cxN2FFbVU4YmVJSmoxM0ctVl83MjVQQmJPNVU3RV9OYTBMYmcyZHFBWGxTemUxTVRBcndBZFliRldBUFRMb0N6aDdsZ2l5OUoyel9Ma2lQZDI2N25OUGJRSjZUQVdR?oc=5",
-   "published": "2026-10-30T06:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVB4UVdLQWJJNkx3blIzeGFDMzd6SHNuX2prMUJrMjRjWUU0ZDJFSjBoMmpqVVl6b0lQbWwtTkVWNkpGa1JXcjhGcmtrN1JYTklsd2NIRUZ2dkxFQ3UtdUJ1bUJnU2JUSzZpcFZFQkVWNjFBMGpzMVEyd0tzY2xqTVN6UVpoSFAtVWdxR1ZmX0E?oc=5",
+   "published": "2026-10-30T08:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,59 +51,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "업데이트: Nasdaq, S&P 500 알파벳 매도세로 3일 연속 상승, 인플레이션 불안",
-   "title": "Update: Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjllbTYwZGZ0N0tEV0N4TTh0cG9WOXl0d196MVB0bXUtdThPZmppMzBjMjZ4NGEzWmNSUFJCbmJTcWYtektWQ0tRY0tlZFM4Zm5GYXhDX0J5ZUQzdVhYOHY4RXFkbG9tclI0a1VFTHI2S044bV9IdWZiTkxhTjc0bXQxYVBxbDF5TzBnUA?oc=5",
-   "published": "2026-10-30T05:32+09:00",
-   "holdings": [
-    "googl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": -12.64,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.38,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "인텔(INTC) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Intel (INTC) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWG55Mm0tVHRqUENDLTVkVUt5Z013R0xucExrUDBvZmdYLXRab0pxb0lCcXBwcW9GQ2pLaXhLVmo5dUtIT2NqLTEtUmpnMy1TUDRjNnVubUMyNWoxNndibDY0WGJtVW4ycHdqdE9GVTJ4VXBYc2Q2STh3TWhVNWJIak9JZjk0bTJEeVBlYl9yUTEweVVPOEE?oc=5",
-   "published": "2026-10-30T05:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -3.62,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "알파벳 매출 부진으로 AI 투자 불안이 되살아나면서 월스트리트 하락 마감",
-   "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tULWRvRHZoRUxrM1Z6NnVOUUo5LUJWRVo2Z05nbmhDSFhjRjgtb3ZJUzF1TXJzdWYxWG1Sa0EtcHl1Wmd5M09ZcWVORWpNQzNuX2FnRUoxcUVHbmlwYUNmTWtVMlQ4TC0xR1hQVmpvQU5PM2NtaG1jcmdvRE1xODdKWTFHcHplNGVKUVdXaUhtOTBLb2xIOHZUa2hJZW5EdGc?oc=5",
-   "published": "2026-10-30T05:29+09:00",
+   "summary": "구글 모회사 알파벳, AI 지출 우려로 인해 월스트리트에서 거의 5000억 달러 손실을 입다",
+   "title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
+   "published": "2026-10-30T08:17+09:00",
    "holdings": [
     "googl",
     "rise-sp500",
@@ -107,34 +65,49 @@
     {
      "symbol": "GOOGL",
      "name": "알파벳",
-     "chgPct": -12.64,
+     "chgPct": 1.34,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "짐 크레이머는 월스트리트가 잘못된 기술주를 처벌하고 있다고 말했습니다.",
+   "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5",
+   "published": "2026-10-30T08:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
      "asOf": "2026-10-29"
     }
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "Samsung Miss가 Sandisk 수익에 앞서 메모리 랠리를 식히면서 Sandisk와 Micron은 5% 하락했습니다. SK하이닉스 3% 하락, 웨스턴디지털 하락",
-   "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0lURlNVYTFJWUJFR1VKbnJGTzdTTGstMXJNVjhudzNZc1NKQ25uVUY2TTBjZm1Hc2x4d2paYl95WXVqMXJuQkoweHVOVEhrdjlkUk1RcktucjVMb2lqc2JMTkk1c19VY1NVaHNMcjRFWVV1VVpfeTNkaS16amVpcno3ZnhLbmZnUk81bW1tNGlMV3hHcDZNRjd3dw?oc=5",
-   "published": "2026-10-30T04:09+09:00",
+   "category": "미국 지수",
+   "summary": "S&P 500(^GSPC) 계절별 수익률 차트",
+   "title": "S&P 500 (^GSPC) Seasonal returns chart",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRjRUekpUemRJVmZUdjNyM0xwS0NDWHFPSGdVNHhscmFwT2Y2MXdxa0pXUzJsaXZ6bmpSbWg1QzR4RWpOTEQ3MXJVMFNzR2RhQmFuRHlXUE85LWpXVDNCVXBkaEVYZw?oc=5",
+   "published": "2026-10-30T07:26+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -5.32,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
      "asOf": "2026-10-29"
     }
    ]
@@ -155,8 +128,29 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -1.55,
-     "asOf": "2026-10-29"
+     "chgPct": 2.13,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론은 올해 225% 상승했으며 여전히 5배의 수익을 올리고 있습니다. 너무 늦었나요?",
+   "title": "Micron Is Up 225% This Year and Still Trades at 5 Times Earnings. Is It Too Late?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWF0TVRSbnREUGhzVExGOHp5eW9uckdCaDVDSWVXZUkxano4UmJlaS1WOW5abU1fUHJLQzRnbFB4bmRoSy1qUk80dWdKSjQ4MEpFUElkQjlLSFFqcGVRS3RJZGppU2tEU1FUTk55NDRJT2k4YkJaV2FxUEhOS2pqTjAtM2JiblhHbV9QRjk0VHFGY19s?oc=5",
+   "published": "2026-10-30T01:33+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
     }
    ]
   },
@@ -174,14 +168,35 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -0.8,
-     "asOf": "2026-10-29"
+     "chgPct": -1.17,
+     "asOf": "2026-10-28"
     },
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": -2.08,
-     "asOf": "2026-10-29"
+     "chgPct": 3.24,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron의 메모리 붐이 예상보다 오래 지속되면 5,000달러 투자는 어떻게 되나요?",
+   "title": "What Happens to a $5,000 Investment If Micron’s Memory Boom Lasts Longer Than Expected?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm5tREdNc2tpMmdEdGRfTEo2c3pVZ1F2Y0dFek84Yk0xdVZwTDZEU3RpQzNBaXVkdXZuSHl3XzgyYXlBYnFEdXpuMVRqcEFOclhnZG5RbnFoMGdqSnpKTER6TVBnU1htTkVpaXZidEMtTlJhMFJTYnJnZEF4OU9UUnJFZEk1T01mUVhoRGxkclVWTGhLV3J3LWJLM3g?oc=5",
+   "published": "2026-10-30T00:03+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
     }
    ]
   },
@@ -201,34 +216,13 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
     },
     {
      "symbol": "005930.KS",
      "name": "삼성전자",
      "chgPct": -4.13,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 지난 한 달 동안 17% 하락했습니다. 이 AI 주식은 여전히 ​​매수인가요?",
-   "title": "Micron Is Down 17% Over the Past Month. Is This AI Stock Still a Buy?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmNyZlQxU0lGamNJcmZ6dHROVjFxcmdXWU9ER3lKdmloYThpM2t3MHVQN0JIcDFlUTJzZmRTNDluUDRHQjFwbHBFSUw2bWNmM0RyRkZzcUY5b05kdy1oN093d3AxMjhJS04yQ0EtVFVYRHB4T0QyR2wzTHhTX3ZhUTJrUkkwaWJvVE1fNUE2dkZUVEk?oc=5",
-   "published": "2026-10-29T23:50+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.98,
      "asOf": "2026-10-29"
     }
    ]
