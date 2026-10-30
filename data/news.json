@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-31T02:32:00+09:00",
+ "updatedAt": "2026-10-31T03:32:14+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "나스닥이 800포인트 이상 하락하면서 기술주 폭락",
+   "title": "Tech stocks crushed as Nasdaq tumbles more than 800 points",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfRVpGbTZuZHdXLTY3cDdfcWtIaEx1cUxiZTVqU3B5NTV1QU8zOVd2Nl9aVlZWUlpPenlfRThzSm5nMGJBZzJnazVzazBYQzNRcEFkWWFOXzVZbmc3aEVUandqYUJRTnlIV195QjZUbWtqZlRNVmo0?oc=5",
+   "published": "2026-10-31T02:44+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.38,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "아마존의 AWS 전망을 좋아하는 월스트리트 분석가",
@@ -24,7 +45,28 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Micron은 S&P 500 인덱스 펀드의 10대 보유 기업 중 하나가 되었습니다. 이것이 주식에 어떤 의미가 있나요?",
+   "summary": "Capri 주가는 이익이 월스트리트 매도세에서 벗어나는 데 도움이 되면서 16% 급등했습니다.",
+   "title": "Capri shares surge 16% as profit beat helps it escape Wall Street sell-off",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTRHTnduYmxxeFZ5VlFyMXJIVnp3dUxZYmptOHZYdnR0UGprN2JyYzU4cGluWVZMN3VEUnZpUEZWU3NTTFJuODY0UElEbV9PeGV1dWNtcHpDYWdjbkZPYzVKZy1hLWVxTjZTcnVDUHE3QjJ3VURiT29rZVlCSFFjY0NqRHJjeTk1ZDhzMGpMSDVOdWRIcHJvWA?oc=5",
+   "published": "2026-10-31T02:19+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Micron은 S&P 500 인덱스 펀드에서 가장 큰 10대 보유 기업 중 하나가 되었습니다. 이것이 주식에 어떤 의미가 있나요?",
    "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhDSWR2TkFlb3BJclB5YWQ5N3BJdklQUGplSl9jOEtLYTlEd3JtT2ZiQWU1RFRrU2ZrVHFmWjlVcVdMQmNULXZBM241X0R5TlAwc1RpUnZrMzVjM285a0ZqLTNuUUQ5ODc5elRlYUxpR2RBUFQ3NUtqNUluSExrcUZzQzNtMk9OdFRYREduZ3VyQXVkQmJfLQ?oc=5",
@@ -77,54 +119,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트는 부인하고 있다: AI 자금 조달 문제가 이미 여기에 있다고 Barclays 전략가가 경고함",
-   "title": "Wall Street Is in Denial: AI Financing Problems Are Already Here, Barclays Strategist Warns",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXBfaF9TU1NKU2J1N3BqV25TaHpGcE1Sd0w4ZzI4S2paYld4V0RNQjd0X1VxZENuSERyRDdwanV5ZzRaS1lMV0NrLXQwdDZ0cDljWjZheV9RVTF0eXlTUEpweGYwbTFlVVdmTllvY1RQMTlIcjZVUW51cE9KSXZHVldzWjFIN1VRUjhWT3BLY1d3VGhBQXRYT3hnUQ?oc=5",
-   "published": "2026-10-31T01:28+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥 하락에 주목하는 아마존",
-   "title": "Amazon in focus as the Nasdaq slides",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFIwY3RwVW9YS2FNOW9hQS10MlV2bHVGOEVkMXc2eThteVZHa2JNdXgtRERpdTVkTUxKOTh4LW9wRlA3RTRGanNubHV4aGJLcUtJaTVNZjBhWHJ5d3piUXcwRkpnc1VIbVp4cHpPNjNCdkFiM1Q5bkFRM2RzbWg1WG5qUTZldw?oc=5",
-   "published": "2026-10-31T01:23+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": -4.25,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.38,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "주목해야 할 반도체 종목 2개, 의문점 1개",
    "title": "2 semiconductor stocks to keep an eye on and 1 we question",
@@ -150,6 +144,27 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenJ2bVZzeF8wdlJTOGhZaHJpeGJuNkEyaWpYMHVHR3l2NGMtRlpiWjZPeG02SV9hMlFTSjZTclFBU2oyb3h4aVhhX2ZHZHRySllCWWVIOGg1Rmo0bVZrYlRDZVdiQmprQmZQalY4cWxKcEVUZWZRMy10V0xPRlNVYVBWUWtuTkN0QWtRajhVX2xOWGxEZ2VrdzczZXZZejl3?oc=5",
    "published": "2026-10-31T01:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "지난 수익 보고서 이후 마이크론(MU)이 14.9% 하락한 이유는 무엇입니까?",
+   "title": "Why Is Micron (MU) Down 14.9% Since Last Earnings Report?",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdW9kSDBpNVZTakxuUWptYXhkZV9mRXVHdlk3TkQtVXNZSy10TlB5R0FkbUtiOFlUNmplOEZfWWs5eUdzemo3T0hDbFdYbGlsVWZzY0diYzBTUGcyTnRXa1lKcHU4aUpFS0NsdjNoalByYU5xS2dhbzlB?oc=5",
+   "published": "2026-10-30T23:30+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -198,25 +213,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -0.8,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AI 칩 관련 최신 뉴스 - AI 수요로 인해 반도체 시장 변화 2027 예측",
-   "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENjNzlQcjFUM2gzcktWekgxMTdaQU1XdWNjekpXVXRHTmpJYWJTWHpyanV1emdzVWRjYmRwLUxndlhxUmJLaWZWSEZEUkhKM3h5RjlJdUZNU3BLY0RZRS01cnE4U3Zna0JUdk56X2dVZHNxSHhuOWtfbjVGeTZMeHc4Z21Ba2tMMmNJWHdUekk?oc=5",
-   "published": "2026-10-30T20:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.55,
      "asOf": "2026-10-29"
     }
    ]
