@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-10-31T02:02:19+09:00",
+ "updatedAt": "2026-10-31T02:32:00+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "아마존의 AWS 전망을 좋아하는 월스트리트 분석가",
+   "title": "Wall Street analysts like Amazon's AWS outlook",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHozYWNYbXg1R0dSYy1zVVNVbFZIU29kcVpiMy1haVE3SjVDODRyQm8xQ1JsT2EyLWxHWjJyYTMwNWpfWG5OS3FEb3A4U1pudldNZklqWDBIX3hiTm9TOTgydEtFTkNVbVlwMzhvMzV1WUdfNmE2T0VDcTVvS0VYZV9LVnVUUVZsWEFYbi1Qb1MtNUtITERTalVOM3NXZXFiVTR1MDE4b3c?oc=5",
+   "published": "2026-10-31T02:20+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": -4.25,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Micron은 S&P 500 인덱스 펀드의 10대 보유 기업 중 하나가 되었습니다. 이것이 주식에 어떤 의미가 있나요?",
+   "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhDSWR2TkFlb3BJclB5YWQ5N3BJdklQUGplSl9jOEtLYTlEd3JtT2ZiQWU1RFRrU2ZrVHFmWjlVcVdMQmNULXZBM241X0R5TlAwc1RpUnZrMzVjM285a0ZqLTNuUUQ5ODc5elRlYUxpR2RBUFQ3NUtqNUluSExrcUZzQzNtMk9OdFRYREduZ3VyQXVkQmJfLQ?oc=5",
+   "published": "2026-10-31T02:01+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "나스닥은 아마존, 인텔의 AI 거래로 인해 3개월 만에 최저치를 기록했습니다.",
@@ -30,7 +78,28 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥 하락으로 아마존에 주목",
+   "summary": "월스트리트는 부인하고 있다: AI 자금 조달 문제가 이미 여기에 있다고 Barclays 전략가가 경고함",
+   "title": "Wall Street Is in Denial: AI Financing Problems Are Already Here, Barclays Strategist Warns",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXBfaF9TU1NKU2J1N3BqV25TaHpGcE1Sd0w4ZzI4S2paYld4V0RNQjd0X1VxZENuSERyRDdwanV5ZzRaS1lMV0NrLXQwdDZ0cDljWjZheV9RVTF0eXlTUEpweGYwbTFlVVdmTllvY1RQMTlIcjZVUW51cE9KSXZHVldzWjFIN1VRUjhWT3BLY1d3VGhBQXRYT3hnUQ?oc=5",
+   "published": "2026-10-31T01:28+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "나스닥 하락에 주목하는 아마존",
    "title": "Amazon in focus as the Nasdaq slides",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFIwY3RwVW9YS2FNOW9hQS10MlV2bHVGOEVkMXc2eThteVZHa2JNdXgtRERpdTVkTUxKOTh4LW9wRlA3RTRGanNubHV4aGJLcUtJaTVNZjBhWHJ5d3piUXcwRkpnc1VIbVp4cHpPNjNCdkFiM1Q5bkFRM2RzbWg1WG5qUTZldw?oc=5",
@@ -56,64 +125,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "바이낸스가 해킹되어 현재 출금이 보류되었으며 나스닥은 자체 조건에 따라 토큰화를 원합니다.",
-   "title": "Binance hacked, and withdrawals are now on hold, plus Nasdaq wants tokenization on its own terms",
+   "category": "반도체 · 메모리",
+   "summary": "주목해야 할 반도체 종목 2개, 의문점 1개",
+   "title": "2 semiconductor stocks to keep an eye on and 1 we question",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamlmZ2JQQk5PckRIYlAxcVkzSjNTczBnUFV6VWJLU1JETjhVYjI4VTYwZ25neUp2WmRObklOSFJZbElDS1VFRnlHT3Y4Qkh5OXVvNjVXV0NoZGFSU19peVNfcVVZZUFqMm9RbXJUSVRVNTl5WlNfNVgyMVRCaG5yTlRmQmtKVE13amo4LWNVQXd4cGIwN3RCVzd5UThlbW1HSVQ2d1IwMnB5X3VZMEYtQVY2OWhkY3RWT2tVN1NhUk9pQUJEZlpIN3lRcTNUd0tBUkI5Zy1hWmU?oc=5",
-   "published": "2026-10-31T00:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1ZtTlI0dlNVRVdoaHJNd3FwemlKLVVPTzRGNEFTWEZjWHZtN2t0NFdJYW9qNEJhU0lMcl9ZT2FCX0RBbHZJcTVzczJ4cF9QaE83ZWtsVV9RdjRNSGpHVmc2WElhSXNzSUhsa1huMFMxeTdJTF8xZmNwNFFHQk96dHR0cG82dUVlcVBWbVZQMmpMWXNFUTJiQWxMcEI?oc=5",
+   "published": "2026-10-31T02:15+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.38,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "비트코인이 77,000달러 아래로 떨어지면서 COIN 주가가 2년 최저치로 하락하고 월스트리트가 목표 가격을 인하했습니다.",
-   "title": "COIN Stock Sinks To Over 2-Year Low As Bitcoin Sinks Below $77K, Wall Street Cuts Price Targets",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnJOWWo2MnhST09xTUJMSExCZVZxREdnd2ZMSE1ERHNJVVpxSTRybEpodmNZaXgtY0U5SV8yaS13Zm9rbDJZWThLTjJYeWNZRmQyNVFUcm1mZ3BrTUJnYzBMUldjeU9tUTFVT0lVcWU2WDFVTlFRR3J4N1lTMUtxbnhOQ1JHTmZBMEpJMzU5VGs3UQ?oc=5",
-   "published": "2026-10-31T00:44+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Anthropic이 OpenAI를 월스트리트에서 이기는 방법",
-   "title": "How Anthropic Beat OpenAI to Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGhOcGJVaWJCNkJGZEU5NUVtOHlNM28xQ25NbV9yanZDV0JiZ3M4b2xsa3h4SU0xSm4yb0R6cEtvdThYUERKSGt0Mm9DeF90VkF2WGtoc2ZuMTNYOTRwNGlVTmV6LVFidkVvZ0NGdW1tRTFHMWdvZnY3djZaQjV3ZXIwak9Ta2c?oc=5",
-   "published": "2026-10-31T00:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -1.55,
      "asOf": "2026-10-29"
     }
    ]
@@ -125,27 +150,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenJ2bVZzeF8wdlJTOGhZaHJpeGJuNkEyaWpYMHVHR3l2NGMtRlpiWjZPeG02SV9hMlFTSjZTclFBU2oyb3h4aVhhX2ZHZHRySllCWWVIOGg1Rmo0bVZrYlRDZVdiQmprQmZQalY4cWxKcEVUZWZRMy10V0xPRlNVYVBWUWtuTkN0QWtRajhVX2xOWGxEZ2VrdzczZXZZejl3?oc=5",
    "published": "2026-10-31T01:45+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "오늘 마이크론 주식이 급등한 이유",
-   "title": "Why Micron Stock Dove Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZHFrRXNRVkhJazl2RzN5dDhTbVgwa2hieW1GRFpZdjAzT180TldxWl9feXlIbFNuZk1sVTN5cG1fdEQ3dGNadmpTQ3ZDQkh5eGNhblE5a3NvSGVYcFU0ankzRnBiNW5KWGVERmlPcDc2T3R0aURmWlIyRzJNWXlXWTdkNEpoUWo4SjZkMW44QktyWU9ZY2NJ?oc=5",
-   "published": "2026-10-31T00:56+09:00",
    "holdings": [
     "dram",
     "ram",
