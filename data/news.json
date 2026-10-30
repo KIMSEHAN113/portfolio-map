@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-30T10:31:58+09:00",
+ "updatedAt": "2026-10-30T22:11:04+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Amazon은 AI 성장을 쫓아 현금으로 420억 달러를 소진했습니다. 월스트리트는 위험을 무시하고 있는가?",
-   "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk?",
+   "summary": "S&P 500 지수는 1988년 이후 30배 상승했습니다. 배당금 재투자로 67배 상승했습니다.",
+   "title": "The S&P 500 Rose 30-Fold Since 1988. Reinvested Dividends Made It 67-Fold.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSk90d3dGbWV5VkM0eG1LUkljTTNFaENwV3dOVlVFSnYxVnRFaG1mb0JLZFlGVE5jbVV4TDZUX2JKSjhKNVR1VHlLRVVrcjZ1aFg5S1o5TDVZWmZ2X3hsS0xNV01CWTBoT2phQ180RkoyVzBnWEZCMUQ1TDJaWm9YSVE0TS1qWWRrdjB0UGJRelk3V3kxNG82UA?oc=5",
-   "published": "2026-10-30T09:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc05YQnhUc21pdENRSTdpUm1lZ0k2TlV0NjJKcU13M3VyVWZYSkhCVE4yWlBXRlBjbVRJeS1ZNl9rVmUyYV9MNDVPQ2lmNlJuZ2RvSUVnZ3pxMEx5Z3JpTVp3UXVqdlNWbGs3aE1fRnFiZnFLeF9ESGFVZjJYRHBhSzRWUU1OcjhTN0ZZ?oc=5",
+   "published": "2026-10-30T21:48+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -15,20 +15,20 @@
    ],
    "moves": [
     {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": 0.59,
-     "asOf": "2026-10-28"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq 100 선물은 약한 Intel, Amazon 수익에 대한 부풀려진 Capex 우려로 인해 감정에 부담을 가중 — AMZN, INTC, SBUX, PLTR, ASTS 집중",
-   "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment — AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+   "summary": "아마존·인텔, AI 지출 우려 증폭으로 나스닥 급락세",
+   "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlNsa0lVbldjY0hjclktbElWSlBYWDhoN1llR3MtdFZOa3RnUmFUSnlFeXNJbjlGY2xTd3hoVE9lR0RzWnl5UjNCZ0JtQXZDSGdpWDJYeUp6Y1Y5ZjNnZnh6MUdsNzdNQ01RRU96REZWajJTYl9DZUR2U2hxS2h1YnI3dmNLdXJnS0tPMVZrLUE5MlRYUHVn?oc=5",
-   "published": "2026-10-30T08:54+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTZNOWZiRzFmQUxta25VWEhIT0dYTFVnZ2VLUWlNTDlleE9hTmF6ODNaeXRCSnRXMEdOVENiTVQtNndFUUNWZDdmY0M0UUVaUVR6c0tMdktWcmxJMDItT3dPbl8tcGhSSm0wZ2lRa0RjLW81Ri1RTUlRX0tOUDRHakNwUDdIVFZIc1hMUVBrVi1CY0RRNU9xZmZVU202QQ?oc=5",
+   "published": "2026-10-30T21:42+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -38,24 +38,24 @@
     {
      "symbol": "INTC",
      "name": "인텔",
-     "chgPct": 1.91,
-     "asOf": "2026-10-28"
+     "chgPct": -3.62,
+     "asOf": "2026-10-29"
     },
     {
      "symbol": "AMZN",
      "name": "아마존",
-     "chgPct": 0.59,
-     "asOf": "2026-10-28"
+     "chgPct": -4.25,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500 20년 역사 쇼: 이 단순한 전략은 \"완벽함\"보다 8.3% 낮습니다.",
-   "title": "20 Years of S&P 500 History Show: This Simple Strategy Is Only 8.3% Less Than \"Perfect\"",
+   "summary": "오늘 미국 주식 시장: 에너지 인플레이션과 임금 위험으로 인한 S&P 500 선물 하락",
+   "title": "US Stock Market Today: S&P 500 Futures Drop On Energy Inflation And Wage Risks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVB4UVdLQWJJNkx3blIzeGFDMzd6SHNuX2prMUJrMjRjWUU0ZDJFSjBoMmpqVVl6b0lQbWwtTkVWNkpGa1JXcjhGcmtrN1JYTklsd2NIRUZ2dkxFQ3UtdUJ1bUJnU2JUSzZpcFZFQkVWNjFBMGpzMVEyd0tzY2xqTVN6UVpoSFAtVWdxR1ZmX0E?oc=5",
-   "published": "2026-10-30T08:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGJScHBhVmdWUFBoblhIYUFKMFZkWHFJSS1IalFfekpOb3p0MHBtemVtTWFTR1U4Zk9nWEZ3TGEzZThDR3h2MTZ1bUd4d3pja1hzcFFEZUsxenZCZGpPSDZ6bW9semNldDI3Z3VTMW1GTVZqdmtFUE5yWnNmT2tBU0FVM1p2cG9ONGhXNm1pR04wUQ?oc=5",
+   "published": "2026-10-30T21:10+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,36 +72,15 @@
   },
   {
    "category": "미국 지수",
-   "summary": "구글 모회사 알파벳, AI 지출 우려로 인해 월스트리트에서 거의 5000억 달러 손실을 입다",
-   "title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
-   "published": "2026-10-30T08:17+09:00",
+   "summary": "투자자들이 대규모 AI 지출에 대한 수익에 의문을 제기하면서 월스트리트 매도세가 계속됩니다.",
+   "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXo1LXhsLWFkaHdfVTBWTGxVZlF3bGZ6RjFTbmhKbV9ETGdiUmx5VDVvdTFxQVJFVUVHYXR6NzNYUmdDbHFxSm1CUVctSXBzRWxEMTF6Q3Ywa0Y5UjdydHRZSmxJZFctcEU3UUR5WVdCdFUyUXVGTHluWThqSmNuYU1Cbk1mZw?oc=5",
+   "published": "2026-10-30T21:08+09:00",
    "holdings": [
-    "googl",
     "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 1.34,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "짐 크레이머는 월스트리트가 잘못된 기술주를 처벌하고 있다고 말했습니다.",
-   "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5",
-   "published": "2026-10-30T08:00+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
@@ -113,12 +92,33 @@
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "Samsung Miss가 Sandisk 수익에 앞서 메모리 랠리를 식히면서 Sandisk와 Micron은 5% 하락했습니다. SK하이닉스 3% 하락, 웨스턴디지털 하락",
-   "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+   "category": "미국 지수",
+   "summary": "Nasdaq-100은 7월 이후 첫 월간 손실을 기록하고 있습니다. 기술주에 영향을 미치는 요소는 다음과 같습니다.",
+   "title": "Nasdaq-100 On Track For First Monthly Loss Since July — Here's What's Weighing On Tech Stocks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0lURlNVYTFJWUJFR1VKbnJGTzdTTGstMXJNVjhudzNZc1NKQ25uVUY2TTBjZm1Hc2x4d2paYl95WXVqMXJuQkoweHVOVEhrdjlkUk1RcktucjVMb2lqc2JMTkk1c19VY1NVaHNMcjRFWVV1VVpfeTNkaS16amVpcno3ZnhLbmZnUk81bW1tNGlMV3hHcDZNRjd3dw?oc=5",
-   "published": "2026-10-30T04:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEZPMjJZRmdzVTgwQjF0TThreHhkVFdyT19rTW02Z0h6Y08xRXVBYVJoSTQ5VXVodXA0UE5paVN3amtQaUlUZlg5dnN2Y19heERfSUV5MlFKQm91cWZ6ZDRadkUwQTduU2dJUWdwMGdhalJLcFlDRWVBUEhXeXRpd0QydmZ2YmJXTlVhNVlpNHFBUDJ3VTFXOTRqUQ?oc=5",
+   "published": "2026-10-30T20:48+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.38,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "경영진은 Micron 주식에 대해 더 높은 기준을 설정했습니다. 차트가 동의합니까?",
+   "title": "Management Set A Higher Bar For Micron Stock; Does The Chart Agree?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWpzcEdnaHZTYUtrd2NKdzRhOTdjcDEyN2xzYnlWc0hvSWNGUl9QTm9SaFBKOFU2Wmlxc01rekxqUEZsSmdxY0tuWEw3Y2pxeWt6THRkQlh0TDByVlgzRm9Wc25ma0pPbHA4NC1ka3dzMTdieFRUMERhR1hTRDJLVTBKcnlyMWI2M29yM0o0eUZrcFVvUUx5ckkxdExPQQ?oc=5",
+   "published": "2026-10-30T20:16+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -128,45 +128,18 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": 7.66,
-     "asOf": "2026-10-28"
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Bank of America, 메모리 부문 최고의 주식으로 선정",
-   "title": "Bank of America Names Top Stock Pick in Memory Sector",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnZiM2s5aEUwMUJfTzk1djhSSFNXVGFHZ3RzV3dwQVVtLVQtSHNQZjlHWjdJSkE5QXpmTl9od1BzVUw3bjRaVV9BaERRMXFJSHNXbkROd1g5WGVUbjN4eHNKRlpaRXhZZHJpa1J6TWdEQnh4RE1paGZfN1BwM042Wm5NYw?oc=5",
-   "published": "2026-10-30T02:30+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.13,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 올해 225% 상승했으며 여전히 5배의 수익을 올리고 있습니다. 너무 늦었나요?",
-   "title": "Micron Is Up 225% This Year and Still Trades at 5 Times Earnings. Is It Too Late?",
+   "summary": "52개의 ETF가 수요일에 Micron(MU) Holdings에 추가되었습니다.",
+   "title": "52 ETFs Add to Micron (MU) Holdings on Wednesday",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWF0TVRSbnREUGhzVExGOHp5eW9uckdCaDVDSWVXZUkxano4UmJlaS1WOW5abU1fUHJLQzRnbFB4bmRoSy1qUk80dWdKSjQ4MEpFUElkQjlLSFFqcGVRS3RJZGppU2tEU1FUTk55NDRJT2k4YkJaV2FxUEhOS2pqTjAtM2JiblhHbV9QRjk0VHFGY19s?oc=5",
-   "published": "2026-10-30T01:33+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFc3T2dVR1JHTHhWb2JDbmZuREhtWkgxajVWWmExMVFvbWxYTXcyRzhsb25iSjNUVUc0NGRLcVV1bG1yaXc4ell1MXBEVjlQd0IxN1QzLW9ZcUhWbFF6amdLbHZ3T3FyMld4cUZ2bzNLZHBaeGd1QVZqTG1YWlowUGZvaVBGS09UTnZ5MEpNbw?oc=5",
+   "published": "2026-10-30T20:01+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -176,18 +149,18 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD와 Nvidia의 동일한 10,000달러가 2030년까지 매우 다른 결과를 낳을 수 있습니다.",
-   "title": "The Same $10,000 in AMD and Nvidia Could Produce Very Different Results by 2030",
+   "summary": "NVIDIA(NVDA), 10월 28일 ETF 순매수 6억 8,230만 달러 확인",
+   "title": "NVIDIA (NVDA) Sees $682.3 Million in Net ETF Buying on Oct. 28",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObktFVTRxaDhXNEhQcjVnaDlBTEhZaVMyTnA5Yk16QzdJM1RjdUNkeHhsYTRwVjE4NE1DVXZtWU9CTzd6Zi1yQ1pVWXVqanR5WTlpTGxZWk5jczc0dnJuYkIyM3pldHNCb3hwYV9NRjR3cHEzNkhJWS03NFRyaGJqaHpyQUJ2SjVfS0FoOHYwLUw?oc=5",
-   "published": "2026-10-30T00:33+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlhEOHRxZkx2cnFrYnpkajdBQjhSYXBTMWhwb2JoLTF2V3Q0XzJpUnlMaFpaX2NlWTVsTk5kUW9mbGNxb21hVDRsVGNlYllsaWMtZllTYVFXMVgtSE9DcFc4U0JjVDE0bnJPaVZ1dW8yOWVHV1pQMTduamJ5cF9jV25KZ1V2LVVnQlFBNWNkclU?oc=5",
+   "published": "2026-10-30T20:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -195,40 +168,51 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.17,
-     "asOf": "2026-10-28"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 3.24,
-     "asOf": "2026-10-28"
+     "chgPct": -0.8,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "삼성이 기록적인 칩 이익에도 불구하고 예측을 빗나감에 따라 마이크론 주가는 2.6% 하락",
-   "title": "Micron Shares Fall 2.6% as Samsung Earnings Miss Forecasts Despite Record Chip Profits",
+   "summary": "Intel의 약한 PC 시장 예측으로 반도체 수요에 대한 우려가 높아지면서 AMD 주가는 6.5% 하락",
+   "title": "AMD Shares Fall 6.5% as Intel’s Weak PC Market Forecast Raises Semiconductor Demand Concerns",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkZXTHp4R2pHRl9IdzhHZmpTWXprcGxZOE5oOTZzZmNTN3d3TXVfM0VzeDdsZTdZVHBYOFFmYkNEbW1pZEJ6b2F4cXJEUEdMbm9jTE5VbHhsM0Y5ckRCdDBESUZGcGRwMEk4ZkpyeUg4T2VBVjJpRzFvbXFQcDVralFNVTZLMVJiMjlV?oc=5",
-   "published": "2026-10-30T00:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUoycS1rbkxSeHhVdV9DR3ZpQkhGem5HUGJNQ3pqM0ctRkE4a0tHdjl4Zi1mZG51dGpQTEdvN0RSTmFVUDJwZ0hYbkpGS2pRVnJIYzBRWWx2S29VajhNeEhZRmJuZmhWeVhzWXdjRFliQ0lybnpVbkd4UFBsUm1NWEFTV1ExbUxBZ0ZNNw?oc=5",
+   "published": "2026-10-30T19:26+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
-     "asOf": "2026-10-28"
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -2.08,
+     "asOf": "2026-10-29"
     },
     {
-     "symbol": "005930.KS",
-     "name": "삼성전자",
-     "chgPct": -4.13,
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -3.62,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "시장 잡담: Nvidia 칩 구매자 AM Intelligence는 최대 30억 달러의 자본 조달 계획을 세웁니다.",
+   "title": "Market Chatter: Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfT05JMkZEMTR1c2FKcGNIMnBDeVJoWGlGSGNPbG0xS2RGM0RYaE9PeXhwbUZyYWVaU0dESDNNdkl0WlBIanFORy1SNjlzazJVd0dIYkVfN2ZBdzlGNWVXSUlPWHhRZVBOZHZJSl9NNXg2TWlBaEh2bFNPQU5pZm54OURLN1VVXzJ1dGRqWnpHaGxPdGk4RkZ6dHR0QQ?oc=5",
+   "published": "2026-10-30T18:23+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.8,
      "asOf": "2026-10-29"
     }
    ]
