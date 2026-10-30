@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-30T09:32:15+09:00",
+ "updatedAt": "2026-10-30T10:01:53+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Amazon은 AI 성장을 쫓아 현금으로 420억 달러를 소진했습니다. 월스트리트는 위험을 무시하고 있는가?",
+   "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSk90d3dGbWV5VkM0eG1LUkljTTNFaENwV3dOVlVFSnYxVnRFaG1mb0JLZFlGVE5jbVV4TDZUX2JKSjhKNVR1VHlLRVVrcjZ1aFg5S1o5TDVZWmZ2X3hsS0xNV01CWTBoT2phQ180RkoyVzBnWEZCMUQ1TDJaWm9YSVE0TS1qWWRrdjB0UGJRelk3V3kxNG82UA?oc=5",
+   "published": "2026-10-30T09:40+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 0.59,
+     "asOf": "2026-10-28"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Nasdaq 100 선물은 약한 Intel, Amazon 수익에 대한 부풀려진 Capex 우려로 인해 감정에 부담을 가중 — AMZN, INTC, SBUX, PLTR, ASTS 집중",
@@ -72,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "짐 크레이머는 월스트리트가 잘못된 기술주를 처벌하고 있다고 말했습니다.",
+   "summary": "Jim Cramer는 월스트리트가 잘못된 기술주를 처벌하고 있다고 말했습니다.",
    "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5",
@@ -92,23 +113,29 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "S&P 500(^GSPC) 계절별 수익률 차트",
-   "title": "S&P 500 (^GSPC) Seasonal returns chart",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRjRUekpUemRJVmZUdjNyM0xwS0NDWHFPSGdVNHhscmFwT2Y2MXdxa0pXUzJsaXZ6bmpSbWg1QzR4RWpOTEQ3MXJVMFNzR2RhQmFuRHlXUE85LWpXVDNCVXBkaEVYZw?oc=5",
-   "published": "2026-10-30T07:26+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Samsung Miss가 Sandisk 수익에 앞서 메모리 랠리를 식히면서 Sandisk와 Micron은 5% 하락했습니다. SK하이닉스 3% 하락, 웨스턴디지털 하락",
+   "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0lURlNVYTFJWUJFR1VKbnJGTzdTTGstMXJNVjhudzNZc1NKQ25uVUY2TTBjZm1Hc2x4d2paYl95WXVqMXJuQkoweHVOVEhrdjlkUk1RcktucjVMb2lqc2JMTkk1c19VY1NVaHNMcjRFWVV1VVpfeTNkaS16amVpcno3ZnhLbmZnUk81bW1tNGlMV3hHcDZNRjd3dw?oc=5",
+   "published": "2026-10-30T04:09+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
-     "asOf": "2026-10-29"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.86,
+     "asOf": "2026-10-28"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": 7.66,
+     "asOf": "2026-10-28"
     }
    ]
   },
@@ -175,27 +202,6 @@
      "symbol": "AMD",
      "name": "AMD",
      "chgPct": 3.24,
-     "asOf": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron의 메모리 붐이 예상보다 오래 지속되면 5,000달러 투자는 어떻게 되나요?",
-   "title": "What Happens to a $5,000 Investment If Micron’s Memory Boom Lasts Longer Than Expected?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm5tREdNc2tpMmdEdGRfTEo2c3pVZ1F2Y0dFek84Yk0xdVZwTDZEU3RpQzNBaXVkdXZuSHl3XzgyYXlBYnFEdXpuMVRqcEFOclhnZG5RbnFoMGdqSnpKTER6TVBnU1htTkVpaXZidEMtTlJhMFJTYnJnZEF4OU9UUnJFZEk1T01mUVhoRGxkclVWTGhLV3J3LWJLM3g?oc=5",
-   "published": "2026-10-30T00:03+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.86,
      "asOf": "2026-10-28"
     }
    ]
