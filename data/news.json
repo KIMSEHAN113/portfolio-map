@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T00:32:29+09:00",
+ "updatedAt": "2026-10-31T01:02:07+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -66,6 +66,27 @@
   },
   {
    "category": "미국 지수",
+   "summary": "BofA는 월스트리트가 애플을 오해하고 있을 수 있다고 말한다",
+   "title": "BofA Says Wall Street May Be Misreading Apple",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVNGZEFQaC1vb3ZnbzcxN2QtN0xwR1dyb1JIYlZ6LXUwejladVRrVENrcnBTTGZTYjhOMTRqei1wdEwxbVpUbU1QSHkzS0hZVjd6Zjk0bF9vV2pxSEhISEgyVUZHbS1CSV9JNDRlbmJrMXktUzlZdEk0N1I1OWRKYVBoUGZPSlNoWmlhelhfcTV4LVA0?oc=5",
+   "published": "2026-10-30T23:41+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": 1.48,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
    "summary": "오늘의 주식 시장(2026년 10월 30일): S&P 500은 Amazon으로 하락하고 Intel의 손실은 월스트리트를 뒤흔들었습니다.",
    "title": "Stock Market Today (Oct. 30, 2026): S&P 500 sinks as Amazon, Intel losses shake Wall Street",
    "source": "Yahoo Finance Australia",
@@ -87,27 +108,6 @@
      "symbol": "AMZN",
      "name": "아마존",
      "chgPct": -4.25,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "실시간 시청: 인공 지능 지출에 대한 우려 속에 주식 시장이 반응합니다.",
-   "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTM3TmZacWdPWmppcV9qZnFRV00yaGpnNmk1NFhKczFQMk5oX1FPa1NWRnlFcW5pVURlVGxRaDRheWR1RUZ3bnVFOEk4d0JLRDR1eF95ZWZMd1Uya2UtQmdBNWJRdW92emtYTFZ2VmZpX1VkMXczdFQ3SmNWMEFmN0YtYTFYcnBKN2tnSExQMXR6ZHVwbzcxeDg2UDZqLUVGWEZvVHRDc21LcG9SanJOQUF4Rm5ITHFVYjdNVDRLNW9XTXpP?oc=5",
-   "published": "2026-10-30T22:58+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
      "asOf": "2026-10-29"
     }
    ]
@@ -146,6 +146,25 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -0.8,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI 칩 관련 최신 뉴스 - AI 수요로 인해 반도체 시장 변화 2027 예측",
+   "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENjNzlQcjFUM2gzcktWekgxMTdaQU1XdWNjekpXVXRHTmpJYWJTWHpyanV1emdzVWRjYmRwLUxndlhxUmJLaWZWSEZEUkhKM3h5RjlJdUZNU3BLY0RZRS01cnE4U3Zna0JUdk56X2dVZHNxSHhuOWtfbjVGeTZMeHc4Z21Ba2tMMmNJWHdUekk?oc=5",
+   "published": "2026-10-30T20:37+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -1.55,
      "asOf": "2026-10-29"
     }
    ]
@@ -192,25 +211,6 @@
      "symbol": "MRVL",
      "name": "마벨",
      "chgPct": -13.24,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA(NVDA), 10월 28일 ETF 순매수 6억 8,230만 달러 확인",
-   "title": "NVIDIA (NVDA) Sees $682.3 Million in Net ETF Buying on Oct. 28",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlhEOHRxZkx2cnFrYnpkajdBQjhSYXBTMWhwb2JoLTF2V3Q0XzJpUnlMaFpaX2NlWTVsTk5kUW9mbGNxb21hVDRsVGNlYllsaWMtZllTYVFXMVgtSE9DcFc4U0JjVDE0bnJPaVZ1dW8yOWVHV1pQMTduamJ5cF9jV25KZ1V2LVVnQlFBNWNkclU?oc=5",
-   "published": "2026-10-30T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.8,
      "asOf": "2026-10-29"
     }
    ]
