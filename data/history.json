@@ -10026,9 +10026,9 @@
   },
   {
    "date": "2026-10-30",
-   "updatedAt": "2026-10-30T22:10:56+09:00",
+   "updatedAt": "2026-10-30T22:35:04+09:00",
    "fx": {
-    "usdkrw": 1335.02,
+    "usdkrw": 1334.88,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -10184,8 +10184,8 @@
      "market": "US",
      "currency": "USD",
      "qty": 166,
-     "price": 9.635,
-     "chgPct": -8.15,
+     "price": 9.64,
+     "chgPct": -8.1,
      "asOf": "2026-10-29"
     },
     {

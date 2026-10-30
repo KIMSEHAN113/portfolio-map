@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-10-30T22:11:04+09:00",
+ "updatedAt": "2026-10-30T22:35:11+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "나스닥 선물이 거의 800포인트 하락하면서 기술주 폭락",
+   "title": "Tech stocks crushed as Nasdaq futures tumble nearly 800 points",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfRVpGbTZuZHdXLTY3cDdfcWtIaEx1cUxiZTVqU3B5NTV1QU8zOVd2Nl9aVlZWUlpPenlfRThzSm5nMGJBZzJnazVzazBYQzNRcEFkWWFOXzVZbmc3aEVUandqYUJRTnlIV195QjZUbWtqZlRNVmo0?oc=5",
+   "published": "2026-10-30T22:25+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.38,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트는 아마존의 770억 달러 자본 지출이 그만한 가치가 있다고 생각합니까?",
+   "title": "Does Wall Street think Amazon's $77 billion capex was worth it?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmpYU1lublpoa0NHNXZCTFdvekh6dWtwX2hXUTdaLUI2S20tb2hzck5HaHFGS0lmTi1KQlAycm1zSTdvS0dTWGxQMmE0QXhkRGt5cTNZaXdrcmhQZmJ6cE5yS0lNZVVRaHIwUXV4c3ltQkIyY0VISFQ0UXdmQVRSTzRqN0dZcTVfM2dFdUc0RVJ0Umh6OFRhM2N5NWdWOVVocGxKQ19iVkRkdFE?oc=5",
+   "published": "2026-10-30T22:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": -4.25,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "INTC 주식은 2년 만에 최악의 날을 맞이했습니다: Jefferies는 수많은 월스트리트 가격 인하와 등급 하락 속에서 4분기에 '상당한' 재설정을 요구했습니다.",
+   "title": "INTC Stock Heads For Worst Day In Over 2 Years: Jefferies Calls Q4 A ‘Substantial’ Reset Amid Slew Of Wall Street Price Cuts, Downgrades",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVNFcmZBOG5VRnI0Q3RmczAwRWFjaGtJLWR0SVpVWGloclVNQUZnM2dFMF9aUHBBakpVaVBmemxIVGVoYmdxTW9OZjhrWENsSEFtRWMybzk2dS1feUxNMGZrSDFaSDJaU1MtbnlkY0JlQ2pJN0UtbnJmMHoyOUVKU1hvbWl1OENvMWlrUTVpWW5tYnFnUVE?oc=5",
+   "published": "2026-10-30T21:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "S&P 500 지수는 1988년 이후 30배 상승했습니다. 배당금 재투자로 67배 상승했습니다.",
@@ -50,64 +113,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "오늘 미국 주식 시장: 에너지 인플레이션과 임금 위험으로 인한 S&P 500 선물 하락",
-   "title": "US Stock Market Today: S&P 500 Futures Drop On Energy Inflation And Wage Risks",
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation(NVDA)이 투자자의 관심을 끌고 있습니다: 알아야 할 사항은 다음과 같습니다.",
+   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGJScHBhVmdWUFBoblhIYUFKMFZkWHFJSS1IalFfekpOb3p0MHBtemVtTWFTR1U4Zk9nWEZ3TGEzZThDR3h2MTZ1bUd4d3pja1hzcFFEZUsxenZCZGpPSDZ6bW9semNldDI3Z3VTMW1GTVZqdmtFUE5yWnNmT2tBU0FVM1p2cG9ONGhXNm1pR04wUQ?oc=5",
-   "published": "2026-10-30T21:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0VXRS1ZUVRxVlhOTHhfNTNGazVQZlJ5MEdxMUllUDNmdlZ0dElLbVJCQl9waFJaLUV1azhjc2I5UTJZYjRYT1dQLWRseUlJSjgwTnFaa0t0dnBYSnpOR09SZThsTnRObnhSaHRKZ1JFSnc3VnpJbEUzeTZsSDhkWmR5ZEltVVkyamN2U0VKMkJ0T05xTVZPNlBLTGQ4eGZXVnVTZ2hhX2xwem4t?oc=5",
+   "published": "2026-10-30T21:00+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "투자자들이 대규모 AI 지출에 대한 수익에 의문을 제기하면서 월스트리트 매도세가 계속됩니다.",
-   "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXo1LXhsLWFkaHdfVTBWTGxVZlF3bGZ6RjFTbmhKbV9ETGdiUmx5VDVvdTFxQVJFVUVHYXR6NzNYUmdDbHFxSm1CUVctSXBzRWxEMTF6Q3Ywa0Y5UjdydHRZSmxJZFctcEU3UUR5WVdCdFUyUXVGTHluWThqSmNuYU1Cbk1mZw?oc=5",
-   "published": "2026-10-30T21:08+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq-100은 7월 이후 첫 월간 손실을 기록하고 있습니다. 기술주에 영향을 미치는 요소는 다음과 같습니다.",
-   "title": "Nasdaq-100 On Track For First Monthly Loss Since July — Here's What's Weighing On Tech Stocks",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEZPMjJZRmdzVTgwQjF0TThreHhkVFdyT19rTW02Z0h6Y08xRXVBYVJoSTQ5VXVodXA0UE5paVN3amtQaUlUZlg5dnN2Y19heERfSUV5MlFKQm91cWZ6ZDRadkUwQTduU2dJUWdwMGdhalJLcFlDRWVBUEhXeXRpd0QydmZ2YmJXTlVhNVlpNHFBUDJ3VTFXOTRqUQ?oc=5",
-   "published": "2026-10-30T20:48+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.38,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.8,
      "asOf": "2026-10-29"
     }
    ]
@@ -135,7 +154,32 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "52개의 ETF가 수요일에 Micron(MU) Holdings에 추가되었습니다.",
+   "summary": "Marvell은 Nvidia 지원 Lumentum 인수를 위한 사전 협상 중 – 보고서",
+   "title": "Marvell in advanced talks to buy Nvidia-backed Lumentum – report",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckU4ZmVGY25nSXZsdUJ1MnNwb2lyVzE4eWVpQVYxb3NlaUlJNi1wd0RzUWVYcHJleTdDUTdCekxISkFhSUZqUUR2dmhNbllQZWhQVjUwOWlxU1ZjQzhqMkNXLWVwck9wZmxTX2Nzb1RPUFRyOFNWdDd2SEZLN1EtRDBYOWNwQQ?oc=5",
+   "published": "2026-10-30T20:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.8,
+     "asOf": "2026-10-29"
+    },
+    {
+     "symbol": "MRVL",
+     "name": "마벨",
+     "chgPct": -13.24,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "수요일에 52개의 ETF가 Micron(MU) Holdings에 추가되었습니다.",
    "title": "52 ETFs Add to Micron (MU) Holdings on Wednesday",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFc3T2dVR1JHTHhWb2JDbmZuREhtWkgxajVWWmExMVFvbWxYTXcyRzhsb25iSjNUVUc0NGRLcVV1bG1yaXc4ell1MXBEVjlQd0IxN1QzLW9ZcUhWbFF6amdLbHZ3T3FyMld4cUZ2bzNLZHBaeGd1QVZqTG1YWlowUGZvaVBGS09UTnZ5MEpNbw?oc=5",
@@ -156,55 +200,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA(NVDA), 10월 28일 ETF 순매수 6억 8,230만 달러 확인",
+   "summary": "NVIDIA(NVDA), 10월 28일 ETF 순매수 6억 8230만 달러 확인",
    "title": "NVIDIA (NVDA) Sees $682.3 Million in Net ETF Buying on Oct. 28",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlhEOHRxZkx2cnFrYnpkajdBQjhSYXBTMWhwb2JoLTF2V3Q0XzJpUnlMaFpaX2NlWTVsTk5kUW9mbGNxb21hVDRsVGNlYllsaWMtZllTYVFXMVgtSE9DcFc4U0JjVDE0bnJPaVZ1dW8yOWVHV1pQMTduamJ5cF9jV25KZ1V2LVVnQlFBNWNkclU?oc=5",
    "published": "2026-10-30T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.8,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Intel의 약한 PC 시장 예측으로 반도체 수요에 대한 우려가 높아지면서 AMD 주가는 6.5% 하락",
-   "title": "AMD Shares Fall 6.5% as Intel’s Weak PC Market Forecast Raises Semiconductor Demand Concerns",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUoycS1rbkxSeHhVdV9DR3ZpQkhGem5HUGJNQ3pqM0ctRkE4a0tHdjl4Zi1mZG51dGpQTEdvN0RSTmFVUDJwZ0hYbkpGS2pRVnJIYzBRWWx2S29VajhNeEhZRmJuZmhWeVhzWXdjRFliQ0lybnpVbkd4UFBsUm1NWEFTV1ExbUxBZ0ZNNw?oc=5",
-   "published": "2026-10-30T19:26+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -2.08,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -3.62,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "시장 잡담: Nvidia 칩 구매자 AM Intelligence는 최대 30억 달러의 자본 조달 계획을 세웁니다.",
-   "title": "Market Chatter: Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfT05JMkZEMTR1c2FKcGNIMnBDeVJoWGlGSGNPbG0xS2RGM0RYaE9PeXhwbUZyYWVaU0dESDNNdkl0WlBIanFORy1SNjlzazJVd0dIYkVfN2ZBdzlGNWVXSUlPWHhRZVBOZHZJSl9NNXg2TWlBaEh2bFNPQU5pZm54OURLN1VVXzJ1dGRqWnpHaGxPdGk4RkZ6dHR0QQ?oc=5",
-   "published": "2026-10-30T18:23+09:00",
    "holdings": [
     "soxl"
    ],
