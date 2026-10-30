@@ -1,55 +1,67 @@
 {
- "updatedAt": "2026-10-31T01:02:07+09:00",
+ "updatedAt": "2026-10-31T02:02:19+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트 기술 대패, AI 지출에 대한 의구심으로 심화",
-   "title": "Wall Street tech rout deepens on doubts over AI spending",
+   "summary": "나스닥은 아마존, 인텔의 AI 거래로 인해 3개월 만에 최저치를 기록했습니다.",
+   "title": "Nasdaq hits near three-month low as Amazon, Intel rattle AI trade",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEF1Ml8yVThiX2ZGRzUxeDJ0ZVpnOVpILWdvTnlNVXJiY1U2ZWNrTkUyOW9JQlBXNGRSUGxGX3NsSzhkRU52RWxidEZsOTF6cl96ZHRlX0N6NzM3UG9fVVg4TFFNdjgtVHBMOU84eWY5QXVxcEFBRVo0TGNXZDNDekoyazhoakh0d1hmbWF4Sm4tTTRlOFVzbg?oc=5",
-   "published": "2026-10-30T23:56+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTZNOWZiRzFmQUxta25VWEhIT0dYTFVnZ2VLUWlNTDlleE9hTmF6ODNaeXRCSnRXMEdOVENiTVQtNndFUUNWZDdmY0M0UUVaUVR6c0tMdktWcmxJMDItT3dPbl8tcGhSSm0wZ2lRa0RjLW81Ri1RTUlRX0tOUDRHakNwUDdIVFZIc1hMUVBrVi1CY0RRNU9xZmZVU202QQ?oc=5",
+   "published": "2026-10-31T01:42+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -3.62,
+     "asOf": "2026-10-29"
+    },
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": -4.25,
      "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "유망한 전망을 지닌 월스트리트가 선호하는 주식 중 1개와 우리가 거절하는 주식 2개",
-   "title": "1 of Wall Street’s favorite stocks with promising prospects and 2 we turn down",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NRdlRubzM3QzhxV0p3QnY5TFo3NklHVU9Kc3FJRzY4ZFpsZVZ2UkxUNGIzWkFJUWJ6Xy1fTFB5MGxBdW9kMjJ5MmlPTVh6eVRDRWVGcjRuX2x6d3BROGVnMk5EUFNBTkJtSE9qenFycFFNTlNabVVFc0psU1VBOUxjekMxblRBRVU2YkhUdC1KT1J5U0Rsck9B?oc=5",
-   "published": "2026-10-30T23:43+09:00",
+   "summary": "나스닥 하락으로 아마존에 주목",
+   "title": "Amazon in focus as the Nasdaq slides",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFIwY3RwVW9YS2FNOW9hQS10MlV2bHVGOEVkMXc2eThteVZHa2JNdXgtRERpdTVkTUxKOTh4LW9wRlA3RTRGanNubHV4aGJLcUtJaTVNZjBhWHJ5d3piUXcwRkpnc1VIbVp4cHpPNjNCdkFiM1Q5bkFRM2RzbWg1WG5qUTZldw?oc=5",
+   "published": "2026-10-31T01:23+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.3,
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": -4.25,
+     "asOf": "2026-10-29"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.38,
      "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥이 600포인트 이상 하락하면서 기술주도 폭락",
-   "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfRVpGbTZuZHdXLTY3cDdfcWtIaEx1cUxiZTVqU3B5NTV1QU8zOVd2Nl9aVlZWUlpPenlfRThzSm5nMGJBZzJnazVzazBYQzNRcEFkWWFOXzVZbmc3aEVUandqYUJRTnlIV195QjZUbWtqZlRNVmo0?oc=5",
-   "published": "2026-10-30T23:43+09:00",
+   "summary": "바이낸스가 해킹되어 현재 출금이 보류되었으며 나스닥은 자체 조건에 따라 토큰화를 원합니다.",
+   "title": "Binance hacked, and withdrawals are now on hold, plus Nasdaq wants tokenization on its own terms",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamlmZ2JQQk5PckRIYlAxcVkzSjNTczBnUFV6VWJLU1JETjhVYjI4VTYwZ25neUp2WmRObklOSFJZbElDS1VFRnlHT3Y4Qkh5OXVvNjVXV0NoZGFSU19peVNfcVVZZUFqMm9RbXJUSVRVNTl5WlNfNVgyMVRCaG5yTlRmQmtKVE13amo4LWNVQXd4cGIwN3RCVzd5UThlbW1HSVQ2d1IwMnB5X3VZMEYtQVY2OWhkY3RWT2tVN1NhUk9pQUJEZlpIN3lRcTNUd0tBUkI5Zy1hWmU?oc=5",
+   "published": "2026-10-31T00:53+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,11 +78,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "BofA는 월스트리트가 애플을 오해하고 있을 수 있다고 말한다",
-   "title": "BofA Says Wall Street May Be Misreading Apple",
+   "summary": "비트코인이 77,000달러 아래로 떨어지면서 COIN 주가가 2년 최저치로 하락하고 월스트리트가 목표 가격을 인하했습니다.",
+   "title": "COIN Stock Sinks To Over 2-Year Low As Bitcoin Sinks Below $77K, Wall Street Cuts Price Targets",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVNGZEFQaC1vb3ZnbzcxN2QtN0xwR1dyb1JIYlZ6LXUwejladVRrVENrcnBTTGZTYjhOMTRqei1wdEwxbVpUbU1QSHkzS0hZVjd6Zjk0bF9vV2pxSEhISEgyVUZHbS1CSV9JNDRlbmJrMXktUzlZdEk0N1I1OWRKYVBoUGZPSlNoWmlhelhfcTV4LVA0?oc=5",
-   "published": "2026-10-30T23:41+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnJOWWo2MnhST09xTUJMSExCZVZxREdnd2ZMSE1ERHNJVVpxSTRybEpodmNZaXgtY0U5SV8yaS13Zm9rbDJZWThLTjJYeWNZRmQyNVFUcm1mZ3BrTUJnYzBMUldjeU9tUTFVT0lVcWU2WDFVTlFRR3J4N1lTMUtxbnhOQ1JHTmZBMEpJMzU5VGs3UQ?oc=5",
+   "published": "2026-10-31T00:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -78,20 +90,20 @@
    ],
    "moves": [
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 1.48,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
      "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘의 주식 시장(2026년 10월 30일): S&P 500은 Amazon으로 하락하고 Intel의 손실은 월스트리트를 뒤흔들었습니다.",
-   "title": "Stock Market Today (Oct. 30, 2026): S&P 500 sinks as Amazon, Intel losses shake Wall Street",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSnIzc2o0LUFZQmtKVkQ3N2U1bHBmZ1pUS29rZ0pJSURyVjNPcE9tbXd3Q1VGbndqYlFLODgtYlhjaWpVV1h0ZjdqZU9TMElVTUtxV0NXZzVUdmt1aXlHUmlhNE5ZTUdFelQzNko1Y0F0b0U1c0RzUjdsRmJLRWc?oc=5",
-   "published": "2026-10-30T23:11+09:00",
+   "summary": "Anthropic이 OpenAI를 월스트리트에서 이기는 방법",
+   "title": "How Anthropic Beat OpenAI to Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGhOcGJVaWJCNkJGZEU5NUVtOHlNM28xQ25NbV9yanZDV0JiZ3M4b2xsa3h4SU0xSm4yb0R6cEtvdThYUERKSGt0Mm9DeF90VkF2WGtoc2ZuMTNYOTRwNGlVTmV6LVFidkVvZ0NGdW1tRTFHMWdvZnY3djZaQjV3ZXIwak9Ta2c?oc=5",
+   "published": "2026-10-31T00:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -99,15 +111,51 @@
    ],
    "moves": [
     {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -3.62,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.3,
      "asOf": "2026-10-29"
-    },
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron Peer의 열정으로 인해 다시 구매하게 되었습니다.",
+   "title": "Micron Peer Enthusiasm Entices Me To Buy Again",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenJ2bVZzeF8wdlJTOGhZaHJpeGJuNkEyaWpYMHVHR3l2NGMtRlpiWjZPeG02SV9hMlFTSjZTclFBU2oyb3h4aVhhX2ZHZHRySllCWWVIOGg1Rmo0bVZrYlRDZVdiQmprQmZQalY4cWxKcEVUZWZRMy10V0xPRlNVYVBWUWtuTkN0QWtRajhVX2xOWGxEZ2VrdzczZXZZejl3?oc=5",
+   "published": "2026-10-31T01:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
     {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": -4.25,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "오늘 마이크론 주식이 급등한 이유",
+   "title": "Why Micron Stock Dove Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZHFrRXNRVkhJazl2RzN5dDhTbVgwa2hieW1GRFpZdjAzT180TldxWl9feXlIbFNuZk1sVTN5cG1fdEQ3dGNadmpTQ3ZDQkh5eGNhblE5a3NvSGVYcFU0ankzRnBiNW5KWGVERmlPcDc2T3R0aURmWlIyRzJNWXlXWTdkNEpoUWo4SjZkMW44QktyWU9ZY2NJ?oc=5",
+   "published": "2026-10-31T00:56+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.98,
      "asOf": "2026-10-29"
     }
    ]
@@ -165,52 +213,6 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": -1.55,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "경영진은 Micron 주식에 대해 더 높은 기준을 설정했습니다. 차트가 동의합니까?",
-   "title": "Management Set A Higher Bar For Micron Stock; Does The Chart Agree?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWpzcEdnaHZTYUtrd2NKdzRhOTdjcDEyN2xzYnlWc0hvSWNGUl9QTm9SaFBKOFU2Wmlxc01rekxqUEZsSmdxY0tuWEw3Y2pxeWt6THRkQlh0TDByVlgzRm9Wc25ma0pPbHA4NC1ka3dzMTdieFRUMERhR1hTRDJLVTBKcnlyMWI2M29yM0o0eUZrcFVvUUx5ckkxdExPQQ?oc=5",
-   "published": "2026-10-30T20:16+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Marvell은 Nvidia가 지원하는 Lumentum을 인수하기 위한 사전 협상을 진행 중입니다 – 보고서",
-   "title": "Marvell in advanced talks to buy Nvidia-backed Lumentum – report",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckU4ZmVGY25nSXZsdUJ1MnNwb2lyVzE4eWVpQVYxb3NlaUlJNi1wd0RzUWVYcHJleTdDUTdCekxISkFhSUZqUUR2dmhNbllQZWhQVjUwOWlxU1ZjQzhqMkNXLWVwck9wZmxTX2Nzb1RPUFRyOFNWdDd2SEZLN1EtRDBYOWNwQQ?oc=5",
-   "published": "2026-10-30T20:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.8,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "MRVL",
-     "name": "마벨",
-     "chgPct": -13.24,
      "asOf": "2026-10-29"
     }
    ]
