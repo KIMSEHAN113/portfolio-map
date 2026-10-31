@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-31T09:51:00+09:00",
+ "updatedAt": "2026-10-31T22:10:56+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 AI의 막대한 지출에 의문을 제기합니다.",
-   "title": "Wall Street questions AI’s massive spending spree",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Mjl0UWJTd3dMa19acVFnamRPQkFiU0g3elJTTlZnZDdfd25iNkNjN0tNR3dYczRZM01JTUtXY2Jqd29Dc0ZEUzlZc0VFc3ZkeTRMbGZkM1NMUU0?oc=5",
-   "published": "2026-10-31T09:39+09:00",
+   "summary": "월스트리트가 선호하는 주식은 2010년 이후 최악의 하락세를 보이고 있습니다: 오늘의 차트",
+   "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTFxUWZ4czRVUlhySDVQTHV3U2l5RGV4TGJHd2UxbzhWNExKd1RwU1BkN25GOFZnWlktazFUVTVnNmFRTTNyTXo3cFJXeExMcjVJQWhVX0NGbV9aRXd5Z0N6QmJpckgyNnhaRmtSWkZiU19LWjRHQ1pzaU52S09nWUdTOGVtUlE1RFJOREZhY2R1a0YyUlF5RkV6MFdpZ0ZkOUZaM1lIX0JvdTNmWjBKc0Q0SXkydy13c0hNS041TDNmUnp3eDFhckEwZmRKR3lEUWFnNw?oc=5",
+   "published": "2026-10-31T21:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,15 +24,15 @@
   },
   {
    "category": "미국 지수",
-   "summary": "에너지 주식이 시장을 앞지르면서 거대 기술 매도가 월스트리트를 놀라게 함",
-   "title": "Big tech selloff spooks Wall Street as energy stocks outpace market",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwU25DR2l1ZFdFeWdaUFhHRV8wR1VEMm42NW1WbllPOGhHLVpiSGpHTTVLUGlzTllSa3Ayd19YN1dhaEhsamo0QVlvWmdoRjNxb1NyU0ZVQ0Vta28?oc=5",
-   "published": "2026-10-31T09:15+09:00",
+   "summary": "Warsh 연준 의장의 최근 기자 회견으로 월스트리트의 추측이 다시 시작되었습니다.",
+   "title": "Fed Chairman Warsh's latest press conference leaves Wall Street guessing — again",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkxxME9vbVh6WDROZ2xuUXdEVnN1ekZuNWctTVZ6ZTJCZ0NLdlc2RWctT0kwcHk5RjdJZGYtUHdRTTBIeVZUM0JzZWZKbDRNNG1uYjRNM3hoNUZpengxQmVHd3FlY1k5clV2bi04VE85dlR2MDJrZk5NMzJ4dUdzbWZqNXJjUXJ5b0NCdi1MbXlOYkhrRlF1YUFIanRkUnZJMEE4UXMyc2t5UzJua3dKNGF6c1FYMGlDRzVqZEp5dHE2TVhpUlVKOS16U3M0MXBK?oc=5",
+   "published": "2026-10-31T21:09+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
@@ -45,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq은 투자자들이 기술, AI에서 멀어짐에 따라 3주 연속 하락 마감 — AMZN, INTC, LLY, RBLX 집중",
-   "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI — AMZN, INTC, LLY, RBLX In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1RQc1hqWEp2Wmw4UmFyaVhuOUQ3bTRnWVFTV2stQjdaX3JlVXVUQUw3WmJYX21VSV9GS254UDY4WDk5YXhxazlSbEVOaHkyb055cFNRSVRmTWNiSDFsUzIwZDhmcVBzSjBxUlZ1ZWJ0MnZjYW9wd0tfdE9hRU9wZEs1Sl9ES3NtNHFtU0txcWg?oc=5",
-   "published": "2026-10-31T09:05+09:00",
+   "summary": "나스닥으로 향하는 Anthropic의 길은 훨씬 더 험난해졌습니다.",
+   "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+   "published": "2026-10-31T20:00+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -61,22 +61,16 @@
      "name": "나스닥",
      "chgPct": -2.86,
      "asOf": "2026-10-30"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Okta는 S&P 500에 편입된 후 근무 시간 외 상승합니다.",
-   "title": "Okta jumps after-hours following tapped inclusion in the S&P 500",
+   "summary": "AI 거품은 수익이 부족하여 월스트리트를 뒤흔들 것을 두려워합니다.",
+   "title": "AI bubble fears rock Wall Street as returns fall short",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUQxUUU5WXd5Z1Vab2tZTjhsVHgzdEtEZ29yVk9PcnRLcFRCazIyRVhTSElHalNnSDViem1mTFpUTUZfekphSXpiZ3BrcDg3c3J3VEE4Vk9zSXVhTG5lSTM1WVNEakdOTUE5X19lYjRZV1laRW5sbUpUMDNjUG9oZ2N0U041b1pNeEVKd2VKWGg2VC1fQkVvM3FfNEtOTzA?oc=5",
-   "published": "2026-10-31T06:59+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzFueVJQRXotdmJKWnFZRExUU3VCNkgyc2VNc1U3b3AyTWZNN1hreWk0SjFvSTdnRlNNUUFiclZIemh2ZGtmSUxqUmlCdUNTSUQ0YV83aVpjYUVtU0hTdndncFJnU1Z5Zk1yVnE4OVFVSDRTb2lWcXhnU0xRdTRqcm5xclJnNnZGaGx0ZEEtY1p6Z0E?oc=5",
+   "published": "2026-10-31T11:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Okta는 S&P 500에 합류할 예정입니다. 기타 S&P MidCap 400 및 S&P SmallCap 600 편입",
-   "title": "Okta Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
+   "summary": "제프 베조스 \"AI 버블에 빠져 있는지 알기 어렵다\" 하지만 퇴직자는 AI 주식을 사야 할까? — '저는 보통 퇴직자에게 S&P 500을 사라고 말하겠습니다.'",
+   "title": "‘Hard to Know If We’re in an AI Bubble’ Jeff Bezos Says, But Should a Retiree Buy AI Stocks? — ‘I Would Usually Tell a Retiree to Buy the S&P 500’",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmVVZVhwWnVyeHVMUmJtYnpqMGxOOUltV0xDTG9rOWM5YzFLZU1XSkUwTEJZbzJaNTRmbHpTZXoyeFJKek9sci1kSGNTUlZtMFE2SnJERFQtaTZnU0dEV21YUEllbDYzWXFIUWJVczExZHVmZW0wRnRvMEs5RHl3SUFjQzFHdm02UkdOWA?oc=5",
-   "published": "2026-10-31T06:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0tacy16b01Pb1huWE85VVU5WXJiZUkxZVVod04tVjJVTnk1M2pfVTdUUTdWNU9Bb0E5VXJ0OV9xdVpIVkpMbk96Ykxsc3hMaDZoTElvU1FObTk3VEJLRjNoblhCYTNIRUF1dnJPYkpmRUd2cWRMSVhRRHp6MVl0X1Q2YkdjMEthSm9aZDliaTc2dWM?oc=5",
+   "published": "2026-10-31T10:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,20 +108,39 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "주목해야 할 반도체 종목 2개, 의문점 1개",
-   "title": "2 semiconductor stocks to keep an eye on and 1 we question",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1ZtTlI0dlNVRVdoaHJNd3FwemlKLVVPTzRGNEFTWEZjWHZtN2t0NFdJYW9qNEJhU0lMcl9ZT2FCX0RBbHZJcTVzczJ4cF9QaE83ZWtsVV9RdjRNSGpHVmc2WElhSXNzSUhsa1huMFMxeTdJTF8xZmNwNFFHQk96dHR0cG82dUVlcVBWbVZQMmpMWXNFUTJiQWxMcEI?oc=5",
-   "published": "2026-10-31T02:15+09:00",
+   "summary": "Jensen Huang이 Nvidia 주식 투자자들을 위한 환상적인 소식을 발표했습니다.",
+   "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2t0SVNZZWpDekdCMTZ0a25Ddl80R09pdjhYV21rYmJmOF9LbnAwX3BtRFlCaHBNR0RNVm41RHpFZkx2MFJmVTJoRGRFUnRPT011QWN4dW8wSy1sWkVIeDl6U0lRWHppanhXLWhFWmUxSWxRN0Z3VEE1OHFoVGhjVzNLOXF3VjRkMG94b21VWlFtVDJ3WDJ4LWNldlI2U2RQMU9raXgyemtGT1c1cjI4ZGpB?oc=5",
+   "published": "2026-10-31T21:50+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.55,
-     "asOf": "2026-10-29"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation (NVD.F) 주가, 뉴스, 시세 및 내역",
+   "title": "NVIDIA Corporation (NVD.F) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHWWg0cjhaN2ptb1hJbkYwM0U0QVV0Ykh5UlNQT01pNzA2Wk5CYVFzZEVZWDlOSmdGdzdtM0FldE51MUM0ZDgzRmk4RDhTZzd0aVVv?oc=5",
+   "published": "2026-10-31T19:38+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
+     "asOf": "2026-10-30"
     }
    ]
   },
@@ -147,37 +160,18 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
+     "chgPct": -5.3,
+     "asOf": "2026-10-30"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Tower Semiconductor 주식 팬 여러분, 달력에 11월 2일을 표시해 두세요.",
-   "title": "Dear Tower Semiconductor Stock Fans, Mark Your Calendars for November 2",
+   "summary": "SK하이닉스의 3분기 실적 보고에서 주목받는 ETF",
+   "title": "ETFs in Focus as SK Hynix Reports Q3 Earnings",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkkwWmE3eW51OTVLbDF4TkhOdVZHRmlXa2p4eTY0UDAyNFJMb0JTZlludHk0aGZEejRiTjdBWFJlX1d3UEw4Y2c2Yjh4bEdfZmNMeGJfU0ZzVkFrWU9QbHBXWGtPd0NXeWhEb0dteEdOdGJtakJETnUtXzR2NDZHVjF6MWstM2d3NlRpWWlpMWhuYjlHdk0taXRBUzhpVGZF?oc=5",
-   "published": "2026-10-31T00:55+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -1.55,
-     "asOf": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Sandisk는 실적 저조, 가이던스 상향 및 8대1 분할에도 불구하고 9% 하락했습니다. Western Digital 하락 8%, Seagate 하락 7%, Micron 하락 6%",
-   "title": "Sandisk Sinks 9% Despite Earnings Beat, Raised Guidance and 8-for-1 Split; Western Digital Tumbles 8%, Seagate Slides 7%, Micron Falls 6%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXM3eHpONHZSd1FlY2NpSE1ua0pwZFZaN0RTcVFjRmZPOTByWEFMSHA0aVJmTzNrOGZKZWZrS1hQREJCWnlESUpQNEMzdTlqYnFRSUlpdkU2aEFpMTdPVHJPT0d1V2VHQTVlTTZyT1VGT01iSmp6bUxLc0xZaXJ4TlNVUGlzbWlKM3BzeTBiRjFVRk9raTB0WFA1c2t6Zw?oc=5",
-   "published": "2026-10-30T22:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmF0SmJmVjYtcnpHWjI4XzJEek1mSElaUTM2dFY5RWJEZHQyTlhhUDhVa2NwM0NKeUUyRDRNWGFmcm1JdjktY0JFUWV2U3hTcFJld1hsUWFZaEFNQ2FjRkg3RUw4c2d5alo0ZGFXcmZuY3BMOFc5RUVVV251Vm9aWUU4eWJmRndWbHJPT01pdFU5V1FvdGFR?oc=5",
+   "published": "2026-10-30T23:58+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -185,35 +179,29 @@
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.98,
-     "asOf": "2026-10-29"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -5.32,
-     "asOf": "2026-10-29"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -7.08,
+     "asOf": "2026-10-30"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation(NVDA)이 투자자의 관심을 끌고 있습니다: 알아야 할 사항은 다음과 같습니다.",
-   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know",
+   "summary": "2030년까지 TSMC 주식에 대한 10,000달러 투자의 가치는 다음과 같습니다.",
+   "title": "Here’s What a $10,000 Investment in TSMC Stock Will Be Worth by 2030",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0VXRS1ZUVRxVlhOTHhfNTNGazVQZlJ5MEdxMUllUDNmdlZ0dElLbVJCQl9waFJaLUV1azhjc2I5UTJZYjRYT1dQLWRseUlJSjgwTnFaa0t0dnBYSnpOR09SZThsTnRObnhSaHRKZ1JFSnc3VnpJbEUzeTZsSDhkWmR5ZEltVVkyamN2U0VKMkJ0T05xTVZPNlBLTGQ4eGZXVnVTZ2hhX2xwem4t?oc=5",
-   "published": "2026-10-30T21:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzhBMHpQcnFoUXNxdHA4Y00tTXdLWF9OQUt5ZEtEcXVXSUJOTHhRQW1VNTB1T3Vhdzd6MGdyS0xWZFk0MjZlOXU3bldpdy1xRjhPRW5KTjZZYnRodzUzQ2Uteml0RHBpbjZ1anZDY0hnNVR2Y1ZNM0lrRExwcFpobUhBSmlyWHlHY1VpQy1XYVAyWkpMVkVlMg?oc=5",
+   "published": "2026-10-30T23:50+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -0.8,
-     "asOf": "2026-10-29"
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -5.95,
+     "asOf": "2026-10-30"
     }
    ]
   }
