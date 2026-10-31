@@ -1,13 +1,82 @@
 {
- "updatedAt": "2026-10-31T07:43:07+09:00",
+ "updatedAt": "2026-10-31T09:51:00+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트는 AI의 막대한 지출에 의문을 제기합니다.",
+   "title": "Wall Street questions AI’s massive spending spree",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Mjl0UWJTd3dMa19acVFnamRPQkFiU0g3elJTTlZnZDdfd25iNkNjN0tNR3dYczRZM01JTUtXY2Jqd29Dc0ZEUzlZc0VFc3ZkeTRMbGZkM1NMUU0?oc=5",
+   "published": "2026-10-31T09:39+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "에너지 주식이 시장을 앞지르면서 거대 기술 매도가 월스트리트를 놀라게 함",
+   "title": "Big tech selloff spooks Wall Street as energy stocks outpace market",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwU25DR2l1ZFdFeWdaUFhHRV8wR1VEMm42NW1WbllPOGhHLVpiSGpHTTVLUGlzTllSa3Ayd19YN1dhaEhsamo0QVlvWmdoRjNxb1NyU0ZVQ0Vta28?oc=5",
+   "published": "2026-10-31T09:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Nasdaq은 투자자들이 기술, AI에서 멀어짐에 따라 3주 연속 하락 마감 — AMZN, INTC, LLY, RBLX 집중",
+   "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI — AMZN, INTC, LLY, RBLX In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1RQc1hqWEp2Wmw4UmFyaVhuOUQ3bTRnWVFTV2stQjdaX3JlVXVUQUw3WmJYX21VSV9GS254UDY4WDk5YXhxazlSbEVOaHkyb055cFNRSVRmTWNiSDFsUzIwZDhmcVBzSjBxUlZ1ZWJ0MnZjYW9wd0tfdE9hRU9wZEs1Sl9ES3NtNHFtU0txcWg?oc=5",
+   "published": "2026-10-31T09:05+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.86,
+     "asOf": "2026-10-30"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Okta는 S&P 500에 편입된 후 근무 시간 외 상승합니다.",
    "title": "Okta jumps after-hours following tapped inclusion in the S&P 500",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc2J3N0tvNXhQT3R6aWpiLUItakRWdTRyc3ZnZmxBY0x1SS04V1lrc2daOWF2WkV5aUh3bHIwaTJrRWZBdEF2U2w2V1pVVUhoWTZ3SmtKU3JKMnN5VmNUNE41WjRJYjdDQm1GTUpoNFQ4RVBVRmJjS09YZWxDdmRSUlhJdm9CYnowX0E?oc=5",
-   "published": "2026-10-31T07:00+09:00",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUQxUUU5WXd5Z1Vab2tZTjhsVHgzdEtEZ29yVk9PcnRLcFRCazIyRVhTSElHalNnSDViem1mTFpUTUZfekphSXpiZ3BrcDg3c3J3VEE4Vk9zSXVhTG5lSTM1WVNEakdOTUE5X19lYjRZV1laRW5sbUpUMDNjUG9oZ2N0U041b1pNeEVKd2VKWGg2VC1fQkVvM3FfNEtOTzA?oc=5",
+   "published": "2026-10-31T06:59+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -44,69 +113,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "오늘, 10월 30일 주식 시장: 약한 전망이 월스트리트를 뒤흔들면서 인텔은 거의 29% 급락했습니다.",
-   "title": "Stock Market Today, Oct. 30: Intel Plunges Nearly 29% as Weak Outlook Rattles Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG5uMlFmcDA0VUtfTTgwQ3RSbWtiVWVneVFEeU5ONjhpWkQzRWhZdURjS0xnZlBOR0o0NkpKMTZyOGQ3M01jUmh5eDhSbWl3dDFDemM5TzdHVm9Oa3pBVVJqdnZHTVpsSkM0ZjRna1NsTGpPNmdTczVKelAzX0ZOQUNfc09IN0RiUDdLNW1Pbnk0bmJf?oc=5",
-   "published": "2026-10-31T06:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -28.58,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "업데이트: AI 지출 증가에 대한 우려로 Nasdaq Composite는 2025년 3월 이후 최악의 달을 기록했습니다.",
-   "title": "Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGR0bGtndF9DYXV2TElVdWZKVU16Wi1FcUJ3emNKN1ltR1BEdk55UkFLMXNMQ0ZnSXllZ0dEcklvWDMzYWRjU0taTlFNbW1mWkl4VlRLTVI2VW9pSVlmdUp2Z0JCRTg3SGY2NktQY054S1pSV2QzR2NpbjJFdXNJdlNiVWsyX2tpM0xvWkhqb2hYQVo0VW5BdUNWRkNnVlRG?oc=5",
-   "published": "2026-10-31T05:56+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.86,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "투자자들이 기술주를 투매하면서 주식시장이 흔들렸습니다. 나스닥은 6월 이후 최악의 하루를 보내고 있다",
-   "title": "Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVll4LVFGMjA2Y0lxRFBqS2g3T19vQmtzeG1STUp3cWdYZTJVNTRxeHQ1R21JTzBRcFRhNHFha2pEMmI2Z0ozVnpIYkY4RkxaamlzWGp5MlhLZkVQYjJnNkw4VjBNTnJ0Rk5VcVpKS3JqeVA3T2FEZnIwUU10NTdON1AxNGVZRGwxVjJLOXNXVmswM3lhNk1xdm8xT0h0aVBmc1FCVWs1c19nQV9rZEtGbXZ1dkJKRl83QjI5LU03WER0TlZsdjRB?oc=5",
-   "published": "2026-10-31T05:54+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.86,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "주목해야 할 반도체 종목 2개, 의문점 1개",
    "title": "2 semiconductor stocks to keep an eye on and 1 we question",
@@ -120,29 +126,8 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -8.24,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Peer의 열정으로 인해 다시 구매하게 되었습니다.",
-   "title": "Micron Peer Enthusiasm Entices Me To Buy Again",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenJ2bVZzeF8wdlJTOGhZaHJpeGJuNkEyaWpYMHVHR3l2NGMtRlpiWjZPeG02SV9hMlFTSjZTclFBU2oyb3h4aVhhX2ZHZHRySllCWWVIOGg1Rmo0bVZrYlRDZVdiQmprQmZQalY4cWxKcEVUZWZRMy10V0xPRlNVYVBWUWtuTkN0QWtRajhVX2xOWGxEZ2VrdzczZXZZejl3?oc=5",
-   "published": "2026-10-31T01:45+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.3,
-     "asOf": "2026-10-30"
+     "chgPct": -1.55,
+     "asOf": "2026-10-29"
     }
    ]
   },
@@ -162,8 +147,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -5.3,
-     "asOf": "2026-10-30"
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
     }
    ]
   },
@@ -181,18 +166,18 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -8.24,
-     "asOf": "2026-10-30"
+     "chgPct": -1.55,
+     "asOf": "2026-10-29"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "지난 수익 보고서 이후 마이크론(MU)이 14.9% 하락한 이유는 무엇입니까?",
-   "title": "Why Is Micron (MU) Down 14.9% Since Last Earnings Report?",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdW9kSDBpNVZTakxuUWptYXhkZV9mRXVHdlk3TkQtVXNZSy10TlB5R0FkbUtiOFlUNmplOEZfWWs5eUdzemo3T0hDbFdYbGlsVWZzY0diYzBTUGcyTnRXa1lKcHU4aUpFS0NsdjNoalByYU5xS2dhbzlB?oc=5",
-   "published": "2026-10-30T23:30+09:00",
+   "summary": "Sandisk는 실적 저조, 가이던스 상향 및 8대1 분할에도 불구하고 9% 하락했습니다. Western Digital 하락 8%, Seagate 하락 7%, Micron 하락 6%",
+   "title": "Sandisk Sinks 9% Despite Earnings Beat, Raised Guidance and 8-for-1 Split; Western Digital Tumbles 8%, Seagate Slides 7%, Micron Falls 6%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXM3eHpONHZSd1FlY2NpSE1ua0pwZFZaN0RTcVFjRmZPOTByWEFMSHA0aVJmTzNrOGZKZWZrS1hQREJCWnlESUpQNEMzdTlqYnFRSUlpdkU2aEFpMTdPVHJPT0d1V2VHQTVlTTZyT1VGT01iSmp6bUxLc0xZaXJ4TlNVUGlzbWlKM3BzeTBiRjFVRk9raTB0WFA1c2t6Zw?oc=5",
+   "published": "2026-10-30T22:17+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -202,8 +187,33 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -5.3,
-     "asOf": "2026-10-30"
+     "chgPct": -4.98,
+     "asOf": "2026-10-29"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -5.32,
+     "asOf": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation(NVDA)이 투자자의 관심을 끌고 있습니다: 알아야 할 사항은 다음과 같습니다.",
+   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0VXRS1ZUVRxVlhOTHhfNTNGazVQZlJ5MEdxMUllUDNmdlZ0dElLbVJCQl9waFJaLUV1azhjc2I5UTJZYjRYT1dQLWRseUlJSjgwTnFaa0t0dnBYSnpOR09SZThsTnRObnhSaHRKZ1JFSnc3VnpJbEUzeTZsSDhkWmR5ZEltVVkyamN2U0VKMkJ0T05xTVZPNlBLTGQ4eGZXVnVTZ2hhX2xwem4t?oc=5",
+   "published": "2026-10-30T21:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -0.8,
+     "asOf": "2026-10-29"
     }
    ]
   }
