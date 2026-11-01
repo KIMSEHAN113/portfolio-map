@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-01T09:11:10+09:00",
+ "updatedAt": "2026-11-01T22:10:55+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Trump lawsuit against Wall Street Journal over Epstein birthday letter dismissed with prejudice",
-   "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter dismissed with prejudice",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3lidDJCYjZway11R29wa3NvYzlJeXNfenVXMldoTHVfOGgwV05uV0tBbHBNWjZiUGdfZkRHbUREb2ExTXdRVGhhVldGb1NVSE1WS09DV2xpZTVGZG5mbHI5eEgzRUNEOGN1TDJGWnpMT25wTTRxZjJGTHNrbUlJeHJVd0NmSml6M25oZ1NuWktxTExYUFB6U0EyeExOZw?oc=5",
-   "published": "2026-11-01T05:59+09:00",
+   "summary": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWYzVGJZSm1oS1Bfb1ZEcGZNaWx2YWkzSEZfcFI4T05ZRE1kVFpLSUJuMTA3TDQwVjVpSElqRFdQNlNiM0pPS1JyaVppSzAxVlNQRFZOR0RIN2Q4VFNlelkwU1BWZjhXa19YdDI1OUhsYVUyVF9NUWNJTTNmMDZIZ1l3SFVKT3JOa2NFNEs2U08wVnFvTTQ3d1MwVGFZZ9IBowFBVV95cUxNVHpCcm1rZ25Sb2x3YUZzZmxpZno1YWZGMnk2dE5EeHNVZFRFZ0NmQjJGZHVsR1pVVWZWa3YzcERzeU91QmdlSkhNSGxJR3ROckZaeUUzZEVOR1UyMWNmMHhUYWljMEEtTVhBdEp6a2JQMDhfQS1tZUliaEdBYjRtWXdMQm1oSDU2d2Mza0RDbkd5bEJjRUh2UlpKNVM4d2VyUGww?oc=5",
+   "published": "2026-11-01T21:33+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
-   "title": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
+   "summary": "This Dividend Stock Yielding Quadruple the S&P 500 Looks Like a Buy Right Now",
+   "title": "This Dividend Stock Yielding Quadruple the S&P 500 Looks Like a Buy Right Now",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5",
-   "published": "2026-11-01T05:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblRCWjZQMmVadUhkdUZaeXRaYTB5OGRkajhnYzZVZnFqNUhtYUJXYUZMVGxUV29ub3BTMk16dzZRMDU0RklBZ0g0WUgxU05fNFl5ZFkxMnVoamZxbWVuc3JrTUUzSXI1cURQdko4c3V5RlVjeUZOamZnYi0wZERwMUNzNHk5WTYtVjZDUzZTbnhkU3RVdUROOGNFQm9ack8wTmc?oc=5",
+   "published": "2026-11-01T20:03+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -36,20 +36,62 @@
    ],
    "moves": [
     {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -1.53,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
      "asOf": "2026-10-30"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Anthropic Intends to Trade on the Nasdaq Under the Ticker ANT",
-   "title": "Anthropic Intends to Trade on the Nasdaq Under the Ticker ANT",
+   "summary": "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
+   "title": "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS29iWWxpY2dIOFdjaXVkOXpaajJVM1Fqd3lWRl9kUklMTHRreDdKbl9lMDY1Rk5jLWdUNHFfS0ROUDlSX1VmQkw3aEJRbmxhOTA2bUlSdmI5aG1LMWo4dHg1WDJ2cmNaQ0xJbllJRXBPXzY1Ry1vNHBWOVZiY3BNdVBsbGdJa1pQZkcyWHpJX0VVWHlHUmVsWWRHeHhaRUhNVERj?oc=5",
-   "published": "2026-11-01T04:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXlkUVhJS3B6Y1JETnlNMFNfcnFJR1g2TkI0Q0QtcWJnVlZzVnJUbnY0ZUNzV3B2Qjl1dlhkSkZ4c0YwQzNCM0lueHE5Uk9zeTBnM0k2U2puM25rbmZFdVZXcDAzYTFDcGgydENMQjZOUnhrM1gwaERMYm9rSGU0Rm1hX1otQjVxdzRIbkQ2bjk0V3NaSkw0QmVaOGhqNlB2WWZfRGFDVFAzVnhGTFpjM0FlWlJzNjRsX0FKT0liZDJCVlJORm5uOHF3N2xlTUxNU1FiVnRVTlk3RldvZ1JBNDM2RGd6UQ?oc=5",
+   "published": "2026-11-01T20:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Trade Futures or S&P 500 Index Options? The IRS Treats 60% of Your Gains as Long-Term, Even on a Day Trade",
+   "title": "Trade Futures or S&P 500 Index Options? The IRS Treats 60% of Your Gains as Long-Term, Even on a Day Trade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2J1bEtqQzItNjlMS1Q5WE9NaGxSbWNaODBqRTNZQWN5ck81aDJteGRRamxSbXptLXljODVFVmpTbWNZTWcyQVdDY2xJTGpHSTA4eUxJTkRSaVk3cDk1TjcxRThjZjg0RGx6N3JFVE1sY1FuT19pczh0eTJ6eEJZRFNPTEhyaTZmNmloQjU0M2dhejRuVEE?oc=5",
+   "published": "2026-11-01T19:13+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The Nasdaq Just Flashed a Signal Investors Can't Afford to Ignore. History Says the Stock Market Will Do This Next.",
+   "title": "The Nasdaq Just Flashed a Signal Investors Can't Afford to Ignore. History Says the Stock Market Will Do This Next.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDZZNjM4VVZMTFp0WGdHczhQX2tyMVl5SlpHYzE5bkNyVmtSS29lUURTbGxfd2hSX0FzeklLbXpCWVJtR1R6Qm9qaU1MTGVJYkt6dkNDRkFIWl9POWpzUmdaNEpIeklVQkRUSDl1dHA2OVhIaEZuMUthdEtXS0pobEZEdkdKLVNpWG5LNlllcGszbk9UZVBkRGF1bVN3UzFQQ0Nj?oc=5",
+   "published": "2026-11-01T19:08+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -65,43 +107,60 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "3 Underowned S&P 500 Stocks as Investors Rotate Beyond AI",
-   "title": "3 Underowned S&P 500 Stocks as Investors Rotate Beyond AI",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVNSWWpTTmNlMjRvZkhWbTZUdElUTEY4Q0RLRXBUc3FSVEVMTlUtel9YRjgwVTlhVXZLTzBubDBJNllfcV92U0l4NDBNc1JoWHY0VzZ6YWswUmJXMFFNQmR0ZTZ3ZGhWUXBnTmtLcFowRjlVN0Q2WlZxR09ZMHZYempBM3lzQjl6b0V5bGRpUHJscGVm?oc=5",
-   "published": "2026-11-01T02:14+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Position Increased by Vise Technologies Inc.",
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Position Increased by Vise Technologies Inc.",
+   "source": "MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa3R1T1d2NFBMakJEU253Q3VSYXhnT1cyY2VsTjFJMkFCVmRSa3hxLXZQeWtlR29WY25xRUhRd2laWS1kZDU1bUM1YzctRm1WUm9JUWtKaVh6UnVDYlFfYmgtYnc2N2VjeHAtcFhpR0tHM0F3RG1Vdk9wUXpQNThtOUo1UERoN19VNmEtNHB5aDVfN3BhNENKT2l3X1BOLS1YYlI0Sk55OTRDRUFhX0lnSTJXUkd5WkF4UVVRZGVNSFdLdkQzRnpTVGl0MGJYeWhoUnQ5eklFZ3JWNFU2NDV2ZlFzMjFBU2RKZHU3bEZQUDRhN1U?oc=5",
+   "published": "2026-11-01T20:31+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -5.95,
      "asOf": "2026-10-30"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Buffett’s Berkshire flashes a signal last seen in 2001. S&P 500 fell in 4 of 6 past cases. Protect your 401(k)",
-   "title": "Buffett’s Berkshire flashes a signal last seen in 2001. S&P 500 fell in 4 of 6 past cases. Protect your 401(k)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUlV5VmpMV2w3bDBjdTNhMW9iT3J2ZlNKQi04Vk1QU2xPMFNKUm1lMGJXYnJneUdCY0t0N3dPYUhRZXBCLVh6bnJPeVpYMDFzd0t5NGI2WWtva3A4U1ZWTTdKWGxPNkhZel9ERkxZR2NuWVRtU251X1FvbHFKSVFxLTBEVDV6SUJqbTJGR0s0VEhvVjU1SVN1NXRwU283X25nWUlMYg?oc=5",
-   "published": "2026-11-01T02:00+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
+   "title": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREVncDdUN3FXckZ6cC1JWnFlZ0NmdWV4WkNvQTBrWFdvVTVTTTNvZlV6Njh3LW0wZmFRR0xYbjZoa1Myd0VINzJPeWxoaDdUc2t2N1MteGdhV1J0dzg2TlAtay1zcnVieE5Cb3ZBbFBmQjd3ZVlDQmNlcTNHVzVNRlNGMDdDS2ZMbVJjSzdDdlNwNms4U19n?oc=5",
+   "published": "2026-11-01T20:15+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -7.08,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
+   "title": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92?oc=5",
+   "published": "2026-11-01T16:44+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
      "asOf": "2026-10-30"
     }
    ]
@@ -142,63 +201,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -4.22,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44%",
-   "title": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44%",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnFJczNReXExTWs4Um1FR2FMR005bmFzeVdHVjM2YXUzWEdXb3ExalZFU25fSk5SWjZrTGJGUlRPQmVuQ191cTdCT3RMc1Z6dnhTRHpmWWpBV2l2MGdackRERHk3ak01d3R2enl4VkdDV19PWWRCN1htRDNGQ0c5c1RXUWNFTExzeV9vRU9CYzZCeHdHYlE?oc=5",
-   "published": "2026-10-31T21:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.22,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Greenup Street Wealth Management LLC Sells 6,455 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
-   "title": "Greenup Street Wealth Management LLC Sells 6,455 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
-   "source": "MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTdjUVFjdXRCazc2UmJKMVQ1Qm50dmQ3RS1WczY1MEJzRk5nUlc4RF9EbENMVFJfR3NybDJxNGRHS3lETjQ0eW43TXFPR1ZRYXhRcDhqMC1CUFZGeTZEcmJFNXpicWNwdU0zaUlVbHc4WEI3NHZDT1pNVkJSQjJiNF9zclNpN2g0OXp3YUd2a0pnY2F4RTdDbWtBeWpEcWZtQmg5dEpOWkd3R2hPd2U1MFI1MEV5c2tva1pqUmdRcXZrWUFpOFg2YU1OQkw1bUtIVVREc01MQU4zakpsb0syMjlEa0pmbjFKaDcwX2ZsRDE3bGFnZHVzaV9fcmZ2QQ?oc=5",
-   "published": "2026-10-31T20:20+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -5.95,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Navitas Semiconductor Corporation (NVTS) stock price, news, quote and history",
-   "title": "Navitas Semiconductor Corporation (NVTS) stock price, news, quote and history",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ISFFWSnp1NUV1MTltS3lMT21kLVRNS1pITk1RRzRKYUl0a19xSG85VDVnRVU4bFI1SF9Vd2NrN1FJWWw5a1Vpa0syUDVTWFNFWk5ZTDhtd1JGMDhGY1RCWHFR?oc=5",
-   "published": "2026-10-31T19:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -8.24,
      "asOf": "2026-10-30"
     }
    ]
