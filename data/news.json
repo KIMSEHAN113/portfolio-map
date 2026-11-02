@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-02T07:43:15+09:00",
+ "updatedAt": "2026-11-02T09:48:41+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
+   "title": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTBXQWd4bHowdzBsd2dQQU1PSnBQVjV5amxkdVpZRGg5WVJBX1RCckpqWWF0MUpkZkxUMVJueExUZG5PU0xPRVNPb2gyVUxnRjNwVkMtTDY5b2VCdkVqWWhMV2pHR2hObGJ0WXFYUGZWUHNJeHRmSy1tbTE2Z0dIZ2xsQ1JjZmsydjdFV3FoZGJhaXo0OExUbg?oc=5",
+   "published": "2026-11-02T08:59+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
+   "title": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2hzY0pvZ2lobC01MmFWT3JWTVhKd3o3d3RIZXA1UkxqN0FwY0RyNWIzd19vZ1JodGp6Y2R2UGV3RUd2YmZ0X0VIWjF1bEF0VFI3d0doOXlrMlhnQWpmU1BGMUZyT2xUN01zbnJzMFVHYU5TMjc3REJQQUFWSFBQVDhsWl9ZYmlKNXhqN2RjVXhFVTJ3NXZsSmNB?oc=5",
+   "published": "2026-11-02T07:38+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.86,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Australian Stock Market Today: ASX Futures Dip On US Tech Selloff And RBA Decision",
@@ -60,67 +102,6 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Here are 3 big things we're watching in the stock market in the week ahead",
-   "title": "Here are 3 big things we're watching in the stock market in the week ahead",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5",
-   "published": "2026-11-02T03:09+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "These 3 AI Stocks Could Soon Enter the S&P 500. Are They Worth Buying Before the Move?",
-   "title": "These 3 AI Stocks Could Soon Enter the S&P 500. Are They Worth Buying Before the Move?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmQxVVBnXzh3VC0tQTlkSFBFZ05RNzB5LWRlSkY5WWQyTDFrdXN3ZXptTktjYzJQaGFVWTAwa2cxdzdIZU11M3kwMDRlTmdQYlE5ZDI2RE1yV1lFMnVkV3JOUXpJOXdJZVdlazVOZFpJV1BvdTk2dGwxMEZGZnVCdUNlWTBOVmpJQmxxdWJHdmM?oc=5",
-   "published": "2026-11-02T00:29+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SOXX: Top Semiconductor ETF Targets $400 as AI Bubble Worries Linger",
-   "title": "SOXX: Top Semiconductor ETF Targets $400 as AI Bubble Worries Linger",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDBCQkRWdzBFRnpkdTdTZUhIU2toQUlEVXNiM3E5M21rXzRvcmc4eUdqSVpkRWJ5eEtlZVF1dk1HeDdaNlpKXzdPaTdzWmdIdTk2VEt1eThNZFR3OFNuYWwwd2UyQ2d0b3NTaDl5NGJYdll6SmJqcVFrazhPMk9FbTJuT3NPUlJuRHlkbGdpUWZ0aXlrdE00X0VGejFIMDVPNjVJWEoyUTJmbHpvTkpfMnBqYjA5bDF6bHVVandTaEo?oc=5",
-   "published": "2026-11-02T05:55+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -8.24,
      "asOf": "2026-10-30"
     }
    ]
@@ -201,6 +182,25 @@
      "symbol": "000660.KS",
      "name": "SK하이닉스",
      "chgPct": -7.08,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
+   "title": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92?oc=5",
+   "published": "2026-11-01T16:44+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
      "asOf": "2026-10-30"
     }
    ]
