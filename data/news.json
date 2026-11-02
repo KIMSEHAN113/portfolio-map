@@ -1,139 +1,149 @@
 {
- "updatedAt": "2026-11-02T13:02:20+09:00",
+ "updatedAt": "2026-11-02T22:10:36+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Cramer가 이번 주 나스닥 매도세를 연장할 수 있다고 말하는 3가지 촉매자",
-   "title": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
+   "summary": "기술 반등, 원유 슬라이드 리프트 월스트리트 프리 벨; 아시아 혼합, 유럽 위",
+   "title": "Tech Rebound, Crude Slide Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2hzY0pvZ2lobC01MmFWT3JWTVhKd3o3d3RIZXA1UkxqN0FwY0RyNWIzd19vZ1JodGp6Y2R2UGV3RUd2YmZ0X0VIWjF1bEF0VFI3d0doOXlrMlhnQWpmU1BGMUZyT2xUN01zbnJzMFVHYU5TMjc3REJQQUFWSFBQVDhsWl9ZYmlKNXhqN2RjVXhFVTJ3NXZsSmNB?oc=5",
-   "published": "2026-11-02T07:38+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnhBcVFlN3gzM0FqcTExckN2TEUwTV80c1d5bXRDWjN2R01rWV9EZlJTNWdHeDZpUWhQVzJiYXJHeTlza2czUlVpTXRUaHpyNWdUWHVPWlF1MndpcGdvcEpKNWV2Mk1yVFRfZ0tjZzJQdEI1VWx6Rml0UGFabk9xTDJLRl9DRHUxMFZDbDF6NXVRQndaeWtHUTln?oc=5",
+   "published": "2026-11-02T20:35+09:00",
    "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "바이낸스 해킹으로 인해 감정이 바뀐 후 COIN 주식은 월스트리트에서 분열된 견해를 보입니다",
+   "title": "COIN Stock Sees Split View On Wall Street After Binance Hack Shifts Sentiment",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3daRFgySXpiRHI2RHhlSXpnVUlWNm56ckFWX0toVGhibF9fNzRiVEtNY3Z4RWw3YXFfSk1oamlEbjl2Uks0NjVPbDl3MXBndDJyd0Itakc3NnVKRGVSMzBxdkhuVGFQTnNDbDIyRHZmNTB0NEpNNEl2YmdwajVDRkxMbFppSzRVWktDeFJpUmVnQVhBRUE?oc=5",
+   "published": "2026-11-02T20:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Okta 주가는 인덱스 펀드 수요 증가로 S&P 500 편입보다 2.5% 상승",
+   "title": "Okta Shares Rise 2.5% Ahead of S&P 500 Inclusion as Index Fund Demand Builds",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODJad09sbkJHOHN3blViejdPVkVZc3d0Rjk0NDlGaGE3MWlVTE9iTFZKeHJZaTNua0hTLUtYVlEtbVEtTE1wWngyb1UwWGI0dmZOVkk1dUtPREhMVkI2VzR2NWtQZlhuTkIwR25ZYW1qSWJWeG9MZDNXOV9WMEhRMnhBVUhSZ19NNzh5Z1dB?oc=5",
+   "published": "2026-11-02T20:29+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "주식시장은 156년 동안 딱 두 번 이런 일을 해냈습니다. 이제 이런 일이 다시 일어나고 있습니다.",
+   "title": "The Stock Market Has Done This Just Twice in 156 Years. Now It's Happening Again.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTdKYW5yOFFQeElLM25sNGFBZzhFSjhoeUFON2JaR0ZkTHhZRkdJQkdQdUNmeVJDbE5INHVON3dzNUFNSjVwdzRhSmVoZFpsTXBWbmFpdG53ZWV3dTlGTVJXcE5WenlqQlZhakxiUVZtUC1xVFZJOUZBOFhoa2tRVHkxeEF0OTNpZTdOaU9IM0NyNmdlc3lScg?oc=5",
+   "published": "2026-11-02T20:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "모건스탠리는 S&P 500이 9% 하락할 수 있다고 경고했다.",
+   "title": "Morgan Stanley warns the S&P 500 could drop 9%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlJCZzVPUzVzTy1Fcl8xV19sMUhySUJFb1dNV0t3eW1LUFJUcUNtcUtjeEJ1NGtfdU1WSWV4TXZNdTdwTDRBQkhOZWFCekpDYzR0ZEY0cF9YVWYzV1ZhbmJSZDdLSGZ5amszY3VKc2EtM01sQTdiWXBCMVdrRWh1WHMwOU5jMHo4VG96S2I1RThlbDNBU1E?oc=5",
+   "published": "2026-11-02T20:12+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Invesco NASDAQ 100 ETF(QQQM), 목요일에 NVIDIA와 Apple 추가",
+   "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Thursday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVREdDZTSjR3VEZzbjh1QUpITnVMNW5zQjJFMTl0WVhNVjZhbXVmSzlnbXJmR1pWc19lRVlZQ3NYY0ZTNEVFR3ZwcHN4S1NvOExkOElrZk5UU1pNWlF0Qk5CNzZHTXg1cTA0SWRQSEw0YUZqVER2YnRNX1RxLWtlOTZNNzhpUzBabUxNNmZFT0w5cVBGdzNr?oc=5",
+   "published": "2026-11-02T20:05+09:00",
+   "holdings": [
+    "soxl",
     "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "qqqm"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -2.86,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
      "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘 호주 주식 시장: 미국 기술 매도 및 RBA 결정에 대한 ASX 선물 하락",
-   "title": "Australian Stock Market Today: ASX Futures Dip On US Tech Selloff And RBA Decision",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU85eUw0RnhYc3VEV3d5YmxpbUo3bGFueGRuejc5UUZJd3REMDB4TkZRSTUwaXQ4WlR1V2NvUVBqRUtfMXhjN1U0dFA2Tm56MTEyT21JY1NCZWJRbUhfVFk5LXpjdDA2TnNWdUJVSlY3UTB1RHh3SmJQQjBlTzNTS3dHbG1KV0JZNHZvMUFTMXdaM01kVUlRNXF5YlVUMVU?oc=5",
-   "published": "2026-11-02T06:11+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI 우려로 주식시장 타격",
-   "title": "Stock market takes a hit amid AI concerns",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJlVnh4RWJiczhOcWhGOUNBREhRcmwzUkpDWmt3U0JTMEtkUzhvcFFUVWFyWDNkbUpLUjdSSzFwYlBDVWtobUpGb0FzWVdBRS1qbXlXVHFtRUJRd1RwT1ctVFpSc2Rmczl2RTBobmJ5TWJrV3FldHlCdlRxbDNFdE50ZjBNNVZZdjk2ZA?oc=5",
-   "published": "2026-11-02T05:44+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Vanguard S&P 500 ETF는 여전히 장기 투자자에게 매수 수단인가요? 여기 내 솔직한 의견이 있습니다.",
-   "title": "Is the Vanguard S&P 500 ETF Still a Buy for Long-Term Investors? Here's My Honest Take.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG0yMXJSYVp1RkwtYWl2WGNWU0FqTXNVdjBJbUhJWTljTnhweHZsbFdKc3Y3bXdCSGdYUGNkQVJheEhMWC0xcnE5NXc2endEWU5ULUNQWnRJN0oxaXRDQmtrSTNNWS1fYkhXWEQ0bEdIbW9kaVE5NG1xUG5mZ1hnMG9uZFh1N0tpenFoSnlxcmkxUk0?oc=5",
-   "published": "2026-11-02T04:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "다음 주에 주식 시장에서 우리가 주목해야 할 3가지 주요 사항은 다음과 같습니다.",
-   "title": "Here are 3 big things we're watching in the stock market in the week ahead",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5",
-   "published": "2026-11-02T03:09+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.23,
      "asOf": "2026-10-30"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "ON Semiconductor 수익이 임박했습니다. 가장 정확한 분석가들은 실적 발표에 앞서 예측을 수정합니다",
-   "title": "ON Semiconductor Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzB3VktaSkxoOTBxMWpyUkNUblZXRjJXTDdoRVh2OVZDc1Zvb3hQb0Vobk5LLUIweE9xTDRfc0lyMkhNMUdRbm9HdVJRZENTV01CQmFlLV82M1NtYVJRb0NPdWZDZWdENFNiU1B3M3hqbW05S0Jjd2ZNbzMxVnhRVTNTRlJBTUluNjBTYXJTOThOVTNELWlTdC1KVXA4RU5wR3NwX1dhcUxMNXBRQkllZHVWYVN0dDVsMHdTSG5QazBlZGRkWGV4dl9RaUlOcmI4Yjl5ZTI4cW1mVy13UHE2TjUyQnRaWkFrWHRFVWZaYVphM1Z4U2JGb3VXc0VTZTMwUTVoNlhLYnNpcjg0TjlHbG93?oc=5",
-   "published": "2026-11-02T11:47+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -8.24,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "ICE와 OKX의 토큰화된 주식 장소는 Nvidia, Nike가 늘어나는 반대자 목록에 합류하면서 벽에 부딪혔습니다.",
-   "title": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
+   "summary": "ProShares Ultra QQQ(QLD) 구매 내역: 10월 29일 NVIDIA 리드가 판매함에 따라 구매 없음",
+   "title": "What ProShares Ultra QQQ (QLD) Bought: No Buys as NVIDIA Leads Sells on Oct. 29",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORC1HWUNFY1JWTjJFbUlMLTNLNlc1RElqVXdNTl94b3RYSmx0LUp4NXJQajdYZ3hMaHE1NHBWRDN2UGU0a0tNNHh3dW84b2t4Ti1mNlloZUZtbGpfaENFbHAyWWNfTnFpRTFnVnJlSllEd1g3bHpxMjFSMXVVc0hyZ014clNpdHdOYTdDU0R1WlM2blRRN2xzWC1EUQ?oc=5",
-   "published": "2026-11-02T01:57+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3loT2lWVWdfMzQyTTdBVjJ3UTZlVEFoSnZBUkdmcUNEZFVWMUgtOEltTjVLc0M2SnQ0X0dkOVVSVWp2RnNWdG85VDliYmJnbTVSVWhJZHp0bHN6b1RLN1g0MTlGUDhxb21KbTA3ZWpjcGhBMnpYNXJjWmJwMW41RExoRW1FY0h1VG55V2JlN3kyanFkN1V0MU5Zcw?oc=5",
+   "published": "2026-11-02T20:04+09:00",
    "holdings": [
-    "soxl"
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
    ],
    "moves": [
     {
@@ -146,11 +156,51 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron 주식이 기록적인 해 이후 저렴해 보이는 이유",
-   "title": "Why Micron Stock Looks Cheap After a Record Year",
+   "summary": "목요일에 8개의 ETF가 TSM(Taiwan Semiconductor) 보유 지분을 축소했습니다.",
+   "title": "8 ETFs Cut Taiwan Semiconductor (TSM) Holdings on Thursday",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnhUd2lZZXp3NDEyaXNBYmpQeEwtcy1RZDc0cjJsZFBjYnJXdGxFUWFmVFdsS1BzcHRrM3NBMHhaYjVPSUZ2MWRyMlhzdmc2eVJaZ09UdVhiSGlXSndzVTZqN2ZMS2Q0bFE5VHJzQ0N0dGhQR21ja0pVMzBnN2ZFNmdZVWwyVVJBMWpFV3hvQjJjS3poMXlKVw?oc=5",
-   "published": "2026-11-01T23:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkY5cnBtaDA0VDRiSWpibDAzVzktck92aXA0dkR4VENJal9URjhETVo4V05yLVExVGhpaU1JTnllNUxvcGxDdnVvUzFGQmZGQURpVWNhaU5jSGUwejhCY3FKVzFOekNyYnJBeWJwaWYxYkFseWJTV3BUaWoyLTYyVk15b29mdkRoQjdZTndkdWlfa2Q2bXpDdXZGa00?oc=5",
+   "published": "2026-11-02T20:03+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -5.95,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 주식 평가는 기술주 대패로 인해 불타올랐습니다.",
+   "title": "Nvidia stock valuation gets torched by tech stock rout",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZseDhYeDZxTDFzcm9tLVdXRlo0RzdnTzR6U284RVFhTW1Rc09WU2R6TG1iODczZUQ0RUdPTDdPR09CajZWc0tNMV9laGxQZktza2RtZXRKTE5YT0xfY2FFWFRmVTkyWUxnb251UEJ5TWV5UFJ0VzU1LVgtTzEyZ0RjcURPUXItdEc2YzdSREtuRGZhVUlHQ3JMbWNOZmllc1RzNUphcFBRSjFTakZrT0dpTENVMFhFVVE?oc=5",
+   "published": "2026-11-02T20:02+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.22,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ETF는 10월 29일 Micron Technology(MU)의 순매도자입니다.",
+   "title": "ETFs Are Net Sellers of Micron Technology (MU) on Oct. 29",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1pmSlp1MHAzQ2l0dTZyZFdQSnJqc0VGb3lHY1VqZ2c0T1ZWNlRVaGZWanVsLURON3BuWWNPSWxiWXUta1AtdHo4enZRN09JZnZvb05BX21Qb2V5ZDByMGNjMElheGVlLXBaNE5mR3d6U3BxY3A2Ui1ZTzUzbjFHUUJRQWtDWVFRdTdSRXBEamlPdVRBbUxxYlNRUUFzUmNE?oc=5",
+   "published": "2026-11-02T20:02+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -161,46 +211,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -5.3,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia와 하이퍼스케일러를 넘어: Beth Kindig는 이러한 주식에 대해 1조 달러 규모의 AI 인프라 기회를 봅니다.",
-   "title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEkzbjcwUmE0dXJwX0VKbnhIV3dFdnhwYy1zQWlCVkh6dktWQkVfc3dta3JXX3NWb1RtX3hYQTJ4bUJCNmthNnNMaW5RTTJ0TGppQWhiSTZYZkQwdEhUNS1QNmZIa3lETHg2eUUzRUtJaWxwUjgybFJidF9GZThpbnZIOF9IOHJTWVFEMnBQVHFVYjdnU05IYW0xRlV5ZmRBM2J3MA?oc=5",
-   "published": "2026-11-01T21:52+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.22,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스 주가 급등. 주식을 사기에 너무 늦지 않은 이유.",
-   "title": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTluMFBGcTAwTHhsUGE0MEo5Nm5BdFRXNEpBSTNERUtacy1xNVRPaXJPQzRUdUprV2hPeXRSMGhsdVREcGNNQ0dyVGp0MjZ1Ql9FVUpsaDFlNWRiUVp6QkxpMElfOUFJLXp4em9aLXNKaTRRME43UHpvRVdweUp4UGlXM0xzUTR1U0ZNNDNVR2w5cWJm?oc=5",
-   "published": "2026-11-01T20:35+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -7.08,
      "asOf": "2026-10-30"
     }
    ]
