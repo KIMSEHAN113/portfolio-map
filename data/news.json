@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-11-03T05:32:06+09:00",
+ "updatedAt": "2026-11-03T07:46:21+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Main street, Wall Street needs decisive action on this front after midterm, Lou Basenese says",
-   "title": "Main street, Wall Street needs decisive action on this front after midterm, Lou Basenese says",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cndSbnJrd1JpT2R5WVRBZjk2cC1FSnVjWUhnLXNVallJNHlTdU9yd1VNQVlVazR0VlE3SU16RlB5WHZzcjhaWVpZS1lvbUVKXzVpS3ZUTzlZT00?oc=5",
-   "published": "2026-11-03T05:17+09:00",
+   "summary": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
+   "title": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVNYel9tZy1lWUhULXUyT0d6ZXlkdS1HNjJ3SkpJVGRMNnh5a1dGLWhnTUlLUDc3YVg3empTcG8wZXNvVEpyV2lvTjNlVmJCMnFfUWZCRUd6WE16aDZJU0RBdkdKenQxaFNJdENtOEFQM2NDWEljZG5zQ0RMbmJ1YWpQemVScjNkbDVnTzJyeC1rV3hoVDJaRUhhNGlWNW1vOFh6Q1Y1R29EQ1duSF93R25LbXp1alVSVGNYUDE5U0FYUQ?oc=5",
+   "published": "2026-11-03T06:54+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.83,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Australian Stock Market Today: ASX Futures Edge Up On Inflation Gauge And RBA Decision",
+   "title": "Australian Stock Market Today: ASX Futures Edge Up On Inflation Gauge And RBA Decision",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRk5IcGRJT0FQZThCRk5HNVBLa2NDQURvZHlmLWxvNllwZVZpQXZVa0lKSThfWkU0dUswa3poUE03eDJmaS1veDNBb29qY3hNYWVkNjBvN1F2MkUtRmloc3l6emIzcXBFdW5zQm1qQ3hkRXlOS1otY1B1WktINFY4dTJrMzNGT2k4Tmc?oc=5",
+   "published": "2026-11-03T06:10+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,8 +38,50 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
+     "chgPct": -0.51,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Candel Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "title": "Candel Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1AtQW95Szl1bGxuSkZ1WmwwMmNhT2s5TVBwTHEzZmlRVVBmWEVIbVQ3NVRCcGQtYjVBbTNsUW9jOE1HSlFfMFdiTDFTS1owNFFJWkQwcU5NaXgzVVlrRHZKeDMxZTczaFhsRndneHJHaHNnaGVjelVkMHZSOXVvWGs0OTRBSUMzQUIySUs1cnJ2cWVmWVpCeUxFdjM?oc=5",
+   "published": "2026-11-03T06:05+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.07,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
+   "title": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXdtcTBiYVdnNEo2VUk4cWlDT2did1hUakI1QWt3X1o4ZzVMTF8xdE9fSmtsa0VpV01WX0dqZWJheHlrUjEydk5uQVJQcWFyOEhzdzFIZFcwa0s1bVZNX1RxQV85U203c3M1eUJMSDBYQW9jTDRZQU1NeUtMMUhkVFZkZzJxb0xSZ3lyenpXdTRvbmR6MlNpTm9teUlNTzA?oc=5",
+   "published": "2026-11-03T05:59+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.51,
+     "asOf": "2026-11-02"
     }
    ]
   },
@@ -38,71 +101,27 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
+     "chgPct": -0.51,
+     "asOf": "2026-11-02"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Final Trades: Invesco S&P 500 Equal Weight, Cleveland-Cliffs, UnitedHealth and Regeneron",
-   "title": "Final Trades: Invesco S&P 500 Equal Weight, Cleveland-Cliffs, UnitedHealth and Regeneron",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeXhOY09lN2VyV1FtNDRJc0NxaGVMTVdsV1dvcjBhRVJjbmw3MW5KdWpYNjZJczBxcDN0YjJjQmFEZHJvdDNRQndLODY3UkR4N201Nko4dFJSM2RxYTJmODRPNWNsSkdZWGN0eFkwRE1KYVZTVzNvOER1bG9DNzAwTS1IZ3hfaGhsVEJpbW9zcVZzLVhYcHhTUHJxRHppUG1WLVFyU1pjanJRLXBxZmQ5QThDNUhKZ1plMlJ3Uk92T2pwMUVrV0E?oc=5",
-   "published": "2026-11-03T02:51+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes",
-   "title": "Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes",
+   "category": "반도체 · 메모리",
+   "summary": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+   "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDh5emNDX0ZZTkJNRkFhMml2bldyZmJjQUJubTdDRzFQRk5NVW0zVFpaQnpfMXVnc05oWnZJUHo1ZGs1c05IU3pKd0xDc3gyRVdVcVVtWUcxbldlM29UalZnbGxsOTNBMnFiZFhhT1V3UTU3R2xycERteDg2bVZVcGFycmhFSlNmUVNYTWNtNGp4MVlp?oc=5",
-   "published": "2026-11-03T02:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVcyRUhyVlBfYVd2dVB4ZkdtWndTS0tNX3pNNWVfaVhlRlZhWmw2U2F2dWtlSktXNmVCZ1VXVEtYc1JSQVlla010VHJrb25BU3UwRWtWZXpLaHVCSG9fTlZVSFRCMjFxMGp4cUtQNzVQNzRkOTF5TVR3SWR0R1VEQlpIUld6U0NzTnFEbzZJOF9DcktCSjQtdWM2SDBseEJITG1UcWw4ZnZHenQzcUNnZS1nUl9IdFM4QTRjYjFmT1kxZDdNb3YtTWpGTS1GX1JvbVpvMXludGl4Zw?oc=5",
+   "published": "2026-11-03T05:41+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Analysis-October dive for AI-related shares tests broader US stock market's resilience",
-   "title": "Analysis-October dive for AI-related shares tests broader US stock market's resilience",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTRTd2RrLURjbGRHQ1Y1bGZDZTFQNHB6bFlyWEQzX0F2R1lLbmVRcXhVOXh4aktucEFKX0h5NlQwSWVKeC1rYW8xRXhuR3M3bGhQalpmU2p5aFZHZDB6eHlCZzg2VEdaMk11ZUNlTVZIR0daeVFMTUJVdHhDTUF2b1BIcnVya3VTMXZSb1hLZlJ6RkwtZEN5RHlsTHdVdw?oc=5",
-   "published": "2026-11-03T02:08+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -8.8,
+     "asOf": "2026-11-02"
     }
    ]
   },
@@ -122,14 +141,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -5.3,
-     "asOf": "2026-10-30"
+     "chgPct": -5.78,
+     "asOf": "2026-11-02"
     },
     {
      "symbol": "SNDK",
      "name": "샌디스크",
-     "chgPct": -13.47,
-     "asOf": "2026-10-30"
+     "chgPct": -6.59,
+     "asOf": "2026-11-02"
     }
    ]
   },
@@ -149,8 +168,8 @@
     {
      "symbol": "000660.KS",
      "name": "SK하이닉스",
-     "chgPct": -7.08,
-     "asOf": "2026-10-30"
+     "chgPct": 3.81,
+     "asOf": "2026-11-02"
     }
    ]
   },
@@ -168,8 +187,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.22,
-     "asOf": "2026-10-30"
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
     }
    ]
   },
@@ -187,27 +206,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.22,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Polymarket Traders Missed Nvidia’s October Drop. Here’s What They Predict for November.",
-   "title": "Polymarket Traders Missed Nvidia’s October Drop. Here’s What They Predict for November.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0lPbGpsd1VLOVVaTi1CbTNDajRoTEt4QmdnQ3JkRlZTSE1UQ2tQSUhudnlTMm1VTEl1M0tuMVhVc0RkREVacTF0Tkxta1VuYUxaTmhrN3RaN3E3WE1lM195X1psbHRoYW1QOWdCazJ5NmZGV1NmVmlqQVo2Y1hFd2h1NThMaXBMVXAzYjh0S3ZObzllQXhXRWVfazNnbFhuYkhuaV9qY2M?oc=5",
-   "published": "2026-11-03T02:20+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.22,
-     "asOf": "2026-10-30"
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
     }
    ]
   }
