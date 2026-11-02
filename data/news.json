@@ -1,30 +1,9 @@
 {
- "updatedAt": "2026-11-02T09:48:41+09:00",
+ "updatedAt": "2026-11-02T13:02:20+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
-   "title": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTBXQWd4bHowdzBsd2dQQU1PSnBQVjV5amxkdVpZRGg5WVJBX1RCckpqWWF0MUpkZkxUMVJueExUZG5PU0xPRVNPb2gyVUxnRjNwVkMtTDY5b2VCdkVqWWhMV2pHR2hObGJ0WXFYUGZWUHNJeHRmSy1tbTE2Z0dIZ2xsQ1JjZmsydjdFV3FoZGJhaXo0OExUbg?oc=5",
-   "published": "2026-11-02T08:59+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.82,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
+   "summary": "Cramer가 이번 주 나스닥 매도세를 연장할 수 있다고 말하는 3가지 촉매자",
    "title": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2hzY0pvZ2lobC01MmFWT3JWTVhKd3o3d3RIZXA1UkxqN0FwY0RyNWIzd19vZ1JodGp6Y2R2UGV3RUd2YmZ0X0VIWjF1bEF0VFI3d0doOXlrMlhnQWpmU1BGMUZyT2xUN01zbnJzMFVHYU5TMjc3REJQQUFWSFBQVDhsWl9ZYmlKNXhqN2RjVXhFVTJ3NXZsSmNB?oc=5",
@@ -45,7 +24,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Australian Stock Market Today: ASX Futures Dip On US Tech Selloff And RBA Decision",
+   "summary": "오늘 호주 주식 시장: 미국 기술 매도 및 RBA 결정에 대한 ASX 선물 하락",
    "title": "Australian Stock Market Today: ASX Futures Dip On US Tech Selloff And RBA Decision",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU85eUw0RnhYc3VEV3d5YmxpbUo3bGFueGRuejc5UUZJd3REMDB4TkZRSTUwaXQ4WlR1V2NvUVBqRUtfMXhjN1U0dFA2Tm56MTEyT21JY1NCZWJRbUhfVFk5LXpjdDA2TnNWdUJVSlY3UTB1RHh3SmJQQjBlTzNTS3dHbG1KV0JZNHZvMUFTMXdaM01kVUlRNXF5YlVUMVU?oc=5",
@@ -66,7 +45,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Stock market takes a hit amid AI concerns",
+   "summary": "AI 우려로 주식시장 타격",
    "title": "Stock market takes a hit amid AI concerns",
    "source": "NBC News",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJlVnh4RWJiczhOcWhGOUNBREhRcmwzUkpDWmt3U0JTMEtkUzhvcFFUVWFyWDNkbUpLUjdSSzFwYlBDVWtobUpGb0FzWVdBRS1qbXlXVHFtRUJRd1RwT1ctVFpSc2Rmczl2RTBobmJ5TWJrV3FldHlCdlRxbDNFdE50ZjBNNVZZdjk2ZA?oc=5",
@@ -87,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Is the Vanguard S&P 500 ETF Still a Buy for Long-Term Investors? Here's My Honest Take.",
+   "summary": "Vanguard S&P 500 ETF는 여전히 장기 투자자에게 매수 수단인가요? 여기 내 솔직한 의견이 있습니다.",
    "title": "Is the Vanguard S&P 500 ETF Still a Buy for Long-Term Investors? Here's My Honest Take.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG0yMXJSYVp1RkwtYWl2WGNWU0FqTXNVdjBJbUhJWTljTnhweHZsbFdKc3Y3bXdCSGdYUGNkQVJheEhMWC0xcnE5NXc2endEWU5ULUNQWnRJN0oxaXRDQmtrSTNNWS1fYkhXWEQ0bEdIbW9kaVE5NG1xUG5mZ1hnMG9uZFh1N0tpenFoSnlxcmkxUk0?oc=5",
@@ -107,8 +86,48 @@
    ]
   },
   {
+   "category": "미국 지수",
+   "summary": "다음 주에 주식 시장에서 우리가 주목해야 할 3가지 주요 사항은 다음과 같습니다.",
+   "title": "Here are 3 big things we're watching in the stock market in the week ahead",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5",
+   "published": "2026-11-02T03:09+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.82,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
    "category": "반도체 · 메모리",
-   "summary": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
+   "summary": "ON Semiconductor 수익이 임박했습니다. 가장 정확한 분석가들은 실적 발표에 앞서 예측을 수정합니다",
+   "title": "ON Semiconductor Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzB3VktaSkxoOTBxMWpyUkNUblZXRjJXTDdoRVh2OVZDc1Zvb3hQb0Vobk5LLUIweE9xTDRfc0lyMkhNMUdRbm9HdVJRZENTV01CQmFlLV82M1NtYVJRb0NPdWZDZWdENFNiU1B3M3hqbW05S0Jjd2ZNbzMxVnhRVTNTRlJBTUluNjBTYXJTOThOVTNELWlTdC1KVXA4RU5wR3NwX1dhcUxMNXBRQkllZHVWYVN0dDVsMHdTSG5QazBlZGRkWGV4dl9RaUlOcmI4Yjl5ZTI4cW1mVy13UHE2TjUyQnRaWkFrWHRFVWZaYVphM1Z4U2JGb3VXc0VTZTMwUTVoNlhLYnNpcjg0TjlHbG93?oc=5",
+   "published": "2026-11-02T11:47+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -8.24,
+     "asOf": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ICE와 OKX의 토큰화된 주식 장소는 Nvidia, Nike가 늘어나는 반대자 목록에 합류하면서 벽에 부딪혔습니다.",
    "title": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORC1HWUNFY1JWTjJFbUlMLTNLNlc1RElqVXdNTl94b3RYSmx0LUp4NXJQajdYZ3hMaHE1NHBWRDN2UGU0a0tNNHh3dW84b2t4Ti1mNlloZUZtbGpfaENFbHAyWWNfTnFpRTFnVnJlSllEd1g3bHpxMjFSMXVVc0hyZ014clNpdHdOYTdDU0R1WlM2blRRN2xzWC1EUQ?oc=5",
@@ -127,7 +146,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Micron Stock Looks Cheap After a Record Year",
+   "summary": "Micron 주식이 기록적인 해 이후 저렴해 보이는 이유",
    "title": "Why Micron Stock Looks Cheap After a Record Year",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnhUd2lZZXp3NDEyaXNBYmpQeEwtcy1RZDc0cjJsZFBjYnJXdGxFUWFmVFdsS1BzcHRrM3NBMHhaYjVPSUZ2MWRyMlhzdmc2eVJaZ09UdVhiSGlXSndzVTZqN2ZMS2Q0bFE5VHJzQ0N0dGhQR21ja0pVMzBnN2ZFNmdZVWwyVVJBMWpFV3hvQjJjS3poMXlKVw?oc=5",
@@ -148,7 +167,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
+   "summary": "Nvidia와 하이퍼스케일러를 넘어: Beth Kindig는 이러한 주식에 대해 1조 달러 규모의 AI 인프라 기회를 봅니다.",
    "title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEkzbjcwUmE0dXJwX0VKbnhIV3dFdnhwYy1zQWlCVkh6dktWQkVfc3dta3JXX3NWb1RtX3hYQTJ4bUJCNmthNnNMaW5RTTJ0TGppQWhiSTZYZkQwdEhUNS1QNmZIa3lETHg2eUUzRUtJaWxwUjgybFJidF9GZThpbnZIOF9IOHJTWVFEMnBQVHFVYjdnU05IYW0xRlV5ZmRBM2J3MA?oc=5",
@@ -167,7 +186,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
+   "summary": "SK하이닉스 주가 급등. 주식을 사기에 너무 늦지 않은 이유.",
    "title": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTluMFBGcTAwTHhsUGE0MEo5Nm5BdFRXNEpBSTNERUtacy1xNVRPaXJPQzRUdUprV2hPeXRSMGhsdVREcGNNQ0dyVGp0MjZ1Ql9FVUpsaDFlNWRiUVp6QkxpMElfOUFJLXp4em9aLXNKaTRRME43UHpvRVdweUp4UGlXM0xzUTR1U0ZNNDNVR2w5cWJm?oc=5",
@@ -182,25 +201,6 @@
      "symbol": "000660.KS",
      "name": "SK하이닉스",
      "chgPct": -7.08,
-     "asOf": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
-   "title": "Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92?oc=5",
-   "published": "2026-11-01T16:44+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.22,
      "asOf": "2026-10-30"
     }
    ]
