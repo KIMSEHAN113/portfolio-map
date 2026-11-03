@@ -1,19 +1,67 @@
 {
- "updatedAt": "2026-11-03T14:02:36+09:00",
+ "updatedAt": "2026-11-03T22:11:04+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Apple’s holiday outlook tops Wall Street expectations",
-   "title": "Apple’s holiday outlook tops Wall Street expectations",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdks3NEQwN1dMN0t1TTMwR2htSEpvQktuZW5XNXp6bklVUnNuYVk2NWdzRDhmemFDQTNnMEM3cGJoYlFCX0ZZOGJpUmpzQktHNmEyMEZpSzI0cWFkQW1GbHVBR1FQRWRyQ2dpYm1KTDA3cGR6eVJmSkd0ZmlydzNGU1lCZU9oY2tqU1NKUzU5SVJNbHEwQ0l2STF6Zw?oc=5",
-   "published": "2026-11-03T12:09+09:00",
+   "summary": "The Nasdaq 100 Is Now Officially in a Correction",
+   "title": "The Nasdaq 100 Is Now Officially in a Correction",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjQ4a2Jqc2MycGJ0b284RHJrNGZuSDQwRE9BekFmM3hKa25WY0NfT1FNcGN2a0tMX1VUZEMzYVJwMHRsenhSTm1HYzY0c21SLTN4S3ZoN1IyQkgtOVptYjExNE5mRVhJOGZpM0V2Mkw1VEtWczRZQ25KN05LeFF6VjhpSWgzNFVQbDliRVFQV3l0b2IzWVZpUHhYdDhieklaZ2hn?oc=5",
+   "published": "2026-11-03T21:38+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.07,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Palantir Is Down 11% Over 12 Months: This Wall Street Pro Says 50% Gains to Come Over Next 12 Months as Momentum Rises",
+   "title": "Palantir Is Down 11% Over 12 Months: This Wall Street Pro Says 50% Gains to Come Over Next 12 Months as Momentum Rises",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWi0wWFlObUx1a3NuYTBpWEYyQ2p1aUNLOUtfcUpHWGJwN2w3V0NscmdGbWVZNE9jalMwTEthdEVxZlUzbGhlSnlPeFVIcFhQVDRacThQTEJuZlpKSzZXdlpjYUk0Z0EtejBBM2dQTXJiWFM4QjdfVDZ4QV84Vmx3WVRqblB4RGtPc2pQcFY3ZVVfYTg?oc=5",
+   "published": "2026-11-03T21:15+09:00",
+   "holdings": [
+    "pltr",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "PLTR",
+     "name": "팔란티어",
+     "chgPct": -3.13,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "NASDAQ enters correction territory as Apple, Palantir lead tech sell-off",
+   "title": "NASDAQ enters correction territory as Apple, Palantir lead tech sell-off",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yM3FWQm91RTdPNFFKbkxlWHdYQTRzZGx4clZVS0hFT0ZCZ0xBRlZBaWxuQ1J6MkZIcFE5em1WS3VJZDEzSXV0NkdFMVlDQ0JMamhMbGE3MFREMkE?oc=5",
+   "published": "2026-11-03T21:11+09:00",
+   "holdings": [
+    "pltr",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "PLTR",
+     "name": "팔란티어",
+     "chgPct": -3.13,
+     "asOf": "2026-11-02"
+    },
     {
      "symbol": "AAPL",
      "name": "애플",
@@ -24,32 +72,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "John Ternus faces Wall Street for the first time as Apple CEO",
-   "title": "John Ternus faces Wall Street for the first time as Apple CEO",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTVwZzdudkNvT2pRejhIa05zNW9fMEM5UDZrdnhhOEpZcHItZUdUNkloOXVla3F3djUzck9KSVI3RXlRRG5NWjZnZUtRcDN2VzlHTlFENS01UXBXUHFFcmQ4SGJwS3FpQUppT0ROWUpFNDJGbXpHTm1Gc3M3NXRMOHN2MUtCcHFLZk9fWkVSOWZ3MEowZXRfOXJ4aWJYMHFYZmh2TWM3VQ?oc=5",
-   "published": "2026-11-03T11:54+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.83,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 2: CoreWeave Slides on Debt Concerns After CrowdStrike Partnership Expands",
-   "title": "Stock Market Today, Nov. 2: CoreWeave Slides on Debt Concerns After CrowdStrike Partnership Expands",
+   "summary": "The Stock Market Has Boomed After the Last 19 Midterms. Whether Trump Wins or Loses on Tuesday, Wednesday Could be the Day to Buy",
+   "title": "The Stock Market Has Boomed After the Last 19 Midterms. Whether Trump Wins or Loses on Tuesday, Wednesday Could be the Day to Buy",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjdZMld3MlFvVUZGYnN5ZzFJR1JKNjBfakJzdXBWZFN3OFRaS09mNkdlb0c5eEtiVHB2S0JZX3hfSlpJNG1KckVnNG00Y1ZBRVJXRTZ6NlFfRWxXYlh6c044UTlIajZaRUhiZUNGdFI1OFUwVHN5bmhEWUxsSll6aHRPaVNvUTZlNzVEOXdQUGZJM3c?oc=5",
-   "published": "2026-11-03T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTHZKZmZPRUpyWTVLMWk5WlVUQmJzTlF3QTNGbk54MmxWSmVwSlh4VFc4eUpWWXFDQzQ2MlhzaFV6cVpEQW5QRlZRcTZkSkVQd3BaaGwwM21hN2ZlTXJGWDFQYTZSMENEZlFob19jOU5hZTFaa3UzUlV1RXF0ejA?oc=5",
+   "published": "2026-11-03T21:07+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,11 +93,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
-   "title": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
+   "summary": "2 S&P 500 stocks to consider right now and 1 we find risky",
+   "title": "2 S&P 500 stocks to consider right now and 1 we find risky",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzY3ZFlzZS1ZWExBcDNpX3JpLWJMTk9OSzNJS285Q1M5bUFGcnhGVVJYUmoyWk5Uc2dIQ1dzd29VX1Z3WThKWUR5SzI0azFLSG9IZ2Z6T1psVVZMTk1jQkh4NnN4cmZyRDZBa0pibjF5cko3RGYxMmNhTmVxcUxaTmNqMTB6V2kzR3VkWEU2NjU4MmRrUW9HbER3?oc=5",
-   "published": "2026-11-03T07:56+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2Rjc0NlbFkxeXNRSmRXOWEwdDVXZzIxMFdhRmhmZXpvXzRzUDNRNWMxNTVCeGtMcThTYUo2Ymhsclp0Zkg4UWhNUVpsZDVWOTFpSHRaOEZKbFZXckhsa1FuRWFNSk5BNVdEZW1vbl9QdENSbHk3SUJ1RVZCSXlnbVl3bnlNYm51NEM3R1VCbFZYdw?oc=5",
+   "published": "2026-11-03T21:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -86,22 +113,60 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 2: Rivian Rallies on UBS Upgrade and Solid R2 Demand Outlook",
-   "title": "Stock Market Today, Nov. 2: Rivian Rallies on UBS Upgrade and Solid R2 Demand Outlook",
+   "category": "반도체 · 메모리",
+   "summary": "How Big Could NVIDIA Stock's Next Fall Be?",
+   "title": "How Big Could NVIDIA Stock's Next Fall Be?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUh3aXJUNEZDMnhTNFlEZFg2b25EeEhvbWVwdGhWZE5IQlM4S2tQUU1qUzJGb1lLWXo2OE1VUC0xVExXc3RieVNOTnByVVE2UTlaVk9tQkk4eUpEbml2WExMSFdLY2NLTTcwUTBVOWNnRUxNa3hkWXFiQ3VDUlJVaGJNaklOclBpWFotYW1wNjhTdlk?oc=5",
-   "published": "2026-11-03T07:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTZFdUFZNnBzYS1uRXFpTHhOLWl1OFo0MW1PZEo1YVJWNDRTMVdqRXhBX0Nvb0M0ZFo2SFY3QVk3OXFZQVd5QU1tSlFTb0FXbFpYWGRKc2ZyTFBJZnFvdmF3c3E1Smc5VDRMaW01WElIdE9LSVpHTDIzN0pYOHZ5dmtrXzJvWEdWNzItajBRR2FReXZjM0JTZg?oc=5",
+   "published": "2026-11-03T21:41+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.51,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ETFs Are Buying Micron Technology (MU) on Oct. 30",
+   "title": "ETFs Are Buying Micron Technology (MU) on Oct. 30",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTgtN2JOTHgxZWZ1SzNQVlJ1RXVkbUhjX0JRQTA3azdUdUtEbkNhdGhWV2Z1TFJNSmlIMDdmdmJQU1AtRkpDakhGRTdfalB4SmI2Wk14VHg3Tm9VZXFjbzFwemRIRjM3Q2loU1FsZjNTOG9hNTNzNHZHNDRPRGdJbDFndmJHWmZMaS00NjV5LWpWeHVSbWNLOEU3dzBjdw?oc=5",
+   "published": "2026-11-03T20:01+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.78,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ETFs Bought $505.7 Million of NVIDIA (NVDA) on Friday",
+   "title": "ETFs Bought $505.7 Million of NVIDIA (NVDA) on Friday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzZ5XzJ3b29Ha0lwVWNYRDh0QnR2ZGRuZFVxQldKZjZxdDYwZmYtTl9rU3d2cF93U2tMYVdndzlpTHlQdmFaTDBJNG5EelkzS1JRRExaRnlWbVVnZzkxNEhyUFc0TDJHN1JadGV1eVlLaVlCd0g1dElpX19kVThET2ZIV2FGYmZzQnA5TDE1elRLYTNv?oc=5",
+   "published": "2026-11-03T20:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.26,
      "asOf": "2026-11-02"
     }
    ]
@@ -142,63 +207,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -5.78,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "ON Semiconductor shares fall despite earnings beat",
-   "title": "ON Semiconductor shares fall despite earnings beat",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1NPeUZ3Ty1pdUpBVGlWdWN1S3hrYlc4ZlFfSEdFNWl3N3F1VlFRMHpKMFVPVi1ienJqNnE2cWlCaHFhT05lOGNGVFdZY1BDVmxkeEhfTDF6SlFRM20wazBHbmp3VHRnZXdvVVdxcE9TUXNsTzZQRUZSTEFmX2phc3Y4UXhHVmk3bDJ4VEFsMHdCcTVKZ1E?oc=5",
-   "published": "2026-11-03T06:48+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -3.79,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia (NVDA) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "title": "Nvidia (NVDA) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjROdjdjOVlRX3RIOVVXbDVmSm0yTkJDZUZOcDY3NlJTLXFjSFFTV1A1SHVYeVIxeWw2R1B1anVKaDl0R3RLYmxqTVRiX2hQT18tbm5lVVNBdE9CU3JUZnY3MlBMNDBwSHFDNlJPX2JsdXEtcFdDOVJRNDhFQXg3aXNEX09yck9UbC1vXzZSNmE3cmQ3NHE2Q3o2Yw?oc=5",
-   "published": "2026-11-03T06:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.26,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
-   "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYXNGRkpFR1R4ZkhibXhKWEVTams1NDB2ZXU4UzZHcmlOYWRFOXRKb1poRUZxQ180WHQ0VWplOG95a2hxemxRQjhibE9aQWFkY3BiRWgtNWZzMXBXNjN1M01mQXRwN3B2R2ZPQjhxbGkteVN5STNoYzhQN2Vmdm1PZGhVN183RzRsaE1YMG1vSjNSQnlteTdwSU5MSllqOTJZOHZFaHJOZVN1ZGJ5bUI5ZjcwQnRQU08zcGlDRF9VV21LYzhRVm41ZFRld0pwUGpjVURBazJWS25xQQ?oc=5",
-   "published": "2026-11-03T06:25+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -8.8,
      "asOf": "2026-11-02"
     }
    ]
