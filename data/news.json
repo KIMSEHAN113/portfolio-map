@@ -1,29 +1,44 @@
 {
- "updatedAt": "2026-11-03T11:57:16+09:00",
+ "updatedAt": "2026-11-03T14:02:36+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope — ORCL, META, PLTR, AAPL In Focus",
-   "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope — ORCL, META, PLTR, AAPL In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTdkSUtRRnVUWm94dEFwdVVqWDladE4tWktWZnlHZ1dYUlhDYzlRdGwwWlVNSmZDUlFyTVRvcFdzN3FzMnVwUW5HbEhDR00wNXp6a3Q5cTFxb0MwbFNWZ2JWUlpJQ19FN3ZibDlGMUkySVRqTHRvVkVKM29ZM1VkVEgyaGItMG9lTU1UN1pqODJ5QQ?oc=5",
-   "published": "2026-11-03T09:22+09:00",
+   "summary": "Apple’s holiday outlook tops Wall Street expectations",
+   "title": "Apple’s holiday outlook tops Wall Street expectations",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdks3NEQwN1dMN0t1TTMwR2htSEpvQktuZW5XNXp6bklVUnNuYVk2NWdzRDhmemFDQTNnMEM3cGJoYlFCX0ZZOGJpUmpzQktHNmEyMEZpSzI0cWFkQW1GbHVBR1FQRWRyQ2dpYm1KTDA3cGR6eVJmSkd0ZmlydzNGU1lCZU9oY2tqU1NKUzU5SVJNbHEwQ0l2STF6Zw?oc=5",
+   "published": "2026-11-03T12:09+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -1.34,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.83,
      "asOf": "2026-11-02"
-    },
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "John Ternus faces Wall Street for the first time as Apple CEO",
+   "title": "John Ternus faces Wall Street for the first time as Apple CEO",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTVwZzdudkNvT2pRejhIa05zNW9fMEM5UDZrdnhhOEpZcHItZUdUNkloOXVla3F3djUzck9KSVI3RXlRRG5NWjZnZUtRcDN2VzlHTlFENS01UXBXUHFFcmQ4SGJwS3FpQUppT0ROWUpFNDJGbXpHTm1Gc3M3NXRMOHN2MUtCcHFLZk9fWkVSOWZ3MEowZXRfOXJ4aWJYMHFYZmh2TWM3VQ?oc=5",
+   "published": "2026-11-03T11:54+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.07,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.83,
      "asOf": "2026-11-02"
     }
    ]
@@ -92,22 +107,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "MSA Safety (MSA) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "title": "MSA Safety (MSA) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset",
+   "title": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzEtYVdhVEtPSzBjMmpSZUdsRWpCeVV3Qk8td2JjRkdTcTh5a1lLeVp4T2N2VVBJQjA5cVV4ZTY0bE5Rb2ZxbjFWNkl0UnRpcjlhUWtnZ3VaZHEzMnFnbEFGU3h6MlJwQkphVjdpVlplSktZc0pTNmtQTnhUd0lUMFJLS3ljM0plZU9lbFprRU1iT2J1SVE?oc=5",
-   "published": "2026-11-03T07:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlNrQ1ZDQmNvTllra2ViQVl3NmZ1X2YySEE3TXgzNzIyUHRtNkV5SjFLZ0F4NGtnaGJ3eFQ1VUdiTFNHcmlVYVNyblBfU1VlLXZhTTBRZTNSOXptbU14a0lzSHB4cHA3N3lUYTgwMWdlYklKYVczTVJ2VTZkVkJaSEVXWkg4NWE5bnEwVUlpdElES3M?oc=5",
+   "published": "2026-11-03T12:41+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.51,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.26,
      "asOf": "2026-11-02"
     }
    ]
@@ -129,6 +142,25 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -5.78,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "ON Semiconductor shares fall despite earnings beat",
+   "title": "ON Semiconductor shares fall despite earnings beat",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1NPeUZ3Ty1pdUpBVGlWdWN1S3hrYlc4ZlFfSEdFNWl3N3F1VlFRMHpKMFVPVi1ienJqNnE2cWlCaHFhT05lOGNGVFdZY1BDVmxkeEhfTDF6SlFRM20wazBHbmp3VHRnZXdvVVdxcE9TUXNsTzZQRUZSTEFmX2phc3Y4UXhHVmk3bDJ4VEFsMHdCcTVKZ1E?oc=5",
+   "published": "2026-11-03T06:48+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -3.79,
      "asOf": "2026-11-02"
     }
    ]
@@ -167,54 +199,6 @@
      "symbol": "INTC",
      "name": "인텔",
      "chgPct": -8.8,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
-   "title": "Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFdaTWVZNFItSTAwUXVrUURyUndmWDRHX3VJeE5XRDFGaGIyZWZHNTNQRnAwZHVuZVNkenFzSHpGc1BwLTBEWnlmRjJSOV9XcmpvVjV3N1Y5MEsxNFpLaXVQczB0SWV0Ni03c3VKa3N4UEdNbnQxOThBdmxWWnFTRjNaWk5neDItcFJqRHhNcGNXVEtkQndmaFI1WQ?oc=5",
-   "published": "2026-11-03T03:53+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.78,
-     "asOf": "2026-11-02"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -6.59,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK Hynix Stocks Rise 3.81% With Solidigm IPO Halt Refocusing Capital Allocation",
-   "title": "SK Hynix Stocks Rise 3.81% With Solidigm IPO Halt Refocusing Capital Allocation",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa25RX3ZTUlZxSENyNkotbWNyQ1gtNHRqNUN4WWxmcTI5OEViamVNTm5YcE12bHVYTlllMU1vT0o0OHNEN2N5enFGdGtmRDVzbEVzUHlyOGdXQkhfcmRGaGJidlFQaHJGdHFlaFR1cVlFbXFraExiRktWZFUwWGFfejNxN0paQjg1aFpKd0FkMFY?oc=5",
-   "published": "2026-11-03T03:44+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 3.81,
      "asOf": "2026-11-02"
     }
    ]
