@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-03T07:46:21+09:00",
+ "updatedAt": "2026-11-03T09:32:12+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
-   "title": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
+   "summary": "오늘, 11월 2일 주식 시장: CrowdStrike 파트너십 확장 후 부채 문제에 대한 CoreWeave 발표",
+   "title": "Stock Market Today, Nov. 2: CoreWeave Slides on Debt Concerns After CrowdStrike Partnership Expands",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVNYel9tZy1lWUhULXUyT0d6ZXlkdS1HNjJ3SkpJVGRMNnh5a1dGLWhnTUlLUDc3YVg3empTcG8wZXNvVEpyV2lvTjNlVmJCMnFfUWZCRUd6WE16aDZJU0RBdkdKenQxaFNJdENtOEFQM2NDWEljZG5zQ0RMbmJ1YWpQemVScjNkbDVnTzJyeC1rV3hoVDJaRUhhNGlWNW1vOFh6Q1Y1R29EQ1duSF93R25LbXp1alVSVGNYUDE5U0FYUQ?oc=5",
-   "published": "2026-11-03T06:54+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.83,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Australian Stock Market Today: ASX Futures Edge Up On Inflation Gauge And RBA Decision",
-   "title": "Australian Stock Market Today: ASX Futures Edge Up On Inflation Gauge And RBA Decision",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRk5IcGRJT0FQZThCRk5HNVBLa2NDQURvZHlmLWxvNllwZVZpQXZVa0lKSThfWkU0dUswa3poUE03eDJmaS1veDNBb29qY3hNYWVkNjBvN1F2MkUtRmloc3l6emIzcXBFdW5zQm1qQ3hkRXlOS1otY1B1WktINFY4dTJrMzNGT2k4Tmc?oc=5",
-   "published": "2026-11-03T06:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjdZMld3MlFvVUZGYnN5ZzFJR1JKNjBfakJzdXBWZFN3OFRaS09mNkdlb0c5eEtiVHB2S0JZX3hfSlpJNG1KckVnNG00Y1ZBRVJXRTZ6NlFfRWxXYlh6c044UTlIajZaRUhiZUNGdFI1OFUwVHN5bmhEWUxsSll6aHRPaVNvUTZlNzVEOXdQUGZJM3c?oc=5",
+   "published": "2026-11-03T08:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +24,53 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Candel Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "title": "Candel Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "미국 주식 시장은 7000억 달러 규모의 회복이 붕괴되면서 회복에 실패했습니다.",
+   "title": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzY3ZFlzZS1ZWExBcDNpX3JpLWJMTk9OSzNJS285Q1M5bUFGcnhGVVJYUmoyWk5Uc2dIQ1dzd29VX1Z3WThKWUR5SzI0azFLSG9IZ2Z6T1psVVZMTk1jQkh4NnN4cmZyRDZBa0pibjF5cko3RGYxMmNhTmVxcUxaTmNqMTB6V2kzR3VkWEU2NjU4MmRrUW9HbER3?oc=5",
+   "published": "2026-11-03T07:56+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.51,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "MSA 안전(MSA) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "MSA Safety (MSA) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzEtYVdhVEtPSzBjMmpSZUdsRWpCeVV3Qk8td2JjRkdTcTh5a1lLeVp4T2N2VVBJQjA5cVV4ZTY0bE5Rb2ZxbjFWNkl0UnRpcjlhUWtnZ3VaZHEzMnFnbEFGU3h6MlJwQkphVjdpVlplSktZc0pTNmtQTnhUd0lUMFJLS3ljM0plZU9lbFprRU1iT2J1SVE?oc=5",
+   "published": "2026-11-03T07:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.51,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "로터스테크, 최소입찰가 관련 ​​나스닥 통지 접수 발표",
+   "title": "Lotus Tech Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1AtQW95Szl1bGxuSkZ1WmwwMmNhT2s5TVBwTHEzZmlRVVBmWEVIbVQ3NVRCcGQtYjVBbTNsUW9jOE1HSlFfMFdiTDFTS1owNFFJWkQwcU5NaXgzVVlrRHZKeDMxZTczaFhsRndneHJHaHNnaGVjelVkMHZSOXVvWGs0OTRBSUMzQUIySUs1cnJ2cWVmWVpCeUxFdjM?oc=5",
-   "published": "2026-11-03T06:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY4NkhZSUxpSWIyZks1b2tLYmZpUFlJdDEzb0JzMDJkU2lzTUdHNnFnWU1odXlFSThrN1lTOW9MT0JYOUVGVlB5Snp6dkRzN3JSeWhyRndRenhHWG5xZGZpVU5oNnFBbUV5SlcwUnl6UzJhMElHTU5PaTJveC1xSUtXeUE1R3F3QWl3ZA?oc=5",
+   "published": "2026-11-03T07:30+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
-   "title": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
+   "summary": "Healthpeak(DOC) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Healthpeak (DOC) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXdtcTBiYVdnNEo2VUk4cWlDT2did1hUakI1QWt3X1o4ZzVMTF8xdE9fSmtsa0VpV01WX0dqZWJheHlrUjEydk5uQVJQcWFyOEhzdzFIZFcwa0s1bVZNX1RxQV85U203c3M1eUJMSDBYQW9jTDRZQU1NeUtMMUhkVFZkZzJxb0xSZ3lyenpXdTRvbmR6MlNpTm9teUlNTzA?oc=5",
-   "published": "2026-11-03T05:59+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.51,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "IDEXX Soars 20.2% on Earnings Beat: What It Means for Your S&P 500 Index Fund",
-   "title": "IDEXX Soars 20.2% on Earnings Beat: What It Means for Your S&P 500 Index Fund",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajQ1eS1fYnM4dkpLeEx6R3VjRkpHS21yNEpxVl9EemIwTUlyUExQQ0VJMGpiQ0dNemtTVDdBdVhWVWJ4bVNRMjhRODd6WkxPWFJPaEFfZXVXWFMxXzFhZHpLelphWTNmUGc1TWc0UDZUOEFySnZfc00tOWdzZTFHMlhPYlRUcUtRS09qb0JJOHhGUGRS?oc=5",
-   "published": "2026-11-03T04:54+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0M5cU1yaFNyX1JLdGhtVDJrT2RndEdnemtUTHJBWjV5ZFZuTFljUV9IdWR2emVrczNvblVZbjBFLWNkSGpPRGo2UWc1bHRmcjE3RElqTDVfVEFuLS1XajZIZ0xGaDc0dTVRUVVmN2lLSlBVQmM1SmFpNlBmelIxd1VCLVRkRDE4RlYtOC1DRmZBemFONnVLM3FUVQ?oc=5",
+   "published": "2026-11-03T07:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,7 +108,66 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+   "summary": "마이크론 테크놀로지: 주가가 이미 정점에 도달했다는 신호인가?",
+   "title": "Micron Technology: Is This a Sign That Its Stock Has Already Peaked?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUlIQ1BMdlgxYlhFb2FjMG82dlhFYnhHZk1oUnYtQXVmU25IeS0wa2pvbWFpT0lseW8xdmZSZWRmU0F0WU95ZHk5MktaOHJoa21MSEtYdGlCb2RCTlJkd2liTF9HMmw3bVFqbVk0WlFDUFMyakN0clQ3LTE2WExCamJobUlTeU00ampOZUVYR0g3N0pZMURnRXRtdW4xNlEtQm1R?oc=5",
+   "published": "2026-11-03T07:27+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -5.78,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "온세미컨덕터, 실적 부진에도 불구하고 주가 하락",
+   "title": "ON Semiconductor shares fall despite earnings beat",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1NPeUZ3Ty1pdUpBVGlWdWN1S3hrYlc4ZlFfSEdFNWl3N3F1VlFRMHpKMFVPVi1ienJqNnE2cWlCaHFhT05lOGNGVFdZY1BDVmxkeEhfTDF6SlFRM20wazBHbmp3VHRnZXdvVVdxcE9TUXNsTzZQRUZSTEFmX2phc3Y4UXhHVmk3bDJ4VEFsMHdCcTVKZ1E?oc=5",
+   "published": "2026-11-03T06:48+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -3.79,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아(NVDA)는 더 넓은 시장보다 더 가파르게 하락합니다: 투자자가 알아야 할 사항",
+   "title": "Nvidia (NVDA) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjROdjdjOVlRX3RIOVVXbDVmSm0yTkJDZUZOcDY3NlJTLXFjSFFTV1A1SHVYeVIxeWw2R1B1anVKaDl0R3RLYmxqTVRiX2hQT18tbm5lVVNBdE9CU3JUZnY3MlBMNDBwSHFDNlJPX2JsdXEtcFdDOVJRNDhFQXg3aXNEX09yck9UbC1vXzZSNmE3cmQ3NHE2Q3o2Yw?oc=5",
+   "published": "2026-11-03T06:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "인텔 주식 붕괴는 점점 더 심해지고 있으며, 3조 5천억 달러 규모의 칩 대패가 확산되고 있습니다.",
    "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVcyRUhyVlBfYVd2dVB4ZkdtWndTS0tNX3pNNWVfaVhlRlZhWmw2U2F2dWtlSktXNmVCZ1VXVEtYc1JSQVlla010VHJrb25BU3UwRWtWZXpLaHVCSG9fTlZVSFRCMjFxMGp4cUtQNzVQNzRkOTF5TVR3SWR0R1VEQlpIUld6U0NzTnFEbzZJOF9DcktCSjQtdWM2SDBseEJITG1UcWw4ZnZHenQzcUNnZS1nUl9IdFM4QTRjYjFmT1kxZDdNb3YtTWpGTS1GX1JvbVpvMXludGl4Zw?oc=5",
@@ -127,86 +186,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
-   "title": "Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFdaTWVZNFItSTAwUXVrUURyUndmWDRHX3VJeE5XRDFGaGIyZWZHNTNQRnAwZHVuZVNkenFzSHpGc1BwLTBEWnlmRjJSOV9XcmpvVjV3N1Y5MEsxNFpLaXVQczB0SWV0Ni03c3VKa3N4UEdNbnQxOThBdmxWWnFTRjNaWk5neDItcFJqRHhNcGNXVEtkQndmaFI1WQ?oc=5",
-   "published": "2026-11-03T03:53+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.78,
-     "asOf": "2026-11-02"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -6.59,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK Hynix Stocks Rise 3.81% With Solidigm IPO Halt Refocusing Capital Allocation",
-   "title": "SK Hynix Stocks Rise 3.81% With Solidigm IPO Halt Refocusing Capital Allocation",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa25RX3ZTUlZxSENyNkotbWNyQ1gtNHRqNUN4WWxmcTI5OEViamVNTm5YcE12bHVYTlllMU1vT0o0OHNEN2N5enFGdGtmRDVzbEVzUHlyOGdXQkhfcmRGaGJidlFQaHJGdHFlaFR1cVlFbXFraExiRktWZFUwWGFfejNxN0paQjg1aFpKd0FkMFY?oc=5",
-   "published": "2026-11-03T03:44+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 3.81,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Stocks Rise 1.7% With Rubin Specification Gap Shifting Focus to Workload Tests",
-   "title": "Nvidia Stocks Rise 1.7% With Rubin Specification Gap Shifting Focus to Workload Tests",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm1JbDhCV2NXcW5VcmNYU3ZIUHJUN1NKbEM0RDdJZUxRRzlLWVIzdUxBNVJDd3gwZUhjYU0wcmdoRS1DcERUX21wRV9xSERuTlpuVHdaN0EzeFZWUWdvZ1dZQlRENWxDS3dnSG5HanRmSGoyTWRYa2QyUE5fMkY4ZGVkcjgySlI0ODhpY0tFS1E?oc=5",
-   "published": "2026-11-03T03:16+09:00",
+   "summary": "NEXT FUNDS Nikkei Semiconductor Stock Index Exchange Traded Fun (200A.T) 계절별 수익률 차트",
+   "title": "NEXT FUNDS Nikkei Semiconductor Stock Index Exchange Traded Fun (200A.T) Seasonal returns chart",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByWFQ1Rk1OUWVyMlhoOEVzRF9Ua2Jndm5UempfTGtyeGdudkh0ajBmc0VSYWMzRGM3NVBMQkhmdzllMzEtNXRlRm9XaU15YnJZX05FYWlibXU5UC1yNXdSZGV6b3M?oc=5",
+   "published": "2026-11-03T05:02+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.26,
-     "asOf": "2026-11-02"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-   "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUpMeEVBVDVxRjVGU0ppSUJiYk1obTBTUFEydUdKcFc5bGt4SWtqcUIzOVV5YTJrWHBfNTdBRkxqMnJ2TzI3alZZd3pJWmpWdEZUc3pSblZuSU81blFWaWk5cURGWHFIdkgzamVPcUJ6NWpHNGJLWlZiemMzQVZFMEZxd2lXTXdMTGY3TXBVaGkzcmpKbUpIald3?oc=5",
-   "published": "2026-11-03T02:36+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.26,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -3.79,
      "asOf": "2026-11-02"
     }
    ]
