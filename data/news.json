@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-05T00:31:44+09:00",
+ "updatedAt": "2026-11-05T01:27:09+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
+   "title": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVliTmhzdU9Uanp1SVN0SnBrczgwekJjb2lJRFQyYkx1aFZaZWxScHNUMWpvNWdrTEFRQ1BWdi1LejBoTjBoZnlhLVFwS2RlR2pHWFlTNk9LT2ZvYUJFa3NJczNhSFYxOEdBM0xLLW9jNEpuYmhqMEhVRDNPNmpNbklzVExTM3hxLTV1NjdYVDNVWnNtb3F3?oc=5",
+   "published": "2026-11-05T00:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
+   "title": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlFaNkI0NnB4NjF6WndabWw1SG1CSzdqZ0JINHk5cWx4RjB1RV9uVmdUeVR3SEZpSVJqYTFURU5Rek9aRl9KTnVzUFBMdFdlOERJNlF2Sy1teEY1d19UVFNleURESkctTDVGNDlrWElFSmcyTkl4V0N1bjc1cTh3Nm9vcnJBSXVod1FPTGN4azRBTHJmSjVaazMwMEJPQXZMVXVRQWhhUmgwazJNTmdMNG9rTlpSU1BtdjNOUGI0bE9LY3lKc01YM1MwbGF5amxwN1Q4TTM5UVZ0dw?oc=5",
+   "published": "2026-11-05T00:29+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
@@ -51,63 +93,42 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Uber Beats Wall Street, but Its Earnings Come With a Catch",
-   "title": "Uber Beats Wall Street, but Its Earnings Come With a Catch",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTEFkT3I0blMzb2lKaDRjWlFrWEs0ejQwSmIwNkpKekdzVVpaRHd4Ynp4VW1FMFpiOFNPUkd2NEpyQWFvXzRuaUtqMWxWVDBKcjdxODdoNVVDeWMtRFBCSmJuTXJsVU9WZW5tWVlWdF9WOFRaTFd4Z1daRGs1cmoxZTJoWnB1ZmhWRzNhZ1QyRFdSVjEydlZfSGhOT08?oc=5",
-   "published": "2026-11-05T00:09+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today (Nov. 4, 2026): Nasdaq climbs as Democrats take House and Senate",
-   "title": "Stock Market Today (Nov. 4, 2026): Nasdaq climbs as Democrats take House and Senate",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkd5VHpCNU1mOXp5T0wybnpvcTVVdEIxa0hUcHRWWDF6OHlrUDh5Y2pPVjcwSHprQjJuOEhQNFdBT2Z4OGY5Y19Zdk9IN2doN19nMllhVXFBMkEwVmZ1eFlxbzAxYTNpYmZXamkzeGhsb1JYd1lEMDlSVVFSdnpMeFJoU0Q3UkI5U0NHbnhQMW9GT2s?oc=5",
-   "published": "2026-11-04T23:54+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.83,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock market surges after Democrats' midterm wins",
-   "title": "Stock market surges after Democrats' midterm wins",
+   "summary": "Stocks soar after Democrats take control of Congress",
+   "title": "Stocks soar after Democrats take control of Congress",
    "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3NWYXZnLXVlLXBfeDRvQy1PcFNlMjdVdFRLLXZTc2pXeHZLdVZLZ1R4ZFZzeWNSMmFydmpCMnByVmsxX05fa0IwSFlwczkySkNySVp1dE1JaW5yVjNVUHRsRGppNTR0V3V0Q09kc1AwUjR1SW95WnZTRVZDZEVOTg?oc=5",
-   "published": "2026-11-04T23:41+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
+   "published": "2026-11-05T00:05+09:00",
+   "holdings": [],
    "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere",
+   "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere",
+   "source": "24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
+   "published": "2026-11-05T01:02+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.29,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 3.65,
      "asOf": "2026-11-03"
     }
    ]
@@ -198,25 +219,6 @@
      "chgPct": 2.58,
      "asOf": "2026-11-03"
     },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Stocks Rebound 2.84% Before November 17 AI Earnings Check",
-   "title": "Nvidia Stocks Rebound 2.84% Before November 17 AI Earnings Check",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0lwX2xpWkpkN3Vwd0oyaG9aZDd5Y0dlSE95Wk51U21fejRRT3JFa2doV3FIZTlIZmNtelBnMnFaWGRqeHNDZ0gxS3E3Nmd3aFgyOGJIeXVhYkdBLU1WQkFmVFJ5X2I5Z1c5b2t0SGI1ZjVFb0EtRkVQODFCZTZjSGxHdUM2Q1B1cVlCX2NncGVlTGZrbnc?oc=5",
-   "published": "2026-11-04T02:21+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
