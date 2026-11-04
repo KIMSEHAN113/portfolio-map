@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-11-04T07:44:59+09:00",
+ "updatedAt": "2026-11-04T09:31:50+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Nasdaq, 미국 중간 선거일 AI 패배에서 회복 — META, AAPL, AMD, SKHY In Focus",
+   "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlBxV25yZXl0SEhYREV6S1N4UEhMOGFlb0Y2N3YzNXBFNWVoSWZ2TFdjc2dtZUt3VUFKUE94RmRYd0dweW9GTEFxc3hCWTJoazNxVF9Ka29BWS1HcWRkSU5Nak9qVGpSM21xRDNMVER5QkdCenNrR01TRklPZXZiSFJQRFJIVEJmWEwwNVF4aXhnQQ?oc=5",
+   "published": "2026-11-04T08:29+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 3.65,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 2.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "월스트리트는 의회의 운명이 불투명한 상황을 면밀히 감시하고 있습니다.",
@@ -8,6 +35,48 @@
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQ3hWZUFNaHF3ZDgxVjZCLXZweUxNV1U3WGYtOHZkVDZzcXVueTNXZFJ5ZEFfQnNZczhZMW9uMmMxX3U2b2Z1NlgtYzBvcnVvMkFIdUZaWl9IV28?oc=5",
    "published": "2026-11-04T07:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "PSTL(Postal Realty Trust) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Postal Realty Trust (PSTL) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU13RHRROFgyX0NaN0xEd1FaRTIzcElCS2Q3SlozYy1JNC1QYUxlRFQ5cGdRdEZjdVQzZXZIN0lPWnRkSEpPdmJSN3l6dHZ5U0Z0eWFGMGpqU2xvcXlkUUdyclR2U0hNRzZGNkRJM3dxdDZTM1U3MGJBQ2lsY0ZabmRsTDZhXzRLaXB0VTF6MFlkU1FlaGJZ?oc=5",
+   "published": "2026-11-04T07:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월트 디즈니(DIS)가 오늘 주식 시장을 앞지른 이유",
+   "title": "Why Walt Disney (DIS) Outpaced the Stock Market Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVFCRE1aZ21KUEViRGJxdkd6Ni1pY3pOTGV1RnBTRks0dEVGMVN4bWlSWUFLdHZJdzBJZ1ZucFdvTWVvUWgtSGJET2hhUFd1LXhRallxT1NaRlFXS2tCcVFveWNsNXAtU3kyOXVFd1k5Q3hRSG03WEt5ay1JLU5YUUlEanE0dlZjOWh4N25rZS12Wkc0NkUzZw?oc=5",
+   "published": "2026-11-04T06:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -44,64 +113,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Global Engine Group Holding Limited, 나스닥 최소 입찰 가격 요건 다시 준수",
-   "title": "Global Engine Group Holding Limited Regains Compliance with Nasdaq Minimum Bid Price Requirement",
+   "category": "반도체 · 메모리",
+   "summary": "비트코인 vs 엔비디아: 5년 전에 투자한 10,000달러, 지금은 어느 쪽이 더 가치가 있나요?",
+   "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1JHRWoxakpmdWI4cEh0dTZLYy1SVHBwNUhPejdXWmhlLXJsbHdBMmcxMHk2WkpicDdjRVREUHF1aXZ0QWVKU1doZTN0allRblVRamhQRE5XajFaUTZTRHJiM0lLcUtkOHJQbFVoMXVvNFRORFRkMFRUOGZCbzNfVEhla0t0eTB4d1JJSUExTEVSVEdJd01FdHBsdW9WMFdaUXc?oc=5",
-   "published": "2026-11-04T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmxGNnhYT2RuYWUyVXRNcFVnMXJtV3U1Zzd1Sm1oTTl1T1NEQ3lPUUk3Rk9BMUN2QXRWdWVvRTFOU2pIaEN0RXBhNTJYdXNudmVtS0ZmRnFRcGRYa21BblNMNnFTZVpUbmljR3ZhM1FONUt4V0lnQ2VsdEVLSURQdHBHcFFmOEZKLWNVVlZtRW5ZUUU?oc=5",
+   "published": "2026-11-04T07:47+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.83,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "오늘 호주 주식 시장: RBA Hawkish Shift가 감정에 부딪히면서 ASX 선물 완화",
-   "title": "Australian Stock Market Today: ASX Futures Ease As RBA Hawkish Shift Hits Sentiment",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmE0bi1UVG5KMlFNZi1PTllKMXFyeGxVMHZiUDVVXzZ4QnhGSVN5MVFMUXZKblZMVVptbTBSZk81VXBnUjc2RjhvNVVDcWt1MkxIWTZ3U2JnMWlmQTdiSDlnbnlKZHViYXZOS2lRVGhHZElCUEFwYm9YZ0YtMmdwTng3dnM0dGpTUkE?oc=5",
-   "published": "2026-11-04T06:13+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "GM Financial, 나스닥으로 증권거래소 상장 이전 발표",
-   "title": "GM Financial Announces Transfer of Stock Exchange Listing to Nasdaq",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHE2OVU5ZjI3bGkwT2Q3SUxEOVVKdTM4cy1mR3loRHFYWkFtMzFyLTdWTnc1YVM4VmhnNFNiTGJDS2tyc3V0LWEzSHI1dkJIMVg1VFpUeFRqalotSkR6Wi1pN3lSV09JX0F4WWpHY21sSTRONjc4UWFnSGNHUEREM0pmd2g2a0Q3VVh5emRrUQ?oc=5",
-   "published": "2026-11-04T06:08+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 0.83,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.29,
      "asOf": "2026-11-03"
     }
    ]
@@ -135,33 +160,6 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 및 기타 Big Tech 주식은 월스트리트를 상승시키고 Apple의 하락을 만회합니다.",
-   "title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekRxNGUzaWpTRy1SLXpVUmlsbkNPVWMyQ3Q4WWx2eHFvRjhvUzViNUtXcGlxLVlmdlphQUc2bk5CX2ZwVmp5RnJQNTJxaVdjd0dra051ZUJNaVpQcVFVQjBPa1MtY0tEZ0N3MG9VMGJWWXZ4cXoyRzhKSm02NHJLbDdlYUpVbE4tbnhuOEZodFlmX0k?oc=5",
-   "published": "2026-11-04T02:27+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
    "summary": "애플은 실적을 무너뜨렸지만 주가는 메모리칩 가격보다 떨어지고 있다!",
    "title": "Apple Crushed Earnings, but Its Stock Is Dropping Over Memory-Chip Prices!",
    "source": "Yahoo Finance",
@@ -183,38 +181,46 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia는 지금 구매할 수 있나요?",
-   "title": "Is Nvidia a Buy Right Now?",
+   "summary": "애플 주식 하락, 원유 하락 연장으로 칩 주식 반등: AlphaCheck",
+   "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHpCWmxRUWppeFZTUFNpNWlpRVctcWczOVc2UzE3ZGFqazVyUDJZNHZoZTFJcjlSSTA4dzc3b0xiMk91QTlUSHVJTVdCN2FMRkFucVh2N2ZsRURlbkR3ai1GdGdNUXNES0NkMURvcDRUeEhTYXVENjNKbVdPcF8xcnlpM0U5Zw?oc=5",
-   "published": "2026-11-04T00:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0lTcWg3LS1VZmItNkhqaWtsY2FjTTBTVjZZY0dablZKZTRrRVdKT3oyb1ZHVWFBa0x6ckN5X0xQSklZVmgta2pRbUNqTTlmZW5QX3lGV2dIdHBKeGxyYUZIWTE2MU5GSWEwdk1QQkRrT1ZGdnRDTEdBZFpzcFR5OXZXaFY3aXE5T3RsZUR4ZmpfZTJTa2VzY2dtbXoxTWJfTzd1WEhoZjJRVmdnRm1RX2VpQWFoN3lNeFVLa2JMR2dZRUJDbEln?oc=5",
+   "published": "2026-11-04T00:01+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.29,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
      "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "온세미컨덕터(ON) 기대 상회, 주가는 아직 싼가?",
-   "title": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUVkX2xremU3RXJqa1BMNnNPS2Nsc3h1OXBTZDk0UTZFcGhQWjRrdE1nNFhxak9kMldvYXFZYnhuU0ZEQmd5QUtZeHVlNUxSeldmbGtXY2pCSUtmRTVRYVUzX3RDMFczOTRMSW4yX21YYjVLT0dVZHd1UlBGTkRXendNTjlPQlpJa1Zoa193ZzNnUFA1RU8w?oc=5",
-   "published": "2026-11-04T00:15+09:00",
+   "summary": "Micron 또는 Nvidia: 향후 5년 동안 인공지능(AI) 칩 주식 중 하나만 사고 보유할 수 있다면 이 주식이 될 것입니다",
+   "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5",
+   "published": "2026-11-03T23:20+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.5,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.58,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.29,
      "asOf": "2026-11-03"
     }
    ]
