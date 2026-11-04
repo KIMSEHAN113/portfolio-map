@@ -11416,9 +11416,9 @@
   },
   {
    "date": "2026-11-04",
-   "updatedAt": "2026-11-04T09:31:43+09:00",
+   "updatedAt": "2026-11-04T10:26:45+09:00",
    "fx": {
-    "usdkrw": 1344.48,
+    "usdkrw": 1341.08,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -11432,8 +11432,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 764,
-     "price": 24865.0,
-     "chgPct": 0.38,
+     "price": 24670.0,
+     "chgPct": -0.4,
      "asOf": "2026-11-04",
      "dca": "매주 월 +2"
     },
@@ -11447,8 +11447,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 601,
-     "price": 21960.0,
-     "chgPct": 0.41,
+     "price": 21880.0,
+     "chgPct": 0.05,
      "asOf": "2026-11-04",
      "dca": "매주 월 +2"
     },
@@ -11462,8 +11462,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 223000.0,
-     "chgPct": 1.59,
+     "price": 218750.0,
+     "chgPct": -0.34,
      "asOf": "2026-11-04"
     },
     {
@@ -11476,8 +11476,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7340.0,
-     "chgPct": 1.52,
+     "price": 7240.0,
+     "chgPct": 0.14,
      "asOf": "2026-11-04"
     },
     {
@@ -11644,8 +11644,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 12455.0,
-     "chgPct": 1.3,
+     "price": 12305.0,
+     "chgPct": 0.08,
      "asOf": "2026-11-04"
     },
     {
@@ -11658,8 +11658,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 22775.0,
-     "chgPct": 0.46,
+     "price": 22690.0,
+     "chgPct": 0.09,
      "asOf": "2026-11-04"
     },
     {
@@ -11672,8 +11672,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 24865.0,
-     "chgPct": 0.38,
+     "price": 24670.0,
+     "chgPct": -0.4,
      "asOf": "2026-11-04"
     },
     {
@@ -11686,8 +11686,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14460.0,
-     "chgPct": 0.21,
+     "price": 14405.0,
+     "chgPct": -0.17,
      "asOf": "2026-11-04"
     }
    ]

@@ -1,9 +1,30 @@
 {
- "updatedAt": "2026-11-04T09:31:50+09:00",
+ "updatedAt": "2026-11-04T10:26:52+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq, 미국 중간 선거일 AI 패배에서 회복 — META, AAPL, AMD, SKHY In Focus",
+   "summary": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
+   "title": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZiUWRMTDhnOXd3WmI4V2I5Mlp0Q2NybWdjb1dwNjRJUTZOZTJZWWxrT0duaGtNWGNWMW5MSi1laUVVYm83cnJHbW05SzJrMVJQZmd3dmJZUDkwbW1FYlpra0U1Rm5Uc2JteXFTQnp1OUtZSDVoOGZEQm5JV3hCekJhdjEyVjFaMkJrZFo0NHdEd1J0?oc=5",
+   "published": "2026-11-04T09:28+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
    "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlBxV25yZXl0SEhYREV6S1N4UEhMOGFlb0Y2N3YzNXBFNWVoSWZ2TFdjc2dtZUt3VUFKUE94RmRYd0dweW9GTEFxc3hCWTJoazNxVF9Ka29BWS1HcWRkSU5Nak9qVGpSM21xRDNMVER5QkdCenNrR01TRklPZXZiSFJQRFJIVEJmWEwwNVF4aXhnQQ?oc=5",
@@ -17,20 +38,68 @@
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": 3.65,
-     "asOf": "2026-11-03"
+     "chgPct": -7.52,
+     "asOf": "2026-11-02"
     },
     {
      "symbol": "META",
      "name": "메타",
-     "chgPct": 2.36,
+     "chgPct": -1.34,
+     "asOf": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tYW5zSEFGVUJVNHhHbW9hNlk2dDl6ay1lajBSNDc5NFNCMnExYkYzUnEwc2pOSGttVll4SjhzcUxDVkZEc2lKVmJxSzNqYXNvQk9wWkl6UlBhNTdtb2JhbFloVnMzUnZQS0xJWHJtVG4yU1pLcDUybHpZZjDSAXxBVV95cUxNbWFuc0hBRlVCVTR4R21vYTZZNnQ5emstZWowUjQ3OTRTQjJxMWJGM1JxMHNqTkhrbVZZeEo4c3FMQ1ZGRHNpSlZicUszamFzb0JPcFpJelJQYTU3bW9iYWxZaFZzM1J2UEtMSVhybVRuMlNaS3A1Mmx6WWYw?oc=5",
+   "published": "2026-11-04T08:02+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -7.52,
+     "asOf": "2026-11-02"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
      "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 의회의 운명이 불투명한 상황을 면밀히 감시하고 있습니다.",
+   "summary": "Talos Energy (TALO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "title": "Talos Energy (TALO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkVPS0JSSFowNzNZRVdsbGhVdmVNYnFFREFmcWJ3YnhrWVhWZFFtem5PMlpqbDVBdjZXY1V3QlZLb2ZSYTJxY2ZuVG8zYzAyVTJlZUJrSzhDX3NueHBVUXZuRWVtMW41WFFndnZ5dFRDcGRsMzl2LTBsT2w1SWFITTJrWWEyeFJBZHhFaGNPZEE5VHBDNkFuTWd3?oc=5",
+   "published": "2026-11-04T08:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street keeps close watch as the fate of Congress is up in the air",
    "title": "Wall Street keeps close watch as the fate of Congress is up in the air",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQ3hWZUFNaHF3ZDgxVjZCLXZweUxNV1U3WGYtOHZkVDZzcXVueTNXZFJ5ZEFfQnNZczhZMW9uMmMxX3U2b2Z1NlgtYzBvcnVvMkFIdUZaWl9IV28?oc=5",
@@ -50,71 +119,8 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "PSTL(Postal Realty Trust) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Postal Realty Trust (PSTL) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU13RHRROFgyX0NaN0xEd1FaRTIzcElCS2Q3SlozYy1JNC1QYUxlRFQ5cGdRdEZjdVQzZXZIN0lPWnRkSEpPdmJSN3l6dHZ5U0Z0eWFGMGpqU2xvcXlkUUdyclR2U0hNRzZGNkRJM3dxdDZTM1U3MGJBQ2lsY0ZabmRsTDZhXzRLaXB0VTF6MFlkU1FlaGJZ?oc=5",
-   "published": "2026-11-04T07:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월트 디즈니(DIS)가 오늘 주식 시장을 앞지른 이유",
-   "title": "Why Walt Disney (DIS) Outpaced the Stock Market Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVFCRE1aZ21KUEViRGJxdkd6Ni1pY3pOTGV1RnBTRks0dEVGMVN4bWlSWUFLdHZJdzBJZ1ZucFdvTWVvUWgtSGJET2hhUFd1LXhRallxT1NaRlFXS2tCcVFveWNsNXAtU3kyOXVFd1k5Q3hRSG03WEt5ay1JLU5YUUlEanE0dlZjOWh4N25rZS12Wkc0NkUzZw?oc=5",
-   "published": "2026-11-04T06:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "업데이트: 중간 선거 결과를 앞두고 월스트리트가 혼합 마감",
-   "title": "Update: Wall Street Closes Mixed Ahead of Midterm Election Results",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazZsLWFCSGtxYmJ3cF9rRlRIQWhWTHJlWUVoSVlmZE5PTUN4ODNiQm8xa3hOam03Yk1pbHNCcVdKaGtENmptTlZlMnRhQzhiVEVhU2dFSnl0anBPYlZOS2tHV1lvcmlHaEVkZVhTaWhYMW91b2VjdWxGVENTMGZMeERYY2d2YVk5TFR4ckI5R0lpMWZ6UFZ5bEl4aw?oc=5",
-   "published": "2026-11-04T06:32+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "비트코인 vs 엔비디아: 5년 전에 투자한 10,000달러, 지금은 어느 쪽이 더 가치가 있나요?",
+   "summary": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
    "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmxGNnhYT2RuYWUyVXRNcFVnMXJtV3U1Zzd1Sm1oTTl1T1NEQ3lPUUk3Rk9BMUN2QXRWdWVvRTFOU2pIaEN0RXBhNTJYdXNudmVtS0ZmRnFRcGRYa21BblNMNnFTZVpUbmljR3ZhM1FONUt4V0lnQ2VsdEVLSURQdHBHcFFmOEZKLWNVVlZtRW5ZUUU?oc=5",
@@ -126,14 +132,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론, 엔비디아, AMD가 칩주 반등 주도",
+   "summary": "Micron, Nvidia, and AMD lead chip stocks' rebound",
    "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR241WmdKTExjbmZJcndhY3BOVG91eVFPT29xVzBLcVQ4NGQtUExYVDlray1hM1c5dENLekg3bkxyaHFramhTTVEwclZnci1uLWdvbi0zc21pbUMzazNZOFlRUEduSDF5al9jRjMxUG5FOGlTaTdTQVVKZVNRTWplRzh4UjdiYnNhZzBpTHlzS0Q4NzZLZmpfcjJLM1p3TlI3?oc=5",
@@ -147,20 +153,20 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
+     "chgPct": -5.78,
+     "asOf": "2026-11-02"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "애플은 실적을 무너뜨렸지만 주가는 메모리칩 가격보다 떨어지고 있다!",
+   "summary": "Apple Crushed Earnings, but Its Stock Is Dropping Over Memory-Chip Prices!",
    "title": "Apple Crushed Earnings, but Its Stock Is Dropping Over Memory-Chip Prices!",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3dlNjMyODl0UjUyX0NfdTItczlMcXgyYlpZdlJZTE9LYWQ0cVE5d3ViMXJrNWdmOEZqWTkzVGFaT0wtWEVQSVQ2R2QycFQ5N21qX3NYOG9iY0lXVVNmUXdwdUVCX3VZa2Joel9sUE13TDRxcmpUODFoUE1JbEJKRHFXWm1XR1BmRkstZDFBekljYm9XeVpUUlVnaHZRWEZwS3g1dA?oc=5",
@@ -174,14 +180,14 @@
     {
      "symbol": "AAPL",
      "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
+     "chgPct": -1.83,
+     "asOf": "2026-11-02"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "애플 주식 하락, 원유 하락 연장으로 칩 주식 반등: AlphaCheck",
+   "summary": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
    "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0lTcWg3LS1VZmItNkhqaWtsY2FjTTBTVjZZY0dablZKZTRrRVdKT3oyb1ZHVWFBa0x6ckN5X0xQSklZVmgta2pRbUNqTTlmZW5QX3lGV2dIdHBKeGxyYUZIWTE2MU5GSWEwdk1QQkRrT1ZGdnRDTEdBZFpzcFR5OXZXaFY3aXE5T3RsZUR4ZmpfZTJTa2VzY2dtbXoxTWJfTzd1WEhoZjJRVmdnRm1RX2VpQWFoN3lNeFVLa2JMR2dZRUJDbEln?oc=5",
@@ -193,14 +199,14 @@
     {
      "symbol": "AAPL",
      "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
+     "chgPct": -1.83,
+     "asOf": "2026-11-02"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron 또는 Nvidia: 향후 5년 동안 인공지능(AI) 칩 주식 중 하나만 사고 보유할 수 있다면 이 주식이 될 것입니다",
+   "summary": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
    "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5",
@@ -214,14 +220,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
+     "chgPct": -5.78,
+     "asOf": "2026-11-02"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
+     "chgPct": -1.26,
+     "asOf": "2026-11-02"
     }
    ]
   }
