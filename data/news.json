@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-04T10:26:52+09:00",
+ "updatedAt": "2026-11-04T12:01:39+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
-   "title": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
+   "summary": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
+   "title": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZiUWRMTDhnOXd3WmI4V2I5Mlp0Q2NybWdjb1dwNjRJUTZOZTJZWWxrT0duaGtNWGNWMW5MSi1laUVVYm83cnJHbW05SzJrMVJQZmd3dmJZUDkwbW1FYlpra0U1Rm5Uc2JteXFTQnp1OUtZSDVoOGZEQm5JV3hCekJhdjEyVjFaMkJrZFo0NHdEd1J0?oc=5",
-   "published": "2026-11-04T09:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0tJeE00NkVxRVpZTllSZnpyZXd1b19NalRBbURwcjNjUVBTS21JdDRPV2x3Z3ZGaEZYZ09VN2JMNEFkWWZneEFwX243N2NzWTV0U3pvYVVwdUgydWpxc1RyOVJtVFJFSW5oRnM4UzJ4cU9Zei03MHN3T2JfSDRJX2ZrRWVjMW1YUC00Q0xubDZ6Z2p5UktUZENrWFQ4SHlj?oc=5",
+   "published": "2026-11-04T10:11+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,50 +24,38 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
-   "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
+   "summary": "Prudential (PRU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "title": "Prudential (PRU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlBxV25yZXl0SEhYREV6S1N4UEhMOGFlb0Y2N3YzNXBFNWVoSWZ2TFdjc2dtZUt3VUFKUE94RmRYd0dweW9GTEFxc3hCWTJoazNxVF9Ka29BWS1HcWRkSU5Nak9qVGpSM21xRDNMVER5QkdCenNrR01TRklPZXZiSFJQRFJIVEJmWEwwNVF4aXhnQQ?oc=5",
-   "published": "2026-11-04T08:29+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTFaZXl3amNQVm96QWg5dzhWV2NwU1FNd0hFQ290eVJFVUd0cEdmRVZBb1JzRF95TVVTQl9QNlBFZkJvOEFlb2p5NDJUU2xSbl9YZnk2a1JSYjd5OWxUM19jSVpoVGwxaHNaQmp4OWhVWmJ0SnIzYzVuT0JzTlpNeXNqeS1RdFZySGk4TTA0a1RlWWQwTk1ERTU3aw?oc=5",
+   "published": "2026-11-04T10:00+09:00",
    "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -7.52,
-     "asOf": "2026-11-02"
-    },
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": -1.34,
-     "asOf": "2026-11-02"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.36,
+     "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
-   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tYW5zSEFGVUJVNHhHbW9hNlk2dDl6ay1lajBSNDc5NFNCMnExYkYzUnEwc2pOSGttVll4SjhzcUxDVkZEc2lKVmJxSzNqYXNvQk9wWkl6UlBhNTdtb2JhbFloVnMzUnZQS0xJWHJtVG4yU1pLcDUybHpZZjDSAXxBVV95cUxNbWFuc0hBRlVCVTR4R21vYTZZNnQ5emstZWowUjQ3OTRTQjJxMWJGM1JxMHNqTkhrbVZZeEo4c3FMQ1ZGRHNpSlZicUszamFzb0JPcFpJelJQYTU3bW9iYWxZaFZzM1J2UEtMSVhybVRuMlNaS3A1Mmx6WWYw?oc=5",
-   "published": "2026-11-04T08:02+09:00",
+   "summary": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
+   "title": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZiUWRMTDhnOXd3WmI4V2I5Mlp0Q2NybWdjb1dwNjRJUTZOZTJZWWxrT0duaGtNWGNWMW5MSi1laUVVYm83cnJHbW05SzJrMVJQZmd3dmJZUDkwbW1FYlpra0U1Rm5Uc2JteXFTQnp1OUtZSDVoOGZEQm5JV3hCekJhdjEyVjFaMkJrZFo0NHdEd1J0?oc=5",
+   "published": "2026-11-04T09:28+09:00",
    "holdings": [
-    "soxl",
     "rise-sp500",
-    "irp-kodex-sp500"
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -7.52,
-     "asOf": "2026-11-02"
-    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -132,8 +120,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.26,
-     "asOf": "2026-11-02"
+     "chgPct": 2.29,
+     "asOf": "2026-11-03"
     }
    ]
   },
@@ -153,14 +141,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -5.78,
-     "asOf": "2026-11-02"
+     "chgPct": 2.58,
+     "asOf": "2026-11-03"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -1.26,
-     "asOf": "2026-11-02"
+     "chgPct": 2.29,
+     "asOf": "2026-11-03"
     }
    ]
   },
@@ -180,54 +168,46 @@
     {
      "symbol": "AAPL",
      "name": "애플",
-     "chgPct": -1.83,
-     "asOf": "2026-11-02"
+     "chgPct": -1.9,
+     "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-   "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0lTcWg3LS1VZmItNkhqaWtsY2FjTTBTVjZZY0dablZKZTRrRVdKT3oyb1ZHVWFBa0x6ckN5X0xQSklZVmgta2pRbUNqTTlmZW5QX3lGV2dIdHBKeGxyYUZIWTE2MU5GSWEwdk1QQkRrT1ZGdnRDTEdBZFpzcFR5OXZXaFY3aXE5T3RsZUR4ZmpfZTJTa2VzY2dtbXoxTWJfTzd1WEhoZjJRVmdnRm1RX2VpQWFoN3lNeFVLa2JMR2dZRUJDbEln?oc=5",
-   "published": "2026-11-04T00:01+09:00",
+   "summary": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
+   "title": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUVkX2xremU3RXJqa1BMNnNPS2Nsc3h1OXBTZDk0UTZFcGhQWjRrdE1nNFhxak9kMldvYXFZYnhuU0ZEQmd5QUtZeHVlNUxSeldmbGtXY2pCSUtmRTVRYVUzX3RDMFczOTRMSW4yX21YYjVLT0dVZHd1UlBGTkRXendNTjlPQlpJa1Zoa193ZzNnUFA1RU8w?oc=5",
+   "published": "2026-11-04T00:15+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.83,
-     "asOf": "2026-11-02"
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 2.5,
+     "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
-   "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
+   "summary": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
+   "title": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5",
-   "published": "2026-11-03T23:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczVqLW1wb1JxQkVGUFRiUnlZMGZncjVUWkNtR2hOb1JKTkF0eVRMLWduLVZYVWNId0VfY0JVWHFVQkpDRzZGTGM5d21DcnhXRmlueXA3amMxb1Bobzkxb0ZDdkkwYVBQem1LcHN0MVJLbWNiWWowQWJYYlRtOTEwcDJzR201MlhwU1F1V0VCbVl5VE9fTGllRml2anhLa1cwQzlHMjM2TmtaR3ZEVHVkN285NWFYRjZWYmRqcHVER2tSMllCTXRCXzVuam9HUG9YcTluZ2g2SVk5UQ?oc=5",
+   "published": "2026-11-04T00:03+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -5.78,
-     "asOf": "2026-11-02"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -1.26,
-     "asOf": "2026-11-02"
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 3.65,
+     "asOf": "2026-11-03"
     }
    ]
   }
