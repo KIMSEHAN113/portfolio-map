@@ -1,120 +1,160 @@
 {
- "updatedAt": "2026-11-05T01:27:09+09:00",
+ "updatedAt": "2026-11-05T06:31:34+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
-   "title": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVliTmhzdU9Uanp1SVN0SnBrczgwekJjb2lJRFQyYkx1aFZaZWxScHNUMWpvNWdrTEFRQ1BWdi1LejBoTjBoZnlhLVFwS2RlR2pHWFlTNk9LT2ZvYUJFa3NJczNhSFYxOEdBM0xLLW9jNEpuYmhqMEhVRDNPNmpNbklzVExTM3hxLTV1NjdYVDNVWnNtb3F3?oc=5",
-   "published": "2026-11-05T00:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
-   "title": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlFaNkI0NnB4NjF6WndabWw1SG1CSzdqZ0JINHk5cWx4RjB1RV9uVmdUeVR3SEZpSVJqYTFURU5Rek9aRl9KTnVzUFBMdFdlOERJNlF2Sy1teEY1d19UVFNleURESkctTDVGNDlrWElFSmcyTkl4V0N1bjc1cTh3Nm9vcnJBSXVod1FPTGN4azRBTHJmSjVaazMwMEJPQXZMVXVRQWhhUmgwazJNTmdMNG9rTlpSU1BtdjNOUGI0bE9LY3lKc01YM1MwbGF5amxwN1Q4TTM5UVZ0dw?oc=5",
-   "published": "2026-11-05T00:29+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-   "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYm1VTjkwbE80Tk84RFJLSm1meWpxWm00ZmNjQTNjV3V2VjhzVDZoeDg0RTFxXzd6V3lxc0xIb0FXbk9YTnRibThZaE55QnM2MXVReGkzdzB6SXd2UVd2QUo3U0JfaW5YamdpZTVUMXRwN25kZG1vQXBfVVRMU1FaOUVCa2lJZl9OYzNWNHRkSl9jVEJ2bThHUTh1NHFyZzhmT0p4SHhKTFB6LS1WWGtZaU8za20zRFN3b0kwWHdYMmhIRkJPazZTd09VNGI1RHpJX3d2QkhBd1J5b3Ex?oc=5",
-   "published": "2026-11-05T00:25+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
-    },
-    {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": 2.74,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
-   "title": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm5OcG9fOWsxbGR6RGlCZXVQRFdDNFZYb1dWUVZqNUw3UUdKcWd6Rk1XVkFZVFZTc0RKMUZuRTVIZmxZSUhFTVZZYm81al9uT3B4QXQzUzRKR3FjdXVhOW55WF94enVWdWpha3RJUHJPZ0JGUEtvTjNxbmtmNTQzOEdNbldicGtjNXU1TGd4dzJqeld2bjZEalV3?oc=5",
-   "published": "2026-11-05T00:11+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stocks soar after Democrats take control of Congress",
-   "title": "Stocks soar after Democrats take control of Congress",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
-   "published": "2026-11-05T00:05+09:00",
+   "summary": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
+   "title": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
+   "published": "2026-11-05T06:23+09:00",
    "holdings": [],
    "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 0.36,
-     "asOf": "2026-11-03"
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
+   "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFdnc0wyV0l5bmpPRVQxaG0zcmZzRURzOE5mRUViSkdDUTY3WXpObGNhd2swOUpyazJIV29oQjR2MTZNdXZ6RW9ndEpMVGZCdGJlcHpoXzFaVGVNbGNzTGVzYm1XYzhnNkFBR2E2WlFMazRyakpsaF9hRVhtSmwyVFlZdjBrXzJsTXcyYXBReFp2THFIWFdsLWZVM2pmLXlKN21yMk5OVGNtZw?oc=5",
+   "published": "2026-11-05T06:05+09:00",
+   "holdings": [
+    "soxl",
+    "googl",
+    "kodex-nasdaq100"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.17,
+     "asOf": "2026-11-04"
+    },
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": 3.18,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
+   "title": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSnc3eHppenpkQ1Vpb0s3VXVBQ2hPb1piWUlabm9uMFQ2cVlGOFpTWVVRR2FVZmhUZHN1dTJ2dXJqOW91Ujl2c2EyTFF5XzNib1Q2RGFRaHh2Vmw0SFQ3YWZpMHZpN0hqM2R3YkdPcUJKdm9MbU42UmFR?oc=5",
+   "published": "2026-11-05T06:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Charles Payne: Stock market is celebrating the peaceful transition of power",
+   "title": "Charles Payne: Stock market is celebrating the peaceful transition of power",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuLTd0YVZCMkZtaTV5OGpTbXQ4QzZqMUNuRWFMVngxZGpZTW1NeVJ1ZmRUN3FHN2dZd3J1UjF4b2F0ejhMTll6S2JWVkw3bXg3M0FTUUowNmJWWW8?oc=5",
+   "published": "2026-11-05T05:08+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Rapid Recap: How Wall Street is responding to the midterm election results",
+   "title": "Rapid Recap: How Wall Street is responding to the midterm election results",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFEekREd0ptR05kQlZNdGZHTGtRUW44eC1hbDViVjM0TnVaRUQxaUFaczFiNXRIVFdma0NJTUY1c2RjMVpuOUVMb2JTb2lOOUpQbWFmeUhZSDdVUEVKV0NGZExrcWdpcjQ4aGpqQzZpV0x2eGk3a0w0RVF3NVdxcHcyNllCMjFWeGk5WGRlTWRYek9OTjF3MQ?oc=5",
+   "published": "2026-11-05T05:07+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere",
-   "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere",
-   "source": "24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
-   "published": "2026-11-05T01:02+09:00",
+   "summary": "Why Micron Stock Is Falling Today",
+   "title": "Why Micron Stock Is Falling Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0RwVjVWeDQ2RENzVzNYZXRJT0E4ZWtkWE5VcXdnbm5Fb0VpTksyVG92UXFNNWpybVBoMFJ3WWtZZGQ4ZGoxM2YyRzkxLWI0SnNnQ3UtbnRCQmpsQ0V6WkpQdE1PNDRnWFhEVUZTbndmNktZeVlwdW03bzJLand6Ri1STm9VTHkzU083bHZSM2VJYnFWUWJJeW9EYw?oc=5",
+   "published": "2026-11-05T05:19+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Navitas Semiconductor Stock Rocketed Higher Today",
+   "title": "Why Navitas Semiconductor Stock Rocketed Higher Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDhmdm1tUDNzMmUwU2kyZkpMUWxJOHJNZGRSRlh0Ym1XLUlJMWRFd1c0cm1kR0FBdzZDUkRSOFoxdVBURGZ4R0xRRnludXk3Vm1HRURZMlpqQmdKWnY4aHZ4c3NYNVAxZjBTc0tJeWdUZTgxTGtNWkFRb2NfV1VNSlZzWWUteG90SFFnV2lPeVZFMVU4ZHItSFpWYk9MNmZCU1EtVUstUVE?oc=5",
+   "published": "2026-11-05T05:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -3.14,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+   "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGxlQnpRMTNuZTRuXzdxTWJ1am42cG03eDBsZHBfbjNZTVZ2RmJTODkwY2tyQmJ1ZktGaTN6Z1dVOWlPLUZ6aFhieVp1Xy1EOVV4MzV0N08yaWdjMUY3ZWhWYndpQ0kwLUhBNl95MnlrdmZUV1pfLW8tLXVDeEpTRg?oc=5",
+   "published": "2026-11-05T04:34+09:00",
    "holdings": [
     "soxl"
    ],
@@ -122,24 +162,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 3.65,
-     "asOf": "2026-11-03"
+     "chgPct": -3.17,
+     "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron (MU) Sees $262.9 Million in Net ETF Buying on Nov. 2",
-   "title": "Micron (MU) Sees $262.9 Million in Net ETF Buying on Nov. 2",
+   "summary": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+   "title": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdTSHphdVlrUF9JaERFeWtERW9KRHMyaGowaG8xb0lGSFd3ZWVfcXlqLWs3TVFzTzh1NFlHWDJDRU1IM21GWmg0bEhDZEF6eVBJeGZ2UmdiZzQ4eGVMMGxhdjkwZ0tNTUNrQlpMVnlWRTRsY1c2dEVBQmR5ZFIzMkhhQ05pV0VuODBtYXl3?oc=5",
-   "published": "2026-11-04T20:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkx6UFRsY2FnVExsU2I3TVl5TXVFdHVoWDV6dkpWMGdwcFR4UGxoZnZUTnhHaTE1VkVnSWs4T2N3SEMwUWFacjhIQXNaZEJ1TTdZcExiZ3k2UWpuQ3Q3RFhMYTItbzhZLU5GZ0hNTzFtalh1Z0xTanRnT0FhaFVmQlNwUmxFN0dETnI1NXlhX3V4b2NHeWVJWg?oc=5",
+   "published": "2026-11-05T02:33+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -149,64 +183,24 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Apple Says It Will Keep Paying More for Memory Chips After December. That's Good News for Micron Stock.",
-   "title": "Apple Says It Will Keep Paying More for Memory Chips After December. That's Good News for Micron Stock.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl8wM2x6UFZITS1zZWVtTHZFeUdzT0R2MXpXWTFhdUJ1QVlBLUFvbzNNUTlERW1IcWRTejJWWEdaYTNUUk9jS29pd2lydnc5ajExU2lMbnNsY2xuZlNFNU1SYl9rS18zWUlnb1NSTjlZLVZVcWl3dWpveWUxVjVxd3pZQ3JFLUVxTGxVS054bHVJWTYzUmtR?oc=5",
-   "published": "2026-11-04T14:16+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
     },
     {
      "symbol": "AAPL",
      "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
+     "chgPct": 5.31,
+     "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
-   "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmxGNnhYT2RuYWUyVXRNcFVnMXJtV3U1Zzd1Sm1oTTl1T1NEQ3lPUUk3Rk9BMUN2QXRWdWVvRTFOU2pIaEN0RXBhNTJYdXNudmVtS0ZmRnFRcGRYa21BblNMNnFTZVpUbmljR3ZhM1FONUt4V0lnQ2VsdEVLSURQdHBHcFFmOEZKLWNVVlZtRW5ZUUU?oc=5",
-   "published": "2026-11-04T07:47+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron, Nvidia, and AMD lead chip stocks' rebound",
-   "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR241WmdKTExjbmZJcndhY3BOVG91eVFPT29xVzBLcVQ4NGQtUExYVDlray1hM1c5dENLekg3bkxyaHFramhTTVEwclZnci1uLWdvbi0zc21pbUMzazNZOFlRUEduSDF5al9jRjMxUG5FOGlTaTdTQVVKZVNRTWplRzh4UjdiYnNhZzBpTHlzS0Q4NzZLZmpfcjJLM1p3TlI3?oc=5",
-   "published": "2026-11-04T03:38+09:00",
+   "summary": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
+   "title": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekVPTWFUdVVaU2VTSm9iSEJ6djB2QktndzRoQjlCek5qa1VZMGhjTHUxU2xfZmcwWWtieFFabnI1TTlLckQxZlBUdWZtdHBwVGg5YUZ1ZlpzZzNGbXY3d05zaVMta1R4cWt4VDJGbllNT0VINHdzbUdOdXR2WXM5X1pWWQ?oc=5",
+   "published": "2026-11-05T02:29+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -216,14 +210,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.29,
-     "asOf": "2026-11-03"
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
     }
    ]
   }
