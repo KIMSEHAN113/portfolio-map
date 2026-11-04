@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T12:01:39+09:00",
+ "updatedAt": "2026-11-04T12:31:51+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -175,38 +175,46 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
-   "title": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUVkX2xremU3RXJqa1BMNnNPS2Nsc3h1OXBTZDk0UTZFcGhQWjRrdE1nNFhxak9kMldvYXFZYnhuU0ZEQmd5QUtZeHVlNUxSeldmbGtXY2pCSUtmRTVRYVUzX3RDMFczOTRMSW4yX21YYjVLT0dVZHd1UlBGTkRXendNTjlPQlpJa1Zoa193ZzNnUFA1RU8w?oc=5",
-   "published": "2026-11-04T00:15+09:00",
+   "summary": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
+   "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0lTcWg3LS1VZmItNkhqaWtsY2FjTTBTVjZZY0dablZKZTRrRVdKT3oyb1ZHVWFBa0x6ckN5X0xQSklZVmgta2pRbUNqTTlmZW5QX3lGV2dIdHBKeGxyYUZIWTE2MU5GSWEwdk1QQkRrT1ZGdnRDTEdBZFpzcFR5OXZXaFY3aXE5T3RsZUR4ZmpfZTJTa2VzY2dtbXoxTWJfTzd1WEhoZjJRVmdnRm1RX2VpQWFoN3lNeFVLa2JMR2dZRUJDbEln?oc=5",
+   "published": "2026-11-04T00:01+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 2.5,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
      "asOf": "2026-11-03"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
-   "title": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
+   "summary": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
+   "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczVqLW1wb1JxQkVGUFRiUnlZMGZncjVUWkNtR2hOb1JKTkF0eVRMLWduLVZYVWNId0VfY0JVWHFVQkpDRzZGTGM5d21DcnhXRmlueXA3amMxb1Bobzkxb0ZDdkkwYVBQem1LcHN0MVJLbWNiWWowQWJYYlRtOTEwcDJzR201MlhwU1F1V0VCbVl5VE9fTGllRml2anhLa1cwQzlHMjM2TmtaR3ZEVHVkN285NWFYRjZWYmRqcHVER2tSMllCTXRCXzVuam9HUG9YcTluZ2g2SVk5UQ?oc=5",
-   "published": "2026-11-04T00:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5",
+   "published": "2026-11-03T23:20+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 3.65,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.58,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.29,
      "asOf": "2026-11-03"
     }
    ]
