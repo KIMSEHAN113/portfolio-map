@@ -1,14 +1,39 @@
 {
- "updatedAt": "2026-11-05T06:31:34+09:00",
+ "updatedAt": "2026-11-05T07:43:17+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
-   "title": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
-   "published": "2026-11-05T06:23+09:00",
-   "holdings": [],
+   "summary": "다우지수는 민주당이 의회를 장악한 후 올해 최대 상승률을 기록했습니다.",
+   "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
+   "published": "2026-11-05T07:18+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 3.03,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "중간선거 이후 월스트리트 집회",
+   "title": "Wall Street rallies after midterm elections",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3pKNE5WeEZXRjNLRUpFd2xYS3MtRnd4OGM4aVhaTjBnLWtRVmkxTWFFUFplOExhWmx4ZFNURnpEckdodmJjREZsQjFWVDgtc1h1WWo2X0p5cHY2ZThlRVlLdnJGMnZhejRsSllOZVkxOHZ0V2Fqek9IZlRQYlhfOGN6dDdqeHM?oc=5",
+   "published": "2026-11-05T07:17+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
    "moves": [
     {
      "symbol": "^GSPC",
@@ -20,38 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
-   "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
+   "summary": "오늘, 11월 4일 주식 시장: 다우지수는 44년 만에 최대 중기 상승 반등으로 3% 급등했습니다.",
+   "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFdnc0wyV0l5bmpPRVQxaG0zcmZzRURzOE5mRUViSkdDUTY3WXpObGNhd2swOUpyazJIV29oQjR2MTZNdXZ6RW9ndEpMVGZCdGJlcHpoXzFaVGVNbGNzTGVzYm1XYzhnNkFBR2E2WlFMazRyakpsaF9hRVhtSmwyVFlZdjBrXzJsTXcyYXBReFp2THFIWFdsLWZVM2pmLXlKN21yMk5OVGNtZw?oc=5",
-   "published": "2026-11-05T06:05+09:00",
-   "holdings": [
-    "soxl",
-    "googl",
-    "kodex-nasdaq100"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.17,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 3.18,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
-   "title": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSnc3eHppenpkQ1Vpb0s3VXVBQ2hPb1piWUlabm9uMFQ2cVlGOFpTWVVRR2FVZmhUZHN1dTJ2dXJqOW91Ujl2c2EyTFF5XzNib1Q2RGFRaHh2Vmw0SFQ3YWZpMHZpN0hqM2R3YkdPcUJKdm9MbU42UmFR?oc=5",
-   "published": "2026-11-05T06:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmpTTnRER1ZfU01zcWNFU2xFVjVMRjNUWHpmQ1FhbU5mc1JRc01JbnRBbW1uYmc2WmVNRDFMUTVmaHFES3VVMmpqcEVYYUd4Xzh0VEJ4UXRxMmZsZ3hCZFpOdnlBSXdaMVVqMTc0RWd6TUg1RUJVNGNVeWZBdTRDZzd3aHEtUzJxdkRVcVZfbVNPeE0?oc=5",
+   "published": "2026-11-05T07:10+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,41 +57,41 @@
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 3.03,
      "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Charles Payne: Stock market is celebrating the peaceful transition of power",
-   "title": "Charles Payne: Stock market is celebrating the peaceful transition of power",
+   "summary": "Puma Biotechnology, 나스닥 상장 규칙 5635(c)(4)에 따른 유도 상 보고",
+   "title": "Puma Biotechnology Reports Inducement Awards Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzVwMk1pMU1DbVFfYlVKdXlWdjZpRHZSOGZkRFFfOEFUblJzR05WZjRwUjRXcC0yRE9yVXFKanlDU1ZlYmxMRjZReEotbHNhbmJtcW56NWRaVHNwMFdUeHlIaFpGdHBwZXBtcUxqUDhnanRRMFR1azVvYjltSzJtd0Q5aGdEbVVUVUxfNjFMbmxpNWZuRy1yZWp3VlE5MWE5NXg1bHhBblA?oc=5",
+   "published": "2026-11-05T07:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.44,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "민주당이 의회를 휩쓴 후 월스트리트 집회",
+   "title": "Wall Street rallies after Democrats sweep Congress",
    "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuLTd0YVZCMkZtaTV5OGpTbXQ4QzZqMUNuRWFMVngxZGpZTW1NeVJ1ZmRUN3FHN2dZd3J1UjF4b2F0ejhMTll6S2JWVkw3bXg3M0FTUUowNmJWWW8?oc=5",
-   "published": "2026-11-05T05:08+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Rapid Recap: How Wall Street is responding to the midterm election results",
-   "title": "Rapid Recap: How Wall Street is responding to the midterm election results",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFEekREd0ptR05kQlZNdGZHTGtRUW44eC1hbDViVjM0TnVaRUQxaUFaczFiNXRIVFdma0NJTUY1c2RjMVpuOUVMb2JTb2lOOUpQbWFmeUhZSDdVUEVKV0NGZExrcWdpcjQ4aGpqQzZpV0x2eGk3a0w0RVF3NVdxcHcyNllCMjFWeGk5WGRlTWRYek9OTjF3MQ?oc=5",
-   "published": "2026-11-05T05:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSFFRXy1JSF9vWmFjdVJoaVhKVkVqUHpQcE1CVi1GS2d2QjFpMXBzanNrZmdZdlhRVXpXaUJzeUpUNlZibUNaVUkxTFpmMlJpNEZQVWxXdWtaT0k?oc=5",
+   "published": "2026-11-05T06:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -110,7 +108,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Micron Stock Is Falling Today",
+   "summary": "오늘 마이크론 주식이 떨어지는 이유",
    "title": "Why Micron Stock Is Falling Today",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0RwVjVWeDQ2RENzVzNYZXRJT0E4ZWtkWE5VcXdnbm5Fb0VpTksyVG92UXFNNWpybVBoMFJ3WWtZZGQ4ZGoxM2YyRzkxLWI0SnNnQ3UtbnRCQmpsQ0V6WkpQdE1PNDRnWFhEVUZTbndmNktZeVlwdW03bzJLand6Ri1STm9VTHkzU083bHZSM2VJYnFWUWJJeW9EYw?oc=5",
@@ -131,7 +129,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Navitas Semiconductor Stock Rocketed Higher Today",
+   "summary": "Navitas Semiconductor 주가가 오늘 급등한 이유",
    "title": "Why Navitas Semiconductor Stock Rocketed Higher Today",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDhmdm1tUDNzMmUwU2kyZkpMUWxJOHJNZGRSRlh0Ym1XLUlJMWRFd1c0cm1kR0FBdzZDUkRSOFoxdVBURGZ4R0xRRnludXk3Vm1HRURZMlpqQmdKWnY4aHZ4c3NYNVAxZjBTc0tJeWdUZTgxTGtNWkFRb2NfV1VNSlZzWWUteG90SFFnV2lPeVZFMVU4ZHItSFpWYk9MNmZCU1EtVUstUVE?oc=5",
@@ -150,10 +148,10 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+   "summary": "Nvidia 주가는 1,080억 달러 가이드가 다음 수익 장애물을 설정함에 따라 1.35% 하락했습니다.",
    "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGxlQnpRMTNuZTRuXzdxTWJ1am42cG03eDBsZHBfbjNZTVZ2RmJTODkwY2tyQmJ1ZktGaTN6Z1dVOWlPLUZ6aFhieVp1Xy1EOVV4MzV0N08yaWdjMUY3ZWhWYndpQ0kwLUhBNl95MnlrdmZUV1pfLW8tLXVDeEpTRg?oc=5",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmc0bWdnd0xGejdMRnhLX1ZUMk5mTk1YM1RoUFFqTUtvMDRSU1BjbkIxVmVBLUgtZjlQLUpZbGxjaEgzOTZUN20wNGtIS2xScFpxVWk4YzhUcDZqR2FKVkVrbmFNOWRxcnN0YkZreVIxNmszd1RxNDZCbmltV0lmN0pJLTFkUzVrWlpBNUhUbjk1QmNrbnc?oc=5",
    "published": "2026-11-05T04:34+09:00",
    "holdings": [
     "soxl"
@@ -169,7 +167,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+   "summary": "메모리 가격 급등으로 애플의 고통은 마이크론의 이익이 될 수 있다",
    "title": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkx6UFRsY2FnVExsU2I3TVl5TXVFdHVoWDV6dkpWMGdwcFR4UGxoZnZUTnhHaTE1VkVnSWs4T2N3SEMwUWFacjhIQXNaZEJ1TTdZcExiZ3k2UWpuQ3Q3RFhMYTItbzhZLU5GZ0hNTzFtalh1Z0xTanRnT0FhaFVmQlNwUmxFN0dETnI1NXlhX3V4b2NHeWVJWg?oc=5",
@@ -196,7 +194,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
+   "summary": "마이크론, 주요 상승 잠재력으로 3개 AI 메모리 주식 주도",
    "title": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
    "source": "Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekVPTWFUdVVaU2VTSm9iSEJ6djB2QktndzRoQjlCek5qa1VZMGhjTHUxU2xfZmcwWWtieFFabnI1TTlLckQxZlBUdWZtdHBwVGg5YUZ1ZlpzZzNGbXY3d05zaVMta1R4cWt4VDJGbllNT0VINHdzbUdOdXR2WXM5X1pWWQ?oc=5",
