@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-04T12:31:51+09:00",
+ "updatedAt": "2026-11-04T22:10:49+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
-   "title": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
+   "summary": "If a Stock Market Crash Is Coming, History Says SCHD’s Dividend Grew Through the Last Two Bear Markets. But Here’s the Catch I'm Watching.",
+   "title": "If a Stock Market Crash Is Coming, History Says SCHD’s Dividend Grew Through the Last Two Bear Markets. But Here’s the Catch I'm Watching.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0tJeE00NkVxRVpZTllSZnpyZXd1b19NalRBbURwcjNjUVBTS21JdDRPV2x3Z3ZGaEZYZ09VN2JMNEFkWWZneEFwX243N2NzWTV0U3pvYVVwdUgydWpxc1RyOVJtVFJFSW5oRnM4UzJ4cU9Zei03MHN3T2JfSDRJX2ZrRWVjMW1YUC00Q0xubDZ6Z2p5UktUZENrWFQ4SHlj?oc=5",
-   "published": "2026-11-04T10:11+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2FZU0k4NDNnR3Y2SV9IbXVUek9scGlNWG5PR3FiOElzeEdkS3BiY3ZGT0ZuM21vd0lyZlFrTDBnOXhzNTBLSk81cVRGdE5EakFwUkcyM0VVZnVLS0xoVzZkWDEwS1gyMkRIVHBIMy1EeUtJSW5JSV8tR3hWYkFxc01LY09VWnlHUjVpeWd1TjJ0UnppSjR6MmFLZGdVaGs?oc=5",
+   "published": "2026-11-04T21:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Prudential (PRU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "title": "Prudential (PRU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+   "title": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTFaZXl3amNQVm96QWg5dzhWV2NwU1FNd0hFQ290eVJFVUd0cEdmRVZBb1JzRF95TVVTQl9QNlBFZkJvOEFlb2p5NDJUU2xSbl9YZnk2a1JSYjd5OWxUM19jSVpoVGwxaHNaQmp4OWhVWmJ0SnIzYzVuT0JzTlpNeXNqeS1RdFZySGk4TTA0a1RlWWQwTk1ERTU3aw?oc=5",
-   "published": "2026-11-04T10:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnQ1Z3h2Z181ZlJ5dENTekh0ZnYtVzI5cVQ4d2JkelZIYkJyX2oxVlF1QXo3Y0xweER6Z2tlTFF5ZEFZeEZFWF8yUjJlOVV0bWo3djY1WXItUlNWWXp4SHY1LXczWlVYMEsyMkFPd0Z4ZTB6amxMNk5PenVrLUFIM2czUzdaa2loQndEZThUcHpnLWVKQVEzUFhQTU4?oc=5",
+   "published": "2026-11-04T20:14+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,17 +45,71 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
-   "title": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZiUWRMTDhnOXd3WmI4V2I5Mlp0Q2NybWdjb1dwNjRJUTZOZTJZWWxrT0duaGtNWGNWMW5MSi1laUVVYm83cnJHbW05SzJrMVJQZmd3dmJZUDkwbW1FYlpra0U1Rm5Uc2JteXFTQnp1OUtZSDVoOGZEQm5JV3hCekJhdjEyVjFaMkJrZFo0NHdEd1J0?oc=5",
-   "published": "2026-11-04T09:28+09:00",
+   "summary": "SPDR Portfolio S&P 500 Value ETF (SPYV) Sells Apple and Amazon on Monday",
+   "title": "SPDR Portfolio S&P 500 Value ETF (SPYV) Sells Apple and Amazon on Monday",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWNNdW45THp0LTlZT1lTUngyU2JRSmc5RjlFanZoWFBjRzVwT3oxNW9XTkhVdmpuNl9OcGE4NXR2cFQxVnpwR1ZobXpkcjJoa1gxUlkzLUs4TmhVLVVlWEZJOGdJVGd4SGdCU0hlZVhSRkdxOXlGZ2Z6YWV3RG1uRg?oc=5",
+   "published": "2026-11-04T20:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
     "schd"
    ],
    "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 2.06,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
+   "title": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWRDeEFmenRYaEs5VW9Td1AxMk9VZUZzVmNZRzczQnh3d01mbUJXbEd4cEZ4R3JQZUJZTHJ3cExtMmRyaDZLZEJJTVhqSFAxNzJsalRFMjdxcHpET21rMERLQThKeUhLZGVrc3ZjUW9SX2F1UjhCZ01WVjZZcVBrQ0xCSWtHaUl3WDlNQmwyT2NvTUhHRm1XRVVRSTNtMnRkMlpORQ?oc=5",
+   "published": "2026-11-04T20:05+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 0.83,
+     "asOf": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What Direxion Daily S&P 500 Bull 3X ETF (SPXL) Sold: Apple Leads on Nov. 2",
+   "title": "What Direxion Daily S&P 500 Bull 3X ETF (SPXL) Sold: Apple Leads on Nov. 2",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40Uy1QQVA2SnUyRlhuWUpzdHFPY2lpTFhuYTRyckNyNjNMemJlX25jZzRfY0FsWWdnUDY3dXBzaDlwZWxDekZjVXBjLVM5dUFaMEpELWxES0wzR0tlalFVTGtRLVJwckNtdzNjWE1aaVpBS1k4el9nb0VrOC1HaGc?oc=5",
+   "published": "2026-11-04T20:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
+     "asOf": "2026-11-03"
+    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -65,43 +119,49 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Talos Energy (TALO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "title": "Talos Energy (TALO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "category": "반도체 · 메모리",
+   "summary": "Micron (MU) Sees $262.9 Million in Net ETF Buying on Nov. 2",
+   "title": "Micron (MU) Sees $262.9 Million in Net ETF Buying on Nov. 2",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkVPS0JSSFowNzNZRVdsbGhVdmVNYnFFREFmcWJ3YnhrWVhWZFFtem5PMlpqbDVBdjZXY1V3QlZLb2ZSYTJxY2ZuVG8zYzAyVTJlZUJrSzhDX3NueHBVUXZuRWVtMW41WFFndnZ5dFRDcGRsMzl2LTBsT2w1SWFITTJrWWEyeFJBZHhFaGNPZEE5VHBDNkFuTWd3?oc=5",
-   "published": "2026-11-04T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdTSHphdVlrUF9JaERFeWtERW9KRHMyaGowaG8xb0lGSFd3ZWVfcXlqLWs3TVFzTzh1NFlHWDJDRU1IM21GWmg0bEhDZEF6eVBJeGZ2UmdiZzQ4eGVMMGxhdjkwZ0tNTUNrQlpMVnlWRTRsY1c2dEVBQmR5ZFIzMkhhQ05pV0VuODBtYXl3?oc=5",
+   "published": "2026-11-04T20:01+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.58,
      "asOf": "2026-11-03"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street keeps close watch as the fate of Congress is up in the air",
-   "title": "Wall Street keeps close watch as the fate of Congress is up in the air",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQ3hWZUFNaHF3ZDgxVjZCLXZweUxNV1U3WGYtOHZkVDZzcXVueTNXZFJ5ZEFfQnNZczhZMW9uMmMxX3U2b2Z1NlgtYzBvcnVvMkFIdUZaWl9IV28?oc=5",
-   "published": "2026-11-04T07:30+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Apple Says It Will Keep Paying More for Memory Chips After December. That's Good News for Micron Stock.",
+   "title": "Apple Says It Will Keep Paying More for Memory Chips After December. That's Good News for Micron Stock.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl8wM2x6UFZITS1zZWVtTHZFeUdzT0R2MXpXWTFhdUJ1QVlBLUFvbzNNUTlERW1IcWRTejJWWEdaYTNUUk9jS29pd2lydnc5ajExU2lMbnNsY2xuZlNFNU1SYl9rS18zWUlnb1NSTjlZLVZVcWl3dWpveWUxVjVxd3pZQ3JFLUVxTGxVS054bHVJWTYzUmtR?oc=5",
+   "published": "2026-11-04T14:16+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.36,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 2.58,
+     "asOf": "2026-11-03"
+    },
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
      "asOf": "2026-11-03"
     }
    ]
@@ -154,63 +214,15 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple Crushed Earnings, but Its Stock Is Dropping Over Memory-Chip Prices!",
-   "title": "Apple Crushed Earnings, but Its Stock Is Dropping Over Memory-Chip Prices!",
+   "summary": "Is Nvidia a Buy Right Now?",
+   "title": "Is Nvidia a Buy Right Now?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3dlNjMyODl0UjUyX0NfdTItczlMcXgyYlpZdlJZTE9LYWQ0cVE5d3ViMXJrNWdmOEZqWTkzVGFaT0wtWEVQSVQ2R2QycFQ5N21qX3NYOG9iY0lXVVNmUXdwdUVCX3VZa2Joel9sUE13TDRxcmpUODFoUE1JbEJKRHFXWm1XR1BmRkstZDFBekljYm9XeVpUUlVnaHZRWEZwS3g1dA?oc=5",
-   "published": "2026-11-04T01:19+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-   "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0lTcWg3LS1VZmItNkhqaWtsY2FjTTBTVjZZY0dablZKZTRrRVdKT3oyb1ZHVWFBa0x6ckN5X0xQSklZVmgta2pRbUNqTTlmZW5QX3lGV2dIdHBKeGxyYUZIWTE2MU5GSWEwdk1QQkRrT1ZGdnRDTEdBZFpzcFR5OXZXaFY3aXE5T3RsZUR4ZmpfZTJTa2VzY2dtbXoxTWJfTzd1WEhoZjJRVmdnRm1RX2VpQWFoN3lNeFVLa2JMR2dZRUJDbEln?oc=5",
-   "published": "2026-11-04T00:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHpCWmxRUWppeFZTUFNpNWlpRVctcWczOVc2UzE3ZGFqazVyUDJZNHZoZTFJcjlSSTA4dzc3b0xiMk91QTlUSHVJTVdCN2FMRkFucVh2N2ZsRURlbkR3ai1GdGdNUXNES0NkMURvcDRUeEhTYXVENjNKbVdPcF8xcnlpM0U5Zw?oc=5",
+   "published": "2026-11-04T00:40+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.9,
-     "asOf": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
-   "title": "Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5",
-   "published": "2026-11-03T23:20+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 2.58,
-     "asOf": "2026-11-03"
-    },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
