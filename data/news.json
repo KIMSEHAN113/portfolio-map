@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-06T06:01:49+09:00",
+ "updatedAt": "2026-11-06T06:31:22+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "AI 주식의 전멸은 월스트리트를 휘청거리게 하고 S&P 500은 3.5% 이상 하락합니다.",
-   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3.5%",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-   "published": "2026-11-06T05:15+09:00",
+   "summary": "S&P 500 하락 매수 수준: 주목해야 할 주요 지지 구역",
+   "title": "S&P 500 dip-buying levels: key support zones to watch",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95Y0syczZQTE5NYnVzdXV2dG1NUDJ1ZGpIeW0taHpRR0Z2RFdFUlJSRjlZY3h2VFdCSjBnVlNQcmlYbEVKUDY2cDZfZGt4SHcxcG1IWHQzd2c1dkI3U1I0WTdHRzBzZ18xU2wzOWdab0hqVjR0TnNEVmhNX3g?oc=5",
+   "published": "2026-11-06T06:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,8 +17,67 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Candel Therapeutics, 나스닥 상장 규칙 5635(c)(4)에 따른 유도 보조금 발표",
+   "title": "Candel Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN04tMUgwMXhKbi1Ca0MyNjhZTks4bkp0Q3FkNXVtYkxPTjBYNlZzaXFIa2ViakNGeXFmM2NpUlFXUkptRnI4S2tNQ3hvY09sbzEwUU5CWlJTNy10ajlYNUVUanlhNW5HcEFXRVBMem5USUR1U2xraVIzYzFNak5RbDhPOEFHa1liRUxTWE9SWUJ2eGc1S0p0WXpYWl9sOV9NVFlBN3dmRF9xeXM?oc=5",
+   "published": "2026-11-06T06:05+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "인메드(InMed), 합병 종료 및 \"멘타리 테라퓨틱스(Mentari Therapeutics, Inc.)\"라는 이름으로 나스닥 거래 개시 발표 및 티커 기호 \"MTRI\"",
+   "title": "InMed Announces Expected Closing of Merger and Commencement of Trading on Nasdaq Under the Name \"Mentari Therapeutics, Inc.\" and Ticker Symbol \"MTRI\"",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYm03aUF5VFdYV2N4WWJHWVFIWTZQeHZEQ2FBRjB2SGhadzVmcmxzQk5SMWZHSGFmanRjNHFLRWV6el9wTVRlM1YycV95WG9XZi1WQ0E4NXN3YnhYN3dLdW8tUmVoVXhMN3A5V1pxQk9RcEZIOVNUemREVnA4c0ZHalB3UGVQaHkyS01neUhKQWYtUzlhcjRqalhuUGdpbzBJbUE?oc=5",
+   "published": "2026-11-06T06:01+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "민주당 중간 청소가 AI 규제 우려를 불러일으키면서 주가가 급락했습니다.",
+   "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15QkdRc1NxV1JyTnFCUkVHQzZNUm9BZlA4NUI3Z2JZOHlmMDAwVmhvWU9lTDdxb19SU0dQMDNKMldYdndYR1FxSGtuaThxQ0lrNG9TYktLeHdUZ1l2eEVJWGdUa9IBaEFVX3lxTFBRVTJmNmFjajBDUk1leXdUNElhcHZsaUxnRU5kVHUyY2xfMGstWE04YkdYQnhlTjMwV0Ziakh6ZWZkZkNYa2lmLTNzeGhnRzdqVXF2SjFDMGhMZHZ1MGxadWNTa0xOT3NB?oc=5",
+   "published": "2026-11-06T05:52+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -38,71 +97,8 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq, Grainger, Motorola Solutions의 Turtle Creek의 David Spika",
-   "title": "Turtle Creek's David Spika on Nasdaq, Grainger, Motorola Solutions",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHJ1eW5mak10S19CeGFpVk1VUXpDZU84YU1KTjhNWFFXMUFVa3pDcE01Q0h2ek9YU3dPQlVSRUE2MFRDS0xzZEZDN25mZmF6ZTYwVGlPcXVxZmRES3E4NVhtWkd4Y3hMRkNqckpNMmZqdk4zWXhhOGt2elFlc1pwT3NPdkY4UVhrSGF4a2N0enhUdmxRZEI5cnd5UTA1b0hyMlU4bGdhV3MyZw?oc=5",
-   "published": "2026-11-06T04:52+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.44,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "휴머노이드 로봇 회사가 매출 180만 달러, 손실 1억 3,800만 달러로 월스트리트를 강타했습니다.",
-   "title": "A Humanoid Robot Company Just Hit Wall Street With $1.8 Million in Sales and $138 Million in Losses",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhuTGZYdlNoSW9GdDNDYXhldl9ycTRNbFFPcERydDJpeExteEV6R091UDRlVzY5ZUFQY05JU2Z1ZHpSX0loTlduUDBJVjhOUVBfYjdIY0M3V19UeV9IeEtzZk9jemFaS2JnamlQTHNCcGNSbjF6OVBpSWpCNmFSclhZSVNHaG5Ld2V2NkJhRkQyVTVsUWNj?oc=5",
-   "published": "2026-11-06T04:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "맥도날드의 주식 랠리는 월스트리트 경고에 부딪힌다",
-   "title": "McDonald's Stock Rally Runs Into Wall Street Warning",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTdkemtjZlFJZ1NFUXBMZVVQa1pBUUEyQzZXY2dqMzRqaGxaNVJzTFk4d2tnNGJLQTBBNXowd0QyNGhlbTRqckFJUWd0azdkSEhzV3lhWndVUHpva09oWFZydmhmdlUxdThWdGNGM3h3dkxmMm03VExvdldfcEJQVTlsVlV6YkdrSi13N2pNczJDUzRvT0hlb0NnOG8?oc=5",
-   "published": "2026-11-06T04:33+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -120,8 +116,8 @@
     {
      "symbol": "TSM",
      "name": "TSMC",
-     "chgPct": -2.24,
-     "asOf": "2026-11-04"
+     "chgPct": -10.78,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -141,27 +137,27 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
+     "chgPct": -17.46,
+     "asOf": "2026-11-05"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "이 반도체 ETF는 민주당의 압승으로 데이터 센터에 대한 회의론이 제기됨에 따라 18개월 만에 최악의 주를 맞이할 예정입니다.",
-   "title": "This Semiconductor ETF Is Set For Its Worst Week In Over 18 Months As Democratic Sweep Raises Data Center Skepticism",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmhzei0wa01sNGMxUFgxN2RlMDVCUnlDV1JzbUszeHREQ2xFczdDdlM0SGNOUzhxOEgyTk1QWENWYTVoMXVQSWtvV1ZKZFI1c0JQcm5NbXd0Q3FuZGhhVF9JTkFHU1ptaGIxd1J6YUtvZ2dsdk1NaXk3LUpseG11dElVRU9pQmV4NlJnZlFqWllLUnU1MHJsX25mM3Y0QQ?oc=5",
-   "published": "2026-11-06T04:21+09:00",
+   "summary": "엔비디아 주식이 폭락했습니다. IBM과 Supermicro AI 거래로 56배 속도 향상 제공",
+   "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlNDNjUyRFFuTExTQjVVbmp4Q3JGWk9iUjl1TkNfRk1BTjg2YlJhQjBKbFhUdmhyeGNlRTh4SGZzbDlvTjJkNHpBdkpWSm1zNkVPcjJKZFhnemJUNDlMVTV5V2Q4QTZrT1pZdUlmZFo2OVRyanR5MTRFR1F3UXlZczF6bkRUWk9HbFFUbQ?oc=5",
+   "published": "2026-11-06T03:45+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -3.14,
-     "asOf": "2026-11-04"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -179,8 +175,8 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -3.14,
-     "asOf": "2026-11-04"
+     "chgPct": -70.72,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -200,14 +196,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
+     "chgPct": -17.46,
+     "asOf": "2026-11-05"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.17,
-     "asOf": "2026-11-04"
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
     }
    ]
   }
