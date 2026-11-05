@@ -1,30 +1,9 @@
 {
- "updatedAt": "2026-11-05T10:01:44+09:00",
+ "updatedAt": "2026-11-05T10:29:42+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Arista Networks stock gets fresh backing from Jim Cramer and Wall Street",
-   "title": "Arista Networks stock gets fresh backing from Jim Cramer and Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnVVeWpqQkJLeDN2c0VfdGF4bDZRcFI2ZnI0TE9oVjVLSFg3Z0RCeGUzLW1UZndJVHF3WFVOQW1nMDBNdG9OTjRSMll6WEJvR0hpWm5KUGxlSGxNeWZZZUZVUlF2TnlvdXNWSFhVbGMwVnVWSGh1V1REbi10RGh0SzgtUXJXUnFPRkVHYlZ1endlUUd5VFVaQkVWZ1BRQQ?oc=5",
-   "published": "2026-11-05T09:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock market surges on election results",
+   "summary": "선거 결과에 증시 급등",
    "title": "Stock market surges on election results",
    "source": "NBC News",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFE3OEF2WXgyT0ZCblZxZkJOV3NwRVBkVld6UkhzOUE2UnBfaFhQMkVkQ3FEbkpkWnBOaVdFaXM4aHdsX3RJcTVyeFp2YzUxa0p0UHRqcXFlWTZyZGJZdE5xRkNHOFVPRmFZSS1aV3JHMEpBOUJSRFgtRjZXZmdXQ3VlNW5KZk8teTJhN2k3VHRodHladDRMZkhvOA?oc=5",
@@ -45,7 +24,34 @@
   },
   {
    "category": "미국 지수",
-   "summary": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+   "summary": "S&P 500, 나스닥, 민주당 스윕 이후 급등, 다우지수는 저유가에서 1년 최고치로 도약 - AAPL, SNAP, INTC, CRWV, QCOM 포커스",
+   "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDQxMHE4UjR0OFVkY3Y3d05TcUxxLVhYZjNHMk1JZXhjbFFjRzlqYnRDUFBvTUE3X3NuWkMzOFpqRDBTMXFsLXRrQkRwd2V6NEY5ampVNHllSXdsM1VKaWJrcGZ3Z0otMnlzcVFsaElaN1BkQTJDdmQxQ3VjbUxnN3FyajZ4Q1ZCRXpqQXFYT0JVcEk?oc=5",
+   "published": "2026-11-05T08:32+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.44,
+     "asOf": "2026-11-04"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "민주당 중간 선거에 대해 월스트리트 억만장자들이 말하는 것",
    "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFUzWUxLR3lBUkhvVEJ1dzdHTjJZZHZpbUg3dHRoLWNTcU1pNkhpSlVqMmNqYUl4Nm4xTVRpTFo2blNFRDMzR094RHZRWEVYdWhCNjBWUmd1WExCWE16LTZyVHZEMEtjLTBTMmZ3OTdpNjlFeTE5a0lyX0pfTS1vUUlETk15YTRiZ1YtckdKNFgzUkppUjk2SlRCb2TSAaIBQVVfeXFMUGJvX3JXSWR3M3VsVDBKSDdTdnJLSmNueUN2RDBXSVV0eFVUSTZFT1B4a3FNLW1KVnVaY1YwYzlsNDlyQXVfRXRGbnA4dDVXcWZ0ZWJrNWtYYm1jdHdLeEtIVlZMUjNOWGFnS0tFRDlDNzFtQldDbFFGVlZJb1B2bDRrNjdPLTQtT25DNGZBUjBhajIzV2hRVHZvSS10dnpKenlB?oc=5",
@@ -66,11 +72,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "How the midterm blue wave affects the stock market, retirement accounts",
+   "summary": "중기 블루 웨이브가 주식 시장, 퇴직 계좌에 미치는 영향",
    "title": "How the midterm blue wave affects the stock market, retirement accounts",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0UzNHFBTERoQjUtXzhvQVo0bkZFaDdLemE5WTJzT29kNkxCNWhMVWw1UTB1bHltV09RS1d5M280SWxkWUZQaU1FVDFaRXpHS0RXelFwMHFrQkxLdjV0ME82ek1faUpsZVMzU3U0VFhRTjlTVmJMdms0dWZHS3diSHViVEpCcEJpaHVpZzZpM3g3SDFUY2hPSlNPdjZQNldUQXhBNWt1bWV6S2xONmRJWURKUEZJRmlHU1k2ejJCZl80UQ?oc=5",
-   "published": "2026-11-05T07:54+09:00",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDFvUlFDajBUd1BpVWNoRElyekpidHBYSWs4ay0yeG83R3VKTnhEODNrMEV5QUVBdFlWZ192MTA2QnA2anQtYVhISXIyZ2FraFJDanEwQkxXaGIwX0Jqc29rWXBIU3VUQjdFZ21iSzZ2Sl8tQXEtVGZaU25IQUhKc1A2T2Q?oc=5",
+   "published": "2026-11-05T07:41+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Centrus Energy (LEU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "Centrus Energy(LEU) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
    "title": "Centrus Energy (LEU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlBmZ2lSZ0dTcDRDVFJGd3luVXhWNktIU3duTTVTbWxoMHlVNHF6bE1uMVNzRlYzRHJNWTBPRnUwSGpndDZlNmxoQUJVaDNYLUtiMktXbDhQZm11SVE1S1dqY1ZOSDZSY0plU2VDMjJTY2pQR2d4ZWdDOVBNZlhkcUFfX2dzZnA1MEZ1cnlrbzJmYjhYQ3VUaXBaQQ?oc=5",
@@ -108,7 +114,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Micron Stock Is Falling Today",
+   "summary": "오늘 마이크론 주식이 떨어지는 이유",
    "title": "Why Micron Stock Is Falling Today",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0RwVjVWeDQ2RENzVzNYZXRJT0E4ZWtkWE5VcXdnbm5Fb0VpTksyVG92UXFNNWpybVBoMFJ3WWtZZGQ4ZGoxM2YyRzkxLWI0SnNnQ3UtbnRCQmpsQ0V6WkpQdE1PNDRnWFhEVUZTbndmNktZeVlwdW03bzJLand6Ri1STm9VTHkzU083bHZSM2VJYnFWUWJJeW9EYw?oc=5",
@@ -129,7 +135,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Navitas Semiconductor Stock Rocketed Higher Today",
+   "summary": "Navitas Semiconductor 주가가 오늘 급등한 이유",
    "title": "Why Navitas Semiconductor Stock Rocketed Higher Today",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDhmdm1tUDNzMmUwU2kyZkpMUWxJOHJNZGRSRlh0Ym1XLUlJMWRFd1c0cm1kR0FBdzZDUkRSOFoxdVBURGZ4R0xRRnludXk3Vm1HRURZMlpqQmdKWnY4aHZ4c3NYNVAxZjBTc0tJeWdUZTgxTGtNWkFRb2NfV1VNSlZzWWUteG90SFFnV2lPeVZFMVU4ZHItSFpWYk9MNmZCU1EtVUstUVE?oc=5",
@@ -148,7 +154,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+   "summary": "Nvidia 주가는 1,080억 달러 가이드가 다음 수익 장애물을 설정함에 따라 1.35% 하락했습니다.",
    "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmc0bWdnd0xGejdMRnhLX1ZUMk5mTk1YM1RoUFFqTUtvMDRSU1BjbkIxVmVBLUgtZjlQLUpZbGxjaEgzOTZUN20wNGtIS2xScFpxVWk4YzhUcDZqR2FKVkVrbmFNOWRxcnN0YkZreVIxNmszd1RxNDZCbmltV0lmN0pJLTFkUzVrWlpBNUhUbjk1QmNrbnc?oc=5",
@@ -167,7 +173,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+   "summary": "메모리 가격 급등으로 애플의 고통은 마이크론의 이익이 될 수 있다",
    "title": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkx6UFRsY2FnVExsU2I3TVl5TXVFdHVoWDV6dkpWMGdwcFR4UGxoZnZUTnhHaTE1VkVnSWs4T2N3SEMwUWFacjhIQXNaZEJ1TTdZcExiZ3k2UWpuQ3Q3RFhMYTItbzhZLU5GZ0hNTzFtalh1Z0xTanRnT0FhaFVmQlNwUmxFN0dETnI1NXlhX3V4b2NHeWVJWg?oc=5",
@@ -194,7 +200,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
+   "summary": "마이크론, 주요 상승 잠재력으로 3개 AI 메모리 주식 주도",
    "title": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
    "source": "Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekVPTWFUdVVaU2VTSm9iSEJ6djB2QktndzRoQjlCek5qa1VZMGhjTHUxU2xfZmcwWWtieFFabnI1TTlLckQxZlBUdWZtdHBwVGg5YUZ1ZlpzZzNGbXY3d05zaVMta1R4cWt4VDJGbllNT0VINHdzbUdOdXR2WXM5X1pWWQ?oc=5",
