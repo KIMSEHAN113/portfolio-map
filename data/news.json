@@ -1,93 +1,13 @@
 {
- "updatedAt": "2026-11-06T06:31:22+09:00",
+ "updatedAt": "2026-11-06T07:43:22+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500 하락 매수 수준: 주목해야 할 주요 지지 구역",
-   "title": "S&P 500 dip-buying levels: key support zones to watch",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95Y0syczZQTE5NYnVzdXV2dG1NUDJ1ZGpIeW0taHpRR0Z2RFdFUlJSRjlZY3h2VFdCSjBnVlNQcmlYbEVKUDY2cDZfZGt4SHcxcG1IWHQzd2c1dkI3U1I0WTdHRzBzZ18xU2wzOWdab0hqVjR0TnNEVmhNX3g?oc=5",
-   "published": "2026-11-06T06:20+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Candel Therapeutics, 나스닥 상장 규칙 5635(c)(4)에 따른 유도 보조금 발표",
-   "title": "Candel Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN04tMUgwMXhKbi1Ca0MyNjhZTks4bkp0Q3FkNXVtYkxPTjBYNlZzaXFIa2ViakNGeXFmM2NpUlFXUkptRnI4S2tNQ3hvY09sbzEwUU5CWlJTNy10ajlYNUVUanlhNW5HcEFXRVBMem5USUR1U2xraVIzYzFNak5RbDhPOEFHa1liRUxTWE9SWUJ2eGc1S0p0WXpYWl9sOV9NVFlBN3dmRF9xeXM?oc=5",
-   "published": "2026-11-06T06:05+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "인메드(InMed), 합병 종료 및 \"멘타리 테라퓨틱스(Mentari Therapeutics, Inc.)\"라는 이름으로 나스닥 거래 개시 발표 및 티커 기호 \"MTRI\"",
-   "title": "InMed Announces Expected Closing of Merger and Commencement of Trading on Nasdaq Under the Name \"Mentari Therapeutics, Inc.\" and Ticker Symbol \"MTRI\"",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYm03aUF5VFdYV2N4WWJHWVFIWTZQeHZEQ2FBRjB2SGhadzVmcmxzQk5SMWZHSGFmanRjNHFLRWV6el9wTVRlM1YycV95WG9XZi1WQ0E4NXN3YnhYN3dLdW8tUmVoVXhMN3A5V1pxQk9RcEZIOVNUemREVnA4c0ZHalB3UGVQaHkyS01neUhKQWYtUzlhcjRqalhuUGdpbzBJbUE?oc=5",
-   "published": "2026-11-06T06:01+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "민주당 중간 청소가 AI 규제 우려를 불러일으키면서 주가가 급락했습니다.",
-   "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15QkdRc1NxV1JyTnFCUkVHQzZNUm9BZlA4NUI3Z2JZOHlmMDAwVmhvWU9lTDdxb19SU0dQMDNKMldYdndYR1FxSGtuaThxQ0lrNG9TYktLeHdUZ1l2eEVJWGdUa9IBaEFVX3lxTFBRVTJmNmFjajBDUk1leXdUNElhcHZsaUxnRU5kVHUyY2xfMGstWE04YkdYQnhlTjMwV0Ziakh6ZWZkZkNYa2lmLTNzeGhnRzdqVXF2SjFDMGhMZHZ1MGxadWNTa0xOT3NB?oc=5",
-   "published": "2026-11-06T05:52+09:00",
-   "holdings": [],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식 시장 하락: 알아야 할 사항",
-   "title": "Stock Market drop: What you need to know",
+   "summary": "Why the stock market tumbled after the midterm surge",
+   "title": "Why the stock market tumbled after the midterm surge",
    "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFY5ZlhiMkpsQTFZb19qVnltVDhqQXVTZGRicEVrb3V1eHVVdllYdkdEeTNfMzhxMUEtTlAzSVpraHFiSmgwc3JrUThiOVB4bjNGR2JGWGlzSGxSU1ZTSFA5NGNRZzlzLWxmTmliOUJKMnh3ejFEZGlNaTNIamt6ZVJjVQ?oc=5",
-   "published": "2026-11-06T05:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWFTRUU1VkZtZWV1emczdzJrNDBXWUt4OC1mVm00YUNOY2xReHIwMlNoZF9xbDNTQmJtcUM0aHhsMm01S051UFl5M2Q5U1d6bDUzdDhvQ2hMMl9MdS1ObkhscXhrcWM5aGpWNkhsN1ZuZlltWXVrRkRzTk1SOXVfd2RGVGZnNmZfNVpn?oc=5",
+   "published": "2026-11-06T07:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -98,13 +18,118 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq drops into correction territory — here’s what typically happens next",
+   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVRKV21sTjh2QThiTW10d21uVG1JbkEwZEY0aFAyUE9hbEtLTGxfcmF6bkp3Z3diRTk3TEw1emRLUFJkazdGdlN1UzFMTGxTWlNxNklsSDRBMWtjZGEzU1BjNGVVY29CdkRVQ3hXRkRidWppMmhqcEVPTjFRSXg1eXNOSXlxWWZ5bm1udF82ZkYxQWdJcW5oTjBDM1BNeUxSVHp0Tk5jNHNhb3dxS0HSAbMBQVVfeXFMTjN3TGI1ZmhDSmVMNlIyenNyTTQwcGZrTFpjWDRSanF3ZWhWQXB2RWpTdXFNYnE5enA0b1hocHVUU3NBNVdYRGNrRDhpcEt2Y3c5RWhjWk5MRHQ1c2FSaW9Zejd6eWpBMncwV1hpOGhSQ1lRWTRsenRoZzMyNXRnQm9sdlFYbDVGSTFFSThPRWhRc052VEk4VzdDYVdoTVdOYUVXRkp6aDA5aHFrVFRBNDlJdjQ?oc=5",
+   "published": "2026-11-06T06:57+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Why the midterm blue wave just triggered a red Wall Street",
+   "title": "Why the midterm blue wave just triggered a red Wall Street",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
+   "published": "2026-11-06T06:46+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stocks slide as Wall Street's post-election rally fizzles",
+   "title": "Stocks slide as Wall Street's post-election rally fizzles",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1p2N1R5TjhrR1k3NUVsbzQycUFnODZIb1RCLVhXalpMWmdzOW9qdmhZZmQtR2Q3YU5ueGd0WkVMZFotNi1kdG9XY1Zrd3V6Y21VTHdlRTBvS0hnOEhhdWh0Xy1JRWYzMVQyRGp1Nm5fQnZLMWtCbEM1X3ZsZFkyQzI4Z3RaSW1JaDFxaGpVbTBTVjg1bURHMEtJMWtRaC0wUWE4dDJn?oc=5",
+   "published": "2026-11-06T06:42+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
+   "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTk3NXpmbE1wWUNkNmFyUUtpeUhBYVNjT2tOY1hhRHJBTG1kOUlpRy16UGRRV1hDM25pX2ItSlJMWl9wZXlLbEhTMUFoZnEzcFdSamJjeGlrZElqZUpmM2R1U1VoWFlCRkxDRzNzcGN6ODJIcEZGSDJxWmoxNl9sX2ktRU9EQjNMWEJRZUhLdDhRME04RVd4SFRMRDB3SHJYOUxqazFB?oc=5",
+   "published": "2026-11-06T06:39+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
      "asOf": "2026-11-05"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "첨단 마이크로 디바이스 vs. 대만 반도체 제조: AI 매도는 투자자들이 2027년에 무시해서는 안 될 중요한 차이를 노출시키고 있습니다",
+   "summary": "Micron stock sinks 17% as chip sector crashes",
+   "title": "Micron stock sinks 17% as chip sector crashes",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZDb3VRSUh2cUtoWFVfbU83NFI2TGdiVzN3Ql95TTNuQkktVERweFVsYlRDcWhMUlQzaUVISTN0SjhHdGVQa1hUQUdPN0NxTGVRd1UyQzZ1eDN0dnpkRHdxT3lqLTQ5cFAxbW9udVFoMFhnRGpFRVl1NDVpN0J4Yi0yWkx6RWlpUmE1TlBtVFp2d000VnQ4ZXhxVlJEeDJja2c?oc=5",
+   "published": "2026-11-06T06:10+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -17.46,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
    "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXlHaVI1LXdNcnFQcERxZHByZVRVa0FkQkN6SmRFWmI5NW5JamVlVVRFemN0S0NMSzRub3NzTDNGMl9VZXFXZG45aGhCRVh3SGZRMDEtZ2ZYNDhHREVYTVlvMFZoUnZzOFRQLVgwbno1WUoyN3JVbkdacDRJNkQtQXEyNUp1TW9Dc3VXaWZCWDhOTVlBbnZZRXBGUkxXdw?oc=5",
@@ -123,7 +148,26 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "45억 달러 규모의 대만 거래 중단 보고 후 마이크론 주가 하락",
+   "summary": "Historically Bullish Signal Emerges for Nvidia Stock",
+   "title": "Historically Bullish Signal Emerges for Nvidia Stock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkJ3RjNSTGxkejhQRVRuWExhVEI5VVQ1NEphYmFBOFZlQ0V4bXhCQUw0LVV2OGRRcm91N1IwbGkyXzJnMG15aS1ZblJ4enZ2b0RFczAxclNiNXBQWUdfN21HLWNSQTdVOU01NjR5aDRSZFBTeHlTYkFCSnpiMGRCNloySXY5UmN2V0syVEEyMk41QThGdERVbFV5RzlFbVZ4ZDZ3ZnhXVmxQN1E?oc=5",
+   "published": "2026-11-06T04:37+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
    "title": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNU9BNVNic2xZTEJwRE1yZ1I2cC1jUENraWpSQXRJMDI4X25VWG03OE9rMFBBdlRFdG9kS1k2WmotM1lGU3dQZWU0NUpDdW1DYUVLS3ExN3RzVkJTc0tMdUpVYWpITmxhWm5iWFlhN2UtNjNwTnJNemJNUXZPd0ozcFE3bjFEY2ZUR1lYQjFWb1ZQSW1aNVkw?oc=5",
@@ -144,7 +188,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주식이 폭락했습니다. IBM과 Supermicro AI 거래로 56배 속도 향상 제공",
+   "summary": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
    "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
    "source": "Yahoo Finance Australia",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlNDNjUyRFFuTExTQjVVbmp4Q3JGWk9iUjl1TkNfRk1BTjg2YlJhQjBKbFhUdmhyeGNlRTh4SGZzbDlvTjJkNHpBdkpWSm1zNkVPcjJKZFhnemJUNDlMVTV5V2Q4QTZrT1pZdUlmZFo2OVRyanR5MTRFR1F3UXlZczF6bkRUWk9HbFFUbQ?oc=5",
@@ -153,52 +197,6 @@
     "soxl"
    ],
    "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "칩 주식 매도에 대한 Bernstein의 Stacy Rasgon",
-   "title": "Bernstein’s Stacy Rasgon on the chip stocks selloff",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUJUaVRSWm12ckZNLWhYMmVUajdyWXlaVjE4V0VULWN0Z183V1RpcGxCSEQtQ3d3NUQ4emNUbktpZDdPVkxqXzRXUjh0UThOTzRJRnNGX2F6TmlwVWhOZnRIcHcyR3RXS1lNbzdLRVpYSGNPY3BhbmluYXVVRW1wZk5HZTNRbFhUcjc0QVZIMVZOZnNQcHY5Rm93?oc=5",
-   "published": "2026-11-06T03:24+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -70.72,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "정오에 가장 큰 움직임을 보이는 주식: Micron, Tesla, Tripadvisor, AppLovin, Nvidia 등",
-   "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5",
-   "published": "2026-11-06T03:06+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -17.46,
-     "asOf": "2026-11-05"
-    },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
