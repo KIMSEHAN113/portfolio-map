@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T10:29:42+09:00",
+ "updatedAt": "2026-11-05T11:01:24+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -24,34 +24,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500, 나스닥, 민주당 스윕 이후 급등, 다우지수는 저유가에서 1년 최고치로 도약 - AAPL, SNAP, INTC, CRWV, QCOM 포커스",
-   "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDQxMHE4UjR0OFVkY3Y3d05TcUxxLVhYZjNHMk1JZXhjbFFjRzlqYnRDUFBvTUE3X3NuWkMzOFpqRDBTMXFsLXRrQkRwd2V6NEY5ampVNHllSXdsM1VKaWJrcGZ3Z0otMnlzcVFsaElaN1BkQTJDdmQxQ3VjbUxnN3FyajZ4Q1ZCRXpqQXFYT0JVcEk?oc=5",
-   "published": "2026-11-05T08:32+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.44,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "민주당 중간 선거에 대해 월스트리트 억만장자들이 말하는 것",
+   "summary": "월스트리트 억만장자들이 민주당 중간 선거에 대해 말하는 것",
    "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFUzWUxLR3lBUkhvVEJ1dzdHTjJZZHZpbUg3dHRoLWNTcU1pNkhpSlVqMmNqYUl4Nm4xTVRpTFo2blNFRDMzR094RHZRWEVYdWhCNjBWUmd1WExCWE16LTZyVHZEMEtjLTBTMmZ3OTdpNjlFeTE5a0lyX0pfTS1vUUlETk15YTRiZ1YtckdKNFgzUkppUjk2SlRCb2TSAaIBQVVfeXFMUGJvX3JXSWR3M3VsVDBKSDdTdnJLSmNueUN2RDBXSVV0eFVUSTZFT1B4a3FNLW1KVnVaY1YwYzlsNDlyQXVfRXRGbnA4dDVXcWZ0ZWJrNWtYYm1jdHdLeEtIVlZMUjNOWGFnS0tFRDlDNzFtQldDbFFGVlZJb1B2bDRrNjdPLTQtT25DNGZBUjBhajIzV2hRVHZvSS10dnpKenlB?oc=5",
@@ -109,6 +82,27 @@
      "name": "S&P 500",
      "chgPct": 1.58,
      "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘, 11월 4일 주식 시장: 오라클, 70억 달러 규모의 Tencent 칩 임대 계약 취소로 인해 하락",
+   "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGozRjJFd2k1Ynh2UlJNdjZueG5zX2Q5R1lIMGpYdTZaNE94VzQ2YUhuY3lHaG1NQ2VUZkNIclA1UHlNWVg5TzJKQzJQcnJlUVlCbXpVaktacE9sYVJPNms1SXNrd05vVHFxcTlxSG5IMTZCOGgxZjAxenlFN0pfWHJEN1FQVk9CaHpkcTJVWnRQVWs?oc=5",
+   "published": "2026-11-05T07:20+09:00",
+   "holdings": [
+    "soxl",
+    "orcl",
+    "rise-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "ORCL",
+     "name": "오라클",
+     "chgPct": 5.85,
+     "asOf": "2026-11-03"
     }
    ]
   },
