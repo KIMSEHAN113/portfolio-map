@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-06T05:31:59+09:00",
+ "updatedAt": "2026-11-06T06:01:49+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "AI 주식의 전멸은 월스트리트를 휘청거리게 하고 S&P 500은 3.5% 이상 하락합니다.",
+   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3.5%",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+   "published": "2026-11-06T05:15+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "주식 시장 하락: 알아야 할 사항",
@@ -45,6 +66,27 @@
   },
   {
    "category": "미국 지수",
+   "summary": "휴머노이드 로봇 회사가 매출 180만 달러, 손실 1억 3,800만 달러로 월스트리트를 강타했습니다.",
+   "title": "A Humanoid Robot Company Just Hit Wall Street With $1.8 Million in Sales and $138 Million in Losses",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhuTGZYdlNoSW9GdDNDYXhldl9ycTRNbFFPcERydDJpeExteEV6R091UDRlVzY5ZUFQY05JU2Z1ZHpSX0loTlduUDBJVjhOUVBfYjdIY0M3V19UeV9IeEtzZk9jemFaS2JnamlQTHNCcGNSbjF6OVBpSWpCNmFSclhZSVNHaG5Ld2V2NkJhRkQyVTVsUWNj?oc=5",
+   "published": "2026-11-06T04:52+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
    "summary": "맥도날드의 주식 랠리는 월스트리트 경고에 부딪힌다",
    "title": "McDonald's Stock Rally Runs Into Wall Street Warning",
    "source": "Yahoo Finance",
@@ -65,49 +107,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Anthropic의 IPO 계획은 폭행당한 월스트리트에 맞서고 있습니다.",
-   "title": "Anthropic's IPO plans run up against a battered Wall Street",
+   "category": "반도체 · 메모리",
+   "summary": "첨단 마이크로 디바이스 vs. 대만 반도체 제조: AI 매도는 투자자들이 2027년에 무시해서는 안 될 중요한 차이를 노출시키고 있습니다",
+   "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGgtTzd4WVd2bVRwUzNpLU9TU09TMWNzM2QzV1dPM01NeDhmMVV5ejlFTFkwLUx3RS04cVdrU3Q3WFdYbUFXUmNTZ0tYUF8yQjlMS1ZQcnZPTkdTSmhSYndyY0FlaE05VFpGQmRCVERaQjBlSEhNaVpSZWlVMVRqanJfLTNiUDhPVjFmUUo0Ul9FRzhhZGZsQjhKYXFIUlVBTWdERFBha0ttdExDeXBQaVVabU9YMFlTT0E?oc=5",
-   "published": "2026-11-06T04:21+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXlHaVI1LXdNcnFQcERxZHByZVRVa0FkQkN6SmRFWmI5NW5JamVlVVRFemN0S0NMSzRub3NzTDNGMl9VZXFXZG45aGhCRVh3SGZRMDEtZ2ZYNDhHREVYTVlvMFZoUnZzOFRQLVgwbno1WUoyN3JVbkdacDRJNkQtQXEyNUp1TW9Dc3VXaWZCWDhOTVlBbnZZRXBGUkxXdw?oc=5",
+   "published": "2026-11-06T05:20+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "업데이트: 나스닥은 교정 영역에 진입하고, 다우(Dow)는 거대 기술 기업의 대패 속에서 선거 후 랠리를 지웠습니다.",
-   "title": "Update: Nasdaq Enters Correction Territory, Dow Erases Post-Election Rally Amid Big-Tech Rout",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3BvZ2tjQXRlX3ZYb2p2bVNQbko5dEtfdnpKcEYxRm5VN011X3Q5VXY4WjhRMmQ3OFQzRGFvanVfUnBBSFdmajNPcjdVYV91M1c0VFZoU05IbmpFeGY5bkRxbWp5clZGLUJyb3Z1LTVBYklkTkdHSldnZFh4Ty1HYVE5VEFnRk5RREdHNkJfRGlkVHdwbWtZRXBRb0dyTWlENjhmUmNR?oc=5",
-   "published": "2026-11-06T04:19+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.44,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 3.03,
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -2.24,
      "asOf": "2026-11-04"
     }
    ]
@@ -194,33 +207,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -3.17,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron과 Sandisk의 가치 평가 배수는 칩 주식이 무너지면서 믿을 수 없을 정도로 높습니다.",
-   "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1N2S0FERTlhZGdOdnNsT1M1NjRmTnhZY3ZGX2V0Z3RjX1ZCT0pUNkt4Z2FGRy1RUEhlRzZSVE1kMUxpSU4zOXFhRE50SERZZnhjZUR2NUlXNlZaN3dST2tzMjFOcmdYWm1mUjJOazFTUUJ5dXdEYW5DanBDZENRakdmREJual9PVnB6QlFpbXB3S25QRkkyM1VuamQ1ODRTMktVZS0tYnQ1Z3VlenZvVTRrRUV4anlNVXpTdXp0MzctQ25RLV9lQ2htWF9wckl0V2F1UHB3?oc=5",
-   "published": "2026-11-06T03:05+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -7.91,
      "asOf": "2026-11-04"
     }
    ]
