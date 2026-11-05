@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-05T23:31:41+09:00",
+ "updatedAt": "2026-11-06T00:02:01+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Jim Cramer가 목요일 주식 시장에서 주목해야 할 10가지 항목",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmkxLUNpek1zS296NTdXbFIxa2tiMFpjOWFpNDN4ajl0WTRjRlJ4bUh6OWlLX3RRNkh1ekkyUFZpUUtNME96U29kMl93NjEwR0tKZGNLR1A4SElBYTlEdmNZdlp6YnViWWJUV0xRYzZBcWYtSENvQ3FodjdfOXhnNzlJWUlBN09KdnpjXzdhZ01keVUydWZYdmpWWVdlTDVMeXlfcUVBUmNvWllBWkNxQ3ZlWDA?oc=5",
-   "published": "2026-11-05T23:26+09:00",
+   "summary": "월스트리트의 \"AI를 제외한 모든 것\" 집회는 워싱턴으로부터 두 번째 바람을 맞았습니다.",
+   "title": "Wall Street’s “everything but AI” rally just got a second wind from Washington",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFVFOS1LLXZIZ1UtQmh5UFFRODg3R1NIWDVxNkx3UTIzZUp5SWJRU2ZySlRZS0NXS09pVkx0S3Bhbk9FbE5QWGVxSjJta0h0SHBJZ2w4VVNfZnJVRGMzZjE0aHYyMkJXSUVJN1BZN3BIZUtURkhGVjdDUUx2QjVSUVp2c1ZLU01rdkNHZUk4b3RmNmRnVW5GNDlzY01HMWUzbjFpTWxmU2JfNU1HUC1PNW9pT3AwX3QxTkZBUEhsZ2duWFhjeG9keQ?oc=5",
+   "published": "2026-11-05T23:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트의 \"AI를 제외한 모든 것\" 집회는 워싱턴으로부터 두 번째 바람을 맞았습니다.",
-   "title": "Wall Street’s “everything but AI” rally just got a second wind from Washington",
+   "summary": "Unisys, The Wall Street Journal의 2026년 미국에서 가장 사랑받는 직장 100곳에 선정",
+   "title": "Unisys Named to The Wall Street Journal's 2026 America's Top 100 Most Loved Workplaces®",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXZnOFJ4aHpWZkgxWFRMTEJTNVZHTjlYZFdzSThaN3RIWWctVzlscFpQekdPbTVubzlFSVcwTlg0eHhNcmItWTJHVGpVd25GVFVTOVQ4Sk1aeEFyNkw5WUE5MUJmMEV2eTRDUm14S1piUWY0eDByNThFa2xPZThmaFZsUjhCTTZVRVd2Nzc4OC1ITTJkS3g3RFRNRTZBX0lZNzFjVUZTWWtrQ01ZbkFKbGFuR0w0NnJWSURNN2dYWXB3bVFCR2dYcFgycnU?oc=5",
-   "published": "2026-11-05T23:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGhlWGxkZHNCcVJDZHZBdTNwYVlxekRLdlM1RzkyU0xiME9CSXB6N09relN2Q3lmNEZKS3NQNGhNUEtPNW11RkFEZml0bDBlZHhheUx5Z01SMzlGbDFuZ3ZoWlY1TFZmdmhlUF9HN1d4UUgwSmt1NlNvTGMwRXpENTBhZkN6dDQwbDdISVUxV0ZpVFNVaE90TmVFSlNWUQ?oc=5",
+   "published": "2026-11-05T23:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer가 목요일 주식 시장에서 주목해야 할 10가지 항목",
+   "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmkxLUNpek1zS296NTdXbFIxa2tiMFpjOWFpNDN4ajl0WTRjRlJ4bUh6OWlLX3RRNkh1ekkyUFZpUUtNME96U29kMl93NjEwR0tKZGNLR1A4SElBYTlEdmNZdlp6YnViWWJUV0xRYzZBcWYtSENvQ3FodjdfOXhnNzlJWUlBN09KdnpjXzdhZ01keVUydWZYdmpWWVdlTDVMeXlfcUVBUmNvWllBWkNxQ3ZlWDA?oc=5",
+   "published": "2026-11-05T23:26+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,42 +87,40 @@
   },
   {
    "category": "미국 지수",
-   "summary": "힐튼 CEO 크리스 나세타(Chris Nassetta), 나스닥으로 이전: 회사의 미래를 위해 더 나은 곳",
-   "title": "Hilton CEO Chris Nassetta on move to Nasdaq: A better place to be for the future of our company",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmRNa2xOS2RyU3kxTXhkZGdpQ2wtLTNSeE8xdGVmZ1hmZ080cU1pcVo4Y1RoR2RTaWFBbXFrbDNYeUs1LUpUOXFET014VEU4RWJtMl9ULWtpbGZRUThoTW1CMlNWaUdrd0o0TzFGeUkyWktGOFNQWHRHNF9FTjNfR0RRX2F6X2dYenlrMWNLTm0tak5PZ0tXbkM2OFhzb2p5dEVySVl4cVU5bXN0bGdOc2h0LTUtaUlZbnlVRmlWVGsyV3dKVC1rSGxWY1o4ZWh6QXJV?oc=5",
-   "published": "2026-11-05T22:26+09:00",
+   "summary": "월스트리트 분석가들은 Citigroup(C)이 좋은 투자라고 생각합니다: 그렇습니까?",
+   "title": "Wall Street Analysts Think Citigroup (C) Is a Good Investment: Is It?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXZWOTdaYTJLd0lEdDJnZGdTVmVUcXBsMktCc0hxZU84NUxSS0FDWGI5dmNTcld4M29idXFCa3JkT0l3Tm1lVWJfSlJIVjhIdUxmajlSVEpuQzNsRDZteXY5Rk1KM2RiRWZEOE5Fb0VTVVI4V2dtQjJyeVBBRTh0VHJtTmJUSTdGdEJfdF9fTmlEZkZUaFEzZXZoeEJaMk5MNkVv?oc=5",
+   "published": "2026-11-05T22:30+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.44,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
      "asOf": "2026-11-04"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Palantir의 CEO는 월스트리트가 AI에 대해 듣고 싶어하지 않는 말을 말했습니다.",
-   "title": "Palantir’s CEO Just Said What Wall Street Doesn’t Want to Hear About AI",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 파트너, 놀라운 46% 매출 증가 기록",
+   "title": "Nvidia Partner Posts Stunning 46% Sales Jump",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUU04N0tQa01pZFcycEdha1dpd21BVHlYMGNJeEJCdzhBOXBWQ3pGci05RWpOcFNncjRTMzRkdk1sek9yRjN5c3NjVVhkekFJV3NUNDlpNVQzOEpLQmVFY1EzT1FDenVLOXlGWFc2YnY5NXVidzV0OU1fTGVnTDB0YTJ2b05DUFRtWlBYWVlGZF9HMUFKZGc?oc=5",
-   "published": "2026-11-05T21:47+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanAtbWVsTXlmcjJGRzVNcVFSVFFZZjVlT3RnWmtMYWE5S0pPN29rYkVEWUZnQ25QXzNnR3M2YnBtTEZvUUtSN0NZbnV1WmEwbTNTMXc1TnR5T3pKdldkY2U1SnNyRUYwNnJvVmt5dnJYdkxXQk51WUU3SWtkc0xGelVwVVhBOVFpdlJZbWtyVGR0WnF4Q2gxTWc3ZjM?oc=5",
+   "published": "2026-11-05T23:34+09:00",
    "holdings": [
-    "pltr",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "PLTR",
-     "name": "팔란티어",
-     "chgPct": -2.11,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.17,
      "asOf": "2026-11-04"
     }
    ]
@@ -188,27 +207,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU21LVW1WRUgwd05Fd1Mya0ptNjJRSlR0R2wxbjJQV05ncG82NlNLTUpkZjVjWElwdTZpRlh2ZWo4Y2NtY1BSTDZsUEFfb050OFBzVzdMMHBnUVZxMV8yeVRlTDhvdklhaGRkQ0RfbEJoNndzU3Z1LVpsUko1ZDRXRHlxcmVQZm1jSDhsZjFmaTI3WmNMRUtJdDBUWUs?oc=5",
    "published": "2026-11-05T21:37+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "귀하의 포트폴리오를 개선하기 위한 Micron Technology 및 2개의 AI 칩 주식",
-   "title": "Micron Technology And 2 AI Chip Stocks To Improve Your Portfolio",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVuYzRkUlNWSWc5TkhVSC1Udks0OVhZMkxRQWJjNl94WUVweHdDX0Vrc1psQ3JfSHRIYkFMRG5MeXEtbkNPUHo3S0dhc1QyOVFaS2dfV1ZiSnFwY0NxZDBiZEkxMnhQSFJLZ2dMWU1VODgycFB3QlROelljNXZJdnROYUx5SEQ2SFE4eU8xUlkzeVl3UlE?oc=5",
-   "published": "2026-11-05T21:14+09:00",
    "holdings": [
     "dram",
     "ram",
