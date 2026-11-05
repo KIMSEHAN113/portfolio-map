@@ -1,9 +1,30 @@
 {
- "updatedAt": "2026-11-06T00:02:01+09:00",
+ "updatedAt": "2026-11-06T00:31:56+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트의 \"AI를 제외한 모든 것\" 집회는 워싱턴으로부터 두 번째 바람을 맞았습니다.",
+   "summary": "Wall Street Is Being Asked to Take Part of SpaceX’s $40 Billion AI Bet",
+   "title": "Wall Street Is Being Asked to Take Part of SpaceX’s $40 Billion AI Bet",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjNVZ0szV21rMGk2THlDZXpTZ1RqSkFVUElkbE95cXl5UEpHeEtyaVJrNl9JejI0Y0lERGlmRFZTSTBCZWFPSzN1WksxcTNmcVNHSldlalozbEZEWmR1ZHVBRHBtb09qQXBvQ2x4d2hkS3piNmdqS0l0cGhrYmlXLXFQdTBUZTdZTTVwOFdJWHN6LUhxSjZJ?oc=5",
+   "published": "2026-11-06T00:03+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street’s “everything but AI” rally just got a second wind from Washington",
    "title": "Wall Street’s “everything but AI” rally just got a second wind from Washington",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFVFOS1LLXZIZ1UtQmh5UFFRODg3R1NIWDVxNkx3UTIzZUp5SWJRU2ZySlRZS0NXS09pVkx0S3Bhbk9FbE5QWGVxSjJta0h0SHBJZ2w4VVNfZnJVRGMzZjE0aHYyMkJXSUVJN1BZN3BIZUtURkhGVjdDUUx2QjVSUVp2c1ZLU01rdkNHZUk4b3RmNmRnVW5GNDlzY01HMWUzbjFpTWxmU2JfNU1HUC1PNW9pT3AwX3QxTkZBUEhsZ2duWFhjeG9keQ?oc=5",
@@ -24,7 +45,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Unisys, The Wall Street Journal의 2026년 미국에서 가장 사랑받는 직장 100곳에 선정",
+   "summary": "Unisys Named to The Wall Street Journal's 2026 America's Top 100 Most Loved Workplaces®",
    "title": "Unisys Named to The Wall Street Journal's 2026 America's Top 100 Most Loved Workplaces®",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGhlWGxkZHNCcVJDZHZBdTNwYVlxekRLdlM1RzkyU0xiME9CSXB6N09relN2Q3lmNEZKS3NQNGhNUEtPNW11RkFEZml0bDBlZHhheUx5Z01SMzlGbDFuZ3ZoWlY1TFZmdmhlUF9HN1d4UUgwSmt1NlNvTGMwRXpENTBhZkN6dDQwbDdISVUxV0ZpVFNVaE90TmVFSlNWUQ?oc=5",
@@ -45,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Jim Cramer가 목요일 주식 시장에서 주목해야 할 10가지 항목",
+   "summary": "Jim Cramer's top 10 things to watch in the stock market Thursday",
    "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmkxLUNpek1zS296NTdXbFIxa2tiMFpjOWFpNDN4ajl0WTRjRlJ4bUh6OWlLX3RRNkh1ekkyUFZpUUtNME96U29kMl93NjEwR0tKZGNLR1A4SElBYTlEdmNZdlp6YnViWWJUV0xRYzZBcWYtSENvQ3FodjdfOXhnNzlJWUlBN09KdnpjXzdhZ01keVUydWZYdmpWWVdlTDVMeXlfcUVBUmNvWllBWkNxQ3ZlWDA?oc=5",
@@ -66,68 +87,80 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘의 주식 시장: 돈이 AI 집주인에게 흘러가면서 AI 주식에서 벗어나는 순환이 증가합니다.",
-   "title": "Stock Market Today: Rotation Away From AI Stocks Increases as Money Flows to AI Landlords",
+   "summary": "US Stock Futures Mixed as Investors Assess Election Results and Await October Jobs Report: Dow Jones, S&P, Nasdaq, Wall Street",
+   "title": "US Stock Futures Mixed as Investors Assess Election Results and Await October Jobs Report: Dow Jones, S&P, Nasdaq, Wall Street",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDliUnk4cTZCM1JVenh6R3ZZV3hZNldGSHlNQ0VPek1kalQ5enRvMHVCNjk1TVdwbUU1NUhLTmE2bGthaXRGX1A4MU9wM1Y0bnhhWm42M1J3REx5RW5jQ3djcXZrSmRiNm85bFJIbThXU3hOZUxTbG4xMWhTX3lYS0tQWmtUbkQ3eFFJczZUVVB0X2RFLUQ4NXZQN3Rldw?oc=5",
-   "published": "2026-11-05T23:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NiZllqbTF2T0ZNcjE3X085cWZyZHB3VU56M1MxdXBXT1FBd1JwYVVOU0k3VEpKaFZwRjY3VlVUcTVaMVFJU2Z4REtMYlpSWE5NUlZodFA4QnBSa2c1V042aEFoV0NrdEhvekk3c2N0TlA2THVmaktHNFZqMTJwX1RXdnVvYnRFS0xFWmVGNGFGRFhrazFQWFIyZUVxQQ?oc=5",
+   "published": "2026-11-05T23:17+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.44,
      "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트 분석가들은 Citigroup(C)이 좋은 투자라고 생각합니다: 그렇습니까?",
-   "title": "Wall Street Analysts Think Citigroup (C) Is a Good Investment: Is It?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXZWOTdaYTJLd0lEdDJnZGdTVmVUcXBsMktCc0hxZU84NUxSS0FDWGI5dmNTcld4M29idXFCa3JkT0l3Tm1lVWJfSlJIVjhIdUxmajlSVEpuQzNsRDZteXY5Rk1KM2RiRWZEOE5Fb0VTVVI4V2dtQjJyeVBBRTh0VHJtTmJUSTdGdEJfdF9fTmlEZkZUaFEzZXZoeEJaMk5MNkVv?oc=5",
-   "published": "2026-11-05T22:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 3.03,
      "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 파트너, 놀라운 46% 매출 증가 기록",
-   "title": "Nvidia Partner Posts Stunning 46% Sales Jump",
+   "summary": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
+   "title": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanAtbWVsTXlmcjJGRzVNcVFSVFFZZjVlT3RnWmtMYWE5S0pPN29rYkVEWUZnQ25QXzNnR3M2YnBtTEZvUUtSN0NZbnV1WmEwbTNTMXc1TnR5T3pKdldkY2U1SnNyRUYwNnJvVmt5dnJYdkxXQk51WUU3SWtkc0xGelVwVVhBOVFpdlJZbWtyVGR0WnF4Q2gxTWc3ZjM?oc=5",
-   "published": "2026-11-05T23:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXFMYkpnZmtUS09fdXJBX0kwd01pcVRVX1A0dmVRWXVXTXJ4dmVkN0N4dHF3OGxNMzR1bTJOVUhmcWdGblBEZkZlSjNxU0p4X3doZG1BTlVUYTVhcTRTV1lZbWs5OTNMZUVzbzhzMWljTVlBQnNLaEV5V0syRkY1UHpRZTZZTm1uamxjVWs0bzNINlV4bWFZLTFYcXItUk1faWRiOVByR1AxTFpQSnFMRjlwWVJQOC13M2x0dGNfYVRSdDZpb2JpRg?oc=5",
+   "published": "2026-11-06T00:04+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.17,
+     "symbol": "TSLA",
+     "name": "테슬라",
+     "chgPct": -3.34,
      "asOf": "2026-11-04"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "국회의원의 AI 일시 중지 요청으로 메모리 라우팅이 확장됨에 따라 SanDisk 슬라이드 7%, Micron 및 Western Digital 하락 5%",
+   "summary": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+   "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
+   "published": "2026-11-05T23:42+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 1.01,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "SanDisk Slides 7%, Micron and Western Digital Fall 5% as Lawmaker’s Call for AI Pause Extends Memory Rout",
    "title": "SanDisk Slides 7%, Micron and Western Digital Fall 5% as Lawmaker’s Call for AI Pause Extends Memory Rout",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjliREhqUUd0V1diM0E5VEx2WlJYaGJTNGc4ODdpMjdTblhtaDJiRjZzYjFLZG1yYlRWV3JKNDRLbnFhZ3JWZ2RzVlBFSWtfUzludVhPN0hFemoybEF6Snc2QjMwbGNCanh1YTlMTUktYk9qMUd6U25PaDZZWjduUm40UE9rVUlUTTA4NW1uQ2NvR0dCeVBJeEdNaw?oc=5",
@@ -154,7 +187,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "지금 투자자들은 마이크론에 대해 얼마나 걱정해야 할까요?",
+   "summary": "How Worried Should Investors Be About Micron Right Now?",
    "title": "How Worried Should Investors Be About Micron Right Now?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEt5TnNCejd5OXZSbWw4NUxhNWVHdFZlS3JCOFRNYmI5ZndKeE9Vem00M1dZTG9yc1FCcXpqdGdCMkRfdXZZQks5MTl0NHN4OVZKVWtSOFA5Z3pVYjB0NUhReDNUYzhpRTlWdFFqcEt6UUxVdkRmMmZKOHhQdktvc3lQZFNvZXBHekhmMDkzWkJCcXAzY2lhZw?oc=5",
@@ -175,34 +208,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Qualcomm, Micron 및 Arm Holdings 주식이 하락하여 주요 칩 부문이 하락했습니다.",
-   "title": "Qualcomm, Micron, and Arm Holdings stocks sink, leading chip sector lower",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
-   "published": "2026-11-05T22:31+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "QCOM",
-     "name": "퀄컴",
-     "chgPct": 5.33,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "오늘 Micron 주식을 구매하면 인생 준비에 도움이 될 수 있습니까?",
+   "summary": "Could Buying Micron Stock Today Help Set You Up for Life?",
    "title": "Could Buying Micron Stock Today Help Set You Up for Life?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU21LVW1WRUgwd05Fd1Mya0ptNjJRSlR0R2wxbjJQV05ncG82NlNLTUpkZjVjWElwdTZpRlh2ZWo4Y2NtY1BSTDZsUEFfb050OFBzVzdMMHBnUVZxMV8yeVRlTDhvdklhaGRkQ0RfbEJoNndzU3Z1LVpsUko1ZDRXRHlxcmVQZm1jSDhsZjFmaTI3WmNMRUtJdDBUWUs?oc=5",
