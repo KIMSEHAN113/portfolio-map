@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-05T22:10:32+09:00",
+ "updatedAt": "2026-11-05T23:31:41+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "11월에 S&P 500을 3배 매수할 수 있는 3개 주식",
-   "title": "3 Stocks Yielding Triple the S&P 500 to Buy in November",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUs1Z0QxQlhPR0czaGpDd0s1X0k0RG9nb29qSkNXSUUydTBTc093aTJRaE96UkxnYzZLTjdsdnA1Snl4bHluOWMyN29nY0NUbkhZMUQycnlrb0d0UnFncGtpUkdZX1Q5aVNZYll4Z0JWVmUtdHRBQkg0MGNXSXJianpUNkNxbHpSQlpBazY5UXUxeEFCOUE?oc=5",
-   "published": "2026-11-05T21:50+09:00",
+   "summary": "Jim Cramer가 목요일 주식 시장에서 주목해야 할 10가지 항목",
+   "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmkxLUNpek1zS296NTdXbFIxa2tiMFpjOWFpNDN4ajl0WTRjRlJ4bUh6OWlLX3RRNkh1ekkyUFZpUUtNME96U29kMl93NjEwR0tKZGNLR1A4SElBYTlEdmNZdlp6YnViWWJUV0xRYzZBcWYtSENvQ3FodjdfOXhnNzlJWUlBN09KdnpjXzdhZ01keVUydWZYdmpWWVdlTDVMeXlfcUVBUmNvWllBWkNxQ3ZlWDA?oc=5",
+   "published": "2026-11-05T23:26+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -18,6 +18,69 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트의 \"AI를 제외한 모든 것\" 집회는 워싱턴으로부터 두 번째 바람을 맞았습니다.",
+   "title": "Wall Street’s “everything but AI” rally just got a second wind from Washington",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXZnOFJ4aHpWZkgxWFRMTEJTNVZHTjlYZFdzSThaN3RIWWctVzlscFpQekdPbTVubzlFSVcwTlg0eHhNcmItWTJHVGpVd25GVFVTOVQ4Sk1aeEFyNkw5WUE5MUJmMEV2eTRDUm14S1piUWY0eDByNThFa2xPZThmaFZsUjhCTTZVRVd2Nzc4OC1ITTJkS3g3RFRNRTZBX0lZNzFjVUZTWWtrQ01ZbkFKbGFuR0w0NnJWSURNN2dYWXB3bVFCR2dYcFgycnU?oc=5",
+   "published": "2026-11-05T23:20+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘의 주식 시장: 돈이 AI 집주인에게 흘러가면서 AI 주식에서 벗어나는 순환이 증가합니다.",
+   "title": "Stock Market Today: Rotation Away From AI Stocks Increases as Money Flows to AI Landlords",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDliUnk4cTZCM1JVenh6R3ZZV3hZNldGSHlNQ0VPek1kalQ5enRvMHVCNjk1TVdwbUU1NUhLTmE2bGthaXRGX1A4MU9wM1Y0bnhhWm42M1J3REx5RW5jQ3djcXZrSmRiNm85bFJIbThXU3hOZUxTbG4xMWhTX3lYS0tQWmtUbkQ3eFFJczZUVVB0X2RFLUQ4NXZQN3Rldw?oc=5",
+   "published": "2026-11-05T23:06+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.58,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "힐튼 CEO 크리스 나세타(Chris Nassetta), 나스닥으로 이전: 회사의 미래를 위해 더 나은 곳",
+   "title": "Hilton CEO Chris Nassetta on move to Nasdaq: A better place to be for the future of our company",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmRNa2xOS2RyU3kxTXhkZGdpQ2wtLTNSeE8xdGVmZ1hmZ080cU1pcVo4Y1RoR2RTaWFBbXFrbDNYeUs1LUpUOXFET014VEU4RWJtMl9ULWtpbGZRUThoTW1CMlNWaUdrd0o0TzFGeUkyWktGOFNQWHRHNF9FTjNfR0RRX2F6X2dYenlrMWNLTm0tak5PZ0tXbkM2OFhzb2p5dEVySVl4cVU5bXN0bGdOc2h0LTUtaUlZbnlVRmlWVGsyV3dKVC1rSGxWY1o4ZWh6QXJV?oc=5",
+   "published": "2026-11-05T22:26+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.44,
      "asOf": "2026-11-04"
     }
    ]
@@ -44,70 +107,76 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Charming Medical Limited는 나스닥 상장폐지 결정 통지서 접수를 발표했습니다.",
-   "title": "Charming Medical Limited Announces Receipt of Nasdaq Delisting Determination Notice.",
+   "category": "반도체 · 메모리",
+   "summary": "국회의원의 AI 일시 중지 요청으로 메모리 라우팅이 확장됨에 따라 SanDisk 슬라이드 7%, Micron 및 Western Digital 하락 5%",
+   "title": "SanDisk Slides 7%, Micron and Western Digital Fall 5% as Lawmaker’s Call for AI Pause Extends Memory Rout",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1l5QlMwVi1uVVRBUGJtVDU1VDhobW44alN5dFI3QVlPYTBIbzlGaHVXQThaQ2g2ZTJzZ00xN3pUS3JNcGl3VDJSV3QzYkNfM1NnWDZJVzVoNENPMzNUdkdCVS1vQTgxRnRxaks3cmdhLVZucEZZY2I1NmFlaWNBVEs4OUtlSVNfUHhsYnZBbGpxMkJ4NHA0RENhRlFZTEZXU3MzMTl0OTdtcW8?oc=5",
-   "published": "2026-11-05T21:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjliREhqUUd0V1diM0E5VEx2WlJYaGJTNGc4ODdpMjdTblhtaDJiRjZzYjFLZG1yYlRWV3JKNDRLbnFhZ3JWZ2RzVlBFSWtfUzludVhPN0hFemoybEF6Snc2QjMwbGNCanh1YTlMTUktYk9qMUd6U25PaDZZWjduUm40UE9rVUlUTTA4NW1uQ2NvR0dCeVBJeEdNaw?oc=5",
+   "published": "2026-11-05T22:47+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.44,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "The Wall Street Transcript에 Beamr 특집 게재; 2026년에는 약 50%의 수익 성장을 예상합니다.",
-   "title": "Beamr Featured in The Wall Street Transcript; Expects Approximately 50% Revenue Growth in 2026",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTRzcXFDSkt4X1hyR3ZrVnk0RkJRaDk4dUxmZGo5ZWNUTjVEYWVRNHlxX1BFckZLSWxER19QMFJubDFjUGlIWXVjM216UnNyeUVwb2VVWHVyUkJZU2hxOUkwci1Wc1drSkd4bFlsRlVEenBmUVllQlhlQnltU0hVS2duSXVSX0xSOVJ4ZnNVYw?oc=5",
-   "published": "2026-11-05T21:00+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.58,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "화요일에 Invesco NASDAQ 100 ETF(QQQM)에 NVIDIA와 Apple이 추가되었습니다.",
-   "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Tuesday",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFpZSXd0ZWlUWVpDbjl0M0ZMa1FGNjJMb0ltdFEwbS1RZWJNa0prbnBzM3lVNnVENTM2ZnBOcFpCS0hmc0dMUEFqYms3TGdjSFhpOUJrZnhHYUxJOUdRTHoyRHJ4UXhROHBheFBpYjV6UGFQZVg2WHdVVU5ONER5Y0VoYlZzTHl6emtnUUtaOGpQTDdJY0hV?oc=5",
-   "published": "2026-11-05T20:05+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.17,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -7.0,
      "asOf": "2026-11-04"
     },
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 5.31,
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -7.91,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "지금 투자자들은 마이크론에 대해 얼마나 걱정해야 할까요?",
+   "title": "How Worried Should Investors Be About Micron Right Now?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEt5TnNCejd5OXZSbWw4NUxhNWVHdFZlS3JCOFRNYmI5ZndKeE9Vem00M1dZTG9yc1FCcXpqdGdCMkRfdXZZQks5MTl0NHN4OVZKVWtSOFA5Z3pVYjB0NUhReDNUYzhpRTlWdFFqcEt6UUxVdkRmMmZKOHhQdktvc3lQZFNvZXBHekhmMDkzWkJCcXAzY2lhZw?oc=5",
+   "published": "2026-11-05T22:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Qualcomm, Micron 및 Arm Holdings 주식이 하락하여 주요 칩 부문이 하락했습니다.",
+   "title": "Qualcomm, Micron, and Arm Holdings stocks sink, leading chip sector lower",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
+   "published": "2026-11-05T22:31+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
+    },
+    {
+     "symbol": "QCOM",
+     "name": "퀄컴",
+     "chgPct": 5.33,
      "asOf": "2026-11-04"
     }
    ]
@@ -137,8 +206,8 @@
    "category": "반도체 · 메모리",
    "summary": "귀하의 포트폴리오를 개선하기 위한 Micron Technology 및 2개의 AI 칩 주식",
    "title": "Micron Technology And 2 AI Chip Stocks To Improve Your Portfolio",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjNHLUNFaE5CUnc4V3VlNmRaeklZNHRsaXV1X1NWSjZ4eEMtYmRKQVpuZmRaVDY5eTlFQW9VV3l0VjlIYTBTMlh0TC1PUTBSRTQxUWYyVXlCNjVRWENmcFBHakhqaDJTRW5pYkxzSEhDdkMxVFBJZWpibkZUaGJrb3hR?oc=5",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVuYzRkUlNWSWc5TkhVSC1Udks0OVhZMkxRQWJjNl94WUVweHdDX0Vrc1psQ3JfSHRIYkFMRG5MeXEtbkNPUHo3S0dhc1QyOVFaS2dfV1ZiSnFwY0NxZDBiZEkxMnhQSFJLZ2dMWU1VODgycFB3QlROelljNXZJdnROYUx5SEQ2SFE4eU8xUlkzeVl3UlE?oc=5",
    "published": "2026-11-05T21:14+09:00",
    "holdings": [
     "dram",
@@ -150,65 +219,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론은 7월 이후 처음으로 $800 아래로 마감했습니다.",
-   "title": "Micron Just Closed Below $800 for the First Time Since July",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXhpUDJFazJpa0Uwal8zUDUtVWtPemNMMGNLWU1TMzZQdy1Lc1JKY0RGdkFTQ1ppc1BYMTFnbXVBcFlSOVR6N0p3aDZSdk1pWWFXRVhuRWJYM1hDNHFDUzdsQ3BpYXZYQi11aVVaUjFKTUt0eFdxWmQ0eW9Sd1dKdnZFd0ZNQ3J0LW1SaHNvMWpPZVZjaHVMYQ?oc=5",
-   "published": "2026-11-05T21:12+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "홍콩의 Nvidia 칩 비축량이 중국 수입 승인을 기다리고 있습니다.",
-   "title": "Nvidia chips stockpile in Hong Kong awaits China import approval - report",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWE10M0VGNk41RDVaRTlScUYzNFJ1dGFBWGNqSmk4T2kzNERUODB0bTdRNFhnRjZVMDY3aU0tMjJPRTNBd20xUkdWVk1adjVzdGhjVklyLXg2Q2JldjgtRG5nZEtnenRua21fSktNaGZDdUFJS215dTdYOE13TUVIbmt0ejM5Q1RhSldmOVl4ZVlrVmlqT21hYUtUMFc?oc=5",
-   "published": "2026-11-05T21:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.17,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 투자자들은 11월 17일에 주목해야 합니다",
-   "title": "Nvidia Investors Need to Be Paying Attention on Nov. 17",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXc4U19XbDRuZHV2Rm9IYzVEb0toT21CaF9PaGt6M3plYVlUczlvWGJKdjRRY2tfT2xZbmJ4bEgzd1BMWkhwRFExSENBTmNZUHBqV29hNjFqdWkyOEpabnZkS3ByRVlnSEVKSmpseFBKZnExeEFDUU1MQXZGcGo3M2VsYzJsc1FaSksyQTZ2Q2cwUXpZVE9CQWY5Qm1TTWt4MXVLNg?oc=5",
-   "published": "2026-11-05T21:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.17,
      "asOf": "2026-11-04"
     }
    ]
