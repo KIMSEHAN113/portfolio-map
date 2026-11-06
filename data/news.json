@@ -1,13 +1,72 @@
 {
- "updatedAt": "2026-11-06T09:31:50+09:00",
+ "updatedAt": "2026-11-06T10:01:54+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
+   "title": "Stocks plunge as election outcome and AI worries crush tech shares",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+   "published": "2026-11-06T09:50+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "비디오 AI 센터 둔화 우려로 인해 중간고사 상승세 이후 주식시장 급락",
+   "title": "Video AI center slowdown fears trigger stock market plunge after midterms upswing",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkpYb3N1WDZFVFY2UzVKd1l3c05YdFdham1HcnpxUldsaVBqeFZERENINUdhTW5XRWFpVm5lM2lLbi1ESE5vRldxdHlRR0xOUExUTUVpTFZhRDY2NVA2NGRjZF9yQWRuM0F3MkZtV3d2TEwwYXpiaUVKbHFKM2ZMRnA5eGxhcUJ2ckJsMTZDNUdMSUdLcHhv?oc=5",
+   "published": "2026-11-06T09:46+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "트럼프 \"주식시장 참패는 유권자들 스스로 탓해야\"",
    "title": "Trump says voters should blame themselves for stock market rout",
    "source": "Axios",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWnJhcjAxNy13VVJxMFNoWGZGRkJYcEVvV2dGU3VCNEVzNk9xMk0zeFVMeHZaZ3hhOXFzaURDZ3RLS0xoX0hTODlMcTlkaS1fQmRMbXEwdnlwTTFZV3BJaUdlaVV0TW5CTEFxUA?oc=5",
-   "published": "2026-11-06T09:30+09:00",
+   "published": "2026-11-06T09:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "트럼프, 주식시장 하락 원인 민주당 비난",
+   "title": "Trump Blames Dems For Causing The Stock Market To Drop",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnVoMDRLQjl4VmJvLXBuaWtqMXBXTm81czBLMEx2a2s3VUtyc1FyMVR6VV9IaUZ3TnFsNXFRazBNajlHdUw4SVJrVUVNc3I2S1FiVDlnUjZBUzJVd1ZrSEhlUzJXZXJZSTlnSjVRY0NrZWJvNWFfU1dobWxieTA5Tjh6UTNYRkk?oc=5",
+   "published": "2026-11-06T09:23+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -44,65 +103,21 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "AI로 인한 주식시장 붕괴 두려움",
-   "title": "Stock market meltdown over A.I. fears",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1lGSzRuQUFkSjR4b3pDR000bFlxaER3NWZ5Vkg2YzZNS1QxZWJIcTBPU0hOYS1iMmZyZUdEVVNVWXd1ZmxWN1NwbV9neXBvV0YyU3MwbnE3VGdfQWt4SzhjTFZJZ0IwTTdsTzNxOUFiN1VUZEdvMk80a0xKMEFkcXVMYW9lUkl5M2h2bkxFM0ozY08xVzU0?oc=5",
-   "published": "2026-11-06T08:47+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 자체 주식에 올인하지 않았다고 Jim Cramer는 말합니다.",
+   "title": "Nvidia has not gone all in when it comes to its own stock, says Jim Cramer",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGw2RTdrbTFfWXR3Nm5oajIyRkFpNzRhc0FhS2ZldENUQ0tuaTJFcGg0YzdKMHVOcVV6N1pLSHNnTU1sbThHYkhNblMtQnJCV1MybEpsVGtYdTZrQXZwbnd3Y2dsWVNhSV9BalNXdGRvV3hLWnNNSTNOQk05ZUtleHZ0MXFJOG8yZXVLcXJMY1VNQllpdE9zNjdfSDExU0VsRVU3cW0tMVNOMGUyR3BZNEdVMHo3TWc?oc=5",
+   "published": "2026-11-06T09:37+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "중기 블루 웨이브가 레드 월스트리트를 촉발한 이유",
-   "title": "Why the midterm blue wave just triggered a red Wall Street",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
-   "published": "2026-11-06T07:44+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식시장은 민주당의 중간 승리에 반응한다",
-   "title": "Stock market reacts to Democrats' midterm win",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1o3V3NTeDVFdlJmRVhjc2ZLQi1ULWY1cjJBYU1PRi05WDg3VzZYWkdUNnZqNHVKWnk0c0NNVUprNkpvZ25QMmktdmZCOVR6eFZ3Vi11dmJrcmR0MVJfQ0EtTGkwdmFXdXphLTQ2MGFTRFVUQmlTNzJ4Q012SFRNNkV3Z29IcE16VDFwM09fSmk?oc=5",
-   "published": "2026-11-06T07:42+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.17,
+     "asOf": "2026-11-04"
     }
    ]
   },
@@ -120,8 +135,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
+     "chgPct": -3.17,
+     "asOf": "2026-11-04"
     }
    ]
   },
@@ -139,8 +154,8 @@
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": -17.26,
-     "asOf": "2026-11-05"
+     "chgPct": 1.01,
+     "asOf": "2026-11-04"
     }
    ]
   },
@@ -160,8 +175,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -17.46,
-     "asOf": "2026-11-05"
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
     }
    ]
   },
@@ -181,33 +196,14 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -17.46,
-     "asOf": "2026-11-05"
+     "chgPct": -7.0,
+     "asOf": "2026-11-04"
     },
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": -17.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 주식에 대한 역사적으로 강세 신호가 나타남",
-   "title": "Historically Bullish Signal Emerges for Nvidia Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkJ3RjNSTGxkejhQRVRuWExhVEI5VVQ1NEphYmFBOFZlQ0V4bXhCQUw0LVV2OGRRcm91N1IwbGkyXzJnMG15aS1ZblJ4enZ2b0RFczAxclNiNXBQWUdfN21HLWNSQTdVOU01NjR5aDRSZFBTeHlTYkFCSnpiMGRCNloySXY5UmN2V0syVEEyMk41QThGdERVbFV5RzlFbVZ4ZDZ3ZnhXVmxQN1E?oc=5",
-   "published": "2026-11-06T04:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
+     "chgPct": 1.01,
+     "asOf": "2026-11-04"
     }
    ]
   }
