@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-11-06T10:35:58+09:00",
+ "updatedAt": "2026-11-06T11:31:31+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
+   "title": "Stocks plunge as election outcome and AI worries crush tech shares",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+   "published": "2026-11-06T10:53+09:00",
+   "holdings": [],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Nasdaq Composite가 단일 세션 손실 기록을 깨뜨렸습니다. 이러한 엘리베이터 다운 움직임이 이제 막 시작되었을 수 있는 3가지 이유",
@@ -24,7 +41,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "트럼프, 중간 승리 후 증시 급락에 민주당 비난",
+   "summary": "트럼프는 중간 승리를 휩쓴 뒤 주식시장이 폭락한 데 대해 민주당을 비난했다",
    "title": "Trump blames Democrats for stock market plunge after sweeping midterm victories",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjlDVmJrZVN4NldmOHV1aGtFVGJSUGhGeERZNE1ZX0cyMUNiUk83V29FbEJ5UW0zS2FfemxQX3I5bXdMQnVlTDU3czhHa0dQOUNsVTA0NjdjTWtYWkNtUHpwcENXRXpLUFNDX2VONTdTTEZNcGFMX0hSbno2T1VySUI3U1JJVFpiUVhZblpNeE1jdmJvTW9ld2JSaTRvb2JGWjRtWllkLXdCcHhBVUZ2UlFB?oc=5",
@@ -72,7 +89,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥 매각으로 SK하이닉스, 삼성, 소프트뱅크, TSMC 하락으로 아시아 반도체주 강타",
+   "summary": "나스닥 매각으로 SK하이닉스, 삼성, 소프트뱅크, TSMC가 하락하면서 아시아 칩주 타격",
    "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
@@ -86,30 +103,13 @@
     {
      "symbol": "TSM",
      "name": "TSMC",
-     "chgPct": -2.24,
-     "asOf": "2026-11-04"
+     "chgPct": -10.78,
+     "asOf": "2026-11-05"
     },
     {
      "symbol": "000660.KS",
      "name": "SK하이닉스",
      "chgPct": -9.46,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
-   "title": "Stocks plunge as election outcome and AI worries crush tech shares",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
-   "published": "2026-11-06T09:50+09:00",
-   "holdings": [],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
      "asOf": "2026-11-05"
     }
    ]
@@ -128,8 +128,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.17,
-     "asOf": "2026-11-04"
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -147,8 +147,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.17,
-     "asOf": "2026-11-04"
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -166,8 +166,27 @@
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": 1.01,
-     "asOf": "2026-11-04"
+     "chgPct": -17.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아는 10월 기록 이후 거의 1조 4천억 달러의 손실을 입었습니다.",
+   "title": "Nvidia has lost nearly $1.4 trillion since its October record",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2NrRkNsOE94M2lLbzNWdWkwZWdyZmVNd2ZsTW0zcTNSWW4ySjBFeVJyaktrS0dtaWcxVC1keV9SLURsMkRKTnk1cklBUmxSRUM5TEFKci1TQlBWS01fNzFhUFR6LXdxVmRBdGduNzUtZi11dlE0alphdjRyQjEtdmFwR0Q2OWdMODFjdld3aTRzWmlDcGpVNHdEX0Zra2NFc09oc09Oamh3R3hlQ0Q1aHl1dGFVWk0?oc=5",
+   "published": "2026-11-06T06:42+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
     }
    ]
   },
@@ -187,35 +206,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Qualcomm, Micron, Sandisk 및 AMD 주가가 하락하여 주요 칩 부문 하락",
-   "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
-   "published": "2026-11-06T06:07+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -7.0,
-     "asOf": "2026-11-04"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 1.01,
-     "asOf": "2026-11-04"
+     "chgPct": -17.46,
+     "asOf": "2026-11-05"
     }
    ]
   }
