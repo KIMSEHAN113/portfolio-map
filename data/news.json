@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-06T11:31:31+09:00",
+ "updatedAt": "2026-11-06T12:31:36+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "중기 블루 웨이브가 레드 월스트리트를 촉발한 이유",
+   "title": "Why the midterm blue wave just triggered a red Wall Street",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
+   "published": "2026-11-06T11:52+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "XPOF(Xponential Fitness) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "Xponential Fitness (XPOF) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlIzaUJ3WXpVLUdMSm50VWZSZ0tTcDhmWUNXb1ZwUW1PRHJEME1oV0VtSXBXcG5xWVVpNDJjZi1FeUFxYlNncUI0QXVsM1ZKWjhUMmh4cUhBemxnaEVXZnRVdFJ2VXd5ZnN1aFVYeDFuMFFIbXZBeWlZWks0b0w3bnpya3BhcTU0MjY4MmhySkVUa2hDd0VscWF2N3F6dG5kVlE?oc=5",
+   "published": "2026-11-06T11:44+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "AI 우려로 인해 월스트리트가 폭락한 후 아시아 벤치마크 하락",
+   "title": "Asian benchmarks decline after AI worries send Wall Street tumbling",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
+   "published": "2026-11-06T11:40+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
@@ -20,32 +83,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq Composite가 단일 세션 손실 기록을 깨뜨렸습니다. 이러한 엘리베이터 다운 움직임이 이제 막 시작되었을 수 있는 3가지 이유",
-   "title": "The Nasdaq Composite Just Shattered Its Single-Session Point-Loss Record: 3 Reasons These Elevator-Down Moves May Be Just Beginning",
+   "summary": "SiriusPoint(SPNT) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "SiriusPoint (SPNT) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVhDTFdKWUp4RUlIRi1CNlo1NjJneVJZR3l2bDJtUUxEdEVRWUVTMlhLTU1tMWZxMkhwYkY2bWpTYXNnRXpyNnRxc3V2dHpZb0psYVdBT2xzN0gwNVBhZE8yWUpESU53NTZlOWVsNkxKVUxLdlVWaE1IWEw1ei1IZWU0M0JZbldqNEFsMW55c2hMeTVLa0NOVGNoRjBocS1BbmZBeXdR?oc=5",
-   "published": "2026-11-06T10:26+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "트럼프는 중간 승리를 휩쓴 뒤 주식시장이 폭락한 데 대해 민주당을 비난했다",
-   "title": "Trump blames Democrats for stock market plunge after sweeping midterm victories",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjlDVmJrZVN4NldmOHV1aGtFVGJSUGhGeERZNE1ZX0cyMUNiUk83V29FbEJ5UW0zS2FfemxQX3I5bXdMQnVlTDU3czhHa0dQOUNsVTA0NjdjTWtYWkNtUHpwcENXRXpLUFNDX2VONTdTTEZNcGFMX0hSbno2T1VySUI3U1JJVFpiUVhZblpNeE1jdmJvTW9ld2JSaTRvb2JGWjRtWllkLXdCcHhBVUZ2UlFB?oc=5",
-   "published": "2026-11-06T10:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0lWNWFMNEFmZUxTTWp1NDZkUVl4WmZ4b1hVS3ZubUk1WUVDRm4wQkVmLVg1Zkl2YWtLZFQwQV9HTmxiZ1RBZXZPZC1oS2hTLVRhRTZHVXdKSmFBYXNaVzdlaXgtZ0U0N0ZkRUdZQmlsT2ozeFd2QVJLSE5UeW4tamJlWkk2bkhDN2hUa0V2bDhLcWtOZHFaNVJPYmd2Zw?oc=5",
+   "published": "2026-11-06T10:52+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -56,60 +98,6 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "투자자들이 AI 및 기술에서 물러나면서 S&P 500, 나스닥, 다우 선물 하락",
-   "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakszZDlYY0Z5ZXBoRUFISEVHWDQ1dFlyck05bUNJSzkyY3BGejk2QWZKZGdpeTJRVW9ZdVlxS01GZmpzUHhRTVZVN3k3RzY3R3FBekdITGxxOE41Nm5VRWN6RlhrdTI3Q3RsNmlzTk9na2QxZG5nTWQ2aDN4OWNtbFEzYUJJWng1TmVsUkg4OTJoejQ?oc=5",
-   "published": "2026-11-06T10:00+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥 매각으로 SK하이닉스, 삼성, 소프트뱅크, TSMC가 하락하면서 아시아 칩주 타격",
-   "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
-   "published": "2026-11-06T09:59+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -10.78,
-     "asOf": "2026-11-05"
-    },
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -9.46,
      "asOf": "2026-11-05"
     }
    ]
