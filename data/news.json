@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-06T07:43:22+09:00",
+ "updatedAt": "2026-11-06T09:31:50+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Why the stock market tumbled after the midterm surge",
-   "title": "Why the stock market tumbled after the midterm surge",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWFTRUU1VkZtZWV1emczdzJrNDBXWUt4OC1mVm00YUNOY2xReHIwMlNoZF9xbDNTQmJtcUM0aHhsMm01S051UFl5M2Q5U1d6bDUzdDhvQ2hMMl9MdS1ObkhscXhrcWM5aGpWNkhsN1ZuZlltWXVrRkRzTk1SOXVfd2RGVGZnNmZfNVpn?oc=5",
-   "published": "2026-11-06T07:05+09:00",
+   "summary": "트럼프 \"주식시장 참패는 유권자들 스스로 탓해야\"",
+   "title": "Trump says voters should blame themselves for stock market rout",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWnJhcjAxNy13VVJxMFNoWGZGRkJYcEVvV2dGU3VCNEVzNk9xMk0zeFVMeHZaZ3hhOXFzaURDZ3RLS0xoX0hTODlMcTlkaS1fQmRMbXEwdnlwTTFZV3BJaUdlaVV0TW5CTEFxUA?oc=5",
+   "published": "2026-11-06T09:30+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,32 +24,53 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq drops into correction territory — here’s what typically happens next",
-   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVRKV21sTjh2QThiTW10d21uVG1JbkEwZEY0aFAyUE9hbEtLTGxfcmF6bkp3Z3diRTk3TEw1emRLUFJkazdGdlN1UzFMTGxTWlNxNklsSDRBMWtjZGEzU1BjNGVVY29CdkRVQ3hXRkRidWppMmhqcEVPTjFRSXg1eXNOSXlxWWZ5bm1udF82ZkYxQWdJcW5oTjBDM1BNeUxSVHp0Tk5jNHNhb3dxS0HSAbMBQVVfeXFMTjN3TGI1ZmhDSmVMNlIyenNyTTQwcGZrTFpjWDRSanF3ZWhWQXB2RWpTdXFNYnE5enA0b1hocHVUU3NBNVdYRGNrRDhpcEt2Y3c5RWhjWk5MRHQ1c2FSaW9Zejd6eWpBMncwV1hpOGhSQ1lRWTRsenRoZzMyNXRnQm9sdlFYbDVGSTFFSThPRWhRc052VEk4VzdDYVdoTVdOYUVXRkp6aDA5aHFrVFRBNDlJdjQ?oc=5",
-   "published": "2026-11-06T06:57+09:00",
+   "summary": "AI에 대한 월스트리트의 우려가 커지고 있는 이유는 무엇입니까?",
+   "title": "What’s fueling Wall Street’s growing concerns about AI",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFuc3hJUXVOWlc2akZhd3NjNmRMcG5uZnhSYmpYb2JXTGdvUXcxa0x5X1prR2VCOVhiQ2hQNDlIdXdyWVNpNTlmbFdaODYyN3lKX3YxendiYTNUQnZXUlBmNlM2cXVDZENOaGpqWG1uWTZ0MVFQZWhIQzVyUkRDdlZfYWtNRUZBQzFsYV9CM0tDQdIBlwFBVV95cUxQM2ZFVXlOdXZBUlFVNXRHTEVxRW53UUpEYWRuSV9YNjFJNks4VFQtc0cySGc5Rk1UX1d4RVBkWkV6aGNiM2daNENYVFZ3c2lZdjB5OExuaUx4M1FlYWxsNndnT0FrWkVMeE91UTBPbFJYbU9lZE5UdUZ0eEJVLWowbzVhN2pTOW8wNjA4OTNIZi1Qa1J6Q0hZ?oc=5",
+   "published": "2026-11-06T08:53+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
      "asOf": "2026-11-05"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Why the midterm blue wave just triggered a red Wall Street",
+   "summary": "AI로 인한 주식시장 붕괴 두려움",
+   "title": "Stock market meltdown over A.I. fears",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1lGSzRuQUFkSjR4b3pDR000bFlxaER3NWZ5Vkg2YzZNS1QxZWJIcTBPU0hOYS1iMmZyZUdEVVNVWXd1ZmxWN1NwbV9neXBvV0YyU3MwbnE3VGdfQWt4SzhjTFZJZ0IwTTdsTzNxOUFiN1VUZEdvMk80a0xKMEFkcXVMYW9lUkl5M2h2bkxFM0ozY08xVzU0?oc=5",
+   "published": "2026-11-06T08:47+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "중기 블루 웨이브가 레드 월스트리트를 촉발한 이유",
    "title": "Why the midterm blue wave just triggered a red Wall Street",
    "source": "USA Today",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
-   "published": "2026-11-06T06:46+09:00",
+   "published": "2026-11-06T07:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Stocks slide as Wall Street's post-election rally fizzles",
-   "title": "Stocks slide as Wall Street's post-election rally fizzles",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1p2N1R5TjhrR1k3NUVsbzQycUFnODZIb1RCLVhXalpMWmdzOW9qdmhZZmQtR2Q3YU5ueGd0WkVMZFotNi1kdG9XY1Zrd3V6Y21VTHdlRTBvS0hnOEhhdWh0Xy1JRWYzMVQyRGp1Nm5fQnZLMWtCbEM1X3ZsZFkyQzI4Z3RaSW1JaDFxaGpVbTBTVjg1bURHMEtJMWtRaC0wUWE4dDJn?oc=5",
-   "published": "2026-11-06T06:42+09:00",
+   "summary": "주식시장은 민주당의 중간 승리에 반응한다",
+   "title": "Stock market reacts to Democrats' midterm win",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1o3V3NTeDVFdlJmRVhjc2ZLQi1ULWY1cjJBYU1PRi05WDg3VzZYWkdUNnZqNHVKWnk0c0NNVUprNkpvZ25QMmktdmZCOVR6eFZ3Vi11dmJrcmR0MVJfQ0EtTGkwdmFXdXphLTQ2MGFTRFVUQmlTNzJ4Q012SFRNNkV3Z29IcE16VDFwM09fSmk?oc=5",
+   "published": "2026-11-06T07:42+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -81,34 +102,51 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-   "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTk3NXpmbE1wWUNkNmFyUUtpeUhBYVNjT2tOY1hhRHJBTG1kOUlpRy16UGRRV1hDM25pX2ItSlJMWl9wZXlLbEhTMUFoZnEzcFdSamJjeGlrZElqZUpmM2R1U1VoWFlCRkxDRzNzcGN6ODJIcEZGSDJxWmoxNl9sX2ktRU9EQjNMWEJRZUhLdDhRME04RVd4SFRMRDB3SHJYOUxqazFB?oc=5",
-   "published": "2026-11-06T06:39+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
      "asOf": "2026-11-05"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron stock sinks 17% as chip sector crashes",
+   "summary": "엔비디아 주식이 22% 폭락했습니다. Jim Cramer는 이것이 10년 만에 가장 저렴하다고 말합니다.",
+   "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5",
+   "published": "2026-11-06T09:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Cathie Wood는 방금 AMD 주식을 팔고 대신 이 AI 칩 주식을 구입했습니다.",
+   "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzlPMDNRaVkydC1jVXFmQV9kQ2U3a196MUhZYi1DOERvN05lSjZUQkhMRW1kR284TXlXb2g5a0laczV2VGszOHI1NVdwbDMzWkRhN3NZX1BKMG5FZkl6UUhScmc3dTVLWHFIR0pTQ0VxRENuSVllYTNCNFhzTTYtTV81SHhkbkNERWdzR0VmQVpkcXRm?oc=5",
+   "published": "2026-11-06T08:20+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -17.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "칩 부문 붕괴로 마이크론 주가 17% 하락",
    "title": "Micron stock sinks 17% as chip sector crashes",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZDb3VRSUh2cUtoWFVfbU83NFI2TGdiVzN3Ql95TTNuQkktVERweFVsYlRDcWhMUlQzaUVISTN0SjhHdGVQa1hUQUdPN0NxTGVRd1UyQzZ1eDN0dnpkRHdxT3lqLTQ5cFAxbW9udVFoMFhnRGpFRVl1NDVpN0J4Yi0yWkx6RWlpUmE1TlBtVFp2d000VnQ4ZXhxVlJEeDJja2c?oc=5",
@@ -129,49 +167,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
-   "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
+   "summary": "Qualcomm, Micron, Sandisk 및 AMD 주가가 하락하여 주요 칩 부문 하락",
+   "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXlHaVI1LXdNcnFQcERxZHByZVRVa0FkQkN6SmRFWmI5NW5JamVlVVRFemN0S0NMSzRub3NzTDNGMl9VZXFXZG45aGhCRVh3SGZRMDEtZ2ZYNDhHREVYTVlvMFZoUnZzOFRQLVgwbno1WUoyN3JVbkdacDRJNkQtQXEyNUp1TW9Dc3VXaWZCWDhOTVlBbnZZRXBGUkxXdw?oc=5",
-   "published": "2026-11-06T05:20+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -10.78,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Historically Bullish Signal Emerges for Nvidia Stock",
-   "title": "Historically Bullish Signal Emerges for Nvidia Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkJ3RjNSTGxkejhQRVRuWExhVEI5VVQ1NEphYmFBOFZlQ0V4bXhCQUw0LVV2OGRRcm91N1IwbGkyXzJnMG15aS1ZblJ4enZ2b0RFczAxclNiNXBQWUdfN21HLWNSQTdVOU01NjR5aDRSZFBTeHlTYkFCSnpiMGRCNloySXY5UmN2V0syVEEyMk41QThGdERVbFV5RzlFbVZ4ZDZ3ZnhXVmxQN1E?oc=5",
-   "published": "2026-11-06T04:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
-   "title": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNU9BNVNic2xZTEJwRE1yZ1I2cC1jUENraWpSQXRJMDI4X25VWG03OE9rMFBBdlRFdG9kS1k2WmotM1lGU3dQZWU0NUpDdW1DYUVLS3ExN3RzVkJTc0tMdUpVYWpITmxhWm5iWFlhN2UtNjNwTnJNemJNUXZPd0ozcFE3bjFEY2ZUR1lYQjFWb1ZQSW1aNVkw?oc=5",
-   "published": "2026-11-06T04:32+09:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
+   "published": "2026-11-06T06:07+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -183,16 +183,22 @@
      "name": "마이크론",
      "chgPct": -17.46,
      "asOf": "2026-11-05"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -17.26,
+     "asOf": "2026-11-05"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
-   "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlNDNjUyRFFuTExTQjVVbmp4Q3JGWk9iUjl1TkNfRk1BTjg2YlJhQjBKbFhUdmhyeGNlRTh4SGZzbDlvTjJkNHpBdkpWSm1zNkVPcjJKZFhnemJUNDlMVTV5V2Q4QTZrT1pZdUlmZFo2OVRyanR5MTRFR1F3UXlZczF6bkRUWk9HbFFUbQ?oc=5",
-   "published": "2026-11-06T03:45+09:00",
+   "summary": "Nvidia 주식에 대한 역사적으로 강세 신호가 나타남",
+   "title": "Historically Bullish Signal Emerges for Nvidia Stock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkJ3RjNSTGxkejhQRVRuWExhVEI5VVQ1NEphYmFBOFZlQ0V4bXhCQUw0LVV2OGRRcm91N1IwbGkyXzJnMG15aS1ZblJ4enZ2b0RFczAxclNiNXBQWUdfN21HLWNSQTdVOU01NjR5aDRSZFBTeHlTYkFCSnpiMGRCNloySXY5UmN2V0syVEEyMk41QThGdERVbFV5RzlFbVZ4ZDZ3ZnhXVmxQN1E?oc=5",
+   "published": "2026-11-06T04:37+09:00",
    "holdings": [
     "soxl"
    ],
