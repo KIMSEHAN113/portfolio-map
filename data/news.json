@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-11-07T00:01:31+09:00",
+ "updatedAt": "2026-11-07T07:42:17+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Stock Market Today (Nov. 6, 2026): S&P 500 edges higher following AI tech rout",
-   "title": "Stock Market Today (Nov. 6, 2026): S&P 500 edges higher following AI tech rout",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyeTlLeG1qZnZvcjdHc0JvUEpCd0xzMDhvdEtKRXFqakFzVEJTRl85MWpKQk1QYnp3dS03V3A2WXZXZVNCbkVlUU5hcmdzd1E2ZkhwZHFRTUp3UTNibnFTQ2w4T3FST1dzM19OVHExX0c2QnczSy1BdU9Sc1IwQQ?oc=5",
-   "published": "2026-11-06T23:48+09:00",
+   "summary": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
+   "published": "2026-11-07T07:25+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 11.04,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
+   "title": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOazhrVFFFNHZLMHAxQ0dBd0REVGROazhCZXFOTDcwUUlyaEQxa292RjZhUW5MLVBkbE9la0JabzM1cXBJaEw4VzRac25kMUtIOWZEN1pfX2JFX3Bicm8tOS1UNlRWa2lwaURjc2h5THJ6WFZiTlo2TDV0cmNIZkdaVnpYSG02VG9YbUZ1RVRjMkhZQy1XZ0tVOFN2OTRvdw?oc=5",
+   "published": "2026-11-07T06:36+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,39 +38,60 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Oversold AI and chip stocks after the Nasdaq’s worst day since 2020",
-   "title": "Oversold AI and chip stocks after the Nasdaq’s worst day since 2020",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZEs3aGNLMEVybHVQSHBiWUtGVDlOeFl5S19VVHB4X0txd2ZTYXBRMWo5WGNFRmRRYkloM09vY1hYaFdUblRuN2VTT3o3UXBkejlxSzdtUDNkYmp1U2E2a2FkNXJueVJraldKYUhJUEU3N21zeDI2Sk53Y0FtS1FINmhGWWJ3UQ?oc=5",
-   "published": "2026-11-06T23:47+09:00",
+   "summary": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
+   "title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
+   "published": "2026-11-07T06:18+09:00",
    "holdings": [
-    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
+   "title": "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb05FSERVUnVGUGdra2FLU3Ffbjl3UkoyS0FRanB5NVI0aHVaN3REcHdDem9KSHZNZUo1NWVSMFFtZGxUeW5uRTNzWFJlUFZNNVZrc3o1bmFISnpMUzdLSVRSbFViSTY5aWRlT2NzckpWNG03NnNpNm9kWUVVR1pPN2k2anlBc0JRWElBNkRYdFRHbHp6UUZHVWVwTkR2dw?oc=5",
+   "published": "2026-11-07T06:15+09:00",
+   "holdings": [
     "kodex-nasdaq100",
-    "qqqm"
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
+     "chgPct": 1.09,
+     "asOf": "2026-11-06"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq opens higher as chip stocks attempt to recover from brutal losses",
-   "title": "Nasdaq opens higher as chip stocks attempt to recover from brutal losses",
+   "summary": "Nasdaq rallies as chip stocks recover from brutal losses",
+   "title": "Nasdaq rallies as chip stocks recover from brutal losses",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
-   "published": "2026-11-06T23:37+09:00",
+   "published": "2026-11-07T06:10+09:00",
    "holdings": [
     "soxl",
     "kodex-nasdaq100",
@@ -59,50 +101,73 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
+     "chgPct": 1.09,
+     "asOf": "2026-11-06"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Stock Market Today: Election Results Continue to Ease Market Fears",
-   "title": "Stock Market Today: Election Results Continue to Ease Market Fears",
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
+   "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5",
-   "published": "2026-11-06T23:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5",
+   "published": "2026-11-07T01:52+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street's push to trade AI compute hits Washington roadblock",
-   "title": "Wall Street's push to trade AI compute hits Washington roadblock",
+   "category": "반도체 · 메모리",
+   "summary": "TSMC rises on report of potential push into advanced memory for Nvidia",
+   "title": "TSMC rises on report of potential push into advanced memory for Nvidia",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVFTcUp0cVJoYWZsMkYxbnFzclJPQTJJd19ialN2RzFHLTlNZ1ZwNUgyai1qQng5Mjg5YU1sZjdMWVhSSlFjczAxQnVheU1SVHozQTcwTUx4dkZibTV2c2wyNjNtQXhGVVhYU3VtN0F2MVJIXy1tR2pnUmJra0lfRG42Sl9RT0hqNHF2MXlpNXhHTWdu?oc=5",
-   "published": "2026-11-06T23:25+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGNTQTdxUFhhMmJMcEpnNUcwdldseWVRTmIyREZtblRncFM3cld4Y2VISnRhWW9rVDdPVHMwaDNVVFNsRjZTZmxaRXZhcm1idmk0NGZPTjlwMHJCdWwxSTBidVh5Vy1ZTjlfeDNBUjQzSDQwV1kweUlJMDdVeV9IVnRteEVsRTBhNmVfUVBUT1FqamRSN1F4RGswdXU?oc=5",
+   "published": "2026-11-07T00:13+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    },
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": 6.33,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock oversold setup: Key levels after a 9% drop",
+   "title": "Nvidia stock oversold setup: Key levels after a 9% drop",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
+   "published": "2026-11-07T00:09+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
     }
    ]
   },
@@ -120,8 +185,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
     }
    ]
   },
@@ -139,79 +204,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
     },
     {
      "symbol": "AMD",
      "name": "AMD",
-     "chgPct": -17.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Chip Stocks Just Had Their Second-Worst Day on Record",
-   "title": "Chip Stocks Just Had Their Second-Worst Day on Record",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjN3TklsRnFEZ1F5MEpMSWtZY25VYkNyN1A3RGdaT29VWV9GaFJyeUZqQm5Dandlb1F6YnJfZFRqdWhlY1ZDdGd1NVIxTHBYYXNPVDJrS3hnSUt3VnNremJvUlg4S3lreFQ5NmJhUXVNcVZ2Q0ZzRE95X0I1MEhjNTNtTmdZa3I0UHViRko3WFQzd0NJNm1V?oc=5",
-   "published": "2026-11-06T23:02+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -12.15,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "17 November is a key update for Nvidia shares, but will it settle the AI argument?",
-   "title": "17 November is a key update for Nvidia shares, but will it settle the AI argument?",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWQ5dkpTdEVpZWsyZ0lOQU5xU3dsNV9Uc0dPaWQ2M0J0SklqUE5zejdFTWFKMHJYaDJ3XzlaNDgxcXBjZ1p1Z2NTYTVfZUZkNTZsZ2hWRWFjb1N1NnFBcFZKWTk5TnNBa1pRTUdXczlFRFNkM2cyeWVzamU0RkZpUWJNZHg?oc=5",
-   "published": "2026-11-06T21:15+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Proshares Trust (TQQQ) Adds Apple and Nvidia on Nov. 4",
-   "title": "Proshares Trust (TQQQ) Adds Apple and Nvidia on Nov. 4",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDNzXzdDZkRNVTl3ZW9RaW5zMEl0VVhZdjJOcVJ0alQ4bkxYZmR5U3FuWGd4LVJBY1Vtd3hPam1hdlJWVld3Y0NTUnpEMXhUdEpyN2psNkE1RDJxdF8td2NxNnlPMkdaTlFEamNyRGtrTWhVMXU4ZDZDUXJhMEJyU0syWFN2ckFyMjVuVVFmdmk5bzRyVWswcW5YOUw?oc=5",
-   "published": "2026-11-06T20:05+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.53,
-     "asOf": "2026-11-05"
+     "chgPct": 11.04,
+     "asOf": "2026-11-06"
     }
    ]
   }
