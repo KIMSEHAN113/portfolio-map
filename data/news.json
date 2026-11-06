@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-06T12:31:36+09:00",
+ "updatedAt": "2026-11-06T22:10:03+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "중기 블루 웨이브가 레드 월스트리트를 촉발한 이유",
-   "title": "Why the midterm blue wave just triggered a red Wall Street",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
-   "published": "2026-11-06T11:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "XPOF(Xponential Fitness) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "Xponential Fitness (XPOF) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "A Wall Street Mystery Seller Is Now Trying to Dump $500 Million of Data Center Loans",
+   "title": "A Wall Street Mystery Seller Is Now Trying to Dump $500 Million of Data Center Loans",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlIzaUJ3WXpVLUdMSm50VWZSZ0tTcDhmWUNXb1ZwUW1PRHJEME1oV0VtSXBXcG5xWVVpNDJjZi1FeUFxYlNncUI0QXVsM1ZKWjhUMmh4cUhBemxnaEVXZnRVdFJ2VXd5ZnN1aFVYeDFuMFFIbXZBeWlZWks0b0w3bnpya3BhcTU0MjY4MmhySkVUa2hDd0VscWF2N3F6dG5kVlE?oc=5",
-   "published": "2026-11-06T11:44+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjZYYllZRm1SLXlGNXlKd3c5T29VempvV1RnRVhYaVNUYi1RaGZzNEE5eU1XSjNNSmJEaDNKMmhWd2xoX0RaTURqVUdhVWRkd2tNZlhJLWxsRHozVVhKck1UellweG0wX2M3TThjLV9KTG9JQjg1Z3BWUkZneEVJYXczRUpGdDU5RXJSQThadFczS1lLVVJXVTdmUQ?oc=5",
+   "published": "2026-11-06T21:43+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,70 +24,148 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 우려로 인해 월스트리트가 폭락한 후 아시아 벤치마크 하락",
-   "title": "Asian benchmarks decline after AI worries send Wall Street tumbling",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
-   "published": "2026-11-06T11:40+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
-   "title": "Stocks plunge as election outcome and AI worries crush tech shares",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
-   "published": "2026-11-06T10:53+09:00",
-   "holdings": [],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "SiriusPoint(SPNT) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "SiriusPoint (SPNT) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0lWNWFMNEFmZUxTTWp1NDZkUVl4WmZ4b1hVS3ZubUk1WUVDRm4wQkVmLVg1Zkl2YWtLZFQwQV9HTmxiZ1RBZXZPZC1oS2hTLVRhRTZHVXdKSmFBYXNaVzdlaXgtZ0U0N0ZkRUdZQmlsT2ozeFd2QVJLSE5UeW4tamJlWkk2bkhDN2hUa0V2bDhLcWtOZHFaNVJPYmd2Zw?oc=5",
-   "published": "2026-11-06T10:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia는 자체 주식에 올인하지 않았다고 Jim Cramer는 말합니다.",
-   "title": "Nvidia has not gone all in when it comes to its own stock, says Jim Cramer",
+   "summary": "Morning Call Sheet: Wall Street sees buying opportunities amid tech selloff",
+   "title": "Morning Call Sheet: Wall Street sees buying opportunities amid tech selloff",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGw2RTdrbTFfWXR3Nm5oajIyRkFpNzRhc0FhS2ZldENUQ0tuaTJFcGg0YzdKMHVOcVV6N1pLSHNnTU1sbThHYkhNblMtQnJCV1MybEpsVGtYdTZrQXZwbnd3Y2dsWVNhSV9BalNXdGRvV3hLWnNNSTNOQk05ZUtleHZ0MXFJOG8yZXVLcXJMY1VNQllpdE9zNjdfSDExU0VsRVU3cW0tMVNOMGUyR3BZNEdVMHo3TWc?oc=5",
-   "published": "2026-11-06T09:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnVyZHBWeVFXeTU5eUcwUGpFUXpNRy1IRUZRNDg1RFZJLTRqbW1JbDUyQ2NGTEVjOW84VFVRSmdac3FqdTZwQlEyczh1WlppWjF6Skk0M3pkRGMyUVgyMkE3VnRuREcwRzd0ekdWX1Y3TzhNSURzT213blc4LUJCUFRPRTBmd0FlSHRDdkFqR2l2bkVWN2RqbXRKbjhVNjNPbUJlNTcwNGVmb0ZFQUdPOUdCWnpfU1Np?oc=5",
+   "published": "2026-11-06T21:29+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq futures rebound after worst rout in 19 months as AI stocks bounce",
+   "title": "Nasdaq futures rebound after worst rout in 19 months as AI stocks bounce",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWJkWmdwUFhtVFBuSTloZElka0M0ZkVKVjJyN2sxSXRXc0lSU1AwWFhQTXR0U0swc0ZMUi1EN29SZmQyQkswTktQa3IxWUw0bzBrUmhhSG9vOHE2RmpDWnRaVXlhNm5tN2haVmEwQ1BDTjI4WExpanR4U0tBY3pwcmFfeF9FenBVYlZUdUtEcVdldVA4T2ozVVBRVzgwX3dEWHFOcVFMdmFDbHhaQTRPbjNSQUlIQQ?oc=5",
+   "published": "2026-11-06T21:03+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
+   "title": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMGNQcTc5cHJhUjF6eHBQUGI1U0kzdHowYXd6YzRUNEhmblVreWlMdUFCVUxuMTAzUV9vVlltdXZsMGp5VjRkSGJUckJYSTc4NkU5NURhTzctczV1d3Q0aDdNRHppYlp4QmdvTVhjcEF0ZUVVbDMw0gF8QVVfeXFMUHVTY09YcXBVN0k4LUI2dzNXakV5Tm1neTBEcFJQaEs1WDB3LWE5aDZYYU5aQldnN0tVczBwVUI1Z05Tc0RyaDFSaHlSSUhlblM3LUliVUo3Mi1sRmExOW1TVkloN2FnOGdPN3ozdEx6UUVyWnM2Yml5SDZUMQ?oc=5",
+   "published": "2026-11-06T20:46+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What Invesco S&P 500 Equal Weight Tech (RSPT) Bought: Okta Leads on Wednesday",
+   "title": "What Invesco S&P 500 Equal Weight Tech (RSPT) Bought: Okta Leads on Wednesday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQU92bkM0QmZTSVF2UGpCd0EzSzFwTldjekpHVVpVV2NDcm5tVTBtakZWUlI1UzVPeE4tWmpQbUZfd0w1anFEUlhrU1VFZElMVWtYRnhZZjFpSGg3VjhYZDhyNnpvNDMyd0hFN0o4eTJEdDJGQVMtb3dYSzdIOE5TV0lPNnhwVUltWHNGU21mT3N3Q01EQkE?oc=5",
+   "published": "2026-11-06T20:06+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet.",
+   "title": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnFxQkVhemJOV3ZvbUdKVG11LXJBZ2xZUU9XTWY0cUttc2Jxbmk3cVYyR1RtYnQzRUxfaUF5MnpFT2Y2bFIxMnBncnE5SWdiUWVaVjhsbmRCQVFFRHhiMTRneUZLVk1SOVBVQWtGaFgzdHgxRkg5UkZTa2pNMk02ZGsyM3hpb1RJMzlYaTNGcl9xc1VnRzJvakFGekE?oc=5",
+   "published": "2026-11-06T20:20+09:00",
+   "holdings": [
+    "soxl",
+    "pltr"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
+    },
+    {
+     "symbol": "PLTR",
+     "name": "팔란티어",
+     "chgPct": -9.73,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Proshares Trust (TQQQ) Adds Apple and Nvidia on Nov. 4",
+   "title": "Proshares Trust (TQQQ) Adds Apple and Nvidia on Nov. 4",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDNzXzdDZkRNVTl3ZW9RaW5zMEl0VVhZdjJOcVJ0alQ4bkxYZmR5U3FuWGd4LVJBY1Vtd3hPam1hdlJWVld3Y0NTUnpEMXhUdEpyN2psNkE1RDJxdF8td2NxNnlPMkdaTlFEamNyRGtrTWhVMXU4ZDZDUXJhMEJyU0syWFN2ckFyMjVuVVFmdmk5bzRyVWswcW5YOUw?oc=5",
+   "published": "2026-11-06T20:05+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
+    },
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.53,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Eyes Surprise AI Data Center Deal With Apollo",
+   "title": "Nvidia Eyes Surprise AI Data Center Deal With Apollo",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMW1hQlNZcnlXZnI2YW1taElsZTBaN0NXTnhDRU9pT0huT3BWNU1la0xiazZVQVRVWmpnWTVfUXE5MUtuVUJsZVIxNkJSUVJIV0wwQkFqUWxKZUV4ZGd6Z3ROanZ1N05reXBoTHhtSVgzWlN0YTdoSWdzTG5ielNNQzR6VEhCTURnQW12dkw0M3BwQUxwd0dF?oc=5",
+   "published": "2026-11-06T19:44+09:00",
    "holdings": [
     "soxl"
    ],
@@ -123,68 +180,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주식이 22% 폭락했습니다. Jim Cramer는 이것이 10년 만에 가장 저렴하다고 말합니다.",
-   "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
+   "summary": "2 Reasons Micron Stock Could Be a Buy Right Now (and 1 Reason for Caution)",
+   "title": "2 Reasons Micron Stock Could Be a Buy Right Now (and 1 Reason for Caution)",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5",
-   "published": "2026-11-06T09:15+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Cathie Wood는 방금 AMD 주식을 팔고 대신 이 AI 칩 주식을 구입했습니다.",
-   "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzlPMDNRaVkydC1jVXFmQV9kQ2U3a196MUhZYi1DOERvN05lSjZUQkhMRW1kR284TXlXb2g5a0laczV2VGszOHI1NVdwbDMzWkRhN3NZX1BKMG5FZkl6UUhScmc3dTVLWHFIR0pTQ0VxRENuSVllYTNCNFhzTTYtTV81SHhkbkNERWdzR0VmQVpkcXRm?oc=5",
-   "published": "2026-11-06T08:20+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -17.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아는 10월 기록 이후 거의 1조 4천억 달러의 손실을 입었습니다.",
-   "title": "Nvidia has lost nearly $1.4 trillion since its October record",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2NrRkNsOE94M2lLbzNWdWkwZWdyZmVNd2ZsTW0zcTNSWW4ySjBFeVJyaktrS0dtaWcxVC1keV9SLURsMkRKTnk1cklBUmxSRUM5TEFKci1TQlBWS01fNzFhUFR6LXdxVmRBdGduNzUtZi11dlE0alphdjRyQjEtdmFwR0Q2OWdMODFjdld3aTRzWmlDcGpVNHdEX0Zra2NFc09oc09Oamh3R3hlQ0Q1aHl1dGFVWk0?oc=5",
-   "published": "2026-11-06T06:42+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "칩 부문 붕괴로 마이크론 주가 17% 하락",
-   "title": "Micron stock sinks 17% as chip sector crashes",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZDb3VRSUh2cUtoWFVfbU83NFI2TGdiVzN3Ql95TTNuQkktVERweFVsYlRDcWhMUlQzaUVISTN0SjhHdGVQa1hUQUdPN0NxTGVRd1UyQzZ1eDN0dnpkRHdxT3lqLTQ5cFAxbW9udVFoMFhnRGpFRVl1NDVpN0J4Yi0yWkx6RWlpUmE1TlBtVFp2d000VnQ4ZXhxVlJEeDJja2c?oc=5",
-   "published": "2026-11-06T06:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDJOOWZBTkUtN3VYRkpfei1ZUnNFd3pNNHlqNWpHTGllZkVsM1lVTHhoQXpVdjlDVGFJUFVLcEtFTkhFWmdYbl9TOHhZaWFtVlJjZ2dzZ1hndTNhTEJUREJfeFI5eHRZbkpCR3owamdLdlpKRnZrbVdyRldHVWtnMFB0aTdNNmlCQVNKUGJ2M1VzdENSWjFsWA?oc=5",
+   "published": "2026-11-06T19:40+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -195,6 +195,25 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -17.46,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Shares Suffer Worst Day Since January 2025 -- AI Fears Trigger $450 Billion Rout",
+   "title": "Nvidia Shares Suffer Worst Day Since January 2025 -- AI Fears Trigger $450 Billion Rout",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVZqNUhoeUtXS2hmM2lvZkl5SzRhOHhuLXdNY28yeWNVSEx2bS1vc0M5MWJ5dmtBS1VBd3dkdlVSd3hlaXZrM0psOTA5SGNaX2tYRmt2bjVXMGtxR0JRQzFKSXdtWjJieFNpZDNpLWpsemhlRFFfc1RxdzJuSEN6OUdNRkhKdlZwaGF6VmU4OExyLVBjZWlwOG5B?oc=5",
+   "published": "2026-11-06T19:40+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
      "asOf": "2026-11-05"
     }
    ]
