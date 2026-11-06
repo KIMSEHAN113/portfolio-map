@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-11-06T22:10:03+09:00",
+ "updatedAt": "2026-11-06T23:34:41+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "A Wall Street Mystery Seller Is Now Trying to Dump $500 Million of Data Center Loans",
-   "title": "A Wall Street Mystery Seller Is Now Trying to Dump $500 Million of Data Center Loans",
+   "summary": "Nvidia Isn’t the Only AI Stock That Could Surprise Wall Street in 2027",
+   "title": "Nvidia Isn’t the Only AI Stock That Could Surprise Wall Street in 2027",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjZYYllZRm1SLXlGNXlKd3c5T29VempvV1RnRVhYaVNUYi1RaGZzNEE5eU1XSjNNSmJEaDNKMmhWd2xoX0RaTURqVUdhVWRkd2tNZlhJLWxsRHozVVhKck1UellweG0wX2M3TThjLV9KTG9JQjg1Z3BWUkZneEVJYXczRUpGdDU5RXJSQThadFczS1lLVVJXVTdmUQ?oc=5",
-   "published": "2026-11-06T21:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMktpZTBTRWNNbUJDRWVmN2dyZWtoTDIwLTFEdVd4Xzc2OTJ3WFdCT0pjMUpabVlneklKcjZ3XzFwd2JRWlhvT2F1UHVOY3dzZVZ2cnRTRE5ha2VqVUJWUGdfUUtTSFVZeDY5aDI5LTRTZS1vRXVwck5wRlJiVW82TUlOYXN3NDBaMTlJUnlR?oc=5",
+   "published": "2026-11-06T23:03+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street's fear gauge may be flashing a buy sign",
+   "title": "Wall Street's fear gauge may be flashing a buy sign",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlmRkdvdk5UNDlYNXkyeGxDMW1xUVc5TkloVVlscGtUckR2Tl96TUVlX1BPU1R5ZnRjWVlUYzZ2SWtrQXpYdWZmRU93aUh2TVN3ZzFLeEdPRTdWS2ZWVXJVOUtOMERGTjVoaVIwSzl2Tm9GLTNWZGJGMk5CNENVMUxhWG13UmE0RTd1RWJmQknSAZYBQVVfeXFMUC1hanI0MHBwTnRwazgxcnZTV25qamRYeEtULU9sQWFORmlaRW9mbVlYaVQ2cFM0TWZ6ZXVzZkE4TkNfeUVPb2hGNm15TVphWFNVUGRMU2NXZ0xvZ1phUElmODJzT1NwUEg0ZXc4blZ2QUZVT2FUUnd3eTcwU2kzVGt2Yzd1aWZXUkNjdXRZeWI0bkdvaUFn?oc=5",
+   "published": "2026-11-06T23:02+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Morning Call Sheet: Wall Street sees buying opportunities amid tech selloff",
-   "title": "Morning Call Sheet: Wall Street sees buying opportunities amid tech selloff",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnVyZHBWeVFXeTU5eUcwUGpFUXpNRy1IRUZRNDg1RFZJLTRqbW1JbDUyQ2NGTEVjOW84VFVRSmdac3FqdTZwQlEyczh1WlppWjF6Skk0M3pkRGMyUVgyMkE3VnRuREcwRzd0ekdWX1Y3TzhNSURzT213blc4LUJCUFRPRTBmd0FlSHRDdkFqR2l2bkVWN2RqbXRKbjhVNjNPbUJlNTcwNGVmb0ZFQUdPOUdCWnpfU1Np?oc=5",
-   "published": "2026-11-06T21:29+09:00",
+   "summary": "3 Dividend Aristocrats Wall Street Analysts Like Most",
+   "title": "3 Dividend Aristocrats Wall Street Analysts Like Most",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTF0NkJUakxIX0I5ekE4Q2RzTjA2eWJJbkRlNHpmUHNKWlFLbkdDV3p1bkI3cVVqcVBRa1Frak52NjJib0JIYXFteUp5b2RBelJDVXhoY2FJZzNYYjd0MHpaTTZRNlJiaVM3RlpvQUVhWU0tMlJLUmR2MW1zejFTb3B0M0tIV3RUb3ZReFhKZmpWX0ktMThDbWJFS2lpemg1?oc=5",
+   "published": "2026-11-06T22:57+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq futures rebound after worst rout in 19 months as AI stocks bounce",
-   "title": "Nasdaq futures rebound after worst rout in 19 months as AI stocks bounce",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWJkWmdwUFhtVFBuSTloZElka0M0ZkVKVjJyN2sxSXRXc0lSU1AwWFhQTXR0U0swc0ZMUi1EN29SZmQyQkswTktQa3IxWUw0bzBrUmhhSG9vOHE2RmpDWnRaVXlhNm5tN2haVmEwQ1BDTjI4WExpanR4U0tBY3pwcmFfeF9FenBVYlZUdUtEcVdldVA4T2ozVVBRVzgwX3dEWHFOcVFMdmFDbHhaQTRPbjNSQUlIQQ?oc=5",
-   "published": "2026-11-06T21:03+09:00",
+   "summary": "NASDAQ faces historic $2.5T wipeout",
+   "title": "NASDAQ faces historic $2.5T wipeout",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mNkE0T2Y1bG4yZWZNNnFwZ1ZhMnJ0ZzgySUJ1QVZkQkJhTmhGemxCOGZVNXV4SWFXLV9XVVJMMlFjWFdJZlFybnBVUy1ZVVVHVHZJMWU1bDV3cDA?oc=5",
+   "published": "2026-11-06T22:55+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
-   "title": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMGNQcTc5cHJhUjF6eHBQUGI1U0kzdHowYXd6YzRUNEhmblVreWlMdUFCVUxuMTAzUV9vVlltdXZsMGp5VjRkSGJUckJYSTc4NkU5NURhTzctczV1d3Q0aDdNRHppYlp4QmdvTVhjcEF0ZUVVbDMw0gF8QVVfeXFMUHVTY09YcXBVN0k4LUI2dzNXakV5Tm1neTBEcFJQaEs1WDB3LWE5aDZYYU5aQldnN0tVczBwVUI1Z05Tc0RyaDFSaHlSSUhlblM3LUliVUo3Mi1sRmExOW1TVkloN2FnOGdPN3ozdEx6UUVyWnM2Yml5SDZUMQ?oc=5",
-   "published": "2026-11-06T20:46+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.52,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "What Invesco S&P 500 Equal Weight Tech (RSPT) Bought: Okta Leads on Wednesday",
-   "title": "What Invesco S&P 500 Equal Weight Tech (RSPT) Bought: Okta Leads on Wednesday",
+   "summary": "Airbnb's 19% revenue surge sends Wall Street a surprise",
+   "title": "Airbnb's 19% revenue surge sends Wall Street a surprise",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQU92bkM0QmZTSVF2UGpCd0EzSzFwTldjekpHVVpVV2NDcm5tVTBtakZWUlI1UzVPeE4tWmpQbUZfd0w1anFEUlhrU1VFZElMVWtYRnhZZjFpSGg3VjhYZDhyNnpvNDMyd0hFN0o4eTJEdDJGQVMtb3dYSzdIOE5TV0lPNnhwVUltWHNGU21mT3N3Q01EQkE?oc=5",
-   "published": "2026-11-06T20:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclNPaDdTbHZYZzJXRkJ6UnhIbTlJMXY2Q0p5ZlA5YUc5elR0d1A2dXhUVi1UYlA5WXlXcEVUS25xZGIyTVR1cVRqUDBkdVdTM2tzWmx5elJ5N3FvNkh6clMxMmRWcHBQWFd6Uk5sM2FKeDNNT2hwbWJNUnpnUXR2QTljYjZJaHNMY0FueEloaHpWa1J2VVpiX040SQ?oc=5",
+   "published": "2026-11-06T22:32+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,14 +108,13 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet.",
-   "title": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet.",
+   "summary": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
+   "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnFxQkVhemJOV3ZvbUdKVG11LXJBZ2xZUU9XTWY0cUttc2Jxbmk3cVYyR1RtYnQzRUxfaUF5MnpFT2Y2bFIxMnBncnE5SWdiUWVaVjhsbmRCQVFFRHhiMTRneUZLVk1SOVBVQWtGaFgzdHgxRkg5UkZTa2pNMk02ZGsyM3hpb1RJMzlYaTNGcl9xc1VnRzJvakFGekE?oc=5",
-   "published": "2026-11-06T20:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
+   "published": "2026-11-06T23:05+09:00",
    "holdings": [
-    "soxl",
-    "pltr"
+    "soxl"
    ],
    "moves": [
     {
@@ -125,9 +124,47 @@
      "asOf": "2026-11-05"
     },
     {
-     "symbol": "PLTR",
-     "name": "팔란티어",
-     "chgPct": -9.73,
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -17.26,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Chip Stocks Just Had Their Second-Worst Day on Record",
+   "title": "Chip Stocks Just Had Their Second-Worst Day on Record",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjN3TklsRnFEZ1F5MEpMSWtZY25VYkNyN1A3RGdaT29VWV9GaFJyeUZqQm5Dandlb1F6YnJfZFRqdWhlY1ZDdGd1NVIxTHBYYXNPVDJrS3hnSUt3VnNremJvUlg4S3lreFQ5NmJhUXVNcVZ2Q0ZzRE95X0I1MEhjNTNtTmdZa3I0UHViRko3WFQzd0NJNm1V?oc=5",
+   "published": "2026-11-06T23:02+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -12.15,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "17 November is a key update for Nvidia shares, but will it settle the AI argument?",
+   "title": "17 November is a key update for Nvidia shares, but will it settle the AI argument?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWQ5dkpTdEVpZWsyZ0lOQU5xU3dsNV9Uc0dPaWQ2M0J0SklqUE5zejdFTWFKMHJYaDJ3XzlaNDgxcXBjZ1p1Z2NTYTVfZUZkNTZsZ2hWRWFjb1N1NnFBcFZKWTk5TnNBa1pRTUdXczlFRFNkM2cyeWVzamU0RkZpUWJNZHg?oc=5",
+   "published": "2026-11-06T21:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
      "asOf": "2026-11-05"
     }
    ]
@@ -166,46 +203,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMW1hQlNZcnlXZnI2YW1taElsZTBaN0NXTnhDRU9pT0huT3BWNU1la0xiazZVQVRVWmpnWTVfUXE5MUtuVUJsZVIxNkJSUVJIV0wwQkFqUWxKZUV4ZGd6Z3ROanZ1N05reXBoTHhtSVgzWlN0YTdoSWdzTG5ielNNQzR6VEhCTURnQW12dkw0M3BwQUxwd0dF?oc=5",
    "published": "2026-11-06T19:44+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "2 Reasons Micron Stock Could Be a Buy Right Now (and 1 Reason for Caution)",
-   "title": "2 Reasons Micron Stock Could Be a Buy Right Now (and 1 Reason for Caution)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDJOOWZBTkUtN3VYRkpfei1ZUnNFd3pNNHlqNWpHTGllZkVsM1lVTHhoQXpVdjlDVGFJUFVLcEtFTkhFWmdYbl9TOHhZaWFtVlJjZ2dzZ1hndTNhTEJUREJfeFI5eHRZbkpCR3owamdLdlpKRnZrbVdyRldHVWtnMFB0aTdNNmlCQVNKUGJ2M1VzdENSWjFsWA?oc=5",
-   "published": "2026-11-06T19:40+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -17.46,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Shares Suffer Worst Day Since January 2025 -- AI Fears Trigger $450 Billion Rout",
-   "title": "Nvidia Shares Suffer Worst Day Since January 2025 -- AI Fears Trigger $450 Billion Rout",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVZqNUhoeUtXS2hmM2lvZkl5SzRhOHhuLXdNY28yeWNVSEx2bS1vc0M5MWJ5dmtBS1VBd3dkdlVSd3hlaXZrM0psOTA5SGNaX2tYRmt2bjVXMGtxR0JRQzFKSXdtWjJieFNpZDNpLWpsemhlRFFfc1RxdzJuSEN6OUdNRkhKdlZwaGF6VmU4OExyLVBjZWlwOG5B?oc=5",
-   "published": "2026-11-06T19:40+09:00",
    "holdings": [
     "soxl"
    ],
