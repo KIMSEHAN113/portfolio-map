@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-06T10:01:54+09:00",
+ "updatedAt": "2026-11-06T10:35:58+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq Composite가 단일 세션 손실 기록을 깨뜨렸습니다. 이러한 엘리베이터 다운 움직임이 이제 막 시작되었을 수 있는 3가지 이유",
+   "title": "The Nasdaq Composite Just Shattered Its Single-Session Point-Loss Record: 3 Reasons These Elevator-Down Moves May Be Just Beginning",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVhDTFdKWUp4RUlIRi1CNlo1NjJneVJZR3l2bDJtUUxEdEVRWUVTMlhLTU1tMWZxMkhwYkY2bWpTYXNnRXpyNnRxc3V2dHpZb0psYVdBT2xzN0gwNVBhZE8yWUpESU53NTZlOWVsNkxKVUxLdlVWaE1IWEw1ei1IZWU0M0JZbldqNEFsMW55c2hMeTVLa0NOVGNoRjBocS1BbmZBeXdR?oc=5",
+   "published": "2026-11-06T10:26+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "트럼프, 중간 승리 후 증시 급락에 민주당 비난",
+   "title": "Trump blames Democrats for stock market plunge after sweeping midterm victories",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjlDVmJrZVN4NldmOHV1aGtFVGJSUGhGeERZNE1ZX0cyMUNiUk83V29FbEJ5UW0zS2FfemxQX3I5bXdMQnVlTDU3czhHa0dQOUNsVTA0NjdjTWtYWkNtUHpwcENXRXpLUFNDX2VONTdTTEZNcGFMX0hSbno2T1VySUI3U1JJVFpiUVhZblpNeE1jdmJvTW9ld2JSaTRvb2JGWjRtWllkLXdCcHhBVUZ2UlFB?oc=5",
+   "published": "2026-11-06T10:09+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "투자자들이 AI 및 기술에서 물러나면서 S&P 500, 나스닥, 다우 선물 하락",
+   "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakszZDlYY0Z5ZXBoRUFISEVHWDQ1dFlyck05bUNJSzkyY3BGejk2QWZKZGdpeTJRVW9ZdVlxS01GZmpzUHhRTVZVN3k3RzY3R3FBekdITGxxOE41Nm5VRWN6RlhrdTI3Q3RsNmlzTk9na2QxZG5nTWQ2aDN4OWNtbFEzYUJJWng1TmVsUkg4OTJoejQ?oc=5",
+   "published": "2026-11-06T10:00+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "나스닥 매각으로 SK하이닉스, 삼성, 소프트뱅크, TSMC 하락으로 아시아 반도체주 강타",
+   "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
+   "published": "2026-11-06T09:59+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -2.24,
+     "asOf": "2026-11-04"
+    },
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -9.46,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "선거 결과로 주가 급락, AI 우려로 기술주 압도",
@@ -9,90 +105,6 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
    "published": "2026-11-06T09:50+09:00",
    "holdings": [],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "비디오 AI 센터 둔화 우려로 인해 중간고사 상승세 이후 주식시장 급락",
-   "title": "Video AI center slowdown fears trigger stock market plunge after midterms upswing",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkpYb3N1WDZFVFY2UzVKd1l3c05YdFdham1HcnpxUldsaVBqeFZERENINUdhTW5XRWFpVm5lM2lLbi1ESE5vRldxdHlRR0xOUExUTUVpTFZhRDY2NVA2NGRjZF9yQWRuM0F3MkZtV3d2TEwwYXpiaUVKbHFKM2ZMRnA5eGxhcUJ2ckJsMTZDNUdMSUdLcHhv?oc=5",
-   "published": "2026-11-06T09:46+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "트럼프 \"주식시장 참패는 유권자들 스스로 탓해야\"",
-   "title": "Trump says voters should blame themselves for stock market rout",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWnJhcjAxNy13VVJxMFNoWGZGRkJYcEVvV2dGU3VCNEVzNk9xMk0zeFVMeHZaZ3hhOXFzaURDZ3RLS0xoX0hTODlMcTlkaS1fQmRMbXEwdnlwTTFZV3BJaUdlaVV0TW5CTEFxUA?oc=5",
-   "published": "2026-11-06T09:33+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "트럼프, 주식시장 하락 원인 민주당 비난",
-   "title": "Trump Blames Dems For Causing The Stock Market To Drop",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnVoMDRLQjl4VmJvLXBuaWtqMXBXTm81czBLMEx2a2s3VUtyc1FyMVR6VV9IaUZ3TnFsNXFRazBNajlHdUw4SVJrVUVNc3I2S1FiVDlnUjZBUzJVd1ZrSEhlUzJXZXJZSTlnSjVRY0NrZWJvNWFfU1dobWxieTA5Tjh6UTNYRkk?oc=5",
-   "published": "2026-11-06T09:23+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI에 대한 월스트리트의 우려가 커지고 있는 이유는 무엇입니까?",
-   "title": "What’s fueling Wall Street’s growing concerns about AI",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFuc3hJUXVOWlc2akZhd3NjNmRMcG5uZnhSYmpYb2JXTGdvUXcxa0x5X1prR2VCOVhiQ2hQNDlIdXdyWVNpNTlmbFdaODYyN3lKX3YxendiYTNUQnZXUlBmNlM2cXVDZENOaGpqWG1uWTZ0MVFQZWhIQzVyUkRDdlZfYWtNRUZBQzFsYV9CM0tDQdIBlwFBVV95cUxQM2ZFVXlOdXZBUlFVNXRHTEVxRW53UUpEYWRuSV9YNjFJNks4VFQtc0cySGc5Rk1UX1d4RVBkWkV6aGNiM2daNENYVFZ3c2lZdjB5OExuaUx4M1FlYWxsNndnT0FrWkVMeE91UTBPbFJYbU9lZE5UdUZ0eEJVLWowbzVhN2pTOW8wNjA4OTNIZi1Qa1J6Q0hZ?oc=5",
-   "published": "2026-11-06T08:53+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
    "moves": [
     {
      "symbol": "^GSPC",
