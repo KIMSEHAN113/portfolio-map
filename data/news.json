@@ -1,80 +1,38 @@
 {
- "updatedAt": "2026-11-06T23:34:41+09:00",
+ "updatedAt": "2026-11-07T00:01:31+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Nvidia Isn’t the Only AI Stock That Could Surprise Wall Street in 2027",
-   "title": "Nvidia Isn’t the Only AI Stock That Could Surprise Wall Street in 2027",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMktpZTBTRWNNbUJDRWVmN2dyZWtoTDIwLTFEdVd4Xzc2OTJ3WFdCT0pjMUpabVlneklKcjZ3XzFwd2JRWlhvT2F1UHVOY3dzZVZ2cnRTRE5ha2VqVUJWUGdfUUtTSFVZeDY5aDI5LTRTZS1vRXVwck5wRlJiVW82TUlOYXN3NDBaMTlJUnlR?oc=5",
-   "published": "2026-11-06T23:03+09:00",
+   "summary": "Stock Market Today (Nov. 6, 2026): S&P 500 edges higher following AI tech rout",
+   "title": "Stock Market Today (Nov. 6, 2026): S&P 500 edges higher following AI tech rout",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyeTlLeG1qZnZvcjdHc0JvUEpCd0xzMDhvdEtKRXFqakFzVEJTRl85MWpKQk1QYnp3dS03V3A2WXZXZVNCbkVlUU5hcmdzd1E2ZkhwZHFRTUp3UTNibnFTQ2w4T3FST1dzM19OVHExX0c2QnczSy1BdU9Sc1IwQQ?oc=5",
+   "published": "2026-11-06T23:48+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Oversold AI and chip stocks after the Nasdaq’s worst day since 2020",
+   "title": "Oversold AI and chip stocks after the Nasdaq’s worst day since 2020",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZEs3aGNLMEVybHVQSHBiWUtGVDlOeFl5S19VVHB4X0txd2ZTYXBRMWo5WGNFRmRRYkloM09vY1hYaFdUblRuN2VTT3o3UXBkejlxSzdtUDNkYmp1U2E2a2FkNXJueVJraldKYUhJUEU3N21zeDI2Sk53Y0FtS1FINmhGWWJ3UQ?oc=5",
+   "published": "2026-11-06T23:47+09:00",
    "holdings": [
     "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street's fear gauge may be flashing a buy sign",
-   "title": "Wall Street's fear gauge may be flashing a buy sign",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlmRkdvdk5UNDlYNXkyeGxDMW1xUVc5TkloVVlscGtUckR2Tl96TUVlX1BPU1R5ZnRjWVlUYzZ2SWtrQXpYdWZmRU93aUh2TVN3ZzFLeEdPRTdWS2ZWVXJVOUtOMERGTjVoaVIwSzl2Tm9GLTNWZGJGMk5CNENVMUxhWG13UmE0RTd1RWJmQknSAZYBQVVfeXFMUC1hanI0MHBwTnRwazgxcnZTV25qamRYeEtULU9sQWFORmlaRW9mbVlYaVQ2cFM0TWZ6ZXVzZkE4TkNfeUVPb2hGNm15TVphWFNVUGRMU2NXZ0xvZ1phUElmODJzT1NwUEg0ZXc4blZ2QUZVT2FUUnd3eTcwU2kzVGt2Yzd1aWZXUkNjdXRZeWI0bkdvaUFn?oc=5",
-   "published": "2026-11-06T23:02+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "3 Dividend Aristocrats Wall Street Analysts Like Most",
-   "title": "3 Dividend Aristocrats Wall Street Analysts Like Most",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTF0NkJUakxIX0I5ekE4Q2RzTjA2eWJJbkRlNHpmUHNKWlFLbkdDV3p1bkI3cVVqcVBRa1Frak52NjJib0JIYXFteUp5b2RBelJDVXhoY2FJZzNYYjd0MHpaTTZRNlJiaVM3RlpvQUVhWU0tMlJLUmR2MW1zejFTb3B0M0tIV3RUb3ZReFhKZmpWX0ktMThDbWJFS2lpemg1?oc=5",
-   "published": "2026-11-06T22:57+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -4.36,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "NASDAQ faces historic $2.5T wipeout",
-   "title": "NASDAQ faces historic $2.5T wipeout",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mNkE0T2Y1bG4yZWZNNnFwZ1ZhMnJ0ZzgySUJ1QVZkQkJhTmhGemxCOGZVNXV4SWFXLV9XVVJMMlFjWFdJZlFybnBVUy1ZVVVHVHZJMWU1bDV3cDA?oc=5",
-   "published": "2026-11-06T22:55+09:00",
-   "holdings": [
     "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "qqqm"
    ],
    "moves": [
     {
@@ -87,11 +45,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Airbnb's 19% revenue surge sends Wall Street a surprise",
-   "title": "Airbnb's 19% revenue surge sends Wall Street a surprise",
+   "summary": "Nasdaq opens higher as chip stocks attempt to recover from brutal losses",
+   "title": "Nasdaq opens higher as chip stocks attempt to recover from brutal losses",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
+   "published": "2026-11-06T23:37+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.52,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today: Election Results Continue to Ease Market Fears",
+   "title": "Stock Market Today: Election Results Continue to Ease Market Fears",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclNPaDdTbHZYZzJXRkJ6UnhIbTlJMXY2Q0p5ZlA5YUc5elR0d1A2dXhUVi1UYlA5WXlXcEVUS25xZGIyTVR1cVRqUDBkdVdTM2tzWmx5elJ5N3FvNkh6clMxMmRWcHBQWFd6Uk5sM2FKeDNNT2hwbWJNUnpnUXR2QTljYjZJaHNMY0FueEloaHpWa1J2VVpiX040SQ?oc=5",
-   "published": "2026-11-06T22:32+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5",
+   "published": "2026-11-06T23:28+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -102,6 +81,46 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street's push to trade AI compute hits Washington roadblock",
+   "title": "Wall Street's push to trade AI compute hits Washington roadblock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVFTcUp0cVJoYWZsMkYxbnFzclJPQTJJd19ialN2RzFHLTlNZ1ZwNUgyai1qQng5Mjg5YU1sZjdMWVhSSlFjczAxQnVheU1SVHozQTcwTUx4dkZibTV2c2wyNjNtQXhGVVhYU3VtN0F2MVJIXy1tR2pnUmJra0lfRG42Sl9RT0hqNHF2MXlpNXhHTWdu?oc=5",
+   "published": "2026-11-06T23:25+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -4.36,
+     "asOf": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for Nvidia's Growth Runway?",
+   "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for Nvidia's Growth Runway?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkFyQ2dkdmp3Qm1MT3VCZ2FTOVlsNWRJNUtYbVU0R1lnZm1waWZmZjZ2NEplelFqR0p4S1Z5bkFJMTdTTmtIelR3MllsMWhSLWlTMWt4bkc2RW5fUXJxcWpZQjM4S2VGYVB6VzBHSVU2Z1lNbnBpX2xkS3lnaUdPWk5pY1VxMHpWVUh6MjF0SVh6SkItM1dPb2hR?oc=5",
+   "published": "2026-11-06T23:35+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -9.26,
      "asOf": "2026-11-05"
     }
    ]
@@ -192,25 +211,6 @@
      "symbol": "AAPL",
      "name": "애플",
      "chgPct": -1.53,
-     "asOf": "2026-11-05"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Eyes Surprise AI Data Center Deal With Apollo",
-   "title": "Nvidia Eyes Surprise AI Data Center Deal With Apollo",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMW1hQlNZcnlXZnI2YW1taElsZTBaN0NXTnhDRU9pT0huT3BWNU1la0xiazZVQVRVWmpnWTVfUXE5MUtuVUJsZVIxNkJSUVJIV0wwQkFqUWxKZUV4ZGd6Z3ROanZ1N05reXBoTHhtSVgzWlN0YTdoSWdzTG5ielNNQzR6VEhCTURnQW12dkw0M3BwQUxwd0dF?oc=5",
-   "published": "2026-11-06T19:44+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -9.26,
      "asOf": "2026-11-05"
     }
    ]
