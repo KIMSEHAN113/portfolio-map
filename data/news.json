@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-07T09:58:09+09:00",
+ "updatedAt": "2026-11-07T22:10:57+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "title": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "2017년 이후 처음으로 기술주가 S&P 500보다 저렴해졌습니다. 다음은 역사가 말하는 오늘의 차트입니다.",
+   "title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 — here's what history says comes next: Chart of the Day",
    "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSE92WGNVMi03clY0XzJ2c0RrSFZJQWJFRTRwZFRVMkV6eDRZck55V3hwbzNZMXFEeExkcFhHcFFrNlpPOF83eWFjYzhnX2RBYUUxcXlMdlVNdDJ0OWE4S1BQZWhJV1hFSkhpYk5sMS1HSG1ScmZSOTI4Vkx0X24yUGRvS1pGV0ZyMkZIcFBkQ0g2WFpubGZDOEJldks?oc=5",
-   "published": "2026-11-07T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMGgwZVVDcDYwYk5lcHdxU2d0X2J1Wm1Ic1BEX1pLR01PTlpYam1DSEJOa01jSkExUHVkVlRidEZ5RV94SE9KOEJyMEpEVmc5ajgxUDh5MmJpbXJCS0hHVDNHdGdSWHExd21lV0huZjhwY2hnZTQzZ1loaVRoRUtRRjl1OUFwRUtvbzRxTnZDYUFjZXRQXzZJWURzRkpLRmg2dWl1UlhxT2FpT0tkd0Z5SlpDck56Q2w1MU95M1FLeG9SR2Y4aGxra1pvbHViZVdBTjlYbno5WVNvNmRiWjVnQkxTeXMyRlROOUowd085aHQ3MldzWUwtWmY5clRwTUJLdERxYUlB?oc=5",
+   "published": "2026-11-07T22:01+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -15,20 +15,123 @@
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
      "asOf": "2026-11-06"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
-   "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
+   "summary": "AI 공포 속에 월스트리트가 기절하자 버크셔 주가 급등",
+   "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
+   "published": "2026-11-07T21:49+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "증시는 중간선거 이후 최악의 상황에 직면했다. 역사는 이런 일이 다음에 일어날 것이라고 말합니다.",
+   "title": "Stock Market Faces a Worst-Case Scenario After Midterm Elections. History Says This Will Happen Next.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1JEN0RQUFk0X2kzYTNTX3NqR0tWY3lXSThhZmNRVzExaU5pazlieXNfc25nT2xYanJGdlZFdy1UTExFdkhSWVNzTTlGWW9MNlpYUWFHUGFxZnJIcklpQm1VbzdsOUFXc1NLM0JTM1lEclR5MUlPLTRFZnc3eUwzcWw2bzU5cFVhVkM5aG5zZXZMZ1k?oc=5",
-   "published": "2026-11-07T07:56+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWdzUldWVXhHaTZSTmw1dnBJT3lpazFuYV9veURKQnpCTGJqQVRxQXNNbXp4b1Z0MmxCQVFYYWpDNl9ZTW9aTjlYNnRtbEdWaWNBYWNpTGxFdzBrVjVmRVdvSDhMZUZaNTJRRk1XdkdpSzFkSlpYQ0NSSnR5ZXJndmpNN2xZaEZCOVc3bEIta1V5UHJKNTFnVmhR?oc=5",
+   "published": "2026-11-07T19:32+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트의 공포지수가 하루 만에 11포인트 이상 상승했습니다. 버핏의 가장 유명한 법칙은 이제 욕심을 부릴 시간이 될 수도 있다는 것입니다. 다음은 향후 6개월 동안 시장이 역사적으로 이동한 위치입니다.",
+   "title": "Wall Street’s Fear Gauge Jumped More Than 11 Points In A Day. Buffett’s Most Famous Rule Says It Might Be Time To Get Greedy. Here’s Where The Market Has Historically Gone Over The Next 6 Months.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1VHRGF0VHNWNVJwQ2ptd3Z2by1QdTdtZTBMWjBHaHA0NXhmQUpYQzZBTnFKby1NMVoxNEVpYU1JNFpNLUdqNzYxNWwwQnpReXRubWxKSVhabUtsdDRFSnhEMWZyaDNWNmpWVXp1Zm5NaWlWTEgzenc5ZXA0WGpvMUdhWHJSVUV2N0RhOE9EbjBnelVkY3NCZjVndw?oc=5",
+   "published": "2026-11-07T19:22+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Palantir 주식 투자자들은 월스트리트 분석가로부터 좋은 소식을 받았습니다(힌트: 주가가 급등할 수 있음)",
+   "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDNlUWxZR283enZHVXdCV1BMYzllRzVZSWtoaEJfekdrU2ZOQjRuUVIxMkFfb2wwZnpoZjVkNjB4Skt1VGI4d2lScVhhcFdGcWRtYnh4ZHVRNWM1VnE3bEFRX3ZDbTB0T05LMFRBeFFHVDZKNmFzNGo4M05jN1pVbnZpcEw3dzdCU1lOSGRtNm9rRXRubWxGQ0hYSG1mUHM?oc=5",
+   "published": "2026-11-07T19:08+09:00",
+   "holdings": [
+    "pltr",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "PLTR",
+     "name": "팔란티어",
+     "chgPct": 3.48,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "초기 엘모스 반도체 구매자들이 본 것",
+   "title": "What Early Elmos Semiconductor Buyers Saw",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdk00RWRJVkQzZlpUR1V3RG1WXzlXX0stcF9WTlpqQ3ZQTkN3c0Jfc2ttYm1XSmVBdE9kekRHcE5UMFpFeFFwT083Z0U4WVJYWjVEQjhDRkN2aDhxYXdidk1vSTE1c2lDSVpoX3VMeWljaVYyalVOOFQ2RjV3amxobHprY1NxanZuZDEtZmFR?oc=5",
+   "published": "2026-11-07T21:11+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 3.51,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "도널드 트럼프 투자팀이 마이크론을 매각했다. 투자자가 돈을 따르기 전에 알아야 할 사항은 다음과 같습니다.",
+   "title": "Donald Trump's Investment Team Sold Micron. Here's What Investors Should Know Before Following the Money.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzJxNnFDY0pDeGktbW96ZVd0T2ZPeC1LbTg2eDUtbXlGWFN6Y3NrbnlWM3g1X0l6UG45d25sNzJSalJTYVlGdUdmamRrSzQzV2ZFYnVPVzZtS1prZVV5QlJnOUdpaFRzcTBwMUNSVnhabTZ1cnVlQWF1a1NRRFlyVDh1SVYxaG5sU2NKOHhKajh0dUhnYmNMNnVWU0t5TDJZ?oc=5",
+   "published": "2026-11-07T20:03+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -44,75 +147,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Nasdaq rallies as chip stocks recover from brutal losses",
-   "title": "Nasdaq rallies as chip stocks recover from brutal losses",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
-   "published": "2026-11-07T06:48+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
-   "title": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOazhrVFFFNHZLMHAxQ0dBd0REVGROazhCZXFOTDcwUUlyaEQxa292RjZhUW5MLVBkbE9la0JabzM1cXBJaEw4VzRac25kMUtIOWZEN1pfX2JFX3Bicm8tOS1UNlRWa2lwaURjc2h5THJ6WFZiTlo2TDV0cmNIZkdaVnpYSG02VG9YbUZ1RVRjMkhZQy1XZ0tVOFN2OTRvdw?oc=5",
-   "published": "2026-11-07T06:36+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
-   "title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
-   "published": "2026-11-07T06:18+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
-   "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
+   "summary": "Gary Marcus는 OpenAI가 'AI의 WeWork'가 될 수 있다고 경고하며 Nvidia는 그 대가를 치를 수도 있습니다",
+   "title": "Gary Marcus Warns OpenAI Could Become ‘WeWork Of AI’ — And Nvidia May Pay The Price",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5",
-   "published": "2026-11-07T01:52+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGs2WDRrWEV4TllpNHVBQktIUXp3WjVqZFBBb3liQThIcHFYbFNac3ZiLWVva3hIZjFrTjRWb0xFdFZ5dENPcjlnUVY4dW5CeVVfME1RQmZremdNWDVoQTVBekNldXJVT1NmaTB5TDlnNWdCN210V0U1N2ZqWHVhUkVtcUtvbG00bW9LbzhZZXE1cW93QzlhX01B?oc=5",
+   "published": "2026-11-07T18:54+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,11 +167,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "TSMC rises on report of potential push into advanced memory for Nvidia",
-   "title": "TSMC rises on report of potential push into advanced memory for Nvidia",
+   "summary": "122달러에 Nvidia 주식 1,000주를 구입한 은퇴자는 칩이 2020년 이후 최악의 날을 보내는 것을 방금 지켜보았습니다.",
+   "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGNTQTdxUFhhMmJMcEpnNUcwdldseWVRTmIyREZtblRncFM3cld4Y2VISnRhWW9rVDdPVHMwaDNVVFNsRjZTZmxaRXZhcm1idmk0NGZPTjlwMHJCdWwxSTBidVh5Vy1ZTjlfeDNBUjQzSDQwV1kweUlJMDdVeV9IVnRteEVsRTBhNmVfUVBUT1FqamRSN1F4RGswdXU?oc=5",
-   "published": "2026-11-07T00:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG5DVXUxWHBEcjNJUGxTVi16Z0d6QWcxaFJHdjBDQzZrbjRRZjlyc09TWkt4cWRtNUF1V2h2bUd0SFVUTWZUT3FCTm9TY0R2MVdxWkotNE90N0Zhajkwd2FWb2UwLWtFVDVWWE9Ec0J3TUg4dVU5MC1KcVJCb1h2ZkRQeGVWb2NnZW54eTZOMXBIYjNRZEsw?oc=5",
+   "published": "2026-11-07T14:22+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론 주식은 값비싼 캐치로 저렴한 가격 신호를 깜박입니다.",
+   "title": "Micron stock flashes bargain pricing signal with costly catch",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbS1hbnhGY1BNa2JSNXZPa01NREpNTklpQ1V2VXZwNVJFSGFLM3o3eElhdlJKN2VZdjZyaUFZNTYydUR1TGdtYUVETnAxaDM2MHFueXBmVUxfQkJaRUtvV0VDOHJLc01TM1RSdklQbnppTDc3cHJiV2J4Wk52aUswVUVKQkNzZ09Da2FSZVRhdXlGbE5yOUdQbDFqYlg4ZW0xTFA4?oc=5",
+   "published": "2026-11-07T11:53+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -139,74 +198,9 @@
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": 6.33,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia stock oversold setup: Key levels after a 9% drop",
-   "title": "Nvidia stock oversold setup: Key levels after a 9% drop",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
-   "published": "2026-11-07T00:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for Nvidia's Growth Runway?",
-   "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for Nvidia's Growth Runway?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkFyQ2dkdmp3Qm1MT3VCZ2FTOVlsNWRJNUtYbVU0R1lnZm1waWZmZjZ2NEplelFqR0p4S1Z5bkFJMTdTTmtIelR3MllsMWhSLWlTMWt4bkc2RW5fUXJxcWpZQjM4S2VGYVB6VzBHSVU2Z1lNbnBpX2xkS3lnaUdPWk5pY1VxMHpWVUh6MjF0SVh6SkItM1dPb2hR?oc=5",
-   "published": "2026-11-06T23:35+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
-   "title": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVJaUnhtTHZlUFRhUUdtOUwwWHB2TzBBTlo3d1pGZ3JMbnhLT1FmUHdMaHdXamEtS3pQcVBjTklVaVZvY0hFdXYyczh2anBySDVMbm1qNk03VGFjUFlwRWFfMGZKY2QzeUJBVzVKTG5ud0k5M3pmX3otOU81YklrcFM2QnVvblJ3bXA0Q2NORXhhbFRoZEZDaUl6V3lhRnM?oc=5",
-   "published": "2026-11-06T23:33+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.12,
      "asOf": "2026-11-06"
     }
    ]
