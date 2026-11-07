@@ -1,23 +1,65 @@
 {
- "updatedAt": "2026-11-07T07:42:17+09:00",
+ "updatedAt": "2026-11-07T09:58:09+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
-   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
-   "published": "2026-11-07T07:25+09:00",
+   "summary": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "title": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSE92WGNVMi03clY0XzJ2c0RrSFZJQWJFRTRwZFRVMkV6eDRZck55V3hwbzNZMXFEeExkcFhHcFFrNlpPOF83eWFjYzhnX2RBYUUxcXlMdlVNdDJ0OWE4S1BQZWhJV1hFSkhpYk5sMS1HSG1ScmZSOTI4Vkx0X24yUGRvS1pGV0ZyMkZIcFBkQ0g2WFpubGZDOEJldks?oc=5",
+   "published": "2026-11-07T08:00+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 11.04,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
+   "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1JEN0RQUFk0X2kzYTNTX3NqR0tWY3lXSThhZmNRVzExaU5pazlieXNfc25nT2xYanJGdlZFdy1UTExFdkhSWVNzTTlGWW9MNlpYUWFHUGFxZnJIcklpQm1VbzdsOUFXc1NLM0JTM1lEclR5MUlPLTRFZnc3eUwzcWw2bzU5cFVhVkM5aG5zZXZMZ1k?oc=5",
+   "published": "2026-11-07T07:56+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.12,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq rallies as chip stocks recover from brutal losses",
+   "title": "Nasdaq rallies as chip stocks recover from brutal losses",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
+   "published": "2026-11-07T06:48+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
      "asOf": "2026-11-06"
     }
    ]
@@ -60,48 +102,6 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
-   "title": "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb05FSERVUnVGUGdra2FLU3Ffbjl3UkoyS0FRanB5NVI0aHVaN3REcHdDem9KSHZNZUo1NWVSMFFtZGxUeW5uRTNzWFJlUFZNNVZrc3o1bmFISnpMUzdLSVRSbFViSTY5aWRlT2NzckpWNG03NnNpNm9kWUVVR1pPN2k2anlBc0JRWElBNkRYdFRHbHp6UUZHVWVwTkR2dw?oc=5",
-   "published": "2026-11-07T06:15+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq rallies as chip stocks recover from brutal losses",
-   "title": "Nasdaq rallies as chip stocks recover from brutal losses",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
-   "published": "2026-11-07T06:10+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
      "asOf": "2026-11-06"
     }
    ]
@@ -192,25 +192,21 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
-   "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
+   "summary": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
+   "title": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
-   "published": "2026-11-06T23:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVJaUnhtTHZlUFRhUUdtOUwwWHB2TzBBTlo3d1pGZ3JMbnhLT1FmUHdMaHdXamEtS3pQcVBjTklVaVZvY0hFdXYyczh2anBySDVMbm1qNk03VGFjUFlwRWFfMGZKY2QzeUJBVzVKTG5ud0k5M3pmX3otOU81YklrcFM2QnVvblJ3bXA0Q2NORXhhbFRoZEZDaUl6V3lhRnM?oc=5",
+   "published": "2026-11-06T23:33+09:00",
    "holdings": [
-    "soxl"
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 11.04,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
      "asOf": "2026-11-06"
     }
    ]
