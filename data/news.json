@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-11-08T22:10:57+09:00",
+ "updatedAt": "2026-11-09T07:42:53+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트 최고의 분석가들은 일관된 수입을 위해 이 3가지 배당주를 좋아합니다.",
-   "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+   "summary": "5 Best Materials Stocks to Invest In According to Wall Street Analysts",
+   "title": "5 Best Materials Stocks to Invest In According to Wall Street Analysts",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWlRLW5SQzlVTWt3djhxWWhneGdMYTNpbHBHdFRSd21GTWk2ZU5qUjkxYU1qNktrMi1aXzlNM2w5b1BGWG51a0lfaTN2UTNFbExOLUN0aGpIS0xLYXFHRi1uSlZ3bXNFNmZEeUJOVUtoVkM3Z2p5dzFKMzRNdjI1Nm15UkZHOTFHVVgwZVA5blVranNxa3pUVkpiQQ?oc=5",
+   "published": "2026-11-09T07:08+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Here are the 2 big things we're watching in the stock market in the week ahead",
+   "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZkel9TVC1yS29uNHFEYjBIVU9BaWYwM0RDRmcyLU9SS1BwZHhpQm10c2RBLUJQSkFGc1J5ajg1QzZtZXVuZnVjdThZdmxMY0daTDJ6MmZzSnBveXJTYXZqNEExMkRROGdmdDJIeEpiV2U5MFNDTTQ2QWZZdkRwRkYxWDdmcy1QOE5nRVFOWDZES3BrOC1OUWd3bW5xZm9MV3c?oc=5",
-   "published": "2026-11-08T20:47+09:00",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5",
+   "published": "2026-11-09T02:40+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500(^GSPC) 차트, 데이터 및 뉴스",
-   "title": "S&P 500 (^GSPC) charts, data and news",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvekNxWlJSRV94ZlRnYUs0OW9PX0ZFeVc0RVNiOFRQNWdyci1fQ1lUX2lVNC1aYzFXcUtMYzE0QkVUN0ZKREktX2RPc3UybEYwWW01M2Vn?oc=5",
-   "published": "2026-11-08T20:39+09:00",
+   "summary": "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
+   "title": "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5",
+   "published": "2026-11-09T02:01+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "도널드 트럼프는 중간선거 이후 자신이 '거부권자'가 될 것이라고 주장했지만 결과는 대통령과 월스트리트를 위태로운 상황에 빠뜨렸다",
-   "title": "Donald Trump Claims He'll Become \"Mr. Veto\" After Midterm Elections, but the Results Put the President and Wall Street in a Precarious Situation",
+   "summary": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
+   "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnMxLWhKQmNzS1lSajRpRXJjamlrMkg2VFFhLWFzc2c1dVBYTVRTUl9nT3Y3cXBNRWgwN2dBajJlaEhfLVZFd3lRX2RQN19yUnNQMXJzeGI2eTY4cUY0Vk4ybTRObmRZQzVpRTdIR2FjSTN1MkcyQ0Z4VzEwLUxvU0JPLTViT1I3aGk5OE5YR2NGMkMwLVBDb2JtLXo?oc=5",
-   "published": "2026-11-08T18:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5yY2lrUXdGQlBrSzU3d2tOWWp3eVpsbDctY0l1QmFocEN4ZEcwOTVlUHpTLUZmMkpfOGVucXptMENpbENGTFNHWE43MTFzN1hzOGx5X09WczRvRWJDblRRdUFsUmtNSGJ2c21qMUItNVF3WXdyUGt0WWs3TGhISWhqNzJGTXFMTlJnWnBLcGF6bWhoQi1Xbw?oc=5",
+   "published": "2026-11-09T01:47+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AGLT(Agility Robotics)가 나스닥 진입 후 철수했지만, 충분히 가치가 있나요?",
-   "title": "Agility Robotics (AGLT) Pulls Back After Nasdaq Entry, But Is It Fully Valued?",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkxna3llN3dnUlJFM1JxcVFLSFdoS3lNeFh1Q2xrQWdKOGJCS1JoYTYxMWN2dHA3SkczUksyT1NDTWxtb1IwVTV3T2dJSTItdG1wWFpieXhxVTlNWDExa21QUnpiVDQ2VWtlWW5KYnlYVTlCZkROVUlrV1RCcHRHRm9pX3hPN2ZZ?oc=5",
-   "published": "2026-11-08T17:10+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 Bristol Myers Squibb의 현금 지급기를 무시하고 있으며 이는 소득 투자자들에게 기회입니다",
-   "title": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
+   "summary": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
+   "title": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3NvcmVJeGJMMUdaRS16Z2RDR0NfNEEtS3FzTnlTLWdudVkxTFVYTVVXSERHazlMU0puTWUxSEIxRUxVMXByQ0VVT21uVFAwVkR2SWY2dWVIc3ptaklSZllBc1NaMWNGQUZrLVJ0TUM0WXVvSHFodjN1MGlBYXJRUDgyc1BFczJXcFNkYXFmM0lmdXRqZUZlNTlDMA?oc=5",
-   "published": "2026-11-08T05:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzdqeGlYbTlsaGJMcVI2eFRULVZ0aF9uUVN1REdSRVItcjE5QWRELWZjQUJCNEhMREtaVGFpc3JRdm5xVTlQZ2Q1ZGFTWGtVMm5McmowVkpRbEM4QjQxY3dNRzItSm1vcDlLMnRxUm9SVjB1eFdLY0pUa1MxczlKZ2RiUUk0RUd2M0tYcE12bnpsNkxVeEF0NlFR?oc=5",
+   "published": "2026-11-09T01:26+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,78 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "하원의원이 한 칩 스톡을 다른 칩 스톡으로 교환합니다: 움직임은 다음과 같습니다.",
-   "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
+   "summary": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUc4YlFjWDA5eVNWUHZlU0V5OEhzQVM4WUJlTmd1SkY3VnVZWXVTNHEzdXlSWkpPbXB1dkw3UE1QeHQ4RXB2bHJrZHZlb0dUeGRTUG10WFF1UXRGUlFUeDA1Q0R6M0Fqa2pCNVNqT2xNU0hibTJKQzJ6ZmRRWjlBbWsxZzMzd1lfZzNWVUtjYS02X1VkWHVidElJRlotZw?oc=5",
-   "published": "2026-11-08T19:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 3.51,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron 주식을 지금 매수할 수 있나요?",
-   "title": "Is Micron Stock a Buy Right Now?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjhSQVNPbEVlM0FyUGNjdUtiREpXcTZGd0N2OHNySlVtUl9aZTJ4dkJxVGIza3hWeFVMVzhleUdtWHMzREU0MzRzclduSTR4WVRJMnFtcklOME94V3l3MjJOamJuNlN3alB5SWtWRFBRSUNoaHFZSHRTNWUtSzZRS1paMjZ3d1NpSGVHanF3?oc=5",
-   "published": "2026-11-08T17:35+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.12,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론과 샌디스크가 메모리 시장을 선도하고 있다. 1 주식은 훨씬 더 큰 상승 여력을 가지고 있습니다.",
-   "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGVMRk9tTVZjMEtGbUNjdm9tbUYxSHFiWVpmMkYwWlFTMjRtU3BpdGUwZ29sNmh6TVhzMl8zT09OeWlhbEY2TUhMQ2czaVFWYkdoTzU4OHFuX3YxV1JLVXh5N2JRdU5IMXdGS2ZEalJHUnhtdlVpaUV5ZU9aNm9kQk1yR1hlTUt3ei1JNE43RWV1OHBjMHpjbmY1WmRUWmM?oc=5",
-   "published": "2026-11-08T02:50+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 5.12,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": 3.55,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "비트코인과 엔비디아는 2026년 레스토랑 체인 주식에 패할 것입니다",
-   "title": "Bitcoin and Nvidia are Losing to Restaurant Chain Stocks in 2026",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHFkeFhGa2dsSzkyNERjT2V1S1AteWdWeVhCR09nMjRWSjhqR0l6NGlBV3c3ZUhFOUpIdnpjRmNBV1NReVJFZzN6LWJ6U1dCd3hiZXNWdmh1eWhvelhWd2p4N1FKSmsxQkREWktLTFRPMVc5cnJrZjdDQy1mZWpIRk15dEktV2RiSU44LThTYmNUak9sTV81SE9VYkVjeW1QZEsyM3BR?oc=5",
-   "published": "2026-11-08T00:31+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkhVdEx4bnBnRUEtWjVCaEVodEppXzRzM1lxWlk3YVlfNVQzcHBPNVU4ajBsUzRKemQ5amRhd0liSF9Benl5UDhRV1NsOU93bGh3N3pDd2pldFREX200V285NV9PSWdZNVJJOElFbXVOU3ZlRmgxRVhaQm1sazBiOTJ3YlJnTUdQLWdvekc3Z3FPdVA2eTQ2TDNuZGpmekRv?oc=5",
+   "published": "2026-11-09T06:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -194,11 +127,68 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아, 5주 연속 적자 이후 시가총액 1조 3천억 달러 감소",
-   "title": "Nvidia Is Worth $1.3 Trillion Less After Its 5th Straight Losing Week",
+   "summary": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+   "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0VjdXljMXhqLTNjSG5KcHlTOWwxTkNLRFdTaFBqRmg2RjYwaEhFalhaOWVQb2ZicmRlbVBZVDNjMXlBY1A5V0lwUlBoN1QwWGdveml2MWJVb29aUy15T29yOGtvRDZrR1J5TE9Rb3NSUXJsRll1U3N4MkhEVW9WOFlCcEo0RFdod0R2T0xLZW4wU3Jy?oc=5",
-   "published": "2026-11-07T23:04+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0JhcmhxQ2JsYmpCM1l2MEt3OFc5Q3I5cGRvTWxRRjEwYUxPSVZ5T2xTNERZV0E4RnJhbl9uOTgtRWFBbnVDOERUX0Vob0VzZE9qUExsMHU1XzBIeHlBLTE3MFg1dmY5SXFiNjdEUUZ0dFhLTHRmc1ZCblpGdHkzNjduaFRiUnUtbE1uMF81dzNLMEplbERXX2Zn?oc=5",
+   "published": "2026-11-09T05:14+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Nvidia Stock Looks Like a Bargain Right Now",
+   "title": "Why Nvidia Stock Looks Like a Bargain Right Now",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0NBcUNnaGtIbGthQ2hxZnpYaFFYdElrV3BrLUNHTkp0N0UteEE5bTFsZFNUVmhfMHVCMDFEUEVNSDhfRFpBUEdCZml0VHIwZ3FDSy1aa3NGYUJPblplN2hicUU2S01fZUtLdjgySEhJZlBvb3dBV3BVRHk5R18zanFobWY2Z25rVXVnZDh0YTlpM2JyM2o2RGQybw?oc=5",
+   "published": "2026-11-09T02:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
+   "title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhJbGo5Z213RFlZOGstMFRLUW52OVk0NmF1NVl6TlJVbHlzay0tZm4zLVIySnNnSjM2SFduV2psMzk2M1YxVEtSWmpyZ3JCcVQ5MXZFX2ZrdlJkM0t0UDc2a1JvMi03R2xpbVJTeU9PcG5jNTlWVUR3Zi1YVlF6dXhDa2wzM0lOazh5anRyRmlJaTBodFcxUA?oc=5",
+   "published": "2026-11-09T01:08+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "House Republicans demand answers from Nvidia CEO over reported Chinese spy ties",
+   "title": "House Republicans demand answers from Nvidia CEO over reported Chinese spy ties",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdHU2NWRUaEQxQkZIaUh5RFBBMjgyZmxha0pLR3pDMHM5MGFTNHVnVDdncmQtbE9hVDh4ZDRrLVdHQnBxUFJEcEwtWHFUV1JtX0JFNjI0aWlsZXJDZUNxakR3UVJuQWhkbkRLMjliNGdrNWNVUjZxQVo2Zkttd0tFdzd0ZVlSUURWaE1SLVBqbXY3QkhDMHJnaVY2YWZCUFpRQ1ZoQ2pYRTdNdm1ROWNpRmFYTWdaNU3SAbwBQVVfeXFMUHpvcW5rWWtPMm5yRkgxZG0xRDFVTTRackx1ektwcEpLSmtwZ1ZkUHVrY2JHdGxReEJHdm52cl9LZDViQWpLbUZFUjZKbzAwUUhwOF9UMGVlSEY1dXd1dmNnVGxfeGstck9LTHdVd21DN0RQN1NrWFNkcFMzLWQ5X3VTSDFqRmxhZjdTcU84TnZmZE1uY25hYU9sQ0NKeXppUHFzVm9vS0ZhanZaenZHRk1mRXdqbWt6ZkF1MGY?oc=5",
+   "published": "2026-11-08T22:47+09:00",
    "holdings": [
     "soxl"
    ],
