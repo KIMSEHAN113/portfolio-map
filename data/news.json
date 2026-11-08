@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T07:42:48+09:00",
+ "updatedAt": "2026-11-08T09:43:03+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 Bristol Myers Squibb의 현금 지급기를 무시하고 있으며 이는 소득 투자자들에게 기회입니다",
+   "summary": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
    "title": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3NvcmVJeGJMMUdaRS16Z2RDR0NfNEEtS3FzTnlTLWdudVkxTFVYTVVXSERHazlMU0puTWUxSEIxRUxVMXByQ0VVT21uVFAwVkR2SWY2dWVIc3ptaklSZllBc1NaMWNGQUZrLVJ0TUM0WXVvSHFodjN1MGlBYXJRUDgyc1BFczJXcFNkYXFmM0lmdXRqZUZlNTlDMA?oc=5",
@@ -24,28 +24,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "중간 선거가 월스트리트를 단 24시간 만에 축하 행사에서 대혼란으로 몰아넣은 방법 / 이번 주",
-   "title": "How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTklhVlJaYnBBLW00MDBWejE4c0dvUFlMdUI3YWRDdUxnUFZVSFZuQzBUOU5xdTB3RFJoVS1IUjVaR2N5SXdaaU9sRXlvT1MtUWJRU09sano1NzhfanJXNzFJRFdBMzZNdjhYZkYtb1I3MmFiTGZqZUZaYi1henNsdGJKYzFtaFBfNHBRblpvMVU2dndoeEV5UDJBTC1fRy11aDE4aWNkaDVMQU9WNmRfR3JmM2k1N3k1WnRNaFl5VkpRU2twZmZMZl9FeXlxV25SVklGZEZWVQ?oc=5",
-   "published": "2026-11-08T03:33+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식시장은 중기 승리에 어떻게 반응하고 있는가",
+   "summary": "How the stock market is reacting to midterm victories",
    "title": "How the stock market is reacting to midterm victories",
    "source": "NBC News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXhSOXEyZC1xR1ZSRFU5eWt5RndOZFlqOWlPUWk5aUNtclBmVDVEQlRuWU12Y3JvUy1PbTl6LUIzOVV5NTJPeVlDN01Jb1k0YmQtWG5FdFpidDdhUWxmWGNqYk1ZSHZmZFpvcTVZaG9EdHB3TlVvVm1OeGdKS3BxRzFUdXhTM1lpQUl1clZLenlHZExrZVNBbnhCakMxVG9BdW9yUzhn?oc=5",
@@ -66,7 +45,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500의 2배를 산출하는 이 배당왕은 11월 매수로 보입니다.",
+   "summary": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
    "title": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTdMZmNRQXp2WDhsMXczeUFRYmlvLTh4V2dDWnpjN0U0eHc3dlVjb3FLTnpOZ1VpRTFGOXRxN1ZMV2djdEdJSVN2dng2RkxSY29iS0dUWUVDSHFVM2RJeG5kRnp4bnFneS1BMXc3R3hWM3pxZDc0Wnd4Yml0N253QXpnekNiYldmT1YtTzBpcUVVdFFfMUs4?oc=5",
@@ -87,7 +66,28 @@
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 2조 5천억 달러의 손실을 입었을 수도 있지만, 이 30% 경고는 AI 주식에 더 큰 문제가 될 수 있습니다.",
+   "summary": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+   "title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0NlYlM4eExtVlpYeFZLVmhvLVhlTThsSzBLMDl3d0tCVkVnM1pwNVRlZTRRdXNhNWlidzBMck0tTHZBSVVDVDVjSmZCLUJnUmpNZURwbFR3UXdhR0dmVzdDSVg1MGJpdXA1a2NrZlhSVk1QNzh3cENmU1YtYmYzaE1IN2tVZHlPZ2xSaUJn?oc=5",
+   "published": "2026-11-08T02:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
    "title": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGo1RE1JUUxacXdFR0xhRjE5ZzVWRWJHSEI5WnpqQWVQaGdSNmtkMUx3WGdqZVBkOHNmM0NJb0paUmR3TkZSSHRyZmxYVEZiam9NNWRWdllEY1ZFOHpCLS1iOVdTRC1FamVINkVTbjRXYnZlVzI5WHUyUjY4QUI1a0dfaGF6YndJc0dGb3hiUQ?oc=5",
@@ -108,7 +108,53 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아, 5주 연속 적자 이후 시가총액 1조 3천억 달러 감소",
+   "summary": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
+   "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGVMRk9tTVZjMEtGbUNjdm9tbUYxSHFiWVpmMkYwWlFTMjRtU3BpdGUwZ29sNmh6TVhzMl8zT09OeWlhbEY2TUhMQ2czaVFWYkdoTzU4OHFuX3YxV1JLVXh5N2JRdU5IMXdGS2ZEalJHUnhtdlVpaUV5ZU9aNm9kQk1yR1hlTUt3ei1JNE43RWV1OHBjMHpjbmY1WmRUWmM?oc=5",
+   "published": "2026-11-08T02:50+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.12,
+     "asOf": "2026-11-06"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": 3.55,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "published": "2026-11-08T01:26+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Is Worth $1.3 Trillion Less After Its 5th Straight Losing Week",
    "title": "Nvidia Is Worth $1.3 Trillion Less After Its 5th Straight Losing Week",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0VjdXljMXhqLTNjSG5KcHlTOWwxTkNLRFdTaFBqRmg2RjYwaEhFalhaOWVQb2ZicmRlbVBZVDNjMXlBY1A5V0lwUlBoN1QwWGdveml2MWJVb29aUy15T29yOGtvRDZrR1J5TE9Rb3NSUXJsRll1U3N4MkhEVW9WOFlCcEo0RFdod0R2T0xLZW4wU3Jy?oc=5",
@@ -127,7 +173,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AI 정책을 수립하는 민주당은 의회의 거래 금지를 지지함에도 불구하고 칩 주식을 매입했습니다.",
+   "summary": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
    "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWpGNEh5dXFLVVRVSGk3c3A2LW1NNUV5WEtIMDdwUHNGODVZVXZCWktHNjFMWXpVVS1JZTl4SnVrTHNXMlVJRjdrTkJ2a19MQUNzSEVGWjJTbDQzbVR6bnhQUWk2cGEtT0xNVkcxRlpBWmRtWWVydzU5Z3JMUlZJUnBsdmRxWXJFMzBr?oc=5",
@@ -146,7 +192,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "초기 엘모스 반도체 구매자들이 본 것",
+   "summary": "What Early Elmos Semiconductor Buyers Saw",
    "title": "What Early Elmos Semiconductor Buyers Saw",
    "source": "Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdk00RWRJVkQzZlpUR1V3RG1WXzlXX0stcF9WTlpqQ3ZQTkN3c0Jfc2ttYm1XSmVBdE9kekRHcE5UMFpFeFFwT083Z0U4WVJYWjVEQjhDRkN2aDhxYXdidk1vSTE1c2lDSVpoX3VMeWljaVYyalVOOFQ2RjV3amxobHprY1NxanZuZDEtZmFR?oc=5",
@@ -159,46 +205,6 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": 3.51,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SK하이닉스(KOSE:A000660)는 기록적인 실적 이후 할인 거래되고 있는가?",
-   "title": "Is SK hynix (KOSE:A000660) Trading At A Discount After Record Earnings?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2hIN2NkOXZhS05zNFdDWDl3aGowWXl4VEpnR2syQmJNQW85SUx5bVNPcTdEdW1IV012NkZtay1iNmJwVGJxMm1hOTU2SzJRSVhERHdVX24zNWFSdE8tVXFqOUh1SVVCSzhDU2pFb3VrRnRmXzJwSk43azFPeGFwazBVZFNJVU03OEQxeWF0MHQyeXVNOTZ0Rkxn?oc=5",
-   "published": "2026-11-07T14:16+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -10.44,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "122달러에 Nvidia 주식 1,000주를 구입한 은퇴자는 칩이 2020년 이후 최악의 날을 보내는 것을 방금 지켜보았습니다.",
-   "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG5DVXUxWHBEcjNJUGxTVi16Z0d6QWcxaFJHdjBDQzZrbjRRZjlyc09TWkt4cWRtNUF1V2h2bUd0SFVUTWZUT3FCTm9TY0R2MVdxWkotNE90N0Zhajkwd2FWb2UwLWtFVDVWWE9Ec0J3TUg4dVU5MC1KcVJCb1h2ZkRQeGVWb2NnZW54eTZOMXBIYjNRZEsw?oc=5",
-   "published": "2026-11-07T14:06+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
      "asOf": "2026-11-06"
     }
    ]
