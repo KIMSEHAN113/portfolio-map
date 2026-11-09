@@ -1,61 +1,40 @@
 {
- "updatedAt": "2026-11-09T22:10:45+09:00",
+ "updatedAt": "2026-11-10T00:02:30+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Nvidia, Palantir, and Tesla Are Sending Shockwaves Through Wall Street With This $53 Billion Warning",
-   "title": "Nvidia, Palantir, and Tesla Are Sending Shockwaves Through Wall Street With This $53 Billion Warning",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGVyYVRuSU9NbUZMMXBrLUlPcUxZODFUTFEya2FpdEpUUEFFQXZiRU0ybTc0SjUzQTVUTlNoMElTTWt6bzN2V0R1c0hRa0F1SVVZcXk0UEM1bW91Ti03UGtzeGxrQVpDR21GS1gtSS00SFNnLTBmcUU4NGI0OXJyUWFnelFpdWdwLVdnc3RsTm9mRTRBeldmc0JXeWVGSGtwNElIZ3lQc28?oc=5",
-   "published": "2026-11-09T21:26+09:00",
+   "summary": "US Stock Futures Advance as Oil Prices Slide and Investors Await Inflation Report: Dow Jones, S&P, Nasdaq, Wall Street",
+   "title": "US Stock Futures Advance as Oil Prices Slide and Investors Await Inflation Report: Dow Jones, S&P, Nasdaq, Wall Street",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUTFYMTBvLWFjbFNiR0w4eksxaUQtUG9DSUMzSEM4NXZHVVVQQm5hallwREMzZTJhT2lTeFVxLVY4RGdxSDl4bDlERlJBUGhGRDEzS2JfQ3haWkhnZTBNQk1yRWw0dDNFZXFJLWF2emFiYVRQTjJ3NndfdURfOGVIZEF6cw?oc=5",
+   "published": "2026-11-09T23:19+09:00",
    "holdings": [
-    "soxl",
-    "pltr",
-    "rise-sp500"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
      "asOf": "2026-11-06"
     },
     {
-     "symbol": "PLTR",
-     "name": "팔란티어",
-     "chgPct": 3.48,
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": -0.46,
      "asOf": "2026-11-06"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "If the stock market crashes this winter, history says buying this FTSE 100 share could be a smart move",
-   "title": "If the stock market crashes this winter, history says buying this FTSE 100 share could be a smart move",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc21iRmRnX3g4TDlXcjdtMEgzZEV0X2M5VHF6R2pHZnJkWGRNNXZiVGwyU1J1QXNtUFBhM3BFWjNVWFVyOGZUejhGMlNlTlZZVmpWMm1CUzUzRUhpZE5TNDNFbHdIUUNGUHVNSHhIVTBsY1IxVl8wak5DcnRSaGdYTDVkdVctdkpQdmJ3Rg?oc=5",
-   "published": "2026-11-09T21:01+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq Rises After Brutal 19-Month Rout",
-   "title": "Nasdaq Rises After Brutal 19-Month Rout",
+   "summary": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
+   "title": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNko3Z01QVEx3eHBxbi1IVkIxa2VuZUFqU3plOGhUT1NQeFEwVHQwaDBEdEp1UDk4clJkTzV3SThHM3oxQkF0NnNfUW15QTVscHduNWQzWVRJVkJSLXJJdkZpZnFaNFk5S3JaYUJhV2RWZEw5bFM5UTlpUFRqcUV1VG5CSU01bDQxOXA5X2I4dVQxNUNLeFFzUg?oc=5",
-   "published": "2026-11-09T20:32+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1p5N0Nxa0IxWjhCRG9FX2hVREp6N3NJRkNXU3Bwdk9EM29rVzBMTmR5TEN5a2tiNnViMjA0bUlNN2l0QXRaVkRxZklVSjVqcEt5NmtnWWlBSC1OTzVBSGYtdlE0UlVKaFFMVEtMdzA3dzdkRm5RZGhSV1k1cUhzMXNxbG1md2FRMEU0RWsyeXdoaDFIVy1QckItYVJmQQ?oc=5",
+   "published": "2026-11-09T23:03+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -72,32 +51,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AMD's $100 billion AI opportunity raises a Wall Street question",
-   "title": "AMD's $100 billion AI opportunity raises a Wall Street question",
+   "summary": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price",
+   "title": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanVFUHhSRE1jRlJnQTFfTVR4cGVveHlVNGdlcVhvc3NCVEJENUZic1ZEcDB4a1JYLXRSazJMNzQ3elVMLVV5N3owYmF0U2R6VU9zVjA4TmhTWFhkR3FuU0h4NGhFZDdIRmZIY1Qwalo0OFlKanB1MF9GMmdudkxsX2wwMzRSbzZaNEdSeC1fakx0OExWN2Z5MDJoNA?oc=5",
-   "published": "2026-11-09T20:30+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 11.04,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 5",
-   "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 5",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNEQ3UUdLd2tIS0p1bXVGdmZ1VlhYOXFMLXlxNlNQX2ptYVVuR3M4Q29qampodXlIOTgtck5fUnpId3JZZWxNUEdpSHhJcDFEaHJjekRKdkVNU1NOYl9QSmV4X3AzZ25iVi05WkE1MnZudnQyNHdXQUJTcDYybmh6WHYycTVwYUNiYWtCbzJpQXg?oc=5",
-   "published": "2026-11-09T20:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXBRYndQeEhXY0ZLRG1EMzloWGdGTUNmRGxjV05Sb2ctUU5TRlYydUpEamtXbmFwSHBiUW9HZ0ZJbmFKeTlPV0pkVkVFVlJwWENBanJNbENQY2l4OHN0MGJYNHI0N2h3aDBJNUhPZ1ljWXlxbXN6OXdjTVZiVnJVVU5pZ0d2ZTc0YUNGUTAweDVaV3pqaURBSzdB?oc=5",
+   "published": "2026-11-09T22:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -105,11 +63,47 @@
    ],
    "moves": [
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -0.52,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
      "asOf": "2026-11-06"
-    },
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq AI chip stocks have crashed 50%+! Is this a golden buying opportunity?",
+   "title": "Nasdaq AI chip stocks have crashed 50%+! Is this a golden buying opportunity?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZW1oUDJpYUhZd25HOE16S0ZPOWxSZDgtUVZUNDQ5TVFad09CQ3pNRDVWV2l0SEs4V0w1NnkzMm1FY2lMcjBQTElBS0l1TV9CdVg3Rk9Hc3pBRkxDSGpTbkdUdGJyZ1JYay1kZ0pBd3dDNm4ycG1ZZlE5Qi1wN25LZi1lRGU?oc=5",
+   "published": "2026-11-09T22:36+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Should You Invest in Comfort Systems (FIX) Based on Bullish Wall Street Views?",
+   "title": "Should You Invest in Comfort Systems (FIX) Based on Bullish Wall Street Views?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanZkNFZvQThxbklMSUJDWVlPZ1ZPM1lMYkx3dUFsYlV4UEJKSlppX3l2ZnlUVGxOSDlJd2daOHJlaGZjZWlvY0FDdldTeVE5bG9PTFF1enowckNfOUVaV2g1aWlzelRRRTNKRzZEZmdrdVJUSU5haENvSWpTWHJfVzl1QkRCMkNTaG5LR0lYNVpGMl93dkgyQWhPQ1dzUQ?oc=5",
+   "published": "2026-11-09T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -120,11 +114,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia stock remains a buy despite Jensen Huang probe, Adam Johnson says",
-   "title": "Nvidia stock remains a buy despite Jensen Huang probe, Adam Johnson says",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82T240TXR6RWM4eTVoU0lBWWF4RXMxaWRrSzJJdDJyZEpDTFctOF9fY19ueUNtSWFScVQwbndTT2xRM3Nqb1gzSzFLdVBiVjJqZDBhRlZQS0ZhNTg?oc=5",
-   "published": "2026-11-09T21:45+09:00",
+   "summary": "Nvidia stock reacts as Huang admits to an affair with a Chinese spy, Anthropic moves ahead with IPO",
+   "title": "Nvidia stock reacts as Huang admits to an affair with a Chinese spy, Anthropic moves ahead with IPO",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjJDQjRJT09pN0xRQ0tZNWxWVDNmTnhTc1BEMWRERjU5dS1LOFI4ZWpBOVJsRUZrb25VdWVpeVd3THpyM181NC0wMkR6clg1UEZncmlzQnIxN243R1lQVUZTdFNsV3VvS3Z0dnNBWV9nb0FqYVo0LUNaMUFELTdPQ0VFdF9paXUyN2l4ZmNITWQ4ZHpjUUVCTUxkQm9YNzVTRk5IYlRzOFRWSmpCWE1Yd0RUUTU3VlRmaWhmN1llVFhkeml2TGd0S2FodVB5RzJ1ZWpRcUNjekI0cVF6d3VlYnVn?oc=5",
+   "published": "2026-11-09T23:41+09:00",
    "holdings": [
     "soxl"
    ],
@@ -139,11 +133,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia opens investigation after CEO Jensen Huang’s affair with alleged Chinese spy",
-   "title": "Nvidia opens investigation after CEO Jensen Huang’s affair with alleged Chinese spy",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5",
-   "published": "2026-11-09T21:35+09:00",
+   "summary": "Nvidia stock falls after company opens probe into CEO Jensen Huang",
+   "title": "Nvidia stock falls after company opens probe into CEO Jensen Huang",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
+   "published": "2026-11-09T23:37+09:00",
    "holdings": [
     "soxl"
    ],
@@ -158,11 +152,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia’s investigation of its CEO adds to major challenges",
-   "title": "Nvidia’s investigation of its CEO adds to major challenges",
+   "summary": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO",
+   "title": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMUZnR09VQTBYd3NTN2NGczJYQU5OOWY0R2wzdW1GQTlmNTk5VTNOc3BZMXRJWG15S1JCYk45by1uNFo5eE5uanhjUkpaclRydk5mUUoxRVJaeGlac1l5b0pEaEdpeGdqU3pBTHdQSmdXOTlONnRDNWRKdXhfRlNmbkFoaFNQdw?oc=5",
+   "published": "2026-11-09T23:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXdnMmtxUTYxNlVybGxseEdySXVTWjlGVFVENDRKS1didWpPRlc0czFFSDhNM0xjX0VOZ3lDOUwwRHJDMXlKRG10WHJJa18xVGdjd1VDdEczVWtiRUE0RVpralhGMVZ2TzI4WnhUZmtKMGxjOUFJZmJScUNpbUFLSGhQZHRhR0ZlLWFtYmZqc2YtTm50X1RzcklzRW9YRzB0?oc=5",
-   "published": "2026-11-09T20:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWVFY2cxQURmMnJ2aWFxSlRfeFJzeGJDOEhxbjVqUWVpMU96Mm4wcFNBVG5BaVdBZUIwYnN3WXNsWEZld000V1ZrMl9SR0pVZFB0a21rTUV1U3NJajhTUTN6bjBmVmtIQmhtRWxyV1dyemhvcDFrT1J5TmItcGJyVmt6VGY0VW9nZVBVZ2RIalNEOUhKRGRybVgtdzBPMkpzRTBicXpTaGw3c29vUXhiR21hVmVlWk10NzgySGJwbV9MSWpLeXVpT2hJT1FqU05XTXlZMGQwS285QlhudnBJdkhrMGlRbVJsX0h5alBn?oc=5",
+   "published": "2026-11-09T23:09+09:00",
    "holdings": [
     "soxl"
    ],
@@ -177,30 +190,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
-   "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
+   "summary": "Nvidia shares plummet after Huang investigation",
+   "title": "Nvidia shares plummet after Huang investigation",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUxGSThQaXN6QW9za3U3NGZndEVYOThZLUxLcjNBbEg4OEpoUkRCdnplYnlJVHVraUE5NFZuRjFfQXhYbU1UaG9vVG1vWmZNY2lVZnMzYWJIbS02bDVoOGZSZVhqYi0zSER2YnpUeEV3S2hJQ0NDbkNvZHNiczZiWXp1ZTgxS1FLZkp0dTlkX05XWkxEUGJCQkxQdzZ3cE1yZXdZ?oc=5",
-   "published": "2026-11-09T20:36+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia stock falls as Jensen Huang faces unexpected probe",
-   "title": "Nvidia stock falls as Jensen Huang faces unexpected probe",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWG9CbjRSd0F0UmNhSEdoVS1NN1RJZ0dXSVAwZmh0SmdhMjdaSTNtdmYydkt1VU1sYUxTaHU3eXNHR0ItN2g2ZFBTeE5MRE5XWFBMN2tSVlNra0xEZllZaGhTdEZ3MUs2T25hNjEtU0JmbV90YWdhWS0yR1B5dERHRTZGNWkwT3cydkVSVUFFRktQR0pLVWRfMXVzQy0?oc=5",
-   "published": "2026-11-09T20:21+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3dYN0IyRFhfMkhLSy1Ca2k1ME9ZcTVLRzR0QkoxZGFZX01TZnVLeS16V3FYeFIxUWpsUmUteW5ob3RXQXRHcF84dTdvczhjSmJ5OW9Nc3JPelJ2dmNsRnZFUl9mQmEwMTBMblA4MW9vYlBxYzA4cGx1b1UzellVN0ZQX2NPVXo2UHU2aVBvXzVxNmViS2JGUUpXdWtKSFYwUmZUWW4telRXUQ?oc=5",
+   "published": "2026-11-09T23:08+09:00",
    "holdings": [
     "soxl"
    ],
