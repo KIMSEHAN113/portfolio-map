@@ -13084,9 +13084,9 @@
   },
   {
    "date": "2026-11-10",
-   "updatedAt": "2026-11-10T02:32:02+09:00",
+   "updatedAt": "2026-11-10T07:42:28+09:00",
    "fx": {
-    "usdkrw": 1344.19,
+    "usdkrw": 1340.49,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -13158,10 +13158,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 23,
-     "price": 270.22,
-     "chgPct": 1.26,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 279.52,
+     "chgPct": 3.44,
+     "asOf": "2026-11-09"
     },
     {
      "id": "schd",
@@ -13173,10 +13172,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 104,
-     "price": 35.17,
-     "chgPct": -0.71,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 35.65,
+     "chgPct": 1.36,
+     "asOf": "2026-11-09"
     },
     {
      "id": "tqqq",
@@ -13188,10 +13186,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 41,
-     "price": 52.25,
-     "chgPct": 3.53,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 57.58,
+     "chgPct": 10.2,
+     "asOf": "2026-11-09"
     },
     {
      "id": "googl",
@@ -13203,10 +13200,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 8,
-     "price": 284.78,
-     "chgPct": 0.78,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 288.15,
+     "chgPct": 1.18,
+     "asOf": "2026-11-09"
     },
     {
      "id": "dram",
@@ -13218,10 +13214,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 43,
-     "price": 39.29,
-     "chgPct": 6.16,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 41.78,
+     "chgPct": 6.34,
+     "asOf": "2026-11-09"
     },
     {
      "id": "hood",
@@ -13233,10 +13228,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 20,
-     "price": 80.91,
-     "chgPct": 3.21,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 83.32,
+     "chgPct": 2.98,
+     "asOf": "2026-11-09"
     },
     {
      "id": "ram",
@@ -13248,10 +13242,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 166,
-     "price": 5.13,
-     "chgPct": 5.34,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 5.82,
+     "chgPct": 13.45,
+     "asOf": "2026-11-09"
     },
     {
      "id": "qld",
@@ -13263,10 +13256,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 23,
-     "price": 74.11,
-     "chgPct": 2.55,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 79.15,
+     "chgPct": 6.8,
+     "asOf": "2026-11-09"
     },
     {
      "id": "soxl",
@@ -13278,10 +13270,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 15,
-     "price": 45.97,
-     "chgPct": 12.48,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 56.2,
+     "chgPct": 22.25,
+     "asOf": "2026-11-09"
     },
     {
      "id": "orcl",
@@ -13293,10 +13284,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 10,
-     "price": 116.1,
-     "chgPct": 0.82,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 119.79,
+     "chgPct": 3.18,
+     "asOf": "2026-11-09"
     },
     {
      "id": "pltr",
@@ -13308,10 +13298,9 @@
      "market": "US",
      "currency": "USD",
      "qty": 2,
-     "price": 160.38,
-     "chgPct": 3.48,
-     "asOf": "2026-11-06",
-     "delayed": true
+     "price": 169.2,
+     "chgPct": 5.5,
+     "asOf": "2026-11-09"
     },
     {
      "id": "irp-rise-semi-bond",
