@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-09T07:42:53+09:00",
+ "updatedAt": "2026-11-09T09:57:50+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Seoul stocks buck gains on Wall Street to open lower",
+   "title": "Seoul stocks buck gains on Wall Street to open lower",
+   "source": "Yonhap News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pX1AxQV9NS2NQOHlMUUZDYUhHRGxIeGJBYzlfeVQtZjd2OWhPZG5iMGd4UGtmVVpIYVppZ3MxQ2lhRmJLc0hoRTMxZExWX0xqT19SZ29NQ3Vtdw?oc=5",
+   "published": "2026-11-09T09:04+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "5 Best Materials Stocks to Invest In According to Wall Street Analysts",
@@ -86,22 +107,64 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
-   "title": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzdqeGlYbTlsaGJMcVI2eFRULVZ0aF9uUVN1REdSRVItcjE5QWRELWZjQUJCNEhMREtaVGFpc3JRdm5xVTlQZ2Q1ZGFTWGtVMm5McmowVkpRbEM4QjQxY3dNRzItSm1vcDlLMnRxUm9SVjB1eFdLY0pUa1MxczlKZ2RiUUk0RUd2M0tYcE12bnpsNkxVeEF0NlFR?oc=5",
-   "published": "2026-11-09T01:26+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
+   "title": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5",
+   "published": "2026-11-09T08:41+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+   "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGktUVY2UXh1NXJCZk9LRHhRbVlPZlZoYjlkcl9GbXRaWW1vSW5MNFY2MTFXcE5JQUlvMzU2dGg3TmlqcjhEZ21FVml2X1pwenNIT0x4WVZHdW5aenRJMGlhZUZkekNDSHVucmdrV25IMmhoSzNCUlc0NDVaMHZPaHEzNUczVHkzbEdvU3ZIMGhFQQ?oc=5",
+   "published": "2026-11-09T08:05+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 11.04,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy — Jensen apologizes in letter to staff, company board forms independent committee to investigate",
+   "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy — Jensen apologizes in letter to staff, company board forms independent committee to investigate",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2o5YXpTMXU3WnNPbHpDY0U0S2hCd3FXSWg5aW9CcU04OGhjUldfbGlOdWtIcUpCd01GWUw0enVOdS1EeFBoa0o0NUNHcHI5dlIxcmdhekg3SmRwNTREaDFsUVF3Mkt5QThveUp2Yk1fNlRwbFRZaDNZQVB2OGdrRXduZlhsYXJ3YndoQWtYWEloaEx4Rnc?oc=5",
+   "published": "2026-11-09T07:07+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
      "asOf": "2026-11-06"
     }
    ]
@@ -132,63 +195,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0JhcmhxQ2JsYmpCM1l2MEt3OFc5Q3I5cGRvTWxRRjEwYUxPSVZ5T2xTNERZV0E4RnJhbl9uOTgtRWFBbnVDOERUX0Vob0VzZE9qUExsMHU1XzBIeHlBLTE3MFg1dmY5SXFiNjdEUUZ0dFhLTHRmc1ZCblpGdHkzNjduaFRiUnUtbE1uMF81dzNLMEplbERXX2Zn?oc=5",
    "published": "2026-11-09T05:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Why Nvidia Stock Looks Like a Bargain Right Now",
-   "title": "Why Nvidia Stock Looks Like a Bargain Right Now",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0NBcUNnaGtIbGthQ2hxZnpYaFFYdElrV3BrLUNHTkp0N0UteEE5bTFsZFNUVmhfMHVCMDFEUEVNSDhfRFpBUEdCZml0VHIwZ3FDSy1aa3NGYUJPblplN2hicUU2S01fZUtLdjgySEhJZlBvb3dBV3BVRHk5R18zanFobWY2Z25rVXVnZDh0YTlpM2JyM2o2RGQybw?oc=5",
-   "published": "2026-11-09T02:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
-   "title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhJbGo5Z213RFlZOGstMFRLUW52OVk0NmF1NVl6TlJVbHlzay0tZm4zLVIySnNnSjM2SFduV2psMzk2M1YxVEtSWmpyZ3JCcVQ5MXZFX2ZrdlJkM0t0UDc2a1JvMi03R2xpbVJTeU9PcG5jNTlWVUR3Zi1YVlF6dXhDa2wzM0lOazh5anRyRmlJaTBodFcxUA?oc=5",
-   "published": "2026-11-09T01:08+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "House Republicans demand answers from Nvidia CEO over reported Chinese spy ties",
-   "title": "House Republicans demand answers from Nvidia CEO over reported Chinese spy ties",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdHU2NWRUaEQxQkZIaUh5RFBBMjgyZmxha0pLR3pDMHM5MGFTNHVnVDdncmQtbE9hVDh4ZDRrLVdHQnBxUFJEcEwtWHFUV1JtX0JFNjI0aWlsZXJDZUNxakR3UVJuQWhkbkRLMjliNGdrNWNVUjZxQVo2Zkttd0tFdzd0ZVlSUURWaE1SLVBqbXY3QkhDMHJnaVY2YWZCUFpRQ1ZoQ2pYRTdNdm1ROWNpRmFYTWdaNU3SAbwBQVVfeXFMUHpvcW5rWWtPMm5yRkgxZG0xRDFVTTRackx1ektwcEpLSmtwZ1ZkUHVrY2JHdGxReEJHdm52cl9LZDViQWpLbUZFUjZKbzAwUUhwOF9UMGVlSEY1dXd1dmNnVGxfeGstck9LTHdVd21DN0RQN1NrWFNkcFMzLWQ5X3VTSDFqRmxhZjdTcU84TnZmZE1uY25hYU9sQ0NKeXppUHFzVm9vS0ZhanZaenZHRk1mRXdqbWt6ZkF1MGY?oc=5",
-   "published": "2026-11-08T22:47+09:00",
    "holdings": [
     "soxl"
    ],
