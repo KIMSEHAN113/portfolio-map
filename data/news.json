@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-10T00:32:34+09:00",
+ "updatedAt": "2026-11-10T01:02:30+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Broadcom은 1년 동안 약세를 보이며 거의 20% 하락했습니다. 월스트리트 분석가 팀은 12개월 이내에 140%의 이익이 실현될 것이라고 말합니다.",
+   "title": "Broadcom Faltered for a Year, Dropping Nearly 20%: This Wall Street Analyst Team Says 140% Gains Materialize Within 12 Months",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHFZNkRsZE85anFCUUpMeHhjbmNNYVVoTDIwcVQ2dkRnV1dwNHNuSmVQOWZzOFlZRlZHZURGZklVZU9PZGlxX3BnNDRsVkhXbVFKSmhLdTI4SDlZRGxkdXVQaHpRRlZpS3QweEdubnhvVkRja2FXaGY3QW1CMTM2bjJBa29uVU5NLVNsVDliQWJWcDZoREhqNTkxdk1HNW1lQm5J?oc=5",
+   "published": "2026-11-10T00:45+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": 0.74,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "재향 군인의 날에 주식 시장이 열리나요?",
+   "title": "Is the stock market open on Veterans Day?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmw1Y1BTZHdPT1BpakVXMnhWN005Mlo3NHhsblZ4a2FlUUdId2I0NTQtN05RZkZwMjlnUHp1S2F3UTFPZ2NaUV9jUktNZEdwNU5tS3BTOFo4amhhSExiTU5aNHl4alZzTF95Vm94eWJTSktyLUc5SXFSUmQwcl9LbC1CSlJ6cVdSNnFWeFZ6OC0xVF9VWEZKVFJYYkFfZk9IcTA0cXlFUUZSXzJlelkyeW5lRXJHU0E?oc=5",
+   "published": "2026-11-10T00:39+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "리스크 온: S&P 500이 급등하여 시장 가치가 1조 달러 증가",
@@ -24,86 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "미국 인플레이션 데이터보다 유가가 떨어지면서 월스트리트 선물이 상승합니다: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Rise as Oil Prices Fall Ahead of US Inflation Data: Dow Jones, S&P, Nasdaq",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1VMRXBnelFraG9nRVZpOGctSml2YVdlSjY3dUJuTjJrLUVpRlB3ZmJ3ZEpjUUtvcGhsRnVnendvSkFGQXBpaDV1V0VuY043aGw1TnV1c09NQ0ZKNzBNT29xamEtWmVabGlaMUxlQWZDMGQ4OFZZRVM0MVl0VHJRajlER2VMcTBZZjktcHBlQXk0eGp5NUtadw?oc=5",
-   "published": "2026-11-09T23:19+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -0.46,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "유가 하락과 투자자들이 인플레이션 보고서를 기다리면서 미국 주식 선물 상승: Dow Jones, S&P, Nasdaq, Wall Street",
-   "title": "US Stock Futures Advance as Oil Prices Slide and Investors Await Inflation Report: Dow Jones, S&P, Nasdaq, Wall Street",
+   "summary": "주식시장 조정: 지난주 영국 투자자들은 무엇을 구매했는가?",
+   "title": "Stock market correction: what have UK investors been buying in the past week?",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUTFYMTBvLWFjbFNiR0w4eksxaUQtUG9DSUMzSEM4NXZHVVVQQm5hallwREMzZTJhT2lTeFVxLVY4RGdxSDl4bDlERlJBUGhGRDEzS2JfQ3haWkhnZTBNQk1yRWw0dDNFZXFJLWF2emFiYVRQTjJ3NndfdURfOGVIZEF6cw?oc=5",
-   "published": "2026-11-09T23:19+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -0.46,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥 주식시장 조정: 지금 사서 영원히 보유할 수 있는 AI 주식 3가지",
-   "title": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1p5N0Nxa0IxWjhCRG9FX2hVREp6N3NJRkNXU3Bwdk9EM29rVzBMTmR5TEN5a2tiNnViMjA0bUlNN2l0QXRaVkRxZklVSjVqcEt5NmtnWWlBSC1OTzVBSGYtdlE0UlVKaFFMVEtMdzA3dzdkRm5RZGhSV1k1cUhzMXNxbG1md2FRMEU0RWsyeXdoaDFIVy1QckItYVJmQQ?oc=5",
-   "published": "2026-11-09T23:03+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 1.09,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Elbit (ESLT)는 월스트리트 분석가들이 예상하는 것처럼 27.64% 상승할 가능성이 있습니까?",
-   "title": "Does Elbit (ESLT) Have the Potential to Rally 27.64% as Wall Street Analysts Expect?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFkxdS1UWTIxN2pEZUZoWWFLQmIwYlBWT1ZfUExfUmdHajJwTEVyR1M0cWtEb3huMW9CLTN0anVLcGhMQlBIbEN3c24zQ3dzYmI5YTFxdkF6ejhZM1hkUldpSGRjMFYxR1R6QTN2WVE0SkIwTUZSd1B5ME9SUVV0Vld0c2pLcThNM1Y0NTR3NFZxNFRrdGNTVGY4YTY?oc=5",
-   "published": "2026-11-09T22:55+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXF6eFZhMVRZc3JVOV9YQl9hbWZKOU5KaVViZ3hoNVg4VGhmNG5YcjVxQ1JjdTNFN2R3Tld6d2tMUHNKR1VEcWUxSl94Sjg5aDNyZW40S0dhM1JMMDVRU0hKMHp4RUZFM1FyZWJPR2p6MmJTU2JyUHJtcTJBWFp5TVNUUjJjSkFrbUV4Rlpn?oc=5",
+   "published": "2026-11-09T23:59+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,6 +81,65 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jensen Huang은 방금 월스트리트에 4조 5천억 달러 규모의 CEO 스캔들을 안겨주었습니다.",
+   "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnNtZ2tHRmdtNnZmbTI3NkVIV21wZm1XTUFDUTdYQmxuc3pMVmpYS0J4ZG9MbDN6b28tWDFaZ0RiWWxFc0txUmhONjc5U002VU9Ba1VrQjFuV0ZRY0VYWWlWX3ZibG1BaGZoM2ZDSXRJd3JXQ2JTVTJRSEJrZ0x6ZW9KSVlPQTNiRk9fTTZrbnFJRHcxX0JLUXlvZzluZHNHQ2lSZW5KYzF0bHRNWDlwZk5uand6MkFxcmV3Y01oQ0dEZElpS1E?oc=5",
+   "published": "2026-11-09T23:55+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 주가는 회사가 CEO와 중국 스파이의 관계를 조사한 후 하락합니다.",
+   "title": "Nvidia stock falls after company opens probe into CEO’s relationship with Chinese spy",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzlZWVRPREFzUWR3QTU0d2NGLTJ6cWhvZVdjbkY1eWRVa2RyUGRPSFpBaGlmMjNvTVpBTDZjbkR1NlFLRGkyZ291OWxHWC1xRVk3YkVmNjhOb1dJNDI3blNnV19XU3Jwa3JNNUVYWVFhYl80TVVzSzN1cGU4SmFDZ09FVEFuV29zUlV0Rk1SZU9Ec3ZSdlh3QVZ0aTAzbGxtbnd3SGJkN1FkQQ?oc=5",
+   "published": "2026-11-10T00:56+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang의 CEO로서의 미래에 대한 질문이 소용돌이치면서 Nvidia의 주가는 하락했습니다.",
+   "title": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMUZnR09VQTBYd3NTN2NGczJYQU5OOWY0R2wzdW1GQTlmNTk5VTNOc3BZMXRJWG15S1JCYk45by1uNFo5eE5uanhjUkpaclRydk5mUUoxRVJaeGlac1l5b0pEaEdpeGdqU3pBTHdQSmdXOTlONnRDNWRKdXhfRlNmbkFoaFNQdw?oc=5",
+   "published": "2026-11-10T00:42+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
      "asOf": "2026-11-06"
     }
    ]
@@ -141,75 +167,30 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "Nvidia 주가가 180달러 아래로 하락: 특가 매수인가요?",
+   "title": "Nvidia Stock Falls Below $180: Is It a Bargain Buy?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZsOXZpM1BJcVIzRHlFeHFDakVqZVJSNmxpXzF4YzNxdGNDOVpCTk5VakNUMkFtc3BsLW1jZkdiVE9lQnN1LThCc083cmtoMTg2aFBTS0JjOXV3c0pidmh3cER0c0szTjBhR0pMT2o5UDduUVBPRkNtc25mT3ozRHBrajBHQmQtRUFrM1Z1MEpoUFNlYVVhcw?oc=5",
+   "published": "2026-11-10T00:20+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "엔비디아 수익 과잉: 11월 17일 보고서가 해결할 수 있는 것과 해결할 수 없는 것",
    "title": "Nvidia earnings overhang: what the Nov. 17 report can and cannot resolve",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDR1NDFaWF9mQlFxU3dkMTF2MFJqcEJ6S0pVSm1KZWdNTTNRcTNuMExxb2JwNzI2WVhTazRpMHhFMUUyblQzeEFsREpBYWxobE5SVzd3LWVNc3FuU2JOMC1OeEVsYkozYmQwTERaSUxhVy1sTFQ5UjhjVFBlQS1vX2Uwakw5QUE?oc=5",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHZ3b3JCQlg5dWhIc3JqMk9fQ0NmVmthNHdGUkFPajNzVzVoaWVibjZqSlJyaUhQWmFmV1BjbjIzVnlUeUdQM1d3dFI3TU9aaWFBem9lRGdwYmdDaDJSUEtVOW5DYzQtX2xwbTJHeGMxZkJrczZqcXJKLWpaU0NYNDQtdzB5dHY0Mkd3Wk1MelNNc1lwRWpfUngyYXc?oc=5",
    "published": "2026-11-10T00:16+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia에 대한 Cramer의 조언은 이사회가 CEO를 조사함에 따라 주가가 하락함에 따라 이제 더욱 의미가 있습니다.",
-   "title": "Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3h5dlh3Q0xZRlc5b0hQREU2TUlpV1dmQVp2bjQ4cjNPVmp3Mno4dkVURFl6dGhuSHNDemNwRWhFcllkVU1KVWpHa0p5a0lOUmlNQXEwZlJwd0FJMFY5a3UxWDdXc01tcWNRZncyLWJDSEVfQXFnemFNLWdjRkQ0LVBJbmd1NmIzMDMtTU4zSlBibGsyMHJyQ1c0dFc?oc=5",
-   "published": "2026-11-10T00:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia가 CEO와 관련된 조사에 직면함에 따라 Google은 AI 칩 포트폴리오를 확장합니다.",
-   "title": "Google Expands AI Chip Portfolio as Nvidia Faces Investigation Involving CEO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUG1mU0tBNXRldGVkb2toaS1wN3lYeU1mQkdPdElnV1dKX2dlMlNxaHgyQWt2OUZZS2x0UGNVYk1HSHQwMGZsaWtaNFZTOElYOEdwQV94Nnd4OFNmeHBfMlM3T0k5MDJFZk80c21OeHRrNmwtR2tfaWJ6RGdMcDQ4eGhYVUIzZ251cEpIaExfbE1KbXhIR3JNbjBWTlU?oc=5",
-   "published": "2026-11-09T23:45+09:00",
-   "holdings": [
-    "soxl",
-    "googl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    },
-    {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": 0.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "황이 중국 스파이와의 관계를 인정하자 엔비디아 주가는 반응하고, 앤트로픽은 IPO를 추진한다.",
-   "title": "Nvidia stock reacts as Huang admits to an affair with a Chinese spy, Anthropic moves ahead with IPO",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjJDQjRJT09pN0xRQ0tZNWxWVDNmTnhTc1BEMWRERjU5dS1LOFI4ZWpBOVJsRUZrb25VdWVpeVd3THpyM181NC0wMkR6clg1UEZncmlzQnIxN243R1lQVUZTdFNsV3VvS3Z0dnNBWV9nb0FqYVo0LUNaMUFELTdPQ0VFdF9paXUyN2l4ZmNITWQ4ZHpjUUVCTUxkQm9YNzVTRk5IYlRzOFRWSmpCWE1Yd0RUUTU3VlRmaWhmN1llVFhkeml2TGd0S2FodVB5RzJ1ZWpRcUNjekI0cVF6d3VlYnVn?oc=5",
-   "published": "2026-11-09T23:41+09:00",
    "holdings": [
     "soxl"
    ],
