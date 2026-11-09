@@ -1,6 +1,75 @@
 {
- "updatedAt": "2026-11-09T09:57:50+09:00",
+ "updatedAt": "2026-11-09T15:32:12+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Keeps Selling Ethereum, but Whales Are Buying In",
+   "title": "Wall Street Keeps Selling Ethereum, but Whales Are Buying In",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxZV0xmaFZVdk9nM0E3bGEtM1Btc3U5aDM3LUo1ZE1lRVJlVDVmT3ItcWZxNXBTY1NhUHRHaGRZa2FOTnFpWEt3Yl9BV1J4cHp6YzBfalY0MjhJSml2UXg4SEszRE1XQ0pKOFJ5Zm9pZW04RkNJaVB5cEJid01td3gzb2hxLXU1dEROR2hpOEZqR0ZTUktGRnZEVy0wenNs?oc=5",
+   "published": "2026-11-09T14:16+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus",
+   "title": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDJTY1ZadjNGdVRsV19LTFJtd1doSGxMSWxjdWtKX3VuUlViQ2tZNW41WmFjY292ZXlESk1FM3VIaFFXRUt1Qnd5SjZZUkJGSUNLLVRxdUMzSDNWRFk2b3c2eVpRWWl3bGpVLTlJUnVUaXFoQkIwYUlvdlhWTGZ1WG0wa05hZmM0RGtNUGlOaGJqUVE?oc=5",
+   "published": "2026-11-09T12:48+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 11.04,
+     "asOf": "2026-11-06"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 1.09,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Asian Stocks Rebound, Nikkei Up 3.4%, but Can They Lead Wall Street?",
+   "title": "Asian Stocks Rebound, Nikkei Up 3.4%, but Can They Lead Wall Street?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzdjZzI4U0J5Mkdfb01hX3VaaVJEUUtLNGpVY0ZqZjJrVTduMHBSTENLNTktcWRlV0pveWUzX0pQbzdGbWJZQjgzcDJZVlNUVlVpS0FLOTFIRnI5SXRWa3F1SENCbkVpaGJqbnhzOUZkZW5IN3hydmh3aFFLcGd6QTJ6UkJCYWF6el83WFJKV2ZZOGtveE5UbGxUTW00UzJkMF93?oc=5",
+   "published": "2026-11-09T11:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 0.31,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Seoul stocks buck gains on Wall Street to open lower",
@@ -44,75 +113,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Here are the 2 big things we're watching in the stock market in the week ahead",
-   "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5",
-   "published": "2026-11-09T02:40+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
-   "title": "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5",
-   "published": "2026-11-09T02:01+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
-   "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5yY2lrUXdGQlBrSzU3d2tOWWp3eVpsbDctY0l1QmFocEN4ZEcwOTVlUHpTLUZmMkpfOGVucXptMENpbENGTFNHWE43MTFzN1hzOGx5X09WczRvRWJDblRRdUFsUmtNSGJ2c21qMUItNVF3WXdyUGt0WWs3TGhISWhqNzJGTXFMTlJnWnBLcGF6bWhoQi1Xbw?oc=5",
-   "published": "2026-11-09T01:47+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 0.31,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
-   "title": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5",
-   "published": "2026-11-09T08:41+09:00",
+   "summary": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+   "title": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWlSbE9XZzlfaVhTazBCdWxkTERCSXBXQk5PRW9HNFpuQk9rRlBpVGlMQ0Y0enIwY3FLWkVxRmtwd1lrYm8wdGR5SVBBdnhPcDItS1dZSVlNeVkzYjVnd1N4ajQzejhxNkdfOW1WejB4TUx0bk4tTkpSTFRpMWdncHlodHNjSUo2NURjeWFVaFNEWnQzcXFYWUxlbw?oc=5",
+   "published": "2026-11-09T14:37+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,11 +133,51 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
-   "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+   "summary": "Micron Technology And 2 High Growth Stocks To Watch",
+   "title": "Micron Technology And 2 High Growth Stocks To Watch",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGktUVY2UXh1NXJCZk9LRHhRbVlPZlZoYjlkcl9GbXRaWW1vSW5MNFY2MTFXcE5JQUlvMzU2dGg3TmlqcjhEZ21FVml2X1pwenNIT0x4WVZHdW5aenRJMGlhZUZkekNDSHVucmdrV25IMmhoSzNCUlc0NDVaMHZPaHEzNUczVHkzbEdvU3ZIMGhFQQ?oc=5",
-   "published": "2026-11-09T08:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3BObWpDQTlJRzlHUjg3d0hIRVZDM1NWSzZSeEJsYlFGS3IzaUozR3hLZ1hqeGVCY3lZZG8xS0FILW1hZWtZWmFSVGx4dGdmdkNSUDBaUmZNQkxmeWI5bERPV0t5YkEtVGtTYThLNlQ5clVTdXVVZ2tfaXhPOWhfcE1tNVdRZ0JqaW9TcmRsMlcwR1V3REd0UElERkk?oc=5",
+   "published": "2026-11-09T13:51+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 5.12,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+   "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWQwZ0hHSUpiX1ZSLU9SM0VER3ZVYnpvVUxwVnRoakliNDE0VXNCMm1GSXJ4UFFVQlBDMVUtY2pXWUgzdU8tTXBLQkI2MWlEQVU3aHRDYnZuS3FWUU52WGJta0VyNHdleGFLa1N4bmtVU0ZfUmFnVmJfUkRncnphLVA4amxWdVRWU2FBNWpTbGpTZkpBczBxeC05M0w2SU9FQWpENQ?oc=5",
+   "published": "2026-11-09T13:39+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.78,
+     "asOf": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
+   "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3R5aS1PeTV0Mm1Wc1lTeVAtWVQ3ZGI2ZFFiTDJ5WFNNNllvOUVfa1JHWHMwYXB5MzVfWTJ2aGlGVnBUZUhTSVE2X3hablZoX0MtZExqZ2pjYjBMeWZjT3NISC05eWprZGUySjIxS2VYOHQ2RUlDTHdMU1JWc0RPTGhJbVROVldyWkZwdkRYMA?oc=5",
+   "published": "2026-11-09T12:34+09:00",
    "holdings": [
     "soxl"
    ],
@@ -152,57 +198,19 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy — Jensen apologizes in letter to staff, company board forms independent committee to investigate",
-   "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy — Jensen apologizes in letter to staff, company board forms independent committee to investigate",
+   "summary": "3 US Chip Stocks for AI Exposure With Lower China Risk",
+   "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2o5YXpTMXU3WnNPbHpDY0U0S2hCd3FXSWg5aW9CcU04OGhjUldfbGlOdWtIcUpCd01GWUw0enVOdS1EeFBoa0o0NUNHcHI5dlIxcmdhekg3SmRwNTREaDFsUVF3Mkt5QThveUp2Yk1fNlRwbFRZaDNZQVB2OGdrRXduZlhsYXJ3YndoQWtYWEloaEx4Rnc?oc=5",
-   "published": "2026-11-09T07:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0d5VWQ0SUl5bjJST2I5cnpBQ21XaG5CSVZqX0hCMUpUVU0xLUd3bm1pcUlURTN1aHRxUmhfeVAtelJkRU1NZGNWSjVDWTBRbmh0UXNsZ1ZKOXF1Z2dUSDVrNl9NSXFZQV84cFhXNEF3aFFQcE5RVmgtc1Y3TGRKTXJJNnd5ejZHXzRR?oc=5",
+   "published": "2026-11-09T11:12+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkhVdEx4bnBnRUEtWjVCaEVodEppXzRzM1lxWlk3YVlfNVQzcHBPNVU4ajBsUzRKemQ5amRhd0liSF9Benl5UDhRV1NsOU93bGh3N3pDd2pldFREX200V285NV9PSWdZNVJJOElFbXVOU3ZlRmgxRVhaQm1sazBiOTJ3YlJnTUdQLWdvekc3Z3FPdVA2eTQ2TDNuZGpmekRv?oc=5",
-   "published": "2026-11-09T06:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
-     "asOf": "2026-11-06"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-   "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0JhcmhxQ2JsYmpCM1l2MEt3OFc5Q3I5cGRvTWxRRjEwYUxPSVZ5T2xTNERZV0E4RnJhbl9uOTgtRWFBbnVDOERUX0Vob0VzZE9qUExsMHU1XzBIeHlBLTE3MFg1dmY5SXFiNjdEUUZ0dFhLTHRmc1ZCblpGdHkzNjduaFRiUnUtbE1uMF81dzNLMEplbERXX2Zn?oc=5",
-   "published": "2026-11-09T05:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.78,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 3.51,
      "asOf": "2026-11-06"
     }
    ]
