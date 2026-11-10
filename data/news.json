@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-11-10T22:10:20+09:00",
+ "updatedAt": "2026-11-11T07:42:53+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "거래자들이 중요한 소비자 인플레이션 보고서에 대비하면서 S&P 500 선물 상승",
-   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJDT2czV2YyRzhwQlVBd29pWFc2UGYtV0RfWVpKQUd4SkNXLXpTUTZPLUFYbkRIdHVzSnMzZGowQjNIT0tJLTNIM3cza0dCeDgyWmlXVTlMZFplZmp1RTZndXcwSTl2Y3VyOHpQOXliQV9wT08wOVNsQ09TcGZoZVFleVduLVBCdnEyU0gtN3pfSnVPemdaLXR3bm00UkpLenBMZ09fRG95QnBFdTlJTkdkSExMcTNo?oc=5",
-   "published": "2026-11-10T21:37+09:00",
+   "summary": "오늘, 11월 10일 주식 시장: CEO 스캔들로 인해 향후 수익 보고서가 무색해지면서 Nvidia 주가가 5.5% 급락했습니다.",
+   "title": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldvSFZJVkE2dnE0Ym1nMUlmMTdJSTZnZGJvUXlWck1jcl9JdHR1bFBUaDIyRV8xRmtKSXFraEZkM2RMUWh0bzRMYThSSWpaR0l6cUphT3J0MG5KWDFVVEJWUk9sT1ptcEJWZWdwZV9zQTByU2xSU3RHM2NoXzRrOHV2SnRaOHVIX0MyaU80VUJpcW5q?oc=5",
+   "published": "2026-11-11T07:35+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "이 최고 월스트리트 전략가가 2027년 S&P 500에 대해 낙관적이지 않은 이유",
+   "title": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkphQ1EwdGpRRkd2b1FqQnR6Z2x4UXlxUFJSZFpReTlsSnVZUjBXZlhKT3k3M25UOHMzUFFnSk9IbnFtSnFuMThzWExLZ0FIUmQ4cmZpc3pqYWI4cjM5Nl9DdVcxdEc3ckZNdUN0bjkwVmN1dGtMWHNRbGtXLU9rVXhZSWljaVBPVXpGZmJEUFVwRDhDRkh6MmJSSzBGT19aX1R4Qm1vYmdQd3NGZmpfYzlRNm84RmVZcTNINVh6V1hRZENvX1dj?oc=5",
+   "published": "2026-11-11T07:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,114 +38,163 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 2.35,
-     "asOf": "2026-11-09"
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq-100은 Nvidia의 도움 없이 3월 이후 최고의 날을 보냈습니다.",
-   "title": "The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia’s Help",
+   "summary": "오늘, 11월 10일 주식 시장: 수익에 대한 수십억 달러의 질문이 다가옴에 따라 CoreWeave 주가가 하락했습니다.",
+   "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2hZMllCclhDWG95bHkzMXRidy16VnRiM1VqZ1B2bTB2aXp5VVlSTjBaRU9kY0J3QVZXSFdsMXkwbEFPM1VqOWJnVjhNYXlPV2dFeV9zSm5TaFlTYUx3cFhJUDhDSmdnRG52OEY2ZlF3elNwcFJ6MzFiM3UtMnVILUE0eXJLU1AtY2VrczRVMDZfZzA?oc=5",
-   "published": "2026-11-10T21:16+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenZ3VnBYZjZiTXd0WUU1ZTAzZzhsSHJodnpYcUEwbjZYQi1YbjVJNmItS090OTNPWXpXbGxKaTVGMjFtcXNQUHd5ZkR1Z05MVHEwN0VjeDA4dFlIdXF4R3FDQ2t5M1RFVDV6Z1pQUEhjZ1JIZklFNVBDUWJyZDVNcVJXVTh1NktOeldYUmpEVkhJUEJk?oc=5",
+   "published": "2026-11-11T07:05+09:00",
    "holdings": [
-    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트 규제 당국은 Kalshi를 기소할 준비가 되어 있다고 Politico는 보도했습니다.",
+   "title": "Wall Street regulator poised to bring charges against Kalshi, Politico reports",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1BwOWFaZUk0aEZOcjVKMkx3Q1FZZGJOYUxKZTI0VXJBa1RRZFFIN09qYXVPM0I5QVh0SzR4X3RPc2lSaUozY2EzZjVxa3dhN3hma3Y0MkNuZDA3UkQ4RW10NVhHZVM2OXNodWIyTTFlWmw3S3otbE5PMTRjczExQWZYRGxwQ0JIal9RQ0x3anF2X2o1WTdIZFg0U2hDbDY3cEE?oc=5",
+   "published": "2026-11-11T06:52+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "NextNRG, 나스닥 청문회 패널의 결정 및 상장 위원회 검토 요청 의도 발표",
+   "title": "NextNRG Announces Nasdaq Hearings Panel Decision and Intent to Request Listing Council Review",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUtRTmNnYkZucXVoaVMtT0NuVF9tX28yM3dMV1lIU1NiYjMzVUwtWGdWc3U0UVRpM293OW1uR2pvLWZWZGJXbG1BcjdqcmJWYUVsVGJrbzUxVU1jc3B2YnNkaHVYaU9PRUdYd2ZvdkVTVTJ2SUI2WGlmUHo3MkxyWjkxclF1ZXNtLVBEZ0wtQnZfdw?oc=5",
+   "published": "2026-11-11T06:45+09:00",
+   "holdings": [
     "kodex-nasdaq100",
-    "qqqm"
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.74,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 주가가 다시 하락한 이유",
+   "title": "Why Nvidia Stock Just Fell Again",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5",
+   "published": "2026-11-11T06:55+09:00",
+   "holdings": [
+    "soxl"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 2.74,
-     "asOf": "2026-11-09"
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Anthropic은 AI 연구소가 나스닥을 향해 행진함에 따라 다가오는 IPO에서 가격 범위를 70~78달러로 설정합니다.",
-   "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towards Nasdaq",
+   "category": "반도체 · 메모리",
+   "summary": "Taylor Group의 James Taylor는 Nvidia 주식에 대해 장기적으로 걱정하지 않는다고 말합니다.",
+   "title": "Not worried about Nvidia stock long term, says Taylor Group’s James Taylor",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRndodzlpaTVnaEdjdDBCMHNyQlVjclVGb0tXV0xEdkU4YUIxbE83eTdHUFpRN1VYQ3UybWRYckJ4Q0s5UlhZSHRILXgzN0g4MHRveHVrbUlfZnhvcV85dWs3WjI0Y1VPeXBaakY1RTlJazBsZ2NPeFBEcGVLcHRtNXl3UzZ3ZzRDN1JEcUV4dWRMN0NhY1E?oc=5",
-   "published": "2026-11-10T20:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRldEMEs3RjNYdFRyTXRucWtYNDB0Q05BckJrR0JnM2pRY2tiMXlEa3dPcUVOcW9XZ1BLQWxMMmYyVXlzMEFiM2gzSVJZblROS1VhMGJUTUtZbWFwRFBxTFJXcjFfYm5QNF93NEw2RFZyc0NIN0dzcFM1NFBrdHZRb0xMSkpZQUJPOGRYN2ZhaHhxWmE4ZlRNWF9MUXZqTktvTjE3ZDF0RTZLekpaSlh2a2VSX0NqQkE?oc=5",
+   "published": "2026-11-11T06:04+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 2.74,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "엔비디아 CEO 젠슨 황의 불륜으로 인해 월스트리트 분석가들이 단락된 것으로 보입니다.",
-   "title": "Nvidia CEO Jensen Huang's affair appears to have short-circuited Wall Street analysts",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmFoRS0xOHExUk9kNlpTeGpxeC1JQjkzSUlQcXNodFA4T3RhOFVxRzhPa1dsR1NQdmxpZ2pTX19VSVFlLXJWaDNnOXdPTjk0dU5iQTllUHJXZGVkWXlVQnlFSWVadGdmdnNFTUM3RGwwOGE2cmVGVllpMUdJR0J5RDdaVm1YbjY4OUduanFoRWlOU0tlb3NkY0tLV28wWVpUNjV5NFRQMDN4LWd3ZVNjck5kUVA3d09CV2tHQVB3MmR1WmFVald2UGtFYUFmQ0Q4dExVelN2aHpSa05qRjhqNkV3?oc=5",
-   "published": "2026-11-10T20:27+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "이 Vanguard ETF는 S&P 500 및 Nasdaq 종합 지수를 능가했습니다.",
-   "title": "This Vanguard ETF Has Outperformed the S&P 500 and Nasdaq Composite",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 1,900억 달러 주식 매각은 이제 CEO의 스파이 사건에 대한 소송의 중심에 있습니다.",
+   "title": "Nvidia’s $190 Billion Stock Rout Is Now at the Center of a Lawsuit Over CEO’s Alleged Spy Affair",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjJwbnYybHVhcHd1MnlDY0JPdGVsWlJBYmxwLWJjU1YwaGsxQndWR0tleHVQbkFSN3AxVmQwSlJQNFU2RkR3a1FyXzA3aFBUZlBFcTBGNENtcGFnVVJPdnpHM2JqM3FWbkowRjl0MHhiV0V0MlhGb2gxV0lKd1l5VmlZd0tOaHhzS0pXTVRva2haRmZ1MlNsYjNva0g?oc=5",
-   "published": "2026-11-10T20:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3IwUnZIQU5GUUQ1amJ0c1h3MXhUN0NnNjQ0RDRHS1l6UWtzaWRQMUlKTVNUTEpMY0RmNTB1eGNFWThvbGJ0SVdybjBDNkg2QUNxWXRMMzZMeXNna0dPcmlFdm1YQU04MjRGZzBmWTIwa1lSa2VxdXFmc0c3cDFmUHZ0M0FEZHZQTExIOUItSEprMzNGZmRlb2t3?oc=5",
+   "published": "2026-11-11T04:50+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 2.74,
-     "asOf": "2026-11-09"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia가 6% 이상 하락함에 따라 Microsoft가 Nvidia의 시가총액을 넘어섰습니다.",
+   "title": "Microsoft Tops Nvidia’s Market Cap, as Nvidia Drops More Than 6%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2J4OFUxZmZsMVJhV1JUSUs5bjFoSWhGaTFnSkxibUprWlNhUFBEM0tLd0VTRHNKWE5zc0szc3lCcWpWUzdtb1dlTmpTRTZmQXVMeHI0azlDb3hYS0I0Y005Q0ZUOXYxa2ZCa25RV2UyR2V5aDh4dkVJdHFtTUt3UkhXcm9ad0lQOElfZGhzRG1wRS1kUHl1aVVGdE5SUQ?oc=5",
+   "published": "2026-11-11T04:31+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 2.35,
-     "asOf": "2026-11-09"
+     "symbol": "MSFT",
+     "name": "마이크로소프트",
+     "chgPct": -2.2,
+     "asOf": "2026-11-10"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아는 황 사건으로 간첩 수사를 촉발하면서 하루 만에 거의 2000억 달러의 시장 가치를 잃었습니다.",
-   "title": "Nvidia Lost Almost $200 Billion in Market Value on One Day as Huang Affair Sparks Espionage Investigation",
+   "summary": "Nvidia가 2019년 이후 가장 극단적인 판매 수준에 도달함에 따라 칩 주식의 하락폭은 5조 달러에 육박합니다.",
+   "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREcwNWRYdzdGVUxkbGx3NWViWFVDM2FaSEU2T20zU252YkJTUElHWWRLcm1YbjN1WmVGSjk1b0FQVDRIX1JSV1VPUmhYMWpVdFJnWjlfQWplTEZmWXlYOWIzSVZxbVlLdzRLREhXUFNUQU9VRlpGM2VETWF4cU1fWDdpbUxnMENDeDVkZGlWUEg3c1hEREplc3U0RQ?oc=5",
-   "published": "2026-11-10T21:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGhUMWhtSk5Kdm9GOHhVaFlETXR3clBfSEI0VnRtTHNtWEFNWkIxelY4R2NyUjQzMjg5SF9JZ0xOZldPSGR3WlBhejJjNTdmM21HdFQzaGpwMEFrVGxMMFB1RHQ0MkVvOUtCeklOMFJmemRmUDRIRS1sS2VheW5UUDc4anhmQU5ZUV9HY09lTEpUWmFfLWZOOXhUcVZFeTRVQXZVeGE0TzhxdVVnaDRPTzdVWXY2TmQ1UEgyNGJHMFhFS241ZkJGa1o2NHphdmdSV0xCRjh0Q0k0MHdF?oc=5",
+   "published": "2026-11-11T04:15+09:00",
    "holdings": [
     "soxl"
    ],
@@ -132,92 +202,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia와 Jensen Huang은 투자자들이 스파이 사건에 대해 오해했다고 주장하며 주주 소송을 제기했습니다.",
-   "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2dYMEJyakQtUEV6SUJJZVQ5emMzYnNONUU1RjIyd2RJUl8wYVBCSVZtV1FaM3QzRWFWNFVvazBjYmotM1gwSnlMUGFtOXQ2QlRyRUt1c05MX2VnT0ZERURSUnJkZHQxODVkN18zejFIZ3o1STFHTFM2QVM5Z0RRcGpadGRoLXFZVV9QRksxQ3YxazBtLVB0bUEwU0t1Z2xOTGJv?oc=5",
-   "published": "2026-11-10T21:18+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아는 최고치보다 27% 하락했습니다! 투자자들은 오늘날 S&P 500보다 이 2가지 배당주를 고려할 수 있습니다.",
-   "title": "Nvidia down 27% from its high! Investors could consider these 2 dividend stocks over the S&P 500 today",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3anIwRUtCclpRWUNZT05NWGdtdmRFVFh1a2FKd2NSZDBMLTVuaGlWWFoxQXhwZUZuZ2pIUDNYc1JqTC02V2tEWGxKVGpqY2NyOGFrWlduRml4NW03Q01xdDJxcjFnZ0V5LUUyU1FSWXRreFlJX2wtR3JuUHZzb29FaVQ?oc=5",
-   "published": "2026-11-10T21:15+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 2.35,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "트럼프 대통령이 중국 스파이 폭풍에서 황을 지원함에 따라 엔비디아 주가 상승",
-   "title": "Nvidia Stock Rises as President Trump Backs Huang in China Spy Storm",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdktLbWtmTXpkdWIzektvSXR4czFQZ0V1Q0hfaTNRdmpoWGpGWVlFOE1NbHJPb1BIYllFYmZ6WERDUXRJMEN4SWZ3aDZXRnlvZVp0UUdRVFo0bmt3aFdOeVZEaEN3UHM3dWZUbXR2QWc4SUdpdjlQRURTbUViVkdqSlhPd3VHdk9nSFlVQzBnX0JXbGNxTUJRaEpMZF95UnQy?oc=5",
-   "published": "2026-11-10T20:49+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang과 의심되는 중국 스파이와의 관계 보고로 Nvidia 주가가 2019년 이후 가장 과매도 수준으로 상승",
-   "title": "Jensen Huang's Reported Affair With Suspected Chinese Spy Pushes Nvidia Stock to Most Oversold Level Since 2019",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTJGRktLYkNTVENPQS1BMkcxeUtDb05PMjZCZ3NWMldEOENxZjI2bGFyYjkyV3A1bnZ2V0ZCaHUyR1ZPOU96bjB4dTRiNmY5N3RaUk9jZGdpRkFGU2swOEFwak5MNFJJVks0RXBOallvVE5ONzVwRE90LWk4bTNiSnEyelBNNWNHY3NwQmhabnpncmo0UUpSclBRRWxUaWJhVzZJZGZuZw?oc=5",
-   "published": "2026-11-10T20:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     }
    ]
   }
