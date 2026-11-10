@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-10T07:42:36+09:00",
+ "updatedAt": "2026-11-10T09:32:03+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "엔비디아 주가는 하락하고 주식 시장은 급등합니다.",
-   "title": "Nvidia shares sink while stock market surges",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzlZWVRPREFzUWR3QTU0d2NGLTJ6cWhvZVdjbkY1eWRVa2RyUGRPSFpBaGlmMjNvTVpBTDZjbkR1NlFLRGkyZ291OWxHWC1xRVk3YkVmNjhOb1dJNDI3blNnV19XU3Jwa3JNNUVYWVFhYl80TVVzSzN1cGU4SmFDZ09FVEFuV29zUlV0Rk1SZU9Ec3ZSdlh3QVZ0aTAzbGxtbnd3SGJkN1FkQQ?oc=5",
-   "published": "2026-11-10T06:19+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Lucid는 월스트리트의 수익 기대치를 놓치고 사우디 아라비아 펀드로부터 대출을 확대합니다.",
-   "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+   "summary": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+   "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobjd1eUR1c3pSS3YzTDBER3lMX0JmRTFWYmdpT2ZhZ0QwR2t5Q2hLaHJ3QlNETmxqWW5IZFRSR05QbzVFVFZFdFNYUU9CLTBCVmVLcl9zMUNfX0ZLS19rNWM3YmREMWNTSmF3RWNzTGcyT1NMLUxjSHl3?oc=5",
-   "published": "2026-11-10T06:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVg1UGUxM3Ffb19ScHhmZmxtNkIwTHNYVWFOcm9yZHVxUzR6M3ZWdngzaUlLSU9uVzM1cGw2dXpNZHlHZzhWQWljMTRFbV9xejFaTjUtbFdYdGFwdml0aEwwZzdreXhaX1Fkb05FcDBxaTFuWVlTQ1ZUUnR0UmVXOTdKbXpkaERPdnp3aktnTVMtbG9iTm1TWmZYbDBhclZYdEE?oc=5",
+   "published": "2026-11-10T08:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,11 +24,59 @@
   },
   {
    "category": "미국 지수",
-   "summary": "IRulya Therapeutics, 나스닥 상장 규정 5635(c)(4)에 따른 유도 보조금 발표",
-   "title": "IRulya Therapeutics Announces Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "Consolidated Water (CWCO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "title": "Consolidated Water (CWCO) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXZEcks0U0tiQlNjZEFtdXgzcmgtQUFhbW9ma0NJdjZVM2oySWt3ZHdLZS1ZTEtlR1VwSk5DWmFMZGdwOWh1VVRjSmxSdWhDY3ZHT3FlYlBPRHRYci13MV9McHFUSU8tX3hYOUhmLWlkN1EySXQ1V0pXOWx3bUpqQ254UmpoUmJUTEVjMngzTy1ORHh1dzg3VFMtSFpPalJvaWZMQUtaNXY3M0cz?oc=5",
-   "published": "2026-11-10T06:01+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1h1YUx3N2ZaamEzVldUZW9YcnI5UUtkajJpd01vdEV3RWpzZVhTQUEzS0ZZX3k5SjFRcWJseVhEczQteEVwWENReHd4WGx3bDEyb0tRVWJmMkttWUxnb1FtZk9udjlaWTVpOERDSDVUOFVsNXdXU3pFYnpTS3d3Ynhma18tV2xhaFpNeE9td0RWVm1TWnNTQUExTUVUcmRMZEE?oc=5",
+   "published": "2026-11-10T08:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 2.35,
+     "asOf": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there’s no clear successor — could chaos hit portfolios?",
+   "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there’s no clear successor — could chaos hit portfolios?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2VmYTZ3VTRfRGpwTEhadWw0Nm1JcTY3SnJ2SXlCUU4wMTU5VlhlREJPN0I0Q0R3RHE4SzVpa1hBMmQtOXNxQkIxSXhRQk5vVjRJS0d0SkcycFJ6MjZaQVIwSE5FVEdnMXJDMHdBMUx6NUFJc1czVVczUGIybnlFbC00R3ZpVWNSSFlMcXRRNA?oc=5",
+   "published": "2026-11-10T08:00+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 2.35,
+     "asOf": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Syndax Pharmaceuticals Reports Inducement Grant Under NASDAQ Listing Rule 5635(c)(4)",
+   "title": "Syndax Pharmaceuticals Reports Inducement Grant Under NASDAQ Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFM5bTl2R2hMRnZaNy15RTRHT19KMWsyU0pNanZ6SmxkakJrZVR5SmRuX0g0Mkc2TDlHTzI4Z3d1NW0tSW5mUVJUOW0tN3ZwR1F3cmRCQlVRLWlIT0dnSDhfU05HbVFzaXFUZzlTemFkLXY0WXFNYWY0ano2bHpnS1RVVEo0bXM0WVYxVkpjaGNGWU1aTXlSQjFmNncwUVVPSXhTdWtUUWtZMUJE?oc=5",
+   "published": "2026-11-10T07:26+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -66,32 +93,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "월스트리트가 선정한 AI 승자 3명, 함정이 있다",
-   "title": "Wall Street names 3 AI winners, but there's a catch",
+   "summary": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
+   "title": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUlJMHVYV0hRaF9DSWN2ZTNETlJMd1dqUmRWcmtGNV9sbWpEczFFeDFRSVFMVlI3S0kxNlpOcERIU2VBT2NETVVFckdPN1FPLUF2SGxQZUp6WjlnWFBibTJGb3lXeklFY3Y3UlhURHJrSFlCLUdVcVl5TUFjVDJmOU4wZkQ1VmtURGo3QklsWQ?oc=5",
-   "published": "2026-11-10T03:55+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 2.35,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500이 방금 3조 달러를 날렸습니다: 이 0.35베타 주식이 안전한 피난처인 이유",
-   "title": "S&P 500 Just Wiped Out $3 Trillion: Why This 0.35-Beta Stock is a Safe Haven",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNendzaU5mSV9saVFEWmR2UlRUWFRuUHhjOFRDT2ZLZ1Y5ZU1FOE5lQUVmVkxoQmRkTUd2SFRXUzVpSW5yUFBwREdQMC1UbU1NNTRTRTBSQ3h2SmlWZzVwN3NXazFnY1JVd0ZFNXBfQW1wM1Z1T3BITElNU2ZaMGZHMURkY3pfdTFDTWJB?oc=5",
-   "published": "2026-11-10T02:49+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2FWMzROUnREdXFpQ0hoTGsyVURuQVRRaFNfTlhOWjlXWWlyeFRvV1hWLThmVmJlSWkzVF85bmdsMFMtZEFYNnUzMzdfZFY4MVkwM3pnc1hFQ2c0WFFIZkd0SHR6VGp5TmFsX0FOcmpwWnBkTXh0M1ZvUkFyVWhXbWtjMld6b2dLdFZZalBvQTFORjg?oc=5",
+   "published": "2026-11-10T07:24+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,49 +114,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 CEO와 중국 스파이 용의자와의 관계 조사로 하락",
-   "title": "Nvidia stock drops amid investigation into CEO's affair with suspected Chinese spy",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVdYYzdtRlBwN0ozRlpYMVlqcHFGUVBQMjM2NVNhM1ZaM19KM1RjTkxBQlJrREJ0cXBhV05ESWxvN0lWYmRIdE1RSVhlZDRPT1ZnSkV3OGhORjgxWmFWc1FBTEh1MXJOWHptSlVjQ2Vab0dXUkw5djFMSGtYUHpwZHZSb3RaTVZDYUdDSzgydWhZM3VWTjR4MW9ab19KZFZZS1dXRQ?oc=5",
-   "published": "2026-11-10T06:33+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang의 CEO로서의 미래에 대한 질문이 소용돌이치면서 Nvidia의 주가는 하락했습니다.",
-   "title": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMUZnR09VQTBYd3NTN2NGczJYQU5OOWY0R2wzdW1GQTlmNTk5VTNOc3BZMXRJWG15S1JCYk45by1uNFo5eE5uanhjUkpaclRydk5mUUoxRVJaeGlac1l5b0pEaEdpeGdqU3pBTHdQSmdXOTlONnRDNWRKdXhfRlNmbkFoaFNQdw?oc=5",
-   "published": "2026-11-10T06:21+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 회사가 CEO Jensen Huang에 대한 조사를 개시한 후 하락합니다.",
-   "title": "Nvidia stock falls after company opens probe into CEO Jensen Huang",
+   "summary": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
+   "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
-   "published": "2026-11-10T05:48+09:00",
+   "published": "2026-11-10T08:48+09:00",
    "holdings": [
     "soxl"
    ],
@@ -165,11 +133,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang 조사에도 불구하고 Nvidia 주식은 매수세를 유지하고 있다고 Adam Johnson은 말합니다.",
-   "title": "Nvidia stock remains a buy despite Jensen Huang probe, Adam Johnson says",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82T240TXR6RWM4eTVoU0lBWWF4RXMxaWRrSzJJdDJyZEpDTFctOF9fY19ueUNtSWFScVQwbndTT2xRM3Nqb1gzSzFLdVBiVjJqZDBhRlZQS0ZhNTg?oc=5",
-   "published": "2026-11-10T05:31+09:00",
+   "summary": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares",
+   "title": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5",
+   "published": "2026-11-10T08:38+09:00",
    "holdings": [
     "soxl"
    ],
@@ -184,11 +152,51 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아, CEO와 '외국 정보부' 조사에 주가 폭락",
-   "title": "Share price tumbles as Nvidia investigates CEO and 'foreign intelligence'",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVhaQVVZZ01qT0FUeUppeEctdjdmQTVIQmdwQnRIdUF3VmFEdmF4OGxJMVhHRkdBZEExenI0d1lic01aZTJ3Yy10OHBBN1dLcEhoc3VLaXlaZjc0VkdZQmFsVjExckpueDVQS195bmtHdTBqcUpPV1I4OU5ueDhZRjBMbzRMaW9nTEVmal9jOVVhdjRyWUhNYXY4ampJV0F0b1ljeTlR?oc=5",
-   "published": "2026-11-10T05:28+09:00",
+   "summary": "Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang",
+   "title": "Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG82bnM4dENmQVp2M21kbHp1OW1YemxqSUhRajRBTnJzSHMtVG0wMUVqMWlpYkJFZDBIeDM2bUtVa0dSYWVkeWgwUzFyM0wyVUVuT2gwVnF0TmtjMHFUbW41WlRSd1ItcXh0OV8wUnBpa2hQOUtGNnFWRXJ5UGdZUXZtUk1zWnJMeVE?oc=5",
+   "published": "2026-11-10T08:24+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Micron Technology Stock Gained On Monday",
+   "title": "Why Micron Technology Stock Gained On Monday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1hrRzc0OGpMSFBjQ0lmcVpCY3YwMGZ2dFhHSXRaWHU4b0xubTNHaE8yUzBxT3BBQk5xcnZrSHY0QWpKVUdzb1lUMFRldWpSLVpEbFg2QXZRM0ZtN0tKczJnaFJDanlKZmROQWN5SzdnNUU4VEVpamI3WWFLdkpTQmVrQUk4QUpGWXQzUXM4eWtSVG5zU2prOER0TVNXeThH?oc=5",
+   "published": "2026-11-10T08:07+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 6.25,
+     "asOf": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang’s wife is a co-trustee to more than 500M of his Nvidia shares. Here’s what his affair could cost him",
+   "title": "Jensen Huang’s wife is a co-trustee to more than 500M of his Nvidia shares. Here’s what his affair could cost him",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1E4a1czc0VRREQxRUdlTGQxc2xMX1A1ZHRjdDh1Y015SUNnRmVhd0k2Z3RYcjRoSUhUNUtYRUNDdkJVeXNKbzBaUGZFUGZvOFk5ZlNrbzRWTF9CSktBbWYwbVpkRG9EMFNpUmEzemFNb3Y2ODJRSi1aMHhZVW12OWE3d3UzRUZBZTVxcGlFLVByNFdUX21F?oc=5",
+   "published": "2026-11-10T07:00+09:00",
    "holdings": [
     "soxl"
    ],
