@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-12T02:31:39+09:00",
+ "updatedAt": "2026-11-12T03:31:42+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street thinks the Fed made a 'mistake' — and now more hikes are coming",
+   "title": "Wall Street thinks the Fed made a 'mistake' — and now more hikes are coming",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGY2RnBVRFBmcnVBQWw3TG1jSV94WHcyTTFtV3ZPZE1PYU13QlhhbFlDZHpweDhKTGc5TzcyVDZJcEJYbmNFMGdLYjdVQlhxRUxiQTUwX3p2RVZXMUs0ZjkwQU8yQVdsQ2ZuNEtOWHpfSWdFREVNRXFZeEE0bTJtZUQ5SVJUX1k5ZDA0TUFqSzJVRks3N3AwbTVMVHNoUThKUk91MjRFZHFqUDNnb1pseHB3SUxuc1FzMFpLZjNfMElrc2xtWTBXUw?oc=5",
+   "published": "2026-11-12T02:20+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Sees 37% Upside Over the Next 12 Months for This Vanguard ETF",
+   "title": "Wall Street Sees 37% Upside Over the Next 12 Months for This Vanguard ETF",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFV6dndBSVpSb08wUk5sUzVkQ1ExYjlmRlc2b0FBVzh6M1U2NVBScnlXcHBSMUxyWDI0RXFNRXBGVmREempKUnBxajBjQU8wQnMyMkN4b0JHYlJaNFczMW9IaHdYQzhJT2llMFpvR3ZMV04xVlhEd2JPWEhfeGE0b28ybW9FQVQ0VFh0RWowbkZ3Q19rS0E?oc=5",
+   "published": "2026-11-12T02:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street hits the night shift thanks to Okxice, and Kraken puts daq in your wallet",
+   "title": "Wall Street hits the night shift thanks to Okxice, and Kraken puts daq in your wallet",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlRHaVhEXy1IVlducXZOY2JaODJQLXpNZkV5TzV6ZjMzXzcwamxmaThJRzEtbGZyMDhDOG5mTGxzRGdQeENPaXluTlBHUUcwdmVYdUw2REZnaVNCZTRJaVNsMnVheFZNSWx4dG1EalN2T3BUYTJnZ2t1WUpOVV9IQg?oc=5",
+   "published": "2026-11-12T02:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet",
@@ -44,16 +107,56 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street is pricing in two big risks for Nvidia",
-   "title": "Wall Street is pricing in two big risks for Nvidia",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1iRWNYa2hBbjhoR2xKNkdvX0J5QkwzbzJvTDk1WDlTcDdaQmQ1U2VVQldIaGNuS2JaU3d3VjdaT3hhUUpSenNfTzJheFlLcjQycW1RQm1FaWFtT05Qb29ULTZHSlRPcVZhbEh0YnYwVmRsa19XaGJ1WUh0NnlmOUVZQjBJam1TWkZVbVdfUDVvUFZjSjJmbm1wX1YwQQ?oc=5",
-   "published": "2026-11-12T00:24+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Micron stock surges 13% as expert flags huge cash flow potential",
+   "title": "Micron stock surges 13% as expert flags huge cash flow potential",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WSmViQ1E3alRCQkg5QlQ2Tng0WDhoV29sVzMwZ0NvZXhqUU9HaDRidWxISE9teFpLQlZNaFA3Q3JveTNhbEdsTDBhLW91QUpQakJ2Q1dNM1J2MXc?oc=5",
+   "published": "2026-11-12T02:52+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.1,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Is the Micron Sell-Off a Buying Opportunity or a Falling Knife?",
+   "title": "Is the Micron Sell-Off a Buying Opportunity or a Falling Knife?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFRQSWU0UGg1Z1VnMW5TbnJTdmpYbERtUTRhMUZhX0ZrUXBPLUQzN3RNd3hjbTZtOU1TM2NNaDBjRmlUZi12elJ3SFZwT2N4eEhJem5HX29lNlRCZHhQckF5ZXk4WU9saHozczV2bUVMTHlOcEt0eko4N0hzaXF1eVp6RlBYbk95eTRNbG1lYUlDbUNaWTJXRUhvTkpRMjA5?oc=5",
+   "published": "2026-11-12T02:50+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.1,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.)",
+   "title": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRndXeDlNTWhHV2xYeGlZM1ZDc3ltaVdJdEliSnJNX2FlMDlIczF2Rjk1T0U5T1hScVhhYnNHai1pVVQyajgzZl80eTNCa08zdjVlRWNvYVREbFNwYnM2bUJmWVlpRzRteTJjcV84SFdENDFWQW8xZHpyRzI2T0NIVHRQREtEOW5jNGZ6R09xREgydktGQzFMZG1rbw?oc=5",
+   "published": "2026-11-12T02:41+09:00",
+   "holdings": [
+    "soxl"
    ],
    "moves": [
     {
@@ -65,37 +168,14 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street is shrugging at CoreWeave's debt and OpenAI's losses",
-   "title": "Wall Street is shrugging at CoreWeave's debt and OpenAI's losses",
+   "category": "반도체 · 메모리",
+   "summary": "Michael Burry reveals 2 big stock bets after Nvidia selloff",
+   "title": "Michael Burry reveals 2 big stock bets after Nvidia selloff",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenE4Y2VVNmRuZ0VvcWRpZWM3NW1zbFdEZTZYZTdXZ05KRXJSN1dIa1BWSkNLT3duTDcyeEs4ZTNLcXItZ2ExcV9JZzVpZExiUVRnb1FhczBWQ1FkeHhPdHB4UkJoMngzN25YZjExbk9ZVWdZMjB6cVVaYm51QWlnSllCNGY1d3EyRTNrOFJFSHdtOXBYa2lTU2RzQzRFcnkzRkJRNnU2UThtRHR3ZVE?oc=5",
-   "published": "2026-11-12T00:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkI2Q3JhT0hCTlhSUkUydzFnOHRfc3BoUUNRTXlsMmdrandNNV9YNl9XcDJjT3Q0c0JsMHBrNmxXaHJaMjFtZFk5amJIMEpYYmtNMWV5OWZ6akRnbU55V3dNMlhLbkI0U2VXSnhRaUM4V2VTZnVpNnZCclRSNWtpUWVENUpkbEVpLU85VjNMOHB2ay1zNmFv?oc=5",
+   "published": "2026-11-12T02:37+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
-   "title": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1VjVGZJSG9MZ09CVmthU0dITFI0Y25iU05EbHdMcy1TRkxiYl94ZUdJY2dnQUtsMFROeUxTVFNZb01jZnZESTNvdnVzZzV5anlnRXA4MVlzT0JjM21yNzFGdVF1cXJYSXYtOWNDWDFCS01GdzNDRTAtWER5eXVpUWdWNHNHNVJQajh4SFc5T2l5Yno0bURQZlplTjRvQWVZMHYtSHNNU1hlQUE?oc=5",
-   "published": "2026-11-11T23:45+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
@@ -113,84 +193,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmdSdTRSdmdQT3NENEU4UEU5ODUyWFBINmZYY1RVMTZlRlRDVGttaW93WnRPUmVxdzBlZmJqMFR4SHBhMFp3ekM4N1lTQnd0dkh3WDBWQjhWa0tERTJvaUo5X29OcWNJaUE5cWZLWEN5TXF4cm9kTTVlTHVTRGk5ckRDcDAtZlRIMkMyN25mcU5XeHlPUEh2MERuWHpBUQ?oc=5",
    "published": "2026-11-12T02:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "What do Nvidia's stock struggles mean for your 401(k)?",
-   "title": "What do Nvidia's stock struggles mean for your 401(k)?",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEtwZS1lUFFnVXFXbEhLbEYtN0pGdk9YVnhCODFIN28tZUFtYzNQRmhVU3dKb19WRjExWnJPOVBWNUNmLWs0U3J0a0dXMHZZVUwyb05mWWlhSDBGY1JEUF93UVBPTnNjSDFpTlVwQVhVUEdEZkZ5OHp4azlDcU1TcFpB0gGHAUFVX3lxTE5kdllWWnhyMWpsTEdvbzJSb1JBalc3N0VXTE5PNnJXMm5yYnZkMWh5VE03MkVBQjdwY2tBTVhFS3dZWFQ5Y3p5UGcwcXYxXy1yTFc5aDh2d3h4T3pfaEpKeXpuSmFHSkpMX2VURUtNa0pFVjd6U3dfVlV0TnpCejFuNEp6OXVJdw?oc=5",
-   "published": "2026-11-12T01:56+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Stocks Jump 11.2% as Memory Rebound Meets $1 Billion Anthropic Placement",
-   "title": "Micron Stocks Jump 11.2% as Memory Rebound Meets $1 Billion Anthropic Placement",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOay1XZGtHS3MtbXhuS0daVjJYWWhaSWRDcy1qVTBURGRtT3lOQS1lNXMyN3pwaEtIYURUcnVPR2I4SnMzdjNUTHR2ZlJlWjAxQzdhbkUtdW9yTWxYSDNkR0ctY2t2RjcxRUZDd0oydVZxLWItalpPLWxsTERfUWo2ZUZRNXlwN3BVdzE1OURCX1Z1QQ?oc=5",
-   "published": "2026-11-12T01:54+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -1.1,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia stock bounces back amid CEO scandal",
-   "title": "Nvidia stock bounces back amid CEO scandal",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRFhYdHRQV2NvMXBPVjF5aVM1d1RDeEQ3ZFVQaExMX0lvbTZINjh0cUxsc1BweFFWR0ZYdWJjV0daUXk2eUlEWnlCWTQ?oc=5",
-   "published": "2026-11-12T01:37+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia faces Baird downgrade as AI spending outlook and China risks cloud growth",
-   "title": "Nvidia faces Baird downgrade as AI spending outlook and China risks cloud growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFNnbmh3Z0k4WlNOb3Vvd0s1MW53NlVLQWRYQXVhdVFsM3duMkZHSHpsRWtobzF4Ty01VE1hTlcwNlRTUW4wbk1TVm8tS3gtMDc2MjJPbHJ2UzR2T2FEdVNwMDVscWRtZmhyWnlDWkhaM1Y4NlBrdmpFSDkxS2VBUGgyd1dGVllHNTNTR1djQTNMNW5zOFdaaHBGcw?oc=5",
-   "published": "2026-11-12T01:28+09:00",
    "holdings": [
     "soxl"
    ],
