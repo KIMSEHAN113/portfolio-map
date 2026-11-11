@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-11-11T07:42:53+09:00",
+ "updatedAt": "2026-11-11T10:16:17+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "오늘, 11월 10일 주식 시장: CEO 스캔들로 인해 향후 수익 보고서가 무색해지면서 Nvidia 주가가 5.5% 급락했습니다.",
+   "summary": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
+   "title": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlp0WlN6d2FIbVdORmhxTm1zM1hGeDNEWVdPM1dCajY0WHFwZm43b19aUG5KR3g3YVA3YjAxajZydHRIdkp2MmhBYWNmTHBFUEpxRk1nNHB6bTN2SFJIMks3YWg3M2w5UW90eUZUQ2RwV2FTNmNQek5DV2sxYnYtQnJvNEMyMWhoalpDWjlDeU5xMVhrazhTMEZoYVhRSUtXNGc?oc=5",
+   "published": "2026-11-11T09:51+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 2.94,
+     "asOf": "2026-11-09"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+   "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5",
+   "published": "2026-11-11T08:41+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
    "title": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldvSFZJVkE2dnE0Ym1nMUlmMTdJSTZnZGJvUXlWck1jcl9JdHR1bFBUaDIyRV8xRmtKSXFraEZkM2RMUWh0bzRMYThSSWpaR0l6cUphT3J0MG5KWDFVVEJWUk9sT1ptcEJWZWdwZV9zQTByU2xSU3RHM2NoXzRrOHV2SnRaOHVIX0MyaU80VUJpcW5q?oc=5",
@@ -17,14 +65,35 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Only 2 Novembers Since 1950 Have Started Worse for the S&P 500 Than This One. Here's What Followed the Other Weak Starts.",
+   "title": "Only 2 Novembers Since 1950 Have Started Worse for the S&P 500 Than This One. Here's What Followed the Other Weak Starts.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeExBQXIwTm5kSmhHTmg5UUcwQjdoN0JCZ1dJLVlWckNfVi1CbXZ4UzFkWXliMGFDU0dpSzFDTmZiUFRpZFBJbHctcS1oTGt6LTF0empVM3hwOEkyVlk3NEtsOTBQcmtNZVVQUUMtOFQtUVhOSEN4NWhkNnlrbjBMVkE5UTZGY0JvSlgwT0xVMC1WTkFOUkFv?oc=5",
+   "published": "2026-11-11T07:27+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
      "asOf": "2026-11-10"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "이 최고 월스트리트 전략가가 2027년 S&P 500에 대해 낙관적이지 않은 이유",
+   "summary": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
    "title": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkphQ1EwdGpRRkd2b1FqQnR6Z2x4UXlxUFJSZFpReTlsSnVZUjBXZlhKT3k3M25UOHMzUFFnSk9IbnFtSnFuMThzWExLZ0FIUmQ4cmZpc3pqYWI4cjM5Nl9DdVcxdEc3ckZNdUN0bjkwVmN1dGtMWHNRbGtXLU9rVXhZSWljaVBPVXpGZmJEUFVwRDhDRkh6MmJSSzBGT19aX1R4Qm1vYmdQd3NGZmpfYzlRNm84RmVZcTNINVh6V1hRZENvX1dj?oc=5",
@@ -44,71 +113,29 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "오늘, 11월 10일 주식 시장: 수익에 대한 수십억 달러의 질문이 다가옴에 따라 CoreWeave 주가가 하락했습니다.",
-   "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
+   "category": "반도체 · 메모리",
+   "summary": "‘When Greed Is Good,’ Says Top Investor About Micron Stock",
+   "title": "‘When Greed Is Good,’ Says Top Investor About Micron Stock",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenZ3VnBYZjZiTXd0WUU1ZTAzZzhsSHJodnpYcUEwbjZYQi1YbjVJNmItS090OTNPWXpXbGxKaTVGMjFtcXNQUHd5ZkR1Z05MVHEwN0VjeDA4dFlIdXF4R3FDQ2t5M1RFVDV6Z1pQUEhjZ1JIZklFNVBDUWJyZDVNcVJXVTh1NktOeldYUmpEVkhJUEJk?oc=5",
-   "published": "2026-11-11T07:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTBxYm9tTjRtYTFhMEM0SU9EcDN0SjVuc1o4SDVVOUxCYUZFcnBnOHNMMHV1WHNPRUhlai1LbHBNMmxKNndYR3QzWHE3cmc0SGFHUjFaUk5nUnJONUJnbW1CYzFlcWRxZDc2RUFQcUtzRW56cXBaSUhhMXI4OEFGdUVzdnFLNzRfTkpUOG96VWhtVkd6ekVsZQ?oc=5",
+   "published": "2026-11-11T07:46+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트 규제 당국은 Kalshi를 기소할 준비가 되어 있다고 Politico는 보도했습니다.",
-   "title": "Wall Street regulator poised to bring charges against Kalshi, Politico reports",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1BwOWFaZUk0aEZOcjVKMkx3Q1FZZGJOYUxKZTI0VXJBa1RRZFFIN09qYXVPM0I5QVh0SzR4X3RPc2lSaUozY2EzZjVxa3dhN3hma3Y0MkNuZDA3UkQ4RW10NVhHZVM2OXNodWIyTTFlWmw3S3otbE5PMTRjczExQWZYRGxwQ0JIal9RQ0x3anF2X2o1WTdIZFg0U2hDbDY3cEE?oc=5",
-   "published": "2026-11-11T06:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "NextNRG, 나스닥 청문회 패널의 결정 및 상장 위원회 검토 요청 의도 발표",
-   "title": "NextNRG Announces Nasdaq Hearings Panel Decision and Intent to Request Listing Council Review",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUtRTmNnYkZucXVoaVMtT0NuVF9tX28yM3dMV1lIU1NiYjMzVUwtWGdWc3U0UVRpM293OW1uR2pvLWZWZGJXbG1BcjdqcmJWYUVsVGJrbzUxVU1jc3B2YnNkaHVYaU9PRUdYd2ZvdkVTVTJ2SUI2WGlmUHo3MkxyWjkxclF1ZXNtLVBEZ0wtQnZfdw?oc=5",
-   "published": "2026-11-11T06:45+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.74,
-     "asOf": "2026-11-10"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 6.25,
+     "asOf": "2026-11-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 주가가 다시 하락한 이유",
+   "summary": "Why Nvidia Stock Just Fell Again",
    "title": "Why Nvidia Stock Just Fell Again",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5",
@@ -120,18 +147,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Taylor Group의 James Taylor는 Nvidia 주식에 대해 장기적으로 걱정하지 않는다고 말합니다.",
+   "summary": "Not worried about Nvidia stock long term, says Taylor Group’s James Taylor",
    "title": "Not worried about Nvidia stock long term, says Taylor Group’s James Taylor",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRldEMEs3RjNYdFRyTXRucWtYNDB0Q05BckJrR0JnM2pRY2tiMXlEa3dPcUVOcW9XZ1BLQWxMMmYyVXlzMEFiM2gzSVJZblROS1VhMGJUTUtZbWFwRFBxTFJXcjFfYm5QNF93NEw2RFZyc0NIN0dzcFM1NFBrdHZRb0xMSkpZQUJPOGRYN2ZhaHhxWmE4ZlRNWF9MUXZqTktvTjE3ZDF0RTZLekpaSlh2a2VSX0NqQkE?oc=5",
-   "published": "2026-11-11T06:04+09:00",
+   "published": "2026-11-11T05:35+09:00",
    "holdings": [
     "soxl"
    ],
@@ -139,18 +166,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia의 1,900억 달러 주식 매각은 이제 CEO의 스파이 사건에 대한 소송의 중심에 있습니다.",
-   "title": "Nvidia’s $190 Billion Stock Rout Is Now at the Center of a Lawsuit Over CEO’s Alleged Spy Affair",
+   "summary": "Nvidia Sell-Off Deepens. What’s Next for the Stock?",
+   "title": "Nvidia Sell-Off Deepens. What’s Next for the Stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3IwUnZIQU5GUUQ1amJ0c1h3MXhUN0NnNjQ0RDRHS1l6UWtzaWRQMUlKTVNUTEpMY0RmNTB1eGNFWThvbGJ0SVdybjBDNkg2QUNxWXRMMzZMeXNna0dPcmlFdm1YQU04MjRGZzBmWTIwa1lSa2VxdXFmc0c3cDFmUHZ0M0FEZHZQTExIOUItSEprMzNGZmRlb2t3?oc=5",
-   "published": "2026-11-11T04:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9RTXNCNmFfdW9UZENyb2tmNHJic1QwVTNNSVozMFgtd0pVcWpJVDEtVUFFMEpMdHIyRndKYWFNdUNSS2JodHo0MUVZdThVMC05cmZHeTZWRXp1MjVIdjFyOF9VUTFJRHh1ZG9nWWlJYW4ycW5IbGNXNmZuaFhweDltemdsMmk3NUhJMUpIQUdMcVg1Z1g5Mw?oc=5",
+   "published": "2026-11-11T05:25+09:00",
    "holdings": [
     "soxl"
    ],
@@ -158,39 +185,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 6% 이상 하락함에 따라 Microsoft가 Nvidia의 시가총액을 넘어섰습니다.",
-   "title": "Microsoft Tops Nvidia’s Market Cap, as Nvidia Drops More Than 6%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2J4OFUxZmZsMVJhV1JUSUs5bjFoSWhGaTFnSkxibUprWlNhUFBEM0tLd0VTRHNKWE5zc0szc3lCcWpWUzdtb1dlTmpTRTZmQXVMeHI0azlDb3hYS0I0Y005Q0ZUOXYxa2ZCa25RV2UyR2V5aDh4dkVJdHFtTUt3UkhXcm9ad0lQOElfZGhzRG1wRS1kUHl1aVVGdE5SUQ?oc=5",
-   "published": "2026-11-11T04:31+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    },
-    {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": -2.2,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia가 2019년 이후 가장 극단적인 판매 수준에 도달함에 따라 칩 주식의 하락폭은 5조 달러에 육박합니다.",
+   "summary": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
    "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGhUMWhtSk5Kdm9GOHhVaFlETXR3clBfSEI0VnRtTHNtWEFNWkIxelY4R2NyUjQzMjg5SF9JZ0xOZldPSGR3WlBhejJjNTdmM21HdFQzaGpwMEFrVGxMMFB1RHQ0MkVvOUtCeklOMFJmemRmUDRIRS1sS2VheW5UUDc4anhmQU5ZUV9HY09lTEpUWmFfLWZOOXhUcVZFeTRVQXZVeGE0TzhxdVVnaDRPTzdVWXY2TmQ1UEgyNGJHMFhFS241ZkJGa1o2NHphdmdSV0xCRjh0Q0k0MHdF?oc=5",
@@ -202,8 +204,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": -4.27,
+     "asOf": "2026-11-09"
     }
    ]
   }
