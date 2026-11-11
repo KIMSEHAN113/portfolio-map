@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T01:36:30+09:00",
+ "updatedAt": "2026-11-12T02:31:39+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -18,6 +18,27 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nayax (NYAX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "title": "Nayax (NYAX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDdqN0QwUEVSVjJLWjlldFkzSXFONENHUEtZQjZtYmFFaUdqMGpJSEkyMWRXTDdSYmxYVEdIZVZsdTVpS2k0Tll0TUQ1MDR6eVppR1U5c1ZMZ05YRGlab3QteFVYN2JHSmNRcmVNTlg0emZRaHRIZUMxcUNrSFVMR0VBMTJJU3RIYkFkdVQtSXNOSmF1dlE?oc=5",
+   "published": "2026-11-12T00:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
      "asOf": "2026-11-10"
     }
    ]
@@ -86,33 +107,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Rebounding AI stocks lift Wall Street",
-   "title": "Rebounding AI stocks lift Wall Street",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
-   "published": "2026-11-11T23:32+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
-   "title": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
+   "summary": "NVIDIA Stocks Rise Despite Baird Downgrade as $10 Billion Anthropic Bet Emerges",
+   "title": "NVIDIA Stocks Rise Despite Baird Downgrade as $10 Billion Anthropic Bet Emerges",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjA5MjIyVVY3MU9yTGhNOVVGSUpjYTB5UUV3c3M3U1FOb0lwQTE5OW15Z2dqdkJiZ1lhMjVsb3U0YjMzMjB5eE16aVM0Y2I1OGxKb2RzbU85UU1tUS1XRVZkUXlMWDJLXzB1QkhFd0NoV3FGZktHejEyYm1VSzYtSVNhV1BNYXltUkxzN2lkUHFDZ2cwWVJFWUwtdi04NXhUUzZQY3hmN3pGS0llbVB1RVNrRQ?oc=5",
-   "published": "2026-11-12T00:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmdSdTRSdmdQT3NENEU4UEU5ODUyWFBINmZYY1RVMTZlRlRDVGttaW93WnRPUmVxdzBlZmJqMFR4SHBhMFp3ekM4N1lTQnd0dkh3WDBWQjhWa0tERTJvaUo5X29OcWNJaUE5cWZLWEN5TXF4cm9kTTVlTHVTRGk5ckRDcDAtZlRIMkMyN25mcU5XeHlPUEh2MERuWHpBUQ?oc=5",
+   "published": "2026-11-12T02:09+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,57 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "$2.5 Million for the Jensen Huang’s Kids: The Nvidia Filings That Are Lighting Up Wall Street",
-   "title": "$2.5 Million for the Jensen Huang’s Kids: The Nvidia Filings That Are Lighting Up Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUJMdkRvU0pJX01QY0JOaWpldlZwR3N3aE93MEVScU05QXlNYkowdW5BZmlJTWpSbW9ZUGdfNHRQUHlBRURvTklSNFh3emkzZnhpd3lRWEhRS29va2R3NFk1ajlUUGJhd0tFdjdZam5GQWlrVWFpbno1MFBDemVGTHp2NjIxWlByWldHN2x4WWw4QU0?oc=5",
-   "published": "2026-11-12T00:33+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Marvell and Intel Rally 7% as CoreWeave’s Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
-   "title": "Marvell and Intel Rally 7% as CoreWeave’s Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkgxNWZhV21wSTd3Y1JhcENLT2NoNEROWmd0cHdtbTAxSlVSNC1tNE5LbzN2MWxZX1o4dDFMZkNnWDFmNmw3VVdMTk9EZS1NZ1ByMkhCYjN0c19LTFdwdjUwWDIzQm9HV3h5b2hKRmFSOEtKRlB2MTVmNHo3bWxxcUFMYTFiMDZWTXBWT05GeXpQT3RSXy1yQlVDZw?oc=5",
-   "published": "2026-11-11T23:48+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": 2.02,
-     "asOf": "2026-11-10"
-    },
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -2.09,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Key Nvidia stock levels to watch if pressure continues",
-   "title": "Key Nvidia stock levels to watch if pressure continues",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDlLVjVKeGIzSVkyMTN1UWhyaUdsQWdVbWhDdkNhQzVFM09FSkZ0V3NYbWd4VmQzV0NNd2VlSzR3MkVjT1pHaVhHcHF6VTF6TWlzVWlYUmNqdFRKZVpxSXZ0WWNIZFBjcHNfbzRUQ0ZjdWZCdWxENXdIa09VMVdQbHpkRVgwT0lpTVJkQ0pTTkJXTmxKZmxudkNR?oc=5",
-   "published": "2026-11-11T23:44+09:00",
+   "summary": "What do Nvidia's stock struggles mean for your 401(k)?",
+   "title": "What do Nvidia's stock struggles mean for your 401(k)?",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEtwZS1lUFFnVXFXbEhLbEYtN0pGdk9YVnhCODFIN28tZUFtYzNQRmhVU3dKb19WRjExWnJPOVBWNUNmLWs0U3J0a0dXMHZZVUwyb05mWWlhSDBGY1JEUF93UVBPTnNjSDFpTlVwQVhVUEdEZkZ5OHp4azlDcU1TcFpB0gGHAUFVX3lxTE5kdllWWnhyMWpsTEdvbzJSb1JBalc3N0VXTE5PNnJXMm5yYnZkMWh5VE03MkVBQjdwY2tBTVhFS3dZWFQ5Y3p5UGcwcXYxXy1yTFc5aDh2d3h4T3pfaEpKeXpuSmFHSkpMX2VURUtNa0pFVjd6U3dfVlV0TnpCejFuNEp6OXVJdw?oc=5",
+   "published": "2026-11-12T01:56+09:00",
    "holdings": [
     "soxl"
    ],
@@ -192,11 +146,51 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Dan Ives warns removing Jensen Huang as Nvidia CEO could wipe $1.2 trillion from the company's value",
-   "title": "Dan Ives warns removing Jensen Huang as Nvidia CEO could wipe $1.2 trillion from the company's value",
+   "summary": "Micron Stocks Jump 11.2% as Memory Rebound Meets $1 Billion Anthropic Placement",
+   "title": "Micron Stocks Jump 11.2% as Memory Rebound Meets $1 Billion Anthropic Placement",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmx4dGtCYmxoY0JTMjdtaC1FTmZ5dTRrZXZWTjR4d2tMR1RLSzdCRmJCNlFnSUVYZGcycExQbTEwd1F5ZG1zRVRzdWhVTlhvdU9DWTdBaUo3TWdjMzBjNDhnWVhCV0VWNTFoVFZYT2xtM2xmOThZUEM3OHNhdU9tZGJhNHE4UTdPWUxqOV8zNDMwaV9lX0NsVEtnRQ?oc=5",
-   "published": "2026-11-11T23:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOay1XZGtHS3MtbXhuS0daVjJYWWhaSWRDcy1qVTBURGRtT3lOQS1lNXMyN3pwaEtIYURUcnVPR2I4SnMzdjNUTHR2ZlJlWjAxQzdhbkUtdW9yTWxYSDNkR0ctY2t2RjcxRUZDd0oydVZxLWItalpPLWxsTERfUWo2ZUZRNXlwN3BVdzE1OURCX1Z1QQ?oc=5",
+   "published": "2026-11-12T01:54+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.1,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock bounces back amid CEO scandal",
+   "title": "Nvidia stock bounces back amid CEO scandal",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRFhYdHRQV2NvMXBPVjF5aVM1d1RDeEQ3ZFVQaExMX0lvbTZINjh0cUxsc1BweFFWR0ZYdWJjV0daUXk2eUlEWnlCWTQ?oc=5",
+   "published": "2026-11-12T01:37+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia faces Baird downgrade as AI spending outlook and China risks cloud growth",
+   "title": "Nvidia faces Baird downgrade as AI spending outlook and China risks cloud growth",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFNnbmh3Z0k4WlNOb3Vvd0s1MW53NlVLQWRYQXVhdVFsM3duMkZHSHpsRWtobzF4Ty01VE1hTlcwNlRTUW4wbk1TVm8tS3gtMDc2MjJPbHJ2UzR2T2FEdVNwMDVscWRtZmhyWnlDWkhaM1Y4NlBrdmpFSDkxS2VBUGgyd1dGVllHNTNTR1djQTNMNW5zOFdaaHBGcw?oc=5",
+   "published": "2026-11-12T01:28+09:00",
    "holdings": [
     "soxl"
    ],
