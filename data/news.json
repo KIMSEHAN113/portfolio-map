@@ -1,9 +1,51 @@
 {
- "updatedAt": "2026-11-12T00:13:24+09:00",
+ "updatedAt": "2026-11-12T00:54:56+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Nvidia 다운그레이드, Mercury Systems 업그레이드: 월스트리트의 최고 분석가 호출",
+   "summary": "Wall Street is pricing in two big risks for Nvidia",
+   "title": "Wall Street is pricing in two big risks for Nvidia",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1iRWNYa2hBbjhoR2xKNkdvX0J5QkwzbzJvTDk1WDlTcDdaQmQ1U2VVQldIaGNuS2JaU3d3VjdaT3hhUUpSenNfTzJheFlLcjQycW1RQm1FaWFtT05Qb29ULTZHSlRPcVZhbEh0YnYwVmRsa19XaGJ1WUh0NnlmOUVZQjBJam1TWkZVbVdfUDVvUFZjSjJmbm1wX1YwQQ?oc=5",
+   "published": "2026-11-12T00:24+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street is shrugging at CoreWeave's debt and OpenAI's losses",
+   "title": "Wall Street is shrugging at CoreWeave's debt and OpenAI's losses",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenE4Y2VVNmRuZ0VvcWRpZWM3NW1zbFdEZTZYZTdXZ05KRXJSN1dIa1BWSkNLT3duTDcyeEs4ZTNLcXItZ2ExcV9JZzVpZExiUVRnb1FhczBWQ1FkeHhPdHB4UkJoMngzN25YZjExbk9ZVWdZMjB6cVVaYm51QWlnSllCNGY1d3EyRTNrOFJFSHdtOXBYa2lTU2RzQzRFcnkzRkJRNnU2UThtRHR3ZVE?oc=5",
+   "published": "2026-11-12T00:09+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
    "title": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1VjVGZJSG9MZ09CVmthU0dITFI0Y25iU05EbHdMcy1TRkxiYl94ZUdJY2dnQUtsMFROeUxTVFNZb01jZnZESTNvdnVzZzV5anlnRXA4MVlzT0JjM21yNzFGdVF1cXJYSXYtOWNDWDFCS01GdzNDRTAtWER5eXVpUWdWNHNHNVJQajh4SFc5T2l5Yno0bURQZlplTjRvQWVZMHYtSHNNU1hlQUE?oc=5",
@@ -24,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "AI 주식 반등으로 월스트리트 상승",
+   "summary": "Rebounding AI stocks lift Wall Street",
    "title": "Rebounding AI stocks lift Wall Street",
    "source": "AP News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
@@ -45,7 +87,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "CoreWeave의 3분기 결과로 월스트리트의 AI 우려가 완화되었습니다.",
+   "summary": "Wall Street's AI worries eased by CoreWeave's Q3 results",
    "title": "Wall Street's AI worries eased by CoreWeave's Q3 results",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVZ5aFpFV0cyZThFVC00NmVrcDJSWmQzT0FXdDdSYzVaOXpmODhXRFp3d2JLc29UNzFoS0lmR0ZSNkZFSnZhSHNPeUpDMjg0Q1NuY3k4MnNoLU13YW9ocGhEcG9uWEhhazh2MG44N1RwcmthZy1OZHVQUEpwaDVZTUVwelNDbEcybWhjNVNtYjFscVFxRWNqWHVMa1Z4bVFiYXJ3?oc=5",
@@ -65,56 +107,67 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "미국 시장 개장을 앞두고 CoreWeave 수익 지원 기술 주식으로 월스트리트 선물 상승: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Rise as CoreWeave Earnings Support Technology Stocks Ahead of US Market Open: Dow Jones, S&P, Nasdaq",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm93M3ZTUUpxSWZzVlFRX1JnWnY4SU5wY0UtVGh3LWRUOVFZVV9KQ2FZUjFJUjZzLUZVVEhnY3A3QS1LZ1g0MHlvcHZWSjFkRUlWWUo1dnJrSE80aEZZZ2pIWVRxUXp4bEhzcE1fNXlaVWFfRUREVjktZ0NoVFhoRXRNZ3U1LVZDNG5CTHF2LVItVS16R2hkWVZWaURVeXZv?oc=5",
-   "published": "2026-11-11T23:14+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Video Nvidia stock rebounds amid spy scandal news",
+   "title": "Video Nvidia stock rebounds amid spy scandal news",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlX0xSWk5kMGpXM2ZIaVdkVm4ydW15T2lxTmFCajZ4WUpQVG5kQTFaNXVhdzhNc0l6Qzhjbnl5T0U2UFUtOUswVHp2SUQ?oc=5",
+   "published": "2026-11-12T00:52+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.74,
-     "asOf": "2026-11-10"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -0.3,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥 랠리가 분기 실적 부진을 상쇄하면서 리게티 주가 4% 반등",
-   "title": "Rigetti shares rebound 4% as Nasdaq rally offsets quarterly earnings miss",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHpIckxlLUFWVmgxYURJeEF3aUJCc0VOV1NEYXFGWlVnbHltR19sajZVR3NFWmdtMExRQm9uZnF0TUlMeDlUejREd2lEM1E5cGZrQkhja0otclN4ZGpBRXlaV1FlUnhwSXJ3czNrcW1IbWlBUnN6MUl6d0tBODh4NmhKSWZwSDA?oc=5",
-   "published": "2026-11-11T23:09+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.74,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
      "asOf": "2026-11-10"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "압력이 계속되는지 지켜봐야 할 주요 Nvidia 주식 수준",
+   "summary": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
+   "title": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjA5MjIyVVY3MU9yTGhNOVVGSUpjYTB5UUV3c3M3U1FOb0lwQTE5OW15Z2dqdkJiZ1lhMjVsb3U0YjMzMjB5eE16aVM0Y2I1OGxKb2RzbU85UU1tUS1XRVZkUXlMWDJLXzB1QkhFd0NoV3FGZktHejEyYm1VSzYtSVNhV1BNYXltUkxzN2lkUHFDZ2cwWVJFWUwtdi04NXhUUzZQY3hmN3pGS0llbVB1RVNrRQ?oc=5",
+   "published": "2026-11-12T00:39+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "$2.5 Million for the Jensen Huang’s Kids: The Nvidia Filings That Are Lighting Up Wall Street",
+   "title": "$2.5 Million for the Jensen Huang’s Kids: The Nvidia Filings That Are Lighting Up Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUJMdkRvU0pJX01QY0JOaWpldlZwR3N3aE93MEVScU05QXlNYkowdW5BZmlJTWpSbW9ZUGdfNHRQUHlBRURvTklSNFh3emkzZnhpd3lRWEhRS29va2R3NFk1ajlUUGJhd0tFdjdZam5GQWlrVWFpbno1MFBDemVGTHp2NjIxWlByWldHN2x4WWw4QU0?oc=5",
+   "published": "2026-11-12T00:33+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Key Nvidia stock levels to watch if pressure continues",
    "title": "Key Nvidia stock levels to watch if pressure continues",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDlLVjVKeGIzSVkyMTN1UWhyaUdsQWdVbWhDdkNhQzVFM09FSkZ0V3NYbWd4VmQzV0NNd2VlSzR3MkVjT1pHaVhHcHF6VTF6TWlzVWlYUmNqdFRKZVpxSXZ0WWNIZFBjcHNfbzRUQ0ZjdWZCdWxENXdIa09VMVdQbHpkRVgwT0lpTVJkQ0pTTkJXTmxKZmxudkNR?oc=5",
@@ -133,74 +186,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Dan Ives는 Nvidia CEO가 Jensen Huang을 제거하면 회사 가치에서 1조 2천억 달러가 사라질 수 있다고 경고합니다.",
+   "summary": "Dan Ives warns removing Jensen Huang as Nvidia CEO could wipe $1.2 trillion from the company's value",
    "title": "Dan Ives warns removing Jensen Huang as Nvidia CEO could wipe $1.2 trillion from the company's value",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmx4dGtCYmxoY0JTMjdtaC1FTmZ5dTRrZXZWTjR4d2tMR1RLSzdCRmJCNlFnSUVYZGcycExQbTEwd1F5ZG1zRVRzdWhVTlhvdU9DWTdBaUo3TWdjMzBjNDhnWVhCV0VWNTFoVFZYT2xtM2xmOThZUEM3OHNhdU9tZGJhNHE4UTdPWUxqOV8zNDMwaV9lX0NsVEtnRQ?oc=5",
    "published": "2026-11-11T23:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "CoreWeave의 주가 급등에 대한 CNBC의 전체 토론과 'Squawk on the Street'에 대한 Nvidia의 조사를 시청하세요",
-   "title": "Watch CNBC’s full discussion on CoreWeave's stock surge and Nvidia's probe on 'Squawk on the Street'",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU25FLTVJdnZ1bUhhZGlJSFBOaWxoTThGWWpWNFdXM3FuM1VGMGxGeW5iVnFUc2tEUUJwdjE5R05kT0FUUWxqSGRqMG4xa2cwYkNwSnZ2eDlMcjBXREMxRmNjLXVZWDJ0VnJYdTNRcnRNNTZMTmNEb0R0SWtiemhBZDgweUtpcGQyN0hBTW92dVZjYU5IVkE0WktKbDZYS1ZKX1k2LTNQd3pEZTBPam8teTVRNDNrUDcxaG9NNUs2bzdINzUxU1I0aHpXLXl0aEtRa1ZONy13?oc=5",
-   "published": "2026-11-11T23:29+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Baird 다운그레이드 및 Huang 불확실성에도 불구하고 NVIDIA는 4% 상승합니다. AMD는 5% 상승, Broadcom은 4% 상승",
-   "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjhGXzk1WWc5R3RyWExVNld2MWNZY1hKLTFyTDVuTnRobDFXUktfVDYzTTBHNVpMMDEzT1p3bXN6YUlmb0hYSTNVRDNVSmE2dTF6WS1iLWFPOVdSdG1GMjE1LTE3MnBUNlZueHRrdnVzbEtlUWplSks4a2JFLWV3TGhiWDhhN2tSbm84MENGNzhFcnNYZzJvdQ?oc=5",
-   "published": "2026-11-11T23:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    },
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 3.91,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 주식 반등, CoreWeave 수익으로 AI 거래가 증가함에 따라 칩 주식 급등",
-   "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWdSbHUwUHp3b2d6LXhNcWR5NGpEeC1Nd2hsN2pUNHl3aVRrR09oSFhYdGQyNFVSdXVxZkZadDA1TTNwcV9ycF9jUlRJcnpSaUFnenIwdzlpM1g1V0lERE1ScEIwalZZb1JrYXVvVXZySUJyRmZXMmZWYmE5TlFUR2hmcy1Id20ydlB0dElabUtPU0l2WGI1dHZqNExXSmNZSEJCUmZhdnk2SklpeUlENWdwanVtZGFIdndGVXBQSUQ3V0dLbW5JZlktYWRSWlp3RVVnM3R2UlNuUTBqbG5kc0lnZzJpWmJaNFlITExJLVpkM1ZKUTQ4bWU4ekl4eVhod3h5Q0pUUmhobGZHRG05MUFoVU15OG5IUG9Xaw?oc=5",
-   "published": "2026-11-11T22:54+09:00",
    "holdings": [
     "soxl"
    ],
