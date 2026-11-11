@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-11T10:16:17+09:00",
+ "updatedAt": "2026-11-11T13:32:30+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500 Sell-Off: 1 Investing Step to Take Right Now, and 1 Risky Move to Avoid",
+   "title": "S&P 500 Sell-Off: 1 Investing Step to Take Right Now, and 1 Risky Move to Avoid",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVNHT0w4aENfY2h6dy1mSTlVb3JPamtzTVFBQUx3X3FIdFdsSmpQVnFCVVVtY1Y0RE9qY08wVW1STWRtb0F1ck1xVlR5OEQ2QjUxVkZQUWRyQWZjb3ZlZTJuTlVWY1VCWS1fc2owZFhPYVdRSWstZ3dOWktTVnV3MjVrOUFOS05f?oc=5",
+   "published": "2026-11-11T12:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
@@ -17,8 +38,8 @@
     {
      "symbol": "AMZN",
      "name": "아마존",
-     "chgPct": 2.94,
-     "asOf": "2026-11-09"
+     "chgPct": 1.48,
+     "asOf": "2026-11-10"
     },
     {
      "symbol": "^GSPC",
@@ -65,8 +86,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     }
    ]
   },
@@ -92,22 +113,58 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
-   "title": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
+   "category": "반도체 · 메모리",
+   "summary": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More",
+   "title": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkphQ1EwdGpRRkd2b1FqQnR6Z2x4UXlxUFJSZFpReTlsSnVZUjBXZlhKT3k3M25UOHMzUFFnSk9IbnFtSnFuMThzWExLZ0FIUmQ4cmZpc3pqYWI4cjM5Nl9DdVcxdEc3ckZNdUN0bjkwVmN1dGtMWHNRbGtXLU9rVXhZSWljaVBPVXpGZmJEUFVwRDhDRkh6MmJSSzBGT19aX1R4Qm1vYmdQd3NGZmpfYzlRNm84RmVZcTNINVh6V1hRZENvX1dj?oc=5",
-   "published": "2026-11-11T07:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5",
+   "published": "2026-11-11T11:20+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Did Jensen Huang Mislead the Board? Gary Black Raises Questions As Nvidia CEO Returns to ‘Business As Usual’ Amid Affair Fallout",
+   "title": "Did Jensen Huang Mislead the Board? Gary Black Raises Questions As Nvidia CEO Returns to ‘Business As Usual’ Amid Affair Fallout",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0xXMzk5b2Fvd1g3Z2Y4YjlLc0JQbmVZQTVERklzLWk5dmRkSjFLNC1pVFJjYTcta0FDTy1NUTAtZzhyQUxHaFhzSU5LZzVWckU2cDJvazZQZjE5SG9KaHVnX01JUnMtbE82bTVfZ1NTWHVUM3Z4YjFaQUJGSnhCZ2MzRTNKMVdlcVpiM0JLV3VNQ2ExWWpzZmotcw?oc=5",
+   "published": "2026-11-11T11:17+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
+   "title": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUNTNGk2aVpBNHQzZXJoaUFTcm5HMTJBOHhGLU5qeGt3T19DN3I4Y21VSl8yVjZDR2VDc0l1RkI0bjUyZm5ZS0NOTzZTN0ZQeGgzYnZTQjd0YzJRMl9BSjFUV3dNV3l2YWx1QXBGOXNlT3ZTWjRKWUpuNDNpUXE4M0c1b0RjTnpGcmE0WkJtMGZudFBVUGYw?oc=5",
+   "published": "2026-11-11T10:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
      "asOf": "2026-11-10"
     }
    ]
@@ -128,8 +185,8 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": 6.25,
-     "asOf": "2026-11-09"
+     "chgPct": -1.1,
+     "asOf": "2026-11-10"
     }
    ]
   },
@@ -147,65 +204,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Not worried about Nvidia stock long term, says Taylor Group’s James Taylor",
-   "title": "Not worried about Nvidia stock long term, says Taylor Group’s James Taylor",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRldEMEs3RjNYdFRyTXRucWtYNDB0Q05BckJrR0JnM2pRY2tiMXlEa3dPcUVOcW9XZ1BLQWxMMmYyVXlzMEFiM2gzSVJZblROS1VhMGJUTUtZbWFwRFBxTFJXcjFfYm5QNF93NEw2RFZyc0NIN0dzcFM1NFBrdHZRb0xMSkpZQUJPOGRYN2ZhaHhxWmE4ZlRNWF9MUXZqTktvTjE3ZDF0RTZLekpaSlh2a2VSX0NqQkE?oc=5",
-   "published": "2026-11-11T05:35+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Sell-Off Deepens. What’s Next for the Stock?",
-   "title": "Nvidia Sell-Off Deepens. What’s Next for the Stock?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9RTXNCNmFfdW9UZENyb2tmNHJic1QwVTNNSVozMFgtd0pVcWpJVDEtVUFFMEpMdHIyRndKYWFNdUNSS2JodHo0MUVZdThVMC05cmZHeTZWRXp1MjVIdjFyOF9VUTFJRHh1ZG9nWWlJYW4ycW5IbGNXNmZuaFhweDltemdsMmk3NUhJMUpIQUdMcVg1Z1g5Mw?oc=5",
-   "published": "2026-11-11T05:25+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
-   "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGhUMWhtSk5Kdm9GOHhVaFlETXR3clBfSEI0VnRtTHNtWEFNWkIxelY4R2NyUjQzMjg5SF9JZ0xOZldPSGR3WlBhejJjNTdmM21HdFQzaGpwMEFrVGxMMFB1RHQ0MkVvOUtCeklOMFJmemRmUDRIRS1sS2VheW5UUDc4anhmQU5ZUV9HY09lTEpUWmFfLWZOOXhUcVZFeTRVQXZVeGE0TzhxdVVnaDRPTzdVWXY2TmQ1UEgyNGJHMFhFS241ZkJGa1o2NHphdmdSV0xCRjh0Q0k0MHdF?oc=5",
-   "published": "2026-11-11T04:15+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.27,
-     "asOf": "2026-11-09"
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
     }
    ]
   }
