@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-11T13:32:30+09:00",
+ "updatedAt": "2026-11-11T22:10:14+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500 Sell-Off: 1 Investing Step to Take Right Now, and 1 Risky Move to Avoid",
-   "title": "S&P 500 Sell-Off: 1 Investing Step to Take Right Now, and 1 Risky Move to Avoid",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVNHT0w4aENfY2h6dy1mSTlVb3JPamtzTVFBQUx3X3FIdFdsSmpQVnFCVVVtY1Y0RE9qY08wVW1STWRtb0F1ck1xVlR5OEQ2QjUxVkZQUWRyQWZjb3ZlZTJuTlVWY1VCWS1fc2owZFhPYVdRSWstZ3dOWktTVnV3MjVrOUFOS05f?oc=5",
-   "published": "2026-11-11T12:05+09:00",
+   "summary": "Pat Toomey weighs in on congressional stock trading ban, Warren’s Wall Street warnings",
+   "title": "Pat Toomey weighs in on congressional stock trading ban, Warren’s Wall Street warnings",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ydUQ0aE0zcGhJT1hIQmdDcW1ZNjd0eXFBeS1fVUZ6VWxBRWxaQ3R3LWJvWkxPSEpXUTY4LXJSNi02T2c5cXFGWnV6Ym1ZLTJIbEVvWmJrX2FfT3c?oc=5",
+   "published": "2026-11-11T21:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,59 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
-   "title": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
+   "summary": "Nvidia stock gets a rare Wall Street downgrade on supply issues",
+   "title": "Nvidia stock gets a rare Wall Street downgrade on supply issues",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlp0WlN6d2FIbVdORmhxTm1zM1hGeDNEWVdPM1dCajY0WHFwZm43b19aUG5KR3g3YVA3YjAxajZydHRIdkp2MmhBYWNmTHBFUEpxRk1nNHB6bTN2SFJIMks3YWg3M2w5UW90eUZUQ2RwV2FTNmNQek5DV2sxYnYtQnJvNEMyMWhoalpDWjlDeU5xMVhrazhTMEZoYVhRSUtXNGc?oc=5",
-   "published": "2026-11-11T09:51+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": 1.48,
-     "asOf": "2026-11-10"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
-   "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5",
-   "published": "2026-11-11T08:41+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
-   "title": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldvSFZJVkE2dnE0Ym1nMUlmMTdJSTZnZGJvUXlWck1jcl9JdHR1bFBUaDIyRV8xRmtKSXFraEZkM2RMUWh0bzRMYThSSWpaR0l6cUphT3J0MG5KWDFVVEJWUk9sT1ptcEJWZWdwZV9zQTByU2xSU3RHM2NoXzRrOHV2SnRaOHVIX0MyaU80VUJpcW5q?oc=5",
-   "published": "2026-11-11T07:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2RVUEhGdlpJdDhvQzZDRW1fVFZVV2VYMUd5N2VSUnh6Tnc0cktHOFhmYTRMblRxQ1JnLUQ0ZXJSZUpQT0hpeERfZkJpQ3gyWnY2QndZak40UXVCbHZrQTVqNTdqMllwVWpxZnpMUjFUdkhqY1lHN1c2SXJjR0ZuT3lPdmkzYkRiVEs4THRzaFBnYWlCTzFJ?oc=5",
+   "published": "2026-11-11T21:26+09:00",
    "holdings": [
     "soxl",
     "rise-sp500",
@@ -93,11 +45,59 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Only 2 Novembers Since 1950 Have Started Worse for the S&P 500 Than This One. Here's What Followed the Other Weak Starts.",
-   "title": "Only 2 Novembers Since 1950 Have Started Worse for the S&P 500 Than This One. Here's What Followed the Other Weak Starts.",
+   "summary": "Palantir stock falls 19% as Wall Street spots a warning",
+   "title": "Palantir stock falls 19% as Wall Street spots a warning",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeExBQXIwTm5kSmhHTmg5UUcwQjdoN0JCZ1dJLVlWckNfVi1CbXZ4UzFkWXliMGFDU0dpSzFDTmZiUFRpZFBJbHctcS1oTGt6LTF0empVM3hwOEkyVlk3NEtsOTBQcmtNZVVQUUMtOFQtUVhOSEN4NWhkNnlrbjBMVkE5UTZGY0JvSlgwT0xVMC1WTkFOUkFv?oc=5",
-   "published": "2026-11-11T07:27+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXgwYmNZbGFWWTQ2TDVpQU5IYU9zQmg3RTBjN0xISWJxRW1ETnlENjB5Ujdua1dTSmlqSDRTcEpqVmdRQ0t0RWZSa0hZZUNFS1pLeE1SUC05R0kwTW5aR1NySzdxQ3BTZXF5R09qTWpuNWhyNmhYVnF5WGpiUjBITFhWRFpHLWxkTmVETHVaeFBMZ2ctWXdrZw?oc=5",
+   "published": "2026-11-11T21:14+09:00",
+   "holdings": [
+    "pltr",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "PLTR",
+     "name": "팔란티어",
+     "chgPct": -0.22,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $75.6 Million More Apple on Monday",
+   "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $75.6 Million More Apple on Monday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVlISjJUOHhCZFVodW9CLW1qbzE3bVFCdHZHOFNwanlVcldjb2twSUpRQTZ2S09SNGFuOUw1MFJNaVEtSVRhZDZmVGs1V29UUEp3M215N3QyRjJXMlR2b2FLeGVaeHNhMTJkd0pzaUowSENXM0RGMTBCTnNGQUpRZjVBYkIybmcxV21hV1d0Q0E3LWJobnFOMjZ3?oc=5",
+   "published": "2026-11-11T20:03+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -0.62,
+     "asOf": "2026-11-10"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.38,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "PepsiCo Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "title": "PepsiCo Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdUQURjRnlZNzNUZGhaVEMwVC01RFFab0xTb1ZaZ2l0d0tzUDJ1NDNiMWxPQ3BJSDV4cllLM0U2MFo5R3pWREc0TUxveHU0QmJSQ2g2THRPZ0xKNkhxelVVQUxKbmRQdGZuVG5vNFBDR2UwWmFZd0hWN1pjbXlsd1FjZDlhUUJ1QzVNcDBOUVlTc0hId0MwX0FhY21aMHM?oc=5",
+   "published": "2026-11-11T20:02+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,11 +114,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More",
-   "title": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More",
+   "summary": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+   "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5",
-   "published": "2026-11-11T11:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2xKQmpXZ0lCUE5CX0tFTUhtek1PY3VqN1NycnQzOTBja1hzM09wbUpqOGJ1bGtuRWs4WkJFajQ2Yy11SGtTU2tlNFo3ckF2bVk4WWl4c05IekRuMnpudVZxb0M4eU9mTWdkc2NsbjNTUWM3emVkbk50bWpDS3FENDhGNXpmaFNwR09QamplQlNlTFFxY3c?oc=5",
+   "published": "2026-11-11T21:15+09:00",
    "holdings": [
     "soxl"
    ],
@@ -133,11 +133,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Did Jensen Huang Mislead the Board? Gary Black Raises Questions As Nvidia CEO Returns to ‘Business As Usual’ Amid Affair Fallout",
-   "title": "Did Jensen Huang Mislead the Board? Gary Black Raises Questions As Nvidia CEO Returns to ‘Business As Usual’ Amid Affair Fallout",
+   "summary": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
+   "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0xXMzk5b2Fvd1g3Z2Y4YjlLc0JQbmVZQTVERklzLWk5dmRkSjFLNC1pVFJjYTcta0FDTy1NUTAtZzhyQUxHaFhzSU5LZzVWckU2cDJvazZQZjE5SG9KaHVnX01JUnMtbE82bTVfZ1NTWHVUM3Z4YjFaQUJGSnhCZ2MzRTNKMVdlcVpiM0JLV3VNQ2ExWWpzZmotcw?oc=5",
-   "published": "2026-11-11T11:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNG1aaGJzX0JORkF6cVdTUFdBdGJlUDlTeTVNQVhYU2g3dmhWYi1WUzBhWnJoazcyeXF2M1J6dlZ5Ul9xNm1GZ3VNZ1FyS04yQ21fcUdmdm9pbHlfcWdrUmFsQ0xzUlFPUWRIRmdBYW44UnRBUVJ6cGRELWJmS3J3WDZFcVl5Qm10NkhnNDd4bDlSakp0ejRzbmpUdV9udw?oc=5",
+   "published": "2026-11-11T21:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -152,11 +152,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
-   "title": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
+   "summary": "Is Nvidia a Bad-News Buy or a Stock to Avoid?",
+   "title": "Is Nvidia a Bad-News Buy or a Stock to Avoid?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUNTNGk2aVpBNHQzZXJoaUFTcm5HMTJBOHhGLU5qeGt3T19DN3I4Y21VSl8yVjZDR2VDc0l1RkI0bjUyZm5ZS0NOTzZTN0ZQeGgzYnZTQjd0YzJRMl9BSjFUV3dNV3l2YWx1QXBGOXNlT3ZTWjRKWUpuNDNpUXE4M0c1b0RjTnpGcmE0WkJtMGZudFBVUGYw?oc=5",
-   "published": "2026-11-11T10:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjJYaDViODVHQmxLM2g5LV81cHFBYU4tcnF5Z3duZXByZ1hoN2ZXcHJHeVFNdVJqMDBXUUJ2X3lYb2xwdnpNajBaR0xtbnRhbi1pdE5kZ25EQ1dYel9QSWJUV041SmQwZ1ZtbzZCSEZPdlUzdDRnWTJkS1dnMU95eTdELVNDTDNwbWN5UWtGTDRUVVBG?oc=5",
+   "published": "2026-11-11T20:50+09:00",
    "holdings": [
     "soxl"
    ],
@@ -171,32 +171,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "‘When Greed Is Good,’ Says Top Investor About Micron Stock",
-   "title": "‘When Greed Is Good,’ Says Top Investor About Micron Stock",
+   "summary": "Dan Ives Says ‘Spy Soap Opera’ Could Send Nvidia Stock 30% Lower Without CEO: ‘There is Only One Jensen’",
+   "title": "Dan Ives Says ‘Spy Soap Opera’ Could Send Nvidia Stock 30% Lower Without CEO: ‘There is Only One Jensen’",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTBxYm9tTjRtYTFhMEM0SU9EcDN0SjVuc1o4SDVVOUxCYUZFcnBnOHNMMHV1WHNPRUhlai1LbHBNMmxKNndYR3QzWHE3cmc0SGFHUjFaUk5nUnJONUJnbW1CYzFlcWRxZDc2RUFQcUtzRW56cXBaSUhhMXI4OEFGdUVzdnFLNzRfTkpUOG96VWhtVkd6ekVsZQ?oc=5",
-   "published": "2026-11-11T07:46+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR01NQmlnaWhNczV5SjdjclVxTmhrMWRxOTdDcHRUUDNlcXhMTk9EUXMwQUp4T3NIc0I1SWt0dEtUZjRxMDI0RUtwSF9QUlRZN0d4LWtMUFZVZ2JOd0Z2ZTJKM0V4MmtXeGk5RllmclNiNFN6TkEwRlVURmZTcGY4dVoyMk5hT0o0SmtsdTlXQTI?oc=5",
+   "published": "2026-11-11T20:45+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -1.1,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
      "asOf": "2026-11-10"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Nvidia Stock Just Fell Again",
-   "title": "Why Nvidia Stock Just Fell Again",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5",
-   "published": "2026-11-11T06:55+09:00",
+   "summary": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+   "title": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
+   "published": "2026-11-11T19:03+09:00",
    "holdings": [
     "soxl"
    ],
