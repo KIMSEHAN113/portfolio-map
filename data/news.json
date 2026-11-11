@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-12T00:54:56+09:00",
+ "updatedAt": "2026-11-12T01:36:30+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet",
+   "title": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVFOR2J3MVVxbW16U3BQWHZaMzVwUGRMTkY4SUxxbXFvUDFvSldIRk5VMXUwVUE5QUdnbXBMbUVORHVESk5YUVZmUlo2NHZqc1pIUFAwazZnR2xyc0Nvcjl4WnVWX05xQXYzYzRlbnRBX0ZOX0loZ3ptR3NKS2lwN3AxYmNwdFo4Y0UyeFo2R214WUU3VU9OSjdrNGFzekxNSzlPRzNLRW83M3lRbGxpbERCWk5iTHpzOWpKZWloaGJJNjFEa1RqMm1LZ0Jab1lfVW5QME1fY3owdlpCQUxNcF9ETklWeDNfVi1laVNMN2E?oc=5",
+   "published": "2026-11-12T00:53+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Wall Street is pricing in two big risks for Nvidia",
@@ -86,46 +107,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street's AI worries eased by CoreWeave's Q3 results",
-   "title": "Wall Street's AI worries eased by CoreWeave's Q3 results",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVZ5aFpFV0cyZThFVC00NmVrcDJSWmQzT0FXdDdSYzVaOXpmODhXRFp3d2JLc29UNzFoS0lmR0ZSNkZFSnZhSHNPeUpDMjg0Q1NuY3k4MnNoLU13YW9ocGhEcG9uWEhhazh2MG44N1RwcmthZy1OZHVQUEpwaDVZTUVwelNDbEcybWhjNVNtYjFscVFxRWNqWHVMa1Z4bVFiYXJ3?oc=5",
-   "published": "2026-11-11T23:29+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.38,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Video Nvidia stock rebounds amid spy scandal news",
-   "title": "Video Nvidia stock rebounds amid spy scandal news",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlX0xSWk5kMGpXM2ZIaVdkVm4ydW15T2lxTmFCajZ4WUpQVG5kQTFaNXVhdzhNc0l6Qzhjbnl5T0U2UFUtOUswVHp2SUQ?oc=5",
-   "published": "2026-11-12T00:52+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
    "title": "Nvidia could face fines, lawsuits, and lost markets: Baird strategist",
@@ -161,6 +142,31 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -5.47,
+     "asOf": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Marvell and Intel Rally 7% as CoreWeave’s Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
+   "title": "Marvell and Intel Rally 7% as CoreWeave’s Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkgxNWZhV21wSTd3Y1JhcENLT2NoNEROWmd0cHdtbTAxSlVSNC1tNE5LbzN2MWxZX1o4dDFMZkNnWDFmNmw3VVdMTk9EZS1NZ1ByMkhCYjN0c19LTFdwdjUwWDIzQm9HV3h5b2hKRmFSOEtKRlB2MTVmNHo3bWxxcUFMYTFiMDZWTXBWT05GeXpQT3RSXy1yQlVDZw?oc=5",
+   "published": "2026-11-11T23:48+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": 2.02,
+     "asOf": "2026-11-10"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -2.09,
      "asOf": "2026-11-10"
     }
    ]
