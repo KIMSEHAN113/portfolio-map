@@ -141,19 +141,6 @@
       "account": "일반"
     },
     {
-      "id": "ram",
-      "name": "RAM (2X 메모리)",
-      "label": "RAM",
-      "group": "반도체 · 메모리",
-      "ticker": "RAM",
-      "market": "US",
-      "currency": "USD",
-      "qty": 166,
-      "cost": 5076210,
-      "yahoo": "RAM",
-      "account": "일반"
-    },
-    {
       "id": "qld",
       "name": "QLD",
       "label": "QLD",
@@ -174,8 +161,8 @@
       "ticker": "SOXL",
       "market": "US",
       "currency": "USD",
-      "qty": 15,
-      "cost": 4003043,
+      "qty": 1,
+      "cost": 266870,
       "yahoo": "SOXL",
       "account": "일반"
     },
