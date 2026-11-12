@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-12T22:10:05+09:00",
+ "updatedAt": "2026-11-12T23:08:42+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
-   "title": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
+   "summary": "월스트리트의 다음 블록버스터 주식 분할은 이 칩 장비 거대 기업에서 나올 수 있습니다.",
+   "title": "Wall Street's Next Blockbuster Stock Split Could Come From This Chip Equipment Giant",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUC1IaEJjQTJ5ZS1BVElXQWFobUFQSjE4SEg3U3lrQUZHdkRtYzd6Y3lNOVc1SUVxSVZVcmM0M3JGejE4c2UtcmJWNEpDc3NCbjQxaTJaamF2dEt3SFF0R1U0RDBsclFZMHdRZzB0U3NjbDN2LWQtSk0zd2JoY1dnZDJxaFRhSzgxT1ZQc3dnYmdFazlidmVzb3JyRzVKUGdjRzAxNHVfS1p1N2J5QzVJQThheVdWVTV2bTV5azFVaUFHZFNiZ2NKbWtNNFpjT1R0U3EzMGp4UnZWWUpSRnNPNEI0Qm8tYVU?oc=5",
-   "published": "2026-11-12T21:36+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbC1ITm02aU16TDlXT2Z4Z2lHa2lBdTc0ZmhHNl9iUWZCVDItc0tTOTYwS1JnQjV1emdfc0VpU01EdlZzWWhtUkxBaV81NS1rS3JqdUhIaGl4Z183a19qOHRzaEpZQmJfZFRuZkJzSzUzTk5uQVVzQzRlckVJUGhQQlJPc29yX0huWWxSMTIycGNGdTUydVc5aTROVm1aTmJNbGc?oc=5",
+   "published": "2026-11-12T22:51+09:00",
    "holdings": [
     "soxl",
     "rise-sp500",
@@ -15,20 +15,20 @@
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.31,
      "asOf": "2026-11-11"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq Confirms Hydrofarm's Compliance with Stockholders’ Equity Requirement",
-   "title": "Nasdaq Confirms Hydrofarm's Compliance with Stockholders’ Equity Requirement",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdE11T29IRkZETU9PVGdTWWVFaDBjaWZDc2VEeU13bVhxd2R2aDBOYkhVdHI2RUM0anI3ZXNLRDJOMG50MGh6WFBPUnZ4bEdPdjdzUzVGVkhtWEppWXdjdzE3WFFtR3BCN3NESjByakZlTnBkcllQYUNuZl9rN1Fybm5xY29JWFRuOXYyaFJXRVhMcE1HZ3hQSGlzamVjVk5EUGM3d1hPWVVWU0RPZlNRdlpBLXRIUQ?oc=5",
-   "published": "2026-11-12T21:15+09:00",
+   "summary": "Yatra Online, Inc., Nasdaq 통지서 수신",
+   "title": "Yatra Online, Inc. Receives Nasdaq Notification Letter",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVNOa2puMmswZUxibVk5Snh6QV9femNOV0NCc2hFWGpZazNzQTJvbC1SdURFeXRwQlBrRHpoVWQ5WUxSSEQwaUpTd3ZWUUp5Wjk0WVRETmhSa3pLeDR1MUpySlQ1Sk02alFnWHZudDVPY2trcHpiMTNKdHQxeGZqYk95ZVEzbEpx?oc=5",
+   "published": "2026-11-12T22:30+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -45,65 +45,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Nov. 10",
-   "title": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Nov. 10",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREE0V3VjWktZYm5ZcFFkMGFyd1RVSFZBRG1NQ3ktZmJwMXhienNkNE0wM3NNMlVHVmpvdV80eHBINUV6V2YwVFBZTVdSbkZJbFl1aTZBMlVmdUc1clYwYk9mU1hWaUlQSVJMY0lST1E3MjNLWkZ0UzlGQ3c1QUdhTkltSTk3OU1ITDN2NHNBOTNRYmNDX2xj?oc=5",
-   "published": "2026-11-12T20:05+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 2.04,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "What SPDR Portfolio S&P 500 Growth (SPYG) Sold: NVIDIA Leads on Nov. 10",
-   "title": "What SPDR Portfolio S&P 500 Growth (SPYG) Sold: NVIDIA Leads on Nov. 10",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0szMkFxTndza1JsQl9iU1Qyc21IUU1sUzJjWkkwV1pVbW1CaG9tUnNRbEY0TXpjM1dvQ3ZoQlNYN25oN2Rfd2x6VktrOGxGRzlBdnloNC15aWlXNi1vX1hXbzBoN1d5YzhVUFVablBhamZxNWM1aVlBV2d0ck5WU3lhbnBaNE1RekJCWkxsc2xJRFl0V3Iw?oc=5",
-   "published": "2026-11-12T20:05+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.31,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "iShares Core S&P 500 ETF (IVV) Sells $26.6 Million of Apple on Tuesday",
-   "title": "iShares Core S&P 500 ETF (IVV) Sells $26.6 Million of Apple on Tuesday",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjg0Vjk1NVJwbmVsYUNfMGM2bmlzOFNwTjVKVW5CR0NwdGw1TjdHSzBFNk5BUkFBSzdOUHdjLWpXOXpxUnhUTUVUUHZPeXB5OUp3NF9jTFd1V0QzaXUzZFpWMHJOdko4SEMtYzJ1Rlk2ZFp0WU9icGd0U3pDbXBzS3lVcHhFd2RjYnRFRGpVTUQ?oc=5",
-   "published": "2026-11-12T20:04+09:00",
+   "summary": "두 자릿수 하락 시 매수를 고려해야 할 S&P 500 상위 2개 주식",
+   "title": "2 top S&P 500 shares to consider buying on double-digit dips",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YVjZGcFY0alZHaDBoa2x3bElLRF9hXy1UY1JRMmRJTkJXQk5kQTBEYU9pdFZERWhDTGlLRzdZazFzWFZ0MnhGeEc0MXZWT1NYUFdLRlJzV1hWUk9JUWJVcXk1VjByd3oyVEQ2YVhGRkFEN3lxUXc?oc=5",
+   "published": "2026-11-12T22:11+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -111,11 +57,47 @@
    ],
    "moves": [
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 2.04,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.31,
      "asOf": "2026-11-11"
-    },
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월마트 주식의 외로운 곰은 월스트리트가 무시할 수 없는 질문을 제기합니다",
+   "title": "The Lone Bear on Walmart Stock Raises a Question Wall Street Can’t Ignore",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVRfeHgxRDBOSXM1MThvLWJhX3FpaGJmZ0ltRUIyZHZBbE1BQkowS1E5cFN2TlRjRVI5eGNaSTZ1Tm5XN3Y0VmJRSE15UmFVa2lXS19RdFBrNlduV0JXc1YydFZNdUxkaXQ1MHQ0NHBKOUppZlVvdTFaVnEzeDdTRFJNTWJQUXRySEV5WkJkOHlCaFFrWWVORm1Rdw?oc=5",
+   "published": "2026-11-12T21:48+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.31,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "그녀는 1947년 월스트리트 법률 사무소에서 비서로 시작해 67년 동안 근무했습니다. 그녀의 상사가 주식을 살 때마다 그녀는 조용히 그 주식 중 일부를 자신을 위해 샀습니다. 실비아 블룸이 96세의 나이로 세상을 떠났을 때 그녀는 900만 달러 이상을 남겼습니다.",
+   "title": "She Started as a Secretary at a Wall Street Law Firm in 1947 and Stayed 67 Years. Whenever Her Boss Bought a Stock, She Quietly Bought a Little of It for Herself. When Sylvia Bloom Died at 96, She Left More Than $9 Million.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0M2WDZqdjgtcDN2NnJJMy00VzZtbkU3b3AxZVFzMkF1Umk0dlVGQjR2SUM5bG9BYnJiY1hvbDZ2ZlVCdFpZbUJwdHR0Q09zU1lOeHFiUmtsYjhWaWFadW42dXNPSmVoM0s2RHRCNTdjeDFjcVFJczN3bnRGUUlwY0lab05OTHc3OFlmMWJkRHc4LVVaOWRVYm8xVHVWZ1U?oc=5",
+   "published": "2026-11-12T21:43+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -126,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "WSJ Says Nvidia Is Preparing to Oust Jensen Huang Over Alleged Affairs; Here’s How Much 2,000 Shares Have Lost Over the Last Month",
-   "title": "WSJ Says Nvidia Is Preparing to Oust Jensen Huang Over Alleged Affairs; Here’s How Much 2,000 Shares Have Lost Over the Last Month",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHh1ODFYZEM4SGZ6XzgzcF85UjB0X3VVYURXVU5sUnEwSzIxRXRSRzNXQk5pMnRBNkMyNWt3VUEzdjVkX18xMERucnVoanpPODk0Ty1ySHcyUW9ZS255aG5tYk55TkkwUjhhX195NjVfcUZraVplMEJpT1d1SjRFZ0h1Z3hDWUtyRndSeDM5Z1ZraEJVekNGa2otRQ?oc=5",
-   "published": "2026-11-12T21:47+09:00",
+   "summary": "엔비디아 주가는 CEO 젠슨 황이 축출될 것이라는 보도에 급락했습니다.",
+   "title": "Nvidia stock plunges on report CEO Jensen Huang faces ouster",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GMWpNb3Fwb1BNanFneDM2NHF3TzhNR3djWGs3MnR3NE9xejZWTklWaEotR05FTElqcHRobkExN1kxRVdOWWJvZncwSldFTDJWc0RUQy1scXA0NFE?oc=5",
+   "published": "2026-11-12T22:54+09:00",
    "holdings": [
     "soxl"
    ],
@@ -145,11 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
-   "title": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXo2blhjUTNSN1E4dWZFSE9ncTM3a2F3am14OHFaVUd1V0JmeE0tbVdJaGZMcUxmX1BWMl9lcVJBUjZpNVVNa2NNY0FlME1PZVpKVnZNQUJUbXktTXdvWWR3MEpJTHRzamF0WF9mbEdvbmVOWUhZV192TlNmRGI2Y3RvOVNrMTFVaGFrbnU3SFhwSmRtNmN6dl84RVNWdFNHcmc?oc=5",
-   "published": "2026-11-12T21:18+09:00",
+   "summary": "이사회가 Jensen Huang의 운명을 저울질하면서 Nvidia는 6000억 달러 이상의 가치를 잃을 것으로 보입니다.",
+   "title": "Nvidia on track to lose more than $600 billion in value as board weighs Jensen Huang's fate",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWTZNczhWU2w3cmgtbk0xU1NZT045SDJYRjlXX3JYMllaeVQ3NzR3ak9zRjZfdmVqSjdmNm5Zczc0MjFUN00wR3pDVlFaNExfcll6cWpwSWpacFBGXzZqaHNaQUIzUVhEUE1hMktzY3R3Zw?oc=5",
+   "published": "2026-11-12T22:51+09:00",
    "holdings": [
     "soxl"
    ],
@@ -164,49 +146,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVDA Stock On Track To Hit Lowest Level In Over A Year: Dan Ives Values Nvidia At $225 Without Jensen Huang",
-   "title": "NVDA Stock On Track To Hit Lowest Level In Over A Year: Dan Ives Values Nvidia At $225 Without Jensen Huang",
+   "summary": "NVIDIA는 Jensen Huang을 축출할 준비를 하고 있다는 보고서에서 9%를 기록했습니다. Intel은 4% 하락, AMD는 안정세 유지",
+   "title": "NVIDIA Sinks 9% on Reports Board Is Preparing to Oust Jensen Huang; Intel Falls 4%, AMD Holds Steady",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFNTc21RYmNfVmRuQWJNRW0tc2tqbnFQY1c4R1pKUmw2QWY2WERYZVQ5WHNpejJhLXEwR0thQzYzaEppcWVlOUNua1ZGLW5SeW5NUE43M0dLSVp3MzhWMmVPM3dLZVowWXdkc1BGd3Vud3RBNm5KWlBIWm11Y0dycUo4c0RKSHJaRlRvdmtHcXplQ1JFTzBV?oc=5",
-   "published": "2026-11-12T20:38+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Stock Sinks -- Who Could Replace Jensen Huang",
-   "title": "Nvidia Stock Sinks -- Who Could Replace Jensen Huang",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGhhS0xXMVRYNFFSRXFtR3RWR3k0VXlMVkJqRktlbWJpX3c3QkZ1NzEzVVpuWjc3QzdkeGJNRFhSdmVUX08tMDdIajlmN0FsaUxhWm50cmN6cTU4RDZCRVpkM3RZWEpRX1pLZFZlTTd3b2tEeHpIVTN1UVBYOG1VLV9LZ3FBenpaSXJ5STlyOWdqUW85cnZrY2x1TzdTUQ?oc=5",
-   "published": "2026-11-12T20:19+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AMD, Broadcom rally as Nvidia faces a major leadership test",
-   "title": "AMD, Broadcom rally as Nvidia faces a major leadership test",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEtEQ290N3J6RW95LTlIR0g1Q3Q4UFd2eDVCdGFOeGoxWXkwdjR4Nzc1VHFOVG5laUtYa050NkxuVlk1blhPUW5yRE5rcEJXWXlKXzR2aURVeUlGbVI5WDR2RFBzU2MyNHowQjhhalk1emRueEpaYW9RTDMzQW5sNHdqMTZkUzVZaUlqMEtwS3FZWXFKSW0wdVRJeEM?oc=5",
-   "published": "2026-11-12T20:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWRrUWRCNEdncmZhMFpHOTVYQm1TV0g4QTZQZzBiOVBuVDdUdGdaMHM3SWJOUTlseDJZeUk3RlJISmNsQ1ZvNmhxeGZVeHVVUHF1U3I3M0pkRUxrN29EanRfelhUeVJ2RTFxcUNMQktVcml5NUpuSkQyR0JaM185UEhtTnQwVUw5NkxmX2xPTGdzN25scUJmSA?oc=5",
+   "published": "2026-11-12T22:48+09:00",
    "holdings": [
     "soxl"
    ],
@@ -218,9 +162,47 @@
      "asOf": "2026-11-11"
     },
     {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 3.99,
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 7.32,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 스캔들의 중심에 있는 칩 회사 메가스피드는 미국 조사에 협력하겠다고 약속했습니다.",
+   "title": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGRHRkVHVWdWUDJnVWMzaVZCaHlDenNKSXpoQmVKZ3ZuNkhCYmU5RUxGdmcybU1RSkxzYTJSWGw2a2xLNWt4T1U4TWxTQjVEamZhMFl0MWFTQnM2T24wQ2xqck1QQjB1ZUpMaW14RlpNSDM0cjBVQ0tCS1ZCc3d2M3hVVGpCeERUMjhLZG5RcUtkbTZGOFZsM2dnU0F6NC1nanQxOGh3X2w2Y2FzVzlTLVdGTnNudzFhd0E?oc=5",
+   "published": "2026-11-12T22:32+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Bernstein은 Nvidia를 포기하고 목표를 200달러로 절반으로 줄였습니다.",
+   "title": "Bernstein Just Gave Up on Nvidia, Cutting Its Target in Half to $200",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnRiLWZBX3JTQ0dPWDZXLUw3SjEzUTJQRjFmc3lielhZUkEzNGVIaTVfM1p6dXZZSG92UVljakw2V2ZFTnllYzc0eGViaWRpNHQ2YjFmWU9lMVY5RjdrLXp2YjBKZGZ3N09KaExaRERqUTNVUDc5TnZodEwxaVdYLTZJd0N3RXU0c1JqTEppVkNlQWtlRTFzNF9aVlY1amxF?oc=5",
+   "published": "2026-11-12T22:05+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
      "asOf": "2026-11-11"
     }
    ]

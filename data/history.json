@@ -13640,9 +13640,9 @@
   },
   {
    "date": "2026-11-12",
-   "updatedAt": "2026-11-12T22:10:00+09:00",
+   "updatedAt": "2026-11-12T23:08:36+09:00",
    "fx": {
-    "usdkrw": 1334.78,
+    "usdkrw": 1332.58,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -13789,20 +13789,6 @@
      "asOf": "2026-11-11"
     },
     {
-     "id": "ram",
-     "name": "RAM (2X 메모리)",
-     "label": "RAM",
-     "group": "반도체 · 메모리",
-     "account": "일반",
-     "ticker": "RAM",
-     "market": "US",
-     "currency": "USD",
-     "qty": 166,
-     "price": 6.63,
-     "chgPct": 20.55,
-     "asOf": "2026-11-11"
-    },
-    {
      "id": "qld",
      "name": "QLD",
      "label": "QLD",
@@ -13825,7 +13811,7 @@
      "ticker": "SOXL",
      "market": "US",
      "currency": "USD",
-     "qty": 15,
+     "qty": 1,
      "price": 66.03,
      "chgPct": 17.78,
      "asOf": "2026-11-11"
