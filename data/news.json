@@ -1,34 +1,55 @@
 {
- "updatedAt": "2026-11-12T23:31:47+09:00",
+ "updatedAt": "2026-11-13T07:41:58+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트의 다음 블록버스터 주식 분할은 이 칩 장비 거대 기업에서 나올 수 있습니다.",
-   "title": "Wall Street's Next Blockbuster Stock Split Could Come From This Chip Equipment Giant",
+   "summary": "S&P 500은 광범위한 시장 붕괴에도 불구하고 90분 만에 1조 달러를 회복했습니다",
+   "title": "S&P 500 Recovered $1 Trillion in 90 Minutes Despite Wider Market Crash",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbC1ITm02aU16TDlXT2Z4Z2lHa2lBdTc0ZmhHNl9iUWZCVDItc0tTOTYwS1JnQjV1emdfc0VpU01EdlZzWWhtUkxBaV81NS1rS3JqdUhIaGl4Z183a19qOHRzaEpZQmJfZFRuZkJzSzUzTk5uQVVzQzRlckVJUGhQQlJPc29yX0huWWxSMTIycGNGdTUydVc5aTROVm1aTmJNbGc?oc=5",
-   "published": "2026-11-12T22:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWhRVkstSmJBbzhiOF92UkhhSWZVOG5TcmNvMUNoQzBJUlY0azdhUW9Lb1ZzeUhxYUtraUtXM0ZzRUhiYlZBNmk2QUd0V3NYT0FWUmswbHU3Tk81T1VEMDN6bGRqYUdQbEVIU0Q2WVJkUzNxTHhJdmFTTUhZbVlHbm9iSENWcFA2LVJZV3FDOVZXQmZ2Unc?oc=5",
+   "published": "2026-11-13T06:14+09:00",
    "holdings": [
-    "soxl",
     "rise-sp500",
-    "irp-kodex-sp500"
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 1.31,
-     "asOf": "2026-11-11"
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Yatra Online, Inc., Nasdaq 통지서 수신",
-   "title": "Yatra Online, Inc. Receives Nasdaq Notification Letter",
+   "summary": "주식시장은 인류를 위한 IPO에 '걱정스러운' 초점을 맞추고 있다고 Ariel Investments의 Melody Hobson이 말했습니다.",
+   "title": "Stock market has a 'worrisome' focus on Anthropic IPO, Ariel Investments' Mellody Hobson says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUV4bFVxeVp5WDlQVVM4dTZqNVVDbDhSUTQ2YS1LMzBZQkhTemxaRndvSngxU3FueXg0TTNBOFRTU3hoNUdnakdhanMxUnpsODl3MnFwZkY4VzVNLXhEclNzX25OZS1STm1MZDVJMXdNcm02SkNWeXJkaE1NZnFmQUNVa3ZvTEF3dTlRbGRyU3ZaeFVrSFNEUnhfS0t3WnhJWWljSk1wT2d3YzZpRzh0M2ZYR3k4ODc2YVZseEFOQmRhNW5aN1FPd0xxWlMzeEtVZ0dXNlNFOFdxeGR3dU1r?oc=5",
+   "published": "2026-11-13T05:47+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500과 나스닥은 조기 손실에서 회복 - AI에 대한 우려가 여전히 기술주에 남아 있음",
+   "title": "S&P 500 and Nasdaq Recover From Early Losses -- AI Fears Still Hang Over Tech Stocks",
    "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVNOa2puMmswZUxibVk5Snh6QV9femNOV0NCc2hFWGpZazNzQTJvbC1SdURFeXRwQlBrRHpoVWQ5WUxSSEQwaUpTd3ZWUUp5Wjk0WVRETmhSa3pLeDR1MUpySlQ1Sk02alFnWHZudDVPY2trcHpiMTNKdHQxeGZqYk95ZVEzbEpx?oc=5",
-   "published": "2026-11-12T22:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2MzOFZxeHU1WkZhM0VYdXZsQkN3RDdhcW1vSFdnei0yUk1WQ0hLNjk3ZENoc1Y4NjBFNTZmTm1QV3RZY1p1SW8zRkU4Q2hpLVRWaG92UE96dGp1UmVMQU8xOUZwYzF4MWFBcmJDVk93NkNRa2JVR0hReVRPc05hTw?oc=5",
+   "published": "2026-11-13T04:46+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -38,18 +59,24 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": 1.6,
-     "asOf": "2026-11-11"
+     "chgPct": -0.39,
+     "asOf": "2026-11-12"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "두 자릿수 하락 시 매수를 고려해야 할 S&P 500 상위 2개 주식",
-   "title": "2 top S&P 500 shares to consider buying on double-digit dips",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YVjZGcFY0alZHaDBoa2x3bElLRF9hXy1UY1JRMmRJTkJXQk5kQTBEYU9pdFZERWhDTGlLRzdZazFzWFZ0MnhGeEc0MXZWT1NYUFdLRlJzV1hWUk9JUWJVcXk1VjByd3oyVEQ2YVhGRkFEN3lxUXc?oc=5",
-   "published": "2026-11-12T22:11+09:00",
+   "summary": "월스트리트, D-Wave 주식 목표를 최대 55% 삭감",
+   "title": "Wall Street Slashes D-Wave Stock Targets by Up to 55%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdU5raDY1cmFaMGdWeXRvdFhDYkE5LTdyMEZ3QnZuenFUWmJhQXl5MXEyYjdUY1ZreTBzV09OMkdPdGVzNDdxZUhzb1M1VmFiWm16TzN3TXJJSVNGQndMZXFtdFd6eEJJcGlvWlVCVlJGV05rczN5VU9uZ0gtNU9fMGlhLUZ4VlhQTURGWGRFS2FVVG92OUE?oc=5",
+   "published": "2026-11-13T04:44+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +86,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 1.31,
-     "asOf": "2026-11-11"
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nvidia 폭풍이 계속되면서 월스트리트가 하락할 예정이며 재무부는 bob을 5%로 산출합니다.",
-   "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
+   "summary": "임시 CEO로 Nvidia CFO가 확실하게 선택했지만 회사 전망은 흐릿하다고 월스트리트가 밝혔습니다.",
+   "title": "Nvidia CFO solid pick for interim CEO, but company outlook is clouded, Wall Street says",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5",
-   "published": "2026-11-12T21:57+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblRzWUc0cE1hb1dwbjNCVWY2UEtTSEFnQWJlTmhYaEtMZ1FJYkZ6dlFZdDhUV2dSRVNXbHZza25fMmUxT2JwRllTOFVzMnpmck1JYmhXSng1aGdld1JhbjFWTGE4R2NlbnNrdS1wQ082ci1ENFFKQ1ZlMmtzRHVzcjI3T1RRcVh2emJnYnNMLW5tZHZwOF9Bcl95NzlnMXhQQ3hucGRZb0pTZElDajFFX0I1UmtvYUY5TDBqN0RGakFfUnAydkVhMVY4R0Z4RFFOME1RWjZPVnNIdjlQRXc?oc=5",
+   "published": "2026-11-13T03:14+09:00",
    "holdings": [
     "soxl",
     "rise-sp500",
@@ -80,39 +107,58 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월마트 주식의 외로운 곰은 월스트리트가 무시할 수 없는 질문을 제기합니다",
-   "title": "The Lone Bear on Walmart Stock Raises a Question Wall Street Can’t Ignore",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia의 주가 하락이 귀하의 401(k) 및 포트폴리오에 어떤 영향을 미칠 수 있습니까?",
+   "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVRfeHgxRDBOSXM1MThvLWJhX3FpaGJmZ0ltRUIyZHZBbE1BQkowS1E5cFN2TlRjRVI5eGNaSTZ1Tm5XN3Y0VmJRSE15UmFVa2lXS19RdFBrNlduV0JXc1YydFZNdUxkaXQ1MHQ0NHBKOUppZlVvdTFaVnEzeDdTRFJNTWJQUXRySEV5WkJkOHlCaFFrWWVORm1Rdw?oc=5",
-   "published": "2026-11-12T21:48+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGc4NExKcy01cVJMdzgzVFloRHZ5Nmx5aVI1LS1fWThxb1VHZVA4YXNCYjdjdGV0WEpfaGo2XzQ1T2V3bzJ5VTBMbngzX3RmMEtZektVU2tKbDZwR3FseTRSMTYzd21TTXVCQ3BFSjZTd0ZXRVlFbU8xWU5ONkUwanQ3T3pKeklEVzBsTnBLZGRrZGQzMlhVTXk5M0xBZWgzdzFXc3g5alQ0QzBjYlE?oc=5",
+   "published": "2026-11-13T07:19+09:00",
    "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "월스트리트는 엔비디아와 유가 변동으로 흔들리지만 초기 손실 대부분 회복",
+   "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
+   "published": "2026-11-13T07:03+09:00",
+   "holdings": [
+    "soxl",
     "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.31,
-     "asOf": "2026-11-11"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 CEO Jensen Huang이 사임하고 다른 AI 이름을 끌어내리면서 하락했습니다.",
-   "title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names",
+   "summary": "Nvidia 하락이 에너지 상승을 능가함에 따라 주식은 하락 마감",
+   "title": "Equities close lower as Nvidia drop outweighs energy gains",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlcxMGw2ZjlXTThMWHdjWmJyRVloWUl4eVEwMWZ2M1NSdThQLUZ4YXd5RUNZdllfSkdaY1dJamE0SEFNLXZjRE0xcHFLQUpzSW0zWlBTYWIyZnBHZnBSenZOeDVWNWEwY2hyR0JOR0JLT1FEaXhzdnpoRk5Xai03Q1hPci03UHdZc3NLbzdWQVlJZkZGclp6Qno5b2lvSFd0bTNVbFpNQQ?oc=5",
-   "published": "2026-11-12T23:21+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5",
+   "published": "2026-11-13T06:26+09:00",
    "holdings": [
     "soxl"
    ],
@@ -120,39 +166,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론은 7월 이후 최고의 날 이후 800달러 이상으로 돌아왔습니다.",
-   "title": "Micron Is Back Above $800 After Its Best Day Since July",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2NfSkJ1NXdITWxibTNYbm1yTFBDREdqZ3dUY1UyVzQ4bmZPZDFMeThvN3lkbzhaWHBBSV81Ui02T25qbjZYYVUzNlBaWDdkTzRrOTRoTDNlSFVTR2RlcC02clJMSkJZSTA4NzZXaEVjUDZfNzZJTVUyUmFyajc0RExxdV9RYmtjc3JENy1tS3BTcEdhcUE?oc=5",
-   "published": "2026-11-12T22:56+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 11.89,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 CEO 젠슨 황, 주가 폭락 후 불륜 스캔들로 사임",
-   "title": "Nvidia CEO Jensen Huang resigns over affair scandal after stock price plunges",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmRDckNLaFBvcnlHcno4blphX2tIclE2V3dnNTNYZmZubGo1OF9PcTFMU2VMSmZLNVNRRlUtQ1pqbTJYdVBhYk05NkF0Mzg2akhiNlVrRGhGbDIzX21zM2dYYXR2YVpLdUlNYm5YbkdHYS1XMzRMUzRiY2RnaWRSUzJ6aWNaYWpuT0pkdEIzZHJadDA0aEpnTFNMTnU?oc=5",
-   "published": "2026-11-12T22:56+09:00",
+   "summary": "엔비디아 주가는 황의 사임 이후 하락해 시장 전체에 부담을 주고 있습니다.",
+   "title": "Nvidia stock falls after Huang resigns, weighing on broader market",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVNwbUF0dnZ3TUV6OTl2cWE0clBuRE93ZEdlcjZxNjhlTWN6emg0ZlYwOUtIVmVMMlltc2dlbjhZOEstOXoxMDl5VDFON05QNFctSkw2TGI2VGdxT2d3eHZsSndTS054ZHZYZjZwM2RtNnFNN0k5a3pDR1luMUN4dl9aWUI?oc=5",
+   "published": "2026-11-13T06:13+09:00",
    "holdings": [
     "soxl"
    ],
@@ -160,37 +185,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 CEO 젠슨 황이 축출될 것이라는 보도로 급락했습니다.",
-   "title": "Nvidia stock plunges on report CEO Jensen Huang faces ouster",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GMWpNb3Fwb1BNanFneDM2NHF3TzhNR3djWGs3MnR3NE9xejZWTklWaEotR05FTElqcHRobkExN1kxRVdOWWJvZncwSldFTDJWc0RUQy1scXA0NFE?oc=5",
-   "published": "2026-11-12T22:54+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang이 사임하면서 Nvidia의 가치는 7000억 달러 이상 손실될 예정입니다.",
-   "title": "Nvidia on track to lose more than $700 billion in value as Jensen Huang resigns",
+   "summary": "Jensen Huang이 사임하면서 Nvidia는 약 5000억 달러의 가치를 잃었습니다.",
+   "title": "Nvidia sheds nearly $500 billion in value as Jensen Huang resigns",
    "source": "CBS News",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWTZNczhWU2w3cmgtbk0xU1NZT045SDJYRjlXX3JYMllaeVQ3NzR3ak9zRjZfdmVqSjdmNm5Zczc0MjFUN00wR3pDVlFaNExfcll6cWpwSWpacFBGXzZqaHNaQUIzUVhEUE1hMktzY3R3Zw?oc=5",
-   "published": "2026-11-12T22:51+09:00",
+   "published": "2026-11-13T06:08+09:00",
    "holdings": [
     "soxl"
    ],
@@ -198,8 +204,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   }
