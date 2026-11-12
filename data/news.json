@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:10:24+09:00",
+ "updatedAt": "2026-11-12T23:31:47+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -66,6 +66,27 @@
   },
   {
    "category": "미국 지수",
+   "summary": "Nvidia 폭풍이 계속되면서 월스트리트가 하락할 예정이며 재무부는 bob을 5%로 산출합니다.",
+   "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5",
+   "published": "2026-11-12T21:57+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
    "summary": "월마트 주식의 외로운 곰은 월스트리트가 무시할 수 없는 질문을 제기합니다",
    "title": "The Lone Bear on Walmart Stock Raises a Question Wall Street Can’t Ignore",
    "source": "Yahoo Finance",
@@ -86,22 +107,41 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "그녀는 1947년 월스트리트 법률 사무소에서 비서로 시작해 67년 동안 근무했습니다. 그녀의 상사가 주식을 살 때마다 그녀는 조용히 그 주식 중 일부를 자신을 위해 샀습니다. 실비아 블룸이 96세의 나이로 세상을 떠났을 때 그녀는 900만 달러 이상을 남겼습니다.",
-   "title": "She Started as a Secretary at a Wall Street Law Firm in 1947 and Stayed 67 Years. Whenever Her Boss Bought a Stock, She Quietly Bought a Little of It for Herself. When Sylvia Bloom Died at 96, She Left More Than $9 Million.",
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 주가는 CEO Jensen Huang이 사임하고 다른 AI 이름을 끌어내리면서 하락했습니다.",
+   "title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0M2WDZqdjgtcDN2NnJJMy00VzZtbkU3b3AxZVFzMkF1Umk0dlVGQjR2SUM5bG9BYnJiY1hvbDZ2ZlVCdFpZbUJwdHR0Q09zU1lOeHFiUmtsYjhWaWFadW42dXNPSmVoM0s2RHRCNTdjeDFjcVFJczN3bnRGUUlwY0lab05OTHc3OFlmMWJkRHc4LVVaOWRVYm8xVHVWZ1U?oc=5",
-   "published": "2026-11-12T21:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlcxMGw2ZjlXTThMWHdjWmJyRVloWUl4eVEwMWZ2M1NSdThQLUZ4YXd5RUNZdllfSkdaY1dJamE0SEFNLXZjRE0xcHFLQUpzSW0zWlBTYWIyZnBHZnBSenZOeDVWNWEwY2hyR0JOR0JLT1FEaXhzdnpoRk5Xai03Q1hPci03UHdZc3NLbzdWQVlJZkZGclp6Qno5b2lvSFd0bTNVbFpNQQ?oc=5",
+   "published": "2026-11-12T23:21+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.31,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "마이크론은 7월 이후 최고의 날 이후 800달러 이상으로 돌아왔습니다.",
+   "title": "Micron Is Back Above $800 After Its Best Day Since July",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2NfSkJ1NXdITWxibTNYbm1yTFBDREdqZ3dUY1UyVzQ4bmZPZDFMeThvN3lkbzhaWHBBSV81Ui02T25qbjZYYVUzNlBaWDdkTzRrOTRoTDNlSFVTR2RlcC02clJMSkJZSTA4NzZXaEVjUDZfNzZJTVUyUmFyajc0RExxdV9RYmtjc3JENy1tS3BTcEdhcUE?oc=5",
+   "published": "2026-11-12T22:56+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 11.89,
      "asOf": "2026-11-11"
     }
    ]
@@ -127,7 +167,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 CEO 젠슨 황이 축출될 것이라는 보도에 급락했습니다.",
+   "summary": "엔비디아 주가는 CEO 젠슨 황이 축출될 것이라는 보도로 급락했습니다.",
    "title": "Nvidia stock plunges on report CEO Jensen Huang faces ouster",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GMWpNb3Fwb1BNanFneDM2NHF3TzhNR3djWGs3MnR3NE9xejZWTklWaEotR05FTElqcHRobkExN1kxRVdOWWJvZncwSldFTDJWc0RUQy1scXA0NFE?oc=5",
@@ -146,55 +186,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "이사회가 Jensen Huang의 운명을 저울질하면서 Nvidia는 6000억 달러 이상의 가치를 잃을 것으로 보입니다.",
-   "title": "Nvidia on track to lose more than $600 billion in value as board weighs Jensen Huang's fate",
+   "summary": "Jensen Huang이 사임하면서 Nvidia의 가치는 7000억 달러 이상 손실될 예정입니다.",
+   "title": "Nvidia on track to lose more than $700 billion in value as Jensen Huang resigns",
    "source": "CBS News",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWTZNczhWU2w3cmgtbk0xU1NZT045SDJYRjlXX3JYMllaeVQ3NzR3ak9zRjZfdmVqSjdmNm5Zczc0MjFUN00wR3pDVlFaNExfcll6cWpwSWpacFBGXzZqaHNaQUIzUVhEUE1hMktzY3R3Zw?oc=5",
    "published": "2026-11-12T22:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA는 Jensen Huang을 축출할 준비를 하고 있다는 보고서에서 9%를 기록했습니다. Intel은 4% 하락, AMD는 안정세 유지",
-   "title": "NVIDIA Sinks 9% on Reports Board Is Preparing to Oust Jensen Huang; Intel Falls 4%, AMD Holds Steady",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWRrUWRCNEdncmZhMFpHOTVYQm1TV0g4QTZQZzBiOVBuVDdUdGdaMHM3SWJOUTlseDJZeUk3RlJISmNsQ1ZvNmhxeGZVeHVVUHF1U3I3M0pkRUxrN29EanRfelhUeVJ2RTFxcUNMQktVcml5NUpuSkQyR0JaM185UEhtTnQwVUw5NkxmX2xPTGdzN25scUJmSA?oc=5",
-   "published": "2026-11-12T22:48+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 7.32,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 스캔들의 중심에 있는 칩 회사 메가스피드는 미국 조사에 협력하겠다고 약속했습니다.",
-   "title": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGRHRkVHVWdWUDJnVWMzaVZCaHlDenNKSXpoQmVKZ3ZuNkhCYmU5RUxGdmcybU1RSkxzYTJSWGw2a2xLNWt4T1U4TWxTQjVEamZhMFl0MWFTQnM2T24wQ2xqck1QQjB1ZUpMaW14RlpNSDM0cjBVQ0tCS1ZCc3d2M3hVVGpCeERUMjhLZG5RcUtkbTZGOFZsM2dnU0F6NC1nanQxOGh3X2w2Y2FzVzlTLVdGTnNudzFhd0E?oc=5",
-   "published": "2026-11-12T22:32+09:00",
    "holdings": [
     "soxl"
    ],
