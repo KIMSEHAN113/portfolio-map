@@ -13640,9 +13640,9 @@
   },
   {
    "date": "2026-11-12",
-   "updatedAt": "2026-11-12T07:42:06+09:00",
+   "updatedAt": "2026-11-12T11:18:06+09:00",
    "fx": {
-    "usdkrw": 1336.44,
+    "usdkrw": 1333.78,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -13656,9 +13656,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 766,
-     "price": 24820.0,
-     "chgPct": 0.73,
-     "asOf": "2026-11-11",
+     "price": 24865.0,
+     "chgPct": 0.18,
+     "asOf": "2026-11-12",
      "dca": "매주 월 +2"
     },
     {
@@ -13671,9 +13671,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 603,
-     "price": 21870.0,
-     "chgPct": -0.25,
-     "asOf": "2026-11-11",
+     "price": 21950.0,
+     "chgPct": 0.37,
+     "asOf": "2026-11-12",
      "dca": "매주 월 +2"
     },
     {
@@ -13686,9 +13686,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 208000.0,
-     "chgPct": 4.58,
-     "asOf": "2026-11-11"
+     "price": 212500.0,
+     "chgPct": 3.16,
+     "asOf": "2026-11-12"
     },
     {
      "id": "lgdisplay",
@@ -13700,9 +13700,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7290.0,
-     "chgPct": 0.0,
-     "asOf": "2026-11-11"
+     "price": 7200.0,
+     "chgPct": -0.14,
+     "asOf": "2026-11-12"
     },
     {
      "id": "qqqm",
@@ -13868,9 +13868,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 11875.0,
-     "chgPct": 2.24,
-     "asOf": "2026-11-11"
+     "price": 12027.0,
+     "chgPct": 1.28,
+     "asOf": "2026-11-12"
     },
     {
      "id": "irp-kodex-sp500",
@@ -13882,9 +13882,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 22680.0,
-     "chgPct": -0.22,
-     "asOf": "2026-11-11"
+     "price": 22770.0,
+     "chgPct": 0.4,
+     "asOf": "2026-11-12"
     },
     {
      "id": "irp-kodex-nasdaq100",
@@ -13896,9 +13896,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 24820.0,
-     "chgPct": 0.73,
-     "asOf": "2026-11-11"
+     "price": 24865.0,
+     "chgPct": 0.18,
+     "asOf": "2026-11-12"
     },
     {
      "id": "irp-ace-nasdaq-bond",
@@ -13910,9 +13910,9 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14395.0,
-     "chgPct": 0.24,
-     "asOf": "2026-11-11"
+     "price": 14415.0,
+     "chgPct": 0.14,
+     "asOf": "2026-11-12"
     }
    ]
   }
