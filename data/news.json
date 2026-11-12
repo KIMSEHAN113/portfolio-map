@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:08:42+09:00",
+ "updatedAt": "2026-11-12T23:10:24+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -108,6 +108,25 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "엔비디아 CEO 젠슨 황, 주가 폭락 후 불륜 스캔들로 사임",
+   "title": "Nvidia CEO Jensen Huang resigns over affair scandal after stock price plunges",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmRDckNLaFBvcnlHcno4blphX2tIclE2V3dnNTNYZmZubGo1OF9PcTFMU2VMSmZLNVNRRlUtQ1pqbTJYdVBhYk05NkF0Mzg2akhiNlVrRGhGbDIzX21zM2dYYXR2YVpLdUlNYm5YbkdHYS1XMzRMUzRiY2RnaWRSUzJ6aWNaYWpuT0pkdEIzZHJadDA0aEpnTFNMTnU?oc=5",
+   "published": "2026-11-12T22:56+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "엔비디아 주가는 CEO 젠슨 황이 축출될 것이라는 보도에 급락했습니다.",
    "title": "Nvidia stock plunges on report CEO Jensen Huang faces ouster",
    "source": "Fox Business",
@@ -176,25 +195,6 @@
    "source": "NBC News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGRHRkVHVWdWUDJnVWMzaVZCaHlDenNKSXpoQmVKZ3ZuNkhCYmU5RUxGdmcybU1RSkxzYTJSWGw2a2xLNWt4T1U4TWxTQjVEamZhMFl0MWFTQnM2T24wQ2xqck1QQjB1ZUpMaW14RlpNSDM0cjBVQ0tCS1ZCc3d2M3hVVGpCeERUMjhLZG5RcUtkbTZGOFZsM2dnU0F6NC1nanQxOGh3X2w2Y2FzVzlTLVdGTnNudzFhd0E?oc=5",
    "published": "2026-11-12T22:32+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Bernstein은 Nvidia를 포기하고 목표를 200달러로 절반으로 줄였습니다.",
-   "title": "Bernstein Just Gave Up on Nvidia, Cutting Its Target in Half to $200",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnRiLWZBX3JTQ0dPWDZXLUw3SjEzUTJQRjFmc3lielhZUkEzNGVIaTVfM1p6dXZZSG92UVljakw2V2ZFTnllYzc0eGViaWRpNHQ2YjFmWU9lMVY5RjdrLXp2YjBKZGZ3N09KaExaRERqUTNVUDc5TnZodEwxaVdYLTZJd0N3RXU0c1JqTEppVkNlQWtlRTFzNF9aVlY1amxF?oc=5",
-   "published": "2026-11-12T22:05+09:00",
    "holdings": [
     "soxl"
    ],
