@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-12T11:18:13+09:00",
+ "updatedAt": "2026-11-12T22:10:05+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "CYBER HORNET S&P 500 and XRP 75 XXX Stock Forecast & Price Target",
-   "title": "CYBER HORNET S&P 500 and XRP 75 XXX Stock Forecast & Price Target",
+   "summary": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
+   "title": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjJsdm5ZOW9IdlNwUVljajctcGJSNkFsMUNJOXVQUTlFUjZsMUdXRFQ5dnF6ZV8xLWlQV1BJYnhjdXNwbE1jSEpIV194R2xFaEdMMURaZW16emMtaWNzeVlqY0t5QURoWmRCZ1JWZEJaVU1DcHVQVVU4X0hlN3ByZmFKdm9BSEU?oc=5",
-   "published": "2026-11-12T10:17+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.31,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nvidia preparing to oust CEO Jensen Huang, according to the Wall Street Journal",
-   "title": "Nvidia preparing to oust CEO Jensen Huang, according to the Wall Street Journal",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXFvUEhGeVFCTDF3SS1CT2dfTjZ0QXBva3ZtVjUzYS12RGF3dTJVV2lxOXF0RXhxdjd3ZVd6Y2RCa0V3UVo2X0R4Q3hBOFhSVlNhanBIWjBQSkhPVFZWaVVPRklxbnVoYTFsT1Y2WTNWaEgtaS1ZaU00UmR1Q3Zqbkx2ekxQT3NBTDBJVzRtaHRac0JWT1dEa1ZZUXpYbVluT3UxWVBTb0N6azdnZ2YwS2FfaW95cU1wZ3dRbkhn?oc=5",
-   "published": "2026-11-12T08:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUC1IaEJjQTJ5ZS1BVElXQWFobUFQSjE4SEg3U3lrQUZHdkRtYzd6Y3lNOVc1SUVxSVZVcmM0M3JGejE4c2UtcmJWNEpDc3NCbjQxaTJaamF2dEt3SFF0R1U0RDBsclFZMHdRZzB0U3NjbDN2LWQtSk0zd2JoY1dnZDJxaFRhSzgxT1ZQc3dnYmdFazlidmVzb3JyRzVKUGdjRzAxNHVfS1p1N2J5QzVJQThheVdWVTV2bTV5azFVaUFHZFNiZ2NKbWtNNFpjT1R0U3EzMGp4UnZWWUpSRnNPNEI0Qm8tYVU?oc=5",
+   "published": "2026-11-12T21:36+09:00",
    "holdings": [
     "soxl",
     "rise-sp500",
@@ -38,39 +17,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
-   "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+   "summary": "Nasdaq Confirms Hydrofarm's Compliance with Stockholders’ Equity Requirement",
+   "title": "Nasdaq Confirms Hydrofarm's Compliance with Stockholders’ Equity Requirement",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkhodDFrb2Rsa1d5c0x0U25GVTJqRS1xRndhSjh5UkxsNnc5WnZuZElydWpRYWpIWlZteXFlUmlGS2ttR0I4YlE0UW1lVkhUZjYwSzBTaTVpRmxtMlg5LWhqLTVTaGh5SnFIRjFZcXAzWnFYdFZzNDFjQXBFTUI0V3NkNktrRUZIU05BVGtTdVFJYzZt?oc=5",
-   "published": "2026-11-12T08:04+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -2.09,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
-   "title": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0NSNnNPV2ZhWVEyX1ZpZmxJczBYWktZZlBiaXpBMl9XMEl2RWI3enpUQkdiNE9oSWZraWJCR2xvbEowemZodmZzZzBGejI2SElBa3BRWDJndVdFWXRrZU5aRE0yZFdJclluZmhZaXhJRDByVDZuUE1xVHBqdDJiWDBOLUFTaDVGNmg2V3QxcWxXcmtnTXd2eEZFeld0WDZNckxv?oc=5",
-   "published": "2026-11-12T08:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdE11T29IRkZETU9PVGdTWWVFaDBjaWZDc2VEeU13bVhxd2R2aDBOYkhVdHI2RUM0anI3ZXNLRDJOMG50MGh6WFBPUnZ4bEdPdjdzUzVGVkhtWEppWXdjdzE3WFFtR3BCN3NESjByakZlTnBkcllQYUNuZl9rN1Fybm5xY29JWFRuOXYyaFJXRVhMcE1HZ3hQSGlzamVjVk5EUGM3d1hPWVVWU0RPZlNRdlpBLXRIUQ?oc=5",
+   "published": "2026-11-12T21:15+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -87,17 +45,77 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
-   "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+   "summary": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Nov. 10",
+   "title": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Nov. 10",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlVrNjhxTHlicm8yN1V4LXluY3VWdUhXeUpxNkp3ZGtqUVB2SGItYl9QVFZ6M2JkekFWWFdtY0pQcnRsbWUxaVBMSG9RRFZ1cnc1VndsVWl3d09KSE5MVUt0SUJxLTJSSHdoNFVqS3BwejNKLXk2ZE9sbW80UnBueE93LUpXZVpDSXdPUkZib1NrVDho?oc=5",
-   "published": "2026-11-12T07:52+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREE0V3VjWktZYm5ZcFFkMGFyd1RVSFZBRG1NQ3ktZmJwMXhienNkNE0wM3NNMlVHVmpvdV80eHBINUV6V2YwVFBZTVdSbkZJbFl1aTZBMlVmdUc1clYwYk9mU1hWaUlQSVJMY0lST1E3MjNLWkZ0UzlGQ3c1QUdhTkltSTk3OU1ITDN2NHNBOTNRYmNDX2xj?oc=5",
+   "published": "2026-11-12T20:05+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    },
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": 2.04,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What SPDR Portfolio S&P 500 Growth (SPYG) Sold: NVIDIA Leads on Nov. 10",
+   "title": "What SPDR Portfolio S&P 500 Growth (SPYG) Sold: NVIDIA Leads on Nov. 10",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0szMkFxTndza1JsQl9iU1Qyc21IUU1sUzJjWkkwV1pVbW1CaG9tUnNRbEY0TXpjM1dvQ3ZoQlNYN25oN2Rfd2x6VktrOGxGRzlBdnloNC15aWlXNi1vX1hXbzBoN1d5YzhVUFVablBhamZxNWM1aVlBV2d0ck5WU3lhbnBaNE1RekJCWkxsc2xJRFl0V3Iw?oc=5",
+   "published": "2026-11-12T20:05+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.31,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "iShares Core S&P 500 ETF (IVV) Sells $26.6 Million of Apple on Tuesday",
+   "title": "iShares Core S&P 500 ETF (IVV) Sells $26.6 Million of Apple on Tuesday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjg0Vjk1NVJwbmVsYUNfMGM2bmlzOFNwTjVKVW5CR0NwdGw1TjdHSzBFNk5BUkFBSzdOUHdjLWpXOXpxUnhUTUVUUHZPeXB5OUp3NF9jTFd1V0QzaXUzZFpWMHJOdko4SEMtYzJ1Rlk2ZFp0WU9icGd0U3pDbXBzS3lVcHhFd2RjYnRFRGpVTUQ?oc=5",
+   "published": "2026-11-12T20:04+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
     "schd"
    ],
    "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": 2.04,
+     "asOf": "2026-11-11"
+    },
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
@@ -108,30 +126,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Tower Semiconductor (TSEM) Stock Could Be Priced About Right On Earnings",
-   "title": "Tower Semiconductor (TSEM) Stock Could Be Priced About Right On Earnings",
+   "summary": "WSJ Says Nvidia Is Preparing to Oust Jensen Huang Over Alleged Affairs; Here’s How Much 2,000 Shares Have Lost Over the Last Month",
+   "title": "WSJ Says Nvidia Is Preparing to Oust Jensen Huang Over Alleged Affairs; Here’s How Much 2,000 Shares Have Lost Over the Last Month",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXROSExPc3hkS3V5VzZvTU9vWDBaWVpubkJJTHdDamlsLVBDMGFrTzFPQmdoUFhqa29COVlQLUtCZDNnT0RBWmUtZ3Y0N0dqTEVuYUlmMUhyYUxRZFZ0ZkNCdnZzdEZSblQ2VTBxRU1VVWNTdU9QMWNGc1ZxX2VockFUaENBaU9EdG55cmJiclcyOGY2M2ZMZktraWVyS1pZSEpn?oc=5",
-   "published": "2026-11-12T10:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.12,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here’s What Investors Need to Know.",
-   "title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here’s What Investors Need to Know.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzhSRWxqYzNXX3ZudGc0SWl2SU1kNFVjMmVTNThhV3NJMTRCdzhtVzFWV1JJS3NfWUpqVmhYTzBLd2pMdWJyS1RRVUI0elFPN0lPdk5KUEJTbzJhQnJXOGZGZVk3Z25VWWpfS1l5ODMyNDUwV3g1ckxjQWFZVW1WV3NqVmZNOFdsYmNxYVJpUE5EZjVVNHo3RA?oc=5",
-   "published": "2026-11-12T10:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHh1ODFYZEM4SGZ6XzgzcF85UjB0X3VVYURXVU5sUnEwSzIxRXRSRzNXQk5pMnRBNkMyNWt3VUEzdjVkX18xMERucnVoanpPODk0Ty1ySHcyUW9ZS255aG5tYk55TkkwUjhhX195NjVfcUZraVplMEJpT1d1SjRFZ0h1Z3hDWUtyRndSeDM5Z1ZraEJVekNGa2otRQ?oc=5",
+   "published": "2026-11-12T21:47+09:00",
    "holdings": [
     "soxl"
    ],
@@ -139,18 +138,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
-   "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
+   "summary": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
+   "title": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTJZdHR0WlpKZDI5LUFQa0tpX1BkSzNWZzk0T3BnY0xEbnI4S2dDTzcyMUd0dHJYWHc1ZmNRaEdjaHhWR2xUcWswMXVqLXNHOWZPVURFSmtnelg3cGRfc21aRk1YbFQ4N3ZUTG5keVUwajczOHFHWklmaTdQWkREb1dMQVJJOFkyZC1XdmNWemJLYUhYYmJ3?oc=5",
-   "published": "2026-11-12T10:26+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXo2blhjUTNSN1E4dWZFSE9ncTM3a2F3am14OHFaVUd1V0JmeE0tbVdJaGZMcUxmX1BWMl9lcVJBUjZpNVVNa2NNY0FlME1PZVpKVnZNQUJUbXktTXdvWWR3MEpJTHRzamF0WF9mbEdvbmVOWUhZV192TlNmRGI2Y3RvOVNrMTFVaGFrbnU3SFhwSmRtNmN6dl84RVNWdFNHcmc?oc=5",
+   "published": "2026-11-12T21:18+09:00",
    "holdings": [
     "soxl"
    ],
@@ -158,37 +157,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "ON Semiconductor Stock Gets A Lift From New Chip Platform And Earnings Momentum",
-   "title": "ON Semiconductor Stock Gets A Lift From New Chip Platform And Earnings Momentum",
+   "summary": "NVDA Stock On Track To Hit Lowest Level In Over A Year: Dan Ives Values Nvidia At $225 Without Jensen Huang",
+   "title": "NVDA Stock On Track To Hit Lowest Level In Over A Year: Dan Ives Values Nvidia At $225 Without Jensen Huang",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObW5jMWN1SDJvNVZ5cmh5WGJxX2YweGNqalpFa2VyMVE3U1ZQZlI0VjdYb0pLMmp2SzVEWmJLaXNDQU5CRHNDcXVHWm56bkxlamo1enpGajd5VC1rdGNwUFFYYWVyenpCTTgtbmRWV0NxNzVUNTdXb2RnczhjVl8xekJMdWQ4c1FxOTBTRFVEUlY5S0M4OEpFeDU2bHJ5WHQ2?oc=5",
-   "published": "2026-11-12T10:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.12,
-     "asOf": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia's stock dives as chipmaker's board weighs move to oust CEO Jensen Huang",
-   "title": "Nvidia's stock dives as chipmaker's board weighs move to oust CEO Jensen Huang",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0ppMjd4Z0pxWkJVRnlaSXNZWUd6Nmd3TC0tWEVLYmp1Z3hmWVFhY2VnRS1Da0U5eXJTdnhtRHNkdTR4bFlDc21UTzctUTNodll1NlJITU81WG1jSVNmV1FVVllJZGlJcWVaSl9LS1A4N3FZeGZ6THVPbTZCOWRaSUFyMzJoaTdZNEh0Vmt3eTd0Zw?oc=5",
-   "published": "2026-11-12T08:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFNTc21RYmNfVmRuQWJNRW0tc2tqbnFQY1c4R1pKUmw2QWY2WERYZVQ5WHNpejJhLXEwR0thQzYzaEppcWVlOUNua1ZGLW5SeW5NUE43M0dLSVp3MzhWMmVPM3dLZVowWXdkc1BGd3Vud3RBNm5KWlBIWm11Y0dycUo4c0RKSHJaRlRvdmtHcXplQ1JFTzBV?oc=5",
+   "published": "2026-11-12T20:38+09:00",
    "holdings": [
     "soxl"
    ],
@@ -196,8 +176,52 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.47,
-     "asOf": "2026-11-10"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stock Sinks -- Who Could Replace Jensen Huang",
+   "title": "Nvidia Stock Sinks -- Who Could Replace Jensen Huang",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGhhS0xXMVRYNFFSRXFtR3RWR3k0VXlMVkJqRktlbWJpX3c3QkZ1NzEzVVpuWjc3QzdkeGJNRFhSdmVUX08tMDdIajlmN0FsaUxhWm50cmN6cTU4RDZCRVpkM3RZWEpRX1pLZFZlTTd3b2tEeHpIVTN1UVBYOG1VLV9LZ3FBenpaSXJ5STlyOWdqUW85cnZrY2x1TzdTUQ?oc=5",
+   "published": "2026-11-12T20:19+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AMD, Broadcom rally as Nvidia faces a major leadership test",
+   "title": "AMD, Broadcom rally as Nvidia faces a major leadership test",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEtEQ290N3J6RW95LTlIR0g1Q3Q4UFd2eDVCdGFOeGoxWXkwdjR4Nzc1VHFOVG5laUtYa050NkxuVlk1blhPUW5yRE5rcEJXWXlKXzR2aURVeUlGbVI5WDR2RFBzU2MyNHowQjhhalk1emRueEpaYW9RTDMzQW5sNHdqMTZkUzVZaUlqMEtwS3FZWXFKSW0wdVRJeEM?oc=5",
+   "published": "2026-11-12T20:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    },
+    {
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": 3.99,
+     "asOf": "2026-11-11"
     }
    ]
   }
