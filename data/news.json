@@ -1,40 +1,13 @@
 {
- "updatedAt": "2026-11-13T22:10:37+09:00",
+ "updatedAt": "2026-11-14T00:02:06+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Nasdaq futures subdued as Nvidia upheaval roils AI trade",
-   "title": "Nasdaq futures subdued as Nvidia upheaval roils AI trade",
+   "summary": "Stock Market Turbulence: 5 Stocks Down 40% or More That I'd Buy Right Now",
+   "title": "Stock Market Turbulence: 5 Stocks Down 40% or More That I'd Buy Right Now",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzBOQUVtbkVkek5raFFhaFJ3MTczWHlJdWgzZC1yZnB2TTAxbC1sUDJYeXBqcXdyYzFiTVljTDRETUNCTFhscDV6YXJJeDV4WHAzdEdUZl9IZXU5V2xPMkJfa0p6RDVqLTRFUVFCclFsOVU3LWVmNkd4Qk1GWWhMSEVLRnlDYWhpOFJUd2tSemhDV0piNkJtczdFTzV5Zw?oc=5",
-   "published": "2026-11-13T21:11+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.39,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "While AI hogged the headlines, 1 overlooked sector beat the S&P 500 — and its top stock is up 700%+ this year",
-   "title": "While AI hogged the headlines, 1 overlooked sector beat the S&P 500 — and its top stock is up 700%+ this year",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWRwZGNFSV9xVkRuWnB2N3pPY0ZhVlZkY012dHQ5YzFfNDBVTmRvMTg1d2RyVDV6enREQWxZcS1lT2pudm80QkxQUDl4UHF3bXdxeF8yTjZUc2FuLXdDVzRtN01OYndUQjA1N0RQRXNxTnFIUVR3NVQ3RWZrZDZCRHQ5aFZfbG8xWHNvQUFvVkNudw?oc=5",
-   "published": "2026-11-13T21:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDdhTnhTMkFwSzIyQUc4M1dia0J4Y2VhR09naHB2NVphZFl5LWhwZVZGdlNwVi1hNkVqNDNCNFlwUmVCcFFrWjJWa1lKaGpmVFMyMmFFNjgxX25kRUpZTkpvaXI5WS1PWmZ1cDE2aVVyam1LYnRuNWJwQlJkLWgwdnhfNThQOHA2UU1Ua1F0cnVTWG12THFIMmFqX01wQQ?oc=5",
+   "published": "2026-11-13T22:37+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -51,15 +24,173 @@
   },
   {
    "category": "미국 지수",
-   "summary": "This S&P 500 stock could be a winner from the Nvidia turmoil",
-   "title": "This S&P 500 stock could be a winner from the Nvidia turmoil",
+   "summary": "Is It Worth Investing in Crocs (CROX) Based on Wall Street's Bullish Views?",
+   "title": "Is It Worth Investing in Crocs (CROX) Based on Wall Street's Bullish Views?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkpBQnVoOElENWFya0o3RDBTQzR4R2tOck1lVzVTbTQyVTZJWEZodkZaSU80Nk1vVmRzLWl2YTFieXJyUk02dWdmZFcxQkd6RTFIZVdYRmJmRHQ4b04tby0zVUlKSlBpelptNnE5WGszeTFuREFJcHNWYlM3a0xuUE54WkZGOUI1Y0liVFVyQ3VKajZ0dlYzM1laX2wwZw?oc=5",
+   "published": "2026-11-13T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Analysts Think Quanta Services (PWR) Is a Good Investment: Is It?",
+   "title": "Wall Street Analysts Think Quanta Services (PWR) Is a Good Investment: Is It?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWU1RVdNQ011RXRoOXYzbGdHWGdmZV9hMkNrcWFPNERHQUlweDRwN2lQeWpCVFQ2WmthckEyM1hJMTA5S05zV21GakFZTEJhRTdWWjBTUlFrYzNGM29zV3BBRzBKVEIyWDU3UWNMeVZLSDluanVNRVJSdVVrSGI5LTY1S1pRbGxoLV9pY2pPbVVMZHhwRy1SSmpOZGZCOUE?oc=5",
+   "published": "2026-11-13T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Analysts Think Cardinal (CAH) Is a Good Investment: Is It?",
+   "title": "Wall Street Analysts Think Cardinal (CAH) Is a Good Investment: Is It?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYU1BWDVpVDBoVzFnTXQ5S0VWdUtuMG1naDk2RkhpQk00eXp3NWV5N2s4cTNFdW1abm53YzJ4Y2hta09kbUo4Y1I1bjZVZzZxSXZsVk9pZUpXcGVtZV9DT1NoN25wY3ZtV0R4V3NQc1c4R1lwUVJwRlQ3eFdzZ2xtb2ZrdFdGT3Z5LTdhTTZUQmMwYXFWWWJ4UXVTdlh0VjhiOEE?oc=5",
+   "published": "2026-11-13T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Gentex (GNTX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "title": "Gentex (GNTX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFo0NDhwa092VnpsS3RNMjFRTmRkYmlva3FxUG1VdHl2cGtlMHFIa2lLRi1GSFJOcHkyTEhwX0JIazhYZWtlbXh5Qm9mdjdXUDN3RE41REVlYnJ2UXUyWUltcU1RLTBrUlF6RmF4UTVIb3lkTWVEN2czSkxiMFJDUm9PWi1wdks5b0pKTVFvZzJGRE9MSHBR?oc=5",
+   "published": "2026-11-13T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock slips as investors digest CEO exit, broader chip sector falls",
+   "title": "Nvidia stock slips as investors digest CEO exit, broader chip sector falls",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
+   "published": "2026-11-13T23:48+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Is Nvidia Stock a Buy Right Now?",
+   "title": "Is Nvidia Stock a Buy Right Now?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVlsZDdWOVpLRER0R0Y5dXlYaVBlblBNTW9veWxRcEVCNERlNmZXd1AyX1pHNDVWZnJoWWE4bVk5NGVucEpsVTA2Yl9fQ3p5Z0dsVUdtVkJzWGR6eENrZ2hYNVV6S3ZHbms2QnF0aW1MUTlLdC1ZYzltRWxXd2FCTVl4TUIzNEhZYXpYaV9n?oc=5",
+   "published": "2026-11-13T23:04+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Here are 5 new share price forecasts for Nvidia after the Huang scandal",
+   "title": "Here are 5 new share price forecasts for Nvidia after the Huang scandal",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Cc3pRT2doaFRQTXd0eDhrZDE5Uml1a1o3bjJwLU1uTmp6QVl5bUgyTzEwaS1WWmhWUDhyQ28zTFk0V2FIWDRCNXZzTlloYVBNOF9RY3dqMmwyVkdDUHNnU3B6V3I5aHJVRXBPdno5akpZajRhNFVZZ2xoMG9oZw?oc=5",
-   "published": "2026-11-13T20:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQak1vN2J5dnZwOFYtbDhkS1dOZFF5M0R1TGtkcWtLQVhjWDJRZXZyeWYzSGJpaVJjRlJaYUh4S1JwR1NuMnpxMS1oVnpCUDlxRjNuN0lOQ0RGUlB4dTNUOXRJNFotTU9oWi14VTNNNzByUlFrUzRQY3QxM3dTTHR3OTZJTzdmUQ?oc=5",
+   "published": "2026-11-13T22:38+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "How Much Is Nvidia Stock Worth Without Jensen Huang?",
+   "title": "How Much Is Nvidia Stock Worth Without Jensen Huang?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUxtMjdBYXBoZ1VFQW8tRWRtSzY5WHlydE5jSWdZRUlJdzdmMzg5M01lY2hWdWxUZ2VzS2dVUlM0dGlyQlA1Zk9ISXNMLXA0Y19kZlBFbkhjN2N5TTJtYmJZd1JuZ2IwckIxdHNDMUZvMVRNT1gyQXJhYW8wZVpuY2o3dXNQcDJnbWQ1c2NRNWlGRk1OeUctdG0wWms?oc=5",
+   "published": "2026-11-13T22:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "After Nvidia’s $427B wipeout, is AMD’s 117x P/E rally a trap?",
+   "title": "After Nvidia’s $427B wipeout, is AMD’s 117x P/E rally a trap?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN05vYk15ZzYzM1Y0UmQwWlk4cGc2VFhNaTc0c2MwaVlRTjBTa3hydUd2dUlRV2Y4R284a2lGV1VHemlVUldnTjFVNnBzWk9lNkVLd3I4cWpwSTZiSG0wOFRhOU4tc2VoX2twUl9QSXd6TVdtakxsSm1EcnNKQ2w4UnJnTXR2ZnVsOGhrR1BqUWc4dnM3WEpYMA?oc=5",
+   "published": "2026-11-13T21:42+09:00",
+   "holdings": [
+    "soxl"
    ],
    "moves": [
     {
@@ -69,148 +200,9 @@
      "asOf": "2026-11-12"
     },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months",
-   "title": "The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGhYOFJXUm14YU8yQTRsRHYzYVVudmo5bFVacF9IYks0cTVJUU43U1NRZ0hzSFNPWkExaEJEWnhKWDN6NTlieEE1MmZiUFhLbVNaYVhyQndCRVlINUV0ckk5RjcxR3RUaVhhbXByWlJRTFdKMjRlc2N5ZDdRX0JnWU5SV1RTNU02aGtMTHQxaW5UeXFNUDBheUwtTVpSaG1MZzQ3Qg?oc=5",
-   "published": "2026-11-13T20:15+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 11",
-   "title": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 11",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXdaMEJvUHpmVDBVVWtQVkZtZzd4clFWc0txMFNVb1Q3aE5xR3ZSd3ZqeHNRYVJXSlJRczNXZ1ZPMWFmUkpLQnBNeHdELVpOV1d3N2p1cG84WnNLVDZjM2ZPY0Nxcnh1azlfVlBnLVg5aTV3bHhYYW5FV2pnVTkwMkY3elFvR2ZZS0d0bV9sYkFULXNBalE?oc=5",
-   "published": "2026-11-13T20:04+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "How Much Of Dell Stock Is A Bet On Nvidia?",
-   "title": "How Much Of Dell Stock Is A Bet On Nvidia?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWVnZXhaWnhfVlpwbS1RLWdQZ0IyNkplS2U5cjBUaEJzSHp0SGZ2X1BjSlJoeE1iU3A4Rmc0THQ4V0JoWDlLU0tlZXRyMTk0ZTB6ZXp3STI1QlRxcFlsX3NXS0NwQjZfSXFXMGFYRXN5OVJReUl0dkN1M2xEaWJjZmlBOFlNY292NVV6SXlVaFVVMkg5VlE?oc=5",
-   "published": "2026-11-13T21:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
-   "title": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1RWS09uMkhMTnR1VV9faEQyWkZUaGFWcGRmOVU0dkFoVi16ckVUZzlDV25oZW56dUVDMi1zODdHdHd3ak8wdUhEcm5MUUw2M0pGTG9TSHdvbGNkRWFnbFhHblpaYkNmbEo4QjVrTnd4dExUakN1TXQtb0xKR1lyS251Rzc2X19qNzZyZlktQkV3c3BodS1Ic1VyejNHLUE?oc=5",
-   "published": "2026-11-13T20:41+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.26,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
-   "title": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVl9TUERfMmNNd3FyQmcxc25xNENEUUxtNXE1RUtfblFsQ29kQjVUaXNVbDZFR2ZYRHFhT25YVkZma2lRTU43SEpBaU44UVF0N0RyTlNXSVlMTlFJRFBkekFYVGR4U1FCUDljX2FlNkRVNm9yRGpvNTJ0OFpVdzh4cTc4Z2tGZmY1VFhaa2hnbDBmT05tU2dJMw?oc=5",
-   "published": "2026-11-13T20:37+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -1.59,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Can AI Infrastructure Demand Sustain NVIDIA's Q3 Data Center Growth?",
-   "title": "Can AI Infrastructure Demand Sustain NVIDIA's Q3 Data Center Growth?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWFKME5yeWxGdWNPc29Xd0VxVUNzaTJ0aFRCUkY0UVpSRHpRTENMd1BCYWc1RFFHWHFrOGhnaDZtaDEway1NN2U1aDdTRTVjNGM3MkdWVFpTZXczSGpzQm4xNVB3akVRdFRmTHhzYjVmZjdSbmtVVExoN3dEZ3VJd0pSMHVUYVJuNXFSdk5vdW5fNFN2ZE13OEJsdmJlM0VmUlRDMF9IUQ?oc=5",
-   "published": "2026-11-13T20:25+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
-   "title": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHFBYmNpWE5kRnlROFhqUXVkTzEtN212MGFDRXJzQ3hzbUp3c2xBNzItMlpLOWw0QWlpamVRLVdaczVYMDNDaGQzQTQ3dENNb2l4dXV3MUQ5a0MwUzJXSkh5S3B4LTdSZERMTDJNdHBhLURvdGhIV0lvaG9temRVc0w4eEtSTkpqODJKem9VOXI2Q1NWbG9yZA?oc=5",
-   "published": "2026-11-13T19:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": 5.86,
      "asOf": "2026-11-12"
     }
    ]
