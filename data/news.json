@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-13T07:41:58+09:00",
+ "updatedAt": "2026-11-13T09:31:34+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Michael Burry는 Nasdaq 100 Puts를 두 배로 늘리고 Nvidia가 조사에 직면함에 따라 반도체 공매도에 추가",
+   "title": "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXoyNzJMQ0JURGlJS3o0Wm0zRTMzTkVKc3Jpa1dZdlZSNzAzS1hqMlA2SGVpYzdIWW9oU3prY2l2RDdHY3J4b3VCYS1SNTBSc0VmNjlnV2o5ZUxDOUE0WmxNQk9ham5OSDI0TEtRZ1BhNHotN2FVanZ3b004a1NSdHRUSlU1cUxOaTdkM0ZUNTN4ZlJ2bXVyazNTRThaZE0?oc=5",
+   "published": "2026-11-13T08:53+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.39,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Travere Therapeutics는 나스닥 상장 규칙 5635(c)(4)에 따라 유도 보조금을 보고합니다.",
+   "title": "Travere Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzl2M20wYnppOFd1U3FGYWJMbDR3LTJBRjJkUXVPQ3JKcF9LWXBlOHBybDhBaE9Dbmt1TVJ3eURjTHpzZUo1d2ozMmlaQkxBM1F4anNJcVBlcDlLbzNzMV83VEp4OW5IeWlQMlRMVEdVcFpMWkNJWXhDdWR5djlOeUhPTk1rN1JWRG5kMjhwN1pibVNlbG9TQXVyUGoyTEdfN25NeFlxeDRTN2M?oc=5",
+   "published": "2026-11-13T07:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.39,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "S&P 500은 광범위한 시장 붕괴에도 불구하고 90분 만에 1조 달러를 회복했습니다",
@@ -71,37 +119,33 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트, D-Wave 주식 목표를 최대 55% 삭감",
-   "title": "Wall Street Slashes D-Wave Stock Targets by Up to 55%",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 지원 AI 클라우드 주가는 기록적인 분기에도 불구하고 18% 하락했습니다.",
+   "title": "Nvidia-backed AI cloud stock sinks 18% despite record quarter",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdU5raDY1cmFaMGdWeXRvdFhDYkE5LTdyMEZ3QnZuenFUWmJhQXl5MXEyYjdUY1ZreTBzV09OMkdPdGVzNDdxZUhzb1M1VmFiWm16TzN3TXJJSVNGQndMZXFtdFd6eEJJcGlvWlVCVlJGV05rczN5VU9uZ0gtNU9fMGlhLUZ4VlhQTURGWGRFS2FVVG92OUE?oc=5",
-   "published": "2026-11-13T04:44+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3YxUXVxZzJaLW5fZWFrMlFkb0pNUHctUHJod2xxdThlOVFCU3doTFlxeXljMjgtYlNlRGhPSUM3LWJVVzBEQkRZYXVwamhGWlQ0aDRCU3NyX2xoZkxKbXpyV20waDIzaVQzRndoWmV1QVZnWWlzdmhMRzJxZUM3N3RMUzYwTEo0MTBpaU5xV3FrRlh4ZW84Sg?oc=5",
+   "published": "2026-11-13T08:45+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
      "asOf": "2026-11-12"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "임시 CEO로 Nvidia CFO가 확실하게 선택했지만 회사 전망은 흐릿하다고 월스트리트가 밝혔습니다.",
-   "title": "Nvidia CFO solid pick for interim CEO, but company outlook is clouded, Wall Street says",
+   "category": "반도체 · 메모리",
+   "summary": "엔비디아 시가총액은 황 전 CEO의 불륜 스캔들로 인해 4900억 달러 급락했다.",
+   "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblRzWUc0cE1hb1dwbjNCVWY2UEtTSEFnQWJlTmhYaEtMZ1FJYkZ6dlFZdDhUV2dSRVNXbHZza25fMmUxT2JwRllTOFVzMnpmck1JYmhXSng1aGdld1JhbjFWTGE4R2NlbnNrdS1wQ082ci1ENFFKQ1ZlMmtzRHVzcjI3T1RRcVh2emJnYnNMLW5tZHZwOF9Bcl95NzlnMXhQQ3hucGRZb0pTZElDajFFX0I1UmtvYUY5TDBqN0RGakFfUnAydkVhMVY4R0Z4RFFOME1RWjZPVnNIdjlQRXc?oc=5",
-   "published": "2026-11-13T03:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYW00QXU1X0N2NDd1VS1LWWxSSmFVTVpFeXFBbFZublk0NlZqVnIwbHlVb184WWJ5TWNZdC16YjR0bWozdEIyN1VYMVgweUVhdDBRYXlZaUVzYktfUkVuRkVCQW1qYWo5cGUwQnY2RTRMZ2lKZklFcWxoVzZLVWY0VFhEZTFQYzFLamt5bzViQkU0ZEtaaU9TaHRzVEYzaDlCY2ppaDB2bGlzdVpQTjFYNE93T0wtRWh0ZW50Y1FENE5MQ0tHVms0LTkwSkhRS2JTbDVzWlZYTkI?oc=5",
+   "published": "2026-11-13T07:44+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
@@ -159,44 +203,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5",
    "published": "2026-11-13T06:26+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 황의 사임 이후 하락해 시장 전체에 부담을 주고 있습니다.",
-   "title": "Nvidia stock falls after Huang resigns, weighing on broader market",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVNwbUF0dnZ3TUV6OTl2cWE0clBuRE93ZEdlcjZxNjhlTWN6emg0ZlYwOUtIVmVMMlltc2dlbjhZOEstOXoxMDl5VDFON05QNFctSkw2TGI2VGdxT2d3eHZsSndTS054ZHZYZjZwM2RtNnFNN0k5a3pDR1luMUN4dl9aWUI?oc=5",
-   "published": "2026-11-13T06:13+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang이 사임하면서 Nvidia는 약 5000억 달러의 가치를 잃었습니다.",
-   "title": "Nvidia sheds nearly $500 billion in value as Jensen Huang resigns",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWTZNczhWU2w3cmgtbk0xU1NZT045SDJYRjlXX3JYMllaeVQ3NzR3ak9zRjZfdmVqSjdmNm5Zczc0MjFUN00wR3pDVlFaNExfcll6cWpwSWpacFBGXzZqaHNaQUIzUVhEUE1hMktzY3R3Zw?oc=5",
-   "published": "2026-11-13T06:08+09:00",
    "holdings": [
     "soxl"
    ],
