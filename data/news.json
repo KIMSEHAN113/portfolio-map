@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-14T00:02:06+09:00",
+ "updatedAt": "2026-11-14T00:32:08+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
+   "title": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWZKZzJYY0NEazdBNTBEUEY2aE1KZTloQ3ZKSXRncW04WVFmcTJJM09CVm5fVnlaVC1Dckd6U1NlVnJqMldJYlRER3ByVG91ZUtPcW8wdkJwby1MTFFOeEkxVXBLOTlwT2M4MTFtaTlzbWtEaE5wMWFIRldDRTRVOEo4emtHbTFPRV9IbGtIT0tkdDhlNVZreGNSUXdQaGdsbkE?oc=5",
+   "published": "2026-11-13T22:57+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Stock Market Turbulence: 5 Stocks Down 40% or More That I'd Buy Right Now",
@@ -86,22 +107,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Gentex (GNTX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "title": "Gentex (GNTX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "category": "반도체 · 메모리",
+   "summary": "10-Year Treasury yield spikes on hot inflation read, Nvidia leads chip stocks lower: AlphaCheck",
+   "title": "10-Year Treasury yield spikes on hot inflation read, Nvidia leads chip stocks lower: AlphaCheck",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFo0NDhwa092VnpsS3RNMjFRTmRkYmlva3FxUG1VdHl2cGtlMHFIa2lLRi1GSFJOcHkyTEhwX0JIazhYZWtlbXh5Qm9mdjdXUDN3RE41REVlYnJ2UXUyWUltcU1RLTBrUlF6RmF4UTVIb3lkTWVEN2czSkxiMFJDUm9PWi1wdks5b0pKTVFvZzJGRE9MSHBR?oc=5",
-   "published": "2026-11-13T22:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1M5NjNPTHpWd3gyWEVnX05BY0ljQzRaQUxoS0VEWlN0WGJKb3JTZWJqTTBXUVVIXzZ3blBQUVJMVGlUUGdRaExTZ05BeEtkMXR0YUJhRnVueDlIdjdyYjEzVzVyWXVlbUVzZmdJTzhMcVZfUEV1Y1NLZmRFYm93V2hUOFRaQ2Ftdjltb2NQb3Y0ZVVvQlpIMDJyVW5EeVFhZjFoUGo4anlpU3FNUW1ndVVWSFRuWlFwdHBn?oc=5",
+   "published": "2026-11-14T00:06+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
      "asOf": "2026-11-12"
     }
    ]
@@ -178,31 +197,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "After Nvidia’s $427B wipeout, is AMD’s 117x P/E rally a trap?",
-   "title": "After Nvidia’s $427B wipeout, is AMD’s 117x P/E rally a trap?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN05vYk15ZzYzM1Y0UmQwWlk4cGc2VFhNaTc0c2MwaVlRTjBTa3hydUd2dUlRV2Y4R284a2lGV1VHemlVUldnTjFVNnBzWk9lNkVLd3I4cWpwSTZiSG0wOFRhOU4tc2VoX2twUl9QSXd6TVdtakxsSm1EcnNKQ2w4UnJnTXR2ZnVsOGhrR1BqUWc4dnM3WEpYMA?oc=5",
-   "published": "2026-11-13T21:42+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": 5.86,
      "asOf": "2026-11-12"
     }
    ]
