@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-13T10:53:32+09:00",
+ "updatedAt": "2026-11-13T22:10:37+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Corteva Inc.(CTVA)가 월스트리트보다 더 어려워지는 이유는 다음과 같습니다.",
-   "title": "Corteva Inc. (CTVA) Falls Harder Than Wall Street — Here’s Why",
+   "summary": "Nasdaq futures subdued as Nvidia upheaval roils AI trade",
+   "title": "Nasdaq futures subdued as Nvidia upheaval roils AI trade",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQW9JSF8xd00yQk1uRzU3QXFiTEIyTl83a1FpYnBZRFAwZUJhZS1HbXRONks0aENSNGhFRWpKZEZYS1lQZDJiVDRKS05pRzJFYUJaNVB5OE1vWTdVZjA0c0I0N0lLeFRPcVRzQVRBSlRWMzJfMXozSzJDS2JRUjVnTW1FRllQR3JLd1dqOU42azR5Qzl3TjZILTBn?oc=5",
-   "published": "2026-11-13T10:19+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Michael Burry는 Nasdaq 100 Puts를 두 배로 늘리고 Nvidia가 조사에 직면함에 따라 반도체 공매도에 추가",
-   "title": "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXoyNzJMQ0JURGlJS3o0Wm0zRTMzTkVKc3Jpa1dZdlZSNzAzS1hqMlA2SGVpYzdIWW9oU3prY2l2RDdHY3J4b3VCYS1SNTBSc0VmNjlnV2o5ZUxDOUE0WmxNQk9ham5OSDI0TEtRZ1BhNHotN2FVanZ3b004a1NSdHRUSlU1cUxOaTdkM0ZUNTN4ZlJ2bXVyazNTRThaZE0?oc=5",
-   "published": "2026-11-13T08:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzBOQUVtbkVkek5raFFhaFJ3MTczWHlJdWgzZC1yZnB2TTAxbC1sUDJYeXBqcXdyYzFiTVljTDRETUNCTFhscDV6YXJJeDV4WHAzdEdUZl9IZXU5V2xPMkJfa0p6RDVqLTRFUVFCclFsOVU3LWVmNkd4Qk1GWWhMSEVLRnlDYWhpOFJUd2tSemhDV0piNkJtczdFTzV5Zw?oc=5",
+   "published": "2026-11-13T21:11+09:00",
    "holdings": [
     "soxl",
     "kodex-nasdaq100",
@@ -38,8 +17,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     },
     {
      "symbol": "^IXIC",
@@ -51,32 +30,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘의 주식 시장, 11월 12일: Nvidia CEO의 놀라운 퇴장으로 월스트리트가 하락하고 경쟁업체가 급증함",
-   "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
+   "summary": "While AI hogged the headlines, 1 overlooked sector beat the S&P 500 — and its top stock is up 700%+ this year",
+   "title": "While AI hogged the headlines, 1 overlooked sector beat the S&P 500 — and its top stock is up 700%+ this year",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkpfcFVLcldhSU9fWS1VTHB2NGJqTFZ1am9kTzlnRldXaHlwRXhmaGxoYjNiMlJSZEEzUlNPSGRXMlJtd1lBeXZJc1ZHN1BTcVlVR0hERGhnN0x5dkNwcGYxT0Rwa194MEZMZHdDWmdkdTRvdGZqM3dUV1JSX1V5YjBqTEJlVmlhMElFSTRGSllTd2E0?oc=5",
-   "published": "2026-11-13T07:45+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "WhiteHawk Minerals Corp.(WHK) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
-   "title": "WhiteHawk Minerals Corp. (WHK) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3lxWGlrZFlFX2JfSXFEc2NzTDBpbVVzZEhSczlGNW5YbnhCaDVzT2w3MnhfOHVVaUl5bFM5em1YUlhGc3JuaDJiZDJBaktrX1B4RUQ5cFE1eWNPLW1SdXllZUo3cC1XaXg0MXlRMjFiSDdpWVpmV2lrWW1Yd3g2NkpPaUNEOVlOU2UxZS1rOHh6bENuTW9ndGxzNA?oc=5",
-   "published": "2026-11-13T07:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWRwZGNFSV9xVkRuWnB2N3pPY0ZhVlZkY012dHQ5YzFfNDBVTmRvMTg1d2RyVDV6enREQWxZcS1lT2pudm80QkxQUDl4UHF3bXdxeF8yTjZUc2FuLXdDVzRtN01OYndUQjA1N0RQRXNxTnFIUVR3NVQ3RWZrZDZCRHQ5aFZfbG8xWHNvQUFvVkNudw?oc=5",
+   "published": "2026-11-13T21:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,32 +51,80 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Travere Therapeutics는 나스닥 상장 규칙 5635(c)(4)에 따라 유도 보조금을 보고합니다.",
-   "title": "Travere Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzl2M20wYnppOFd1U3FGYWJMbDR3LTJBRjJkUXVPQ3JKcF9LWXBlOHBybDhBaE9Dbmt1TVJ3eURjTHpzZUo1d2ozMmlaQkxBM1F4anNJcVBlcDlLbzNzMV83VEp4OW5IeWlQMlRMVEdVcFpMWkNJWXhDdWR5djlOeUhPTk1rN1JWRG5kMjhwN1pibVNlbG9TQXVyUGoyTEdfN25NeFlxeDRTN2M?oc=5",
-   "published": "2026-11-13T07:00+09:00",
+   "summary": "This S&P 500 stock could be a winner from the Nvidia turmoil",
+   "title": "This S&P 500 stock could be a winner from the Nvidia turmoil",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Cc3pRT2doaFRQTXd0eDhrZDE5Uml1a1o3bjJwLU1uTmp6QVl5bUgyTzEwaS1WWmhWUDhyQ28zTFk0V2FIWDRCNXZzTlloYVBNOF9RY3dqMmwyVkdDUHNnU3B6V3I5aHJVRXBPdno5akpZajRhNFVZZ2xoMG9oZw?oc=5",
+   "published": "2026-11-13T20:43+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.39,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months",
+   "title": "The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGhYOFJXUm14YU8yQTRsRHYzYVVudmo5bFVacF9IYks0cTVJUU43U1NRZ0hzSFNPWkExaEJEWnhKWDN6NTlieEE1MmZiUFhLbVNaYVhyQndCRVlINUV0ckk5RjcxR3RUaVhhbXByWlJRTFdKMjRlc2N5ZDdRX0JnWU5SV1RTNU02aGtMTHQxaW5UeXFNUDBheUwtTVpSaG1MZzQ3Qg?oc=5",
+   "published": "2026-11-13T20:15+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 11",
+   "title": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 11",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXdaMEJvUHpmVDBVVWtQVkZtZzd4clFWc0txMFNVb1Q3aE5xR3ZSd3ZqeHNRYVJXSlJRczNXZ1ZPMWFmUkpLQnBNeHdELVpOV1d3N2p1cG84WnNLVDZjM2ZPY0Nxcnh1azlfVlBnLVg5aTV3bHhYYW5FV2pnVTkwMkY3elFvR2ZZS0d0bV9sYkFULXNBalE?oc=5",
+   "published": "2026-11-13T20:04+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
      "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia CEO 퇴임으로 월스트리트를 놀라게 한 후 미국 주식 선물 상승",
-   "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
+   "summary": "How Much Of Dell Stock Is A Bet On Nvidia?",
+   "title": "How Much Of Dell Stock Is A Bet On Nvidia?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5",
-   "published": "2026-11-13T09:52+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWVnZXhaWnhfVlpwbS1RLWdQZ0IyNkplS2U5cjBUaEJzSHp0SGZ2X1BjSlJoeE1iU3A4Rmc0THQ4V0JoWDlLU0tlZXRyMTk0ZTB6ZXp3STI1QlRxcFlsX3NXS0NwQjZfSXFXMGFYRXN5OVJReUl0dkN1M2xEaWJjZmlBOFlNY292NVV6SXlVaFVVMkg5VlE?oc=5",
+   "published": "2026-11-13T21:12+09:00",
    "holdings": [
     "soxl"
    ],
@@ -126,56 +132,58 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia (NVDA) 주식은 분석가의 견해가 더 분열됨에 따라 공정 가치가 감소합니다",
-   "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
+   "summary": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
+   "title": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5",
-   "published": "2026-11-13T09:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1RWS09uMkhMTnR1VV9faEQyWkZUaGFWcGRmOVU0dkFoVi16ckVUZzlDV25oZW56dUVDMi1zODdHdHd3ak8wdUhEcm5MUUw2M0pGTG9TSHdvbGNkRWFnbFhHblpaYkNmbEo4QjVrTnd4dExUakN1TXQtb0xKR1lyS251Rzc2X19qNzZyZlktQkV3c3BodS1Ic1VyejNHLUE?oc=5",
+   "published": "2026-11-13T20:41+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -0.26,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 지원 AI 클라우드 주가는 기록적인 분기에도 불구하고 18% 하락했습니다.",
-   "title": "Nvidia-backed AI cloud stock sinks 18% despite record quarter",
+   "summary": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
+   "title": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3YxUXVxZzJaLW5fZWFrMlFkb0pNUHctUHJod2xxdThlOVFCU3doTFlxeXljMjgtYlNlRGhPSUM3LWJVVzBEQkRZYXVwamhGWlQ0aDRCU3NyX2xoZkxKbXpyV20waDIzaVQzRndoWmV1QVZnWWlzdmhMRzJxZUM3N3RMUzYwTEo0MTBpaU5xV3FrRlh4ZW84Sg?oc=5",
-   "published": "2026-11-13T08:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVl9TUERfMmNNd3FyQmcxc25xNENEUUxtNXE1RUtfblFsQ29kQjVUaXNVbDZFR2ZYRHFhT25YVkZma2lRTU43SEpBaU44UVF0N0RyTlNXSVlMTlFJRFBkekFYVGR4U1FCUDljX2FlNkRVNm9yRGpvNTJ0OFpVdzh4cTc4Z2tGZmY1VFhaa2hnbDBmT05tU2dJMw?oc=5",
+   "published": "2026-11-13T20:37+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -1.59,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 시가총액은 황 전 CEO의 불륜 스캔들로 인해 4900억 달러 급락했다.",
-   "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
+   "summary": "Can AI Infrastructure Demand Sustain NVIDIA's Q3 Data Center Growth?",
+   "title": "Can AI Infrastructure Demand Sustain NVIDIA's Q3 Data Center Growth?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYW00QXU1X0N2NDd1VS1LWWxSSmFVTVpFeXFBbFZublk0NlZqVnIwbHlVb184WWJ5TWNZdC16YjR0bWozdEIyN1VYMVgweUVhdDBRYXlZaUVzYktfUkVuRkVCQW1qYWo5cGUwQnY2RTRMZ2lKZklFcWxoVzZLVWY0VFhEZTFQYzFLamt5bzViQkU0ZEtaaU9TaHRzVEYzaDlCY2ppaDB2bGlzdVpQTjFYNE93T0wtRWh0ZW50Y1FENE5MQ0tHVms0LTkwSkhRS2JTbDVzWlZYTkI?oc=5",
-   "published": "2026-11-13T07:44+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWFKME5yeWxGdWNPc29Xd0VxVUNzaTJ0aFRCUkY0UVpSRHpRTENMd1BCYWc1RFFHWHFrOGhnaDZtaDEway1NN2U1aDdTRTVjNGM3MkdWVFpTZXczSGpzQm4xNVB3akVRdFRmTHhzYjVmZjdSbmtVVExoN3dEZ3VJd0pSMHVUYVJuNXFSdk5vdW5fNFN2ZE13OEJsdmJlM0VmUlRDMF9IUQ?oc=5",
+   "published": "2026-11-13T20:25+09:00",
    "holdings": [
     "soxl"
    ],
@@ -183,18 +191,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia의 주가 하락이 귀하의 401(k) 및 포트폴리오에 어떤 영향을 미칠 수 있습니까?",
-   "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
+   "summary": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
+   "title": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGc4NExKcy01cVJMdzgzVFloRHZ5Nmx5aVI1LS1fWThxb1VHZVA4YXNCYjdjdGV0WEpfaGo2XzQ1T2V3bzJ5VTBMbngzX3RmMEtZektVU2tKbDZwR3FseTRSMTYzd21TTXVCQ3BFSjZTd0ZXRVlFbU8xWU5ONkUwanQ3T3pKeklEVzBsTnBLZGRrZGQzMlhVTXk5M0xBZWgzdzFXc3g5alQ0QzBjYlE?oc=5",
-   "published": "2026-11-13T07:19+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHFBYmNpWE5kRnlROFhqUXVkTzEtN212MGFDRXJzQ3hzbUp3c2xBNzItMlpLOWw0QWlpamVRLVdaczVYMDNDaGQzQTQ3dENNb2l4dXV3MUQ5a0MwUzJXSkh5S3B4LTdSZERMTDJNdHBhLURvdGhIV0lvaG9temRVc0w4eEtSTkpqODJKem9VOXI2Q1NWbG9yZA?oc=5",
+   "published": "2026-11-13T19:30+09:00",
    "holdings": [
     "soxl"
    ],
@@ -202,8 +210,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 2.87,
-     "asOf": "2026-11-11"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   }
