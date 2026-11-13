@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-13T09:31:34+09:00",
+ "updatedAt": "2026-11-13T10:53:32+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Corteva Inc.(CTVA)가 월스트리트보다 더 어려워지는 이유는 다음과 같습니다.",
+   "title": "Corteva Inc. (CTVA) Falls Harder Than Wall Street — Here’s Why",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQW9JSF8xd00yQk1uRzU3QXFiTEIyTl83a1FpYnBZRFAwZUJhZS1HbXRONks0aENSNGhFRWpKZEZYS1lQZDJiVDRKS05pRzJFYUJaNVB5OE1vWTdVZjA0c0I0N0lLeFRPcVRzQVRBSlRWMzJfMXozSzJDS2JRUjVnTW1FRllQR3JLd1dqOU42azR5Qzl3TjZILTBn?oc=5",
+   "published": "2026-11-13T10:19+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Michael Burry는 Nasdaq 100 Puts를 두 배로 늘리고 Nvidia가 조사에 직면함에 따라 반도체 공매도에 추가",
@@ -17,13 +38,55 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     },
     {
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": -0.39,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "오늘의 주식 시장, 11월 12일: Nvidia CEO의 놀라운 퇴장으로 월스트리트가 하락하고 경쟁업체가 급증함",
+   "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkpfcFVLcldhSU9fWS1VTHB2NGJqTFZ1am9kTzlnRldXaHlwRXhmaGxoYjNiMlJSZEEzUlNPSGRXMlJtd1lBeXZJc1ZHN1BTcVlVR0hERGhnN0x5dkNwcGYxT0Rwa194MEZMZHdDWmdkdTRvdGZqM3dUV1JSX1V5YjBqTEJlVmlhMElFSTRGSllTd2E0?oc=5",
+   "published": "2026-11-13T07:45+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "WhiteHawk Minerals Corp.(WHK) 3분기 수익: 주요 지표를 월스트리트 추정치와 비교하는 방법",
+   "title": "WhiteHawk Minerals Corp. (WHK) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3lxWGlrZFlFX2JfSXFEc2NzTDBpbVVzZEhSczlGNW5YbnhCaDVzT2w3MnhfOHVVaUl5bFM5em1YUlhGc3JuaDJiZDJBaktrX1B4RUQ5cFE1eWNPLW1SdXllZUo3cC1XaXg0MXlRMjFiSDdpWVpmV2lrWW1Yd3g2NkpPaUNEOVlOU2UxZS1rOHh6bENuTW9ndGxzNA?oc=5",
+   "published": "2026-11-13T07:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.35,
      "asOf": "2026-11-12"
     }
    ]
@@ -50,71 +113,40 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "S&P 500은 광범위한 시장 붕괴에도 불구하고 90분 만에 1조 달러를 회복했습니다",
-   "title": "S&P 500 Recovered $1 Trillion in 90 Minutes Despite Wider Market Crash",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia CEO 퇴임으로 월스트리트를 놀라게 한 후 미국 주식 선물 상승",
+   "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWhRVkstSmJBbzhiOF92UkhhSWZVOG5TcmNvMUNoQzBJUlY0azdhUW9Lb1ZzeUhxYUtraUtXM0ZzRUhiYlZBNmk2QUd0V3NYT0FWUmswbHU3Tk81T1VEMDN6bGRqYUdQbEVIU0Q2WVJkUzNxTHhJdmFTTUhZbVlHbm9iSENWcFA2LVJZV3FDOVZXQmZ2Unc?oc=5",
-   "published": "2026-11-13T06:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5",
+   "published": "2026-11-13T09:52+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "주식시장은 인류를 위한 IPO에 '걱정스러운' 초점을 맞추고 있다고 Ariel Investments의 Melody Hobson이 말했습니다.",
-   "title": "Stock market has a 'worrisome' focus on Anthropic IPO, Ariel Investments' Mellody Hobson says",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia (NVDA) 주식은 분석가의 견해가 더 분열됨에 따라 공정 가치가 감소합니다",
+   "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUV4bFVxeVp5WDlQVVM4dTZqNVVDbDhSUTQ2YS1LMzBZQkhTemxaRndvSngxU3FueXg0TTNBOFRTU3hoNUdnakdhanMxUnpsODl3MnFwZkY4VzVNLXhEclNzX25OZS1STm1MZDVJMXdNcm02SkNWeXJkaE1NZnFmQUNVa3ZvTEF3dTlRbGRyU3ZaeFVrSFNEUnhfS0t3WnhJWWljSk1wT2d3YzZpRzh0M2ZYR3k4ODc2YVZseEFOQmRhNW5aN1FPd0xxWlMzeEtVZ0dXNlNFOFdxeGR3dU1r?oc=5",
-   "published": "2026-11-13T05:47+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5",
+   "published": "2026-11-13T09:17+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500과 나스닥은 조기 손실에서 회복 - AI에 대한 우려가 여전히 기술주에 남아 있음",
-   "title": "S&P 500 and Nasdaq Recover From Early Losses -- AI Fears Still Hang Over Tech Stocks",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2MzOFZxeHU1WkZhM0VYdXZsQkN3RDdhcW1vSFdnei0yUk1WQ0hLNjk3ZENoc1Y4NjBFNTZmTm1QV3RZY1p1SW8zRkU4Q2hpLVRWaG92UE96dGp1UmVMQU8xOUZwYzF4MWFBcmJDVk93NkNRa2JVR0hReVRPc05hTw?oc=5",
-   "published": "2026-11-13T04:46+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.39,
-     "asOf": "2026-11-12"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.35,
-     "asOf": "2026-11-12"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
@@ -132,8 +164,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
@@ -151,8 +183,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   },
@@ -170,48 +202,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "월스트리트는 엔비디아와 유가 변동으로 흔들리지만 초기 손실 대부분 회복",
-   "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
-   "published": "2026-11-13T07:03+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 하락이 에너지 상승을 능가함에 따라 주식은 하락 마감",
-   "title": "Equities close lower as Nvidia drop outweighs energy gains",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5",
-   "published": "2026-11-13T06:26+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": 2.87,
+     "asOf": "2026-11-11"
     }
    ]
   }
