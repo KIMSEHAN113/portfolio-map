@@ -1,25 +1,61 @@
 {
- "updatedAt": "2026-11-14T10:28:41+09:00",
+ "updatedAt": "2026-11-14T22:10:28+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
-   "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
+   "summary": "정치인들이 주식 시장에서 불공평한 우위를 점하고 있다고 생각하시나요? 이러한 투자는 귀하가 하는 방식으로 거래하는 데 도움이 될 수 있습니다",
+   "title": "Think politicians have an unfair edge in the stock market? These investments can help you trade the way they do",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUpjR2Y4OTNkb290ZEs3VzNwNWlSRW5zQ19LYVJwRXQ1OTdtbUZadkdQUmNPZ0RaTHQ5VnVVXzA1VWp6VEJjQlkyeGFFNjJwVmdnU2dKM3J2WXpsYVVqRjRCZ0poOUhUWnRTbDZQX0tBbUo3QXlMVTdEV1BxQ0FGcWItZWZpcEZTd2dpZVRR?oc=5",
-   "published": "2026-11-14T08:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW15WXhRSThMdzQtcGFsV1lfWDJVeE0xTmI0MFVkVlZiZGE3aXRlbGhVR3k2aHplOVAwME9kSFVLWEp1am40WXBLLVRyN1VReVNkVlBXbWJUSmZMc2t1b2VaMHJaOElHcW9acS1rVlVLMzkyY1Rrd0UwV2praXdNUFNYZVhGYmQ0QmczSUltU0ZhTnRVUEZXUjF6aXpoWVdhZ2c?oc=5",
+   "published": "2026-11-14T21:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jensen Huang CEO의 퇴임 후 Nvidia 주식을 정말로 구매해야 할까요? 월스트리트에는 투자자를 위한 명확한 답이 있습니다.",
+   "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWROd0ZyWG5BRTgyU2J1U09wOWpEaEJnWlh0c1pqLURHRWkyRmNfMXY0bVVSNWVXeGp1MmdidW9QYTBEUnZOelg2YU5SQlFFTUI0cmxDUkVzSm9GM2d2bVVsWnZodG9XemVaaUY3VzhGM1FQUWhfUjJ3Nlk3VTVwTVlZRmRHOEJ5NXZpQVp4Z1oxdVFUWjFr?oc=5",
+   "published": "2026-11-14T18:41+09:00",
    "holdings": [
     "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    },
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "NuRAN Wireless, 최소 입찰 가격 부족에 관한 Nasdaq 알림 수신",
+   "title": "NuRAN Wireless Receives Nasdaq Notification Regarding Minimum Bid Price Deficiency",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0ptVURnZGd3ckpDT1pkSjQwN25VUXRjMzRkckRGclJBX0N0VS16Y3FaX05rQWhZLUx3eWh5TzhZa1lMR29BaVFoQ3REOUFQal84RmNIcUdMaVYwdlAzdVZ2bFNGT0ptYWk3TWxZMzcxOTlWTlRYREFmNW95QTE4djRfRlV4Y18xd2pjOHFDeUdoT1lFOENKVlBtbDdqZEFBbTBmdkdZOGo2MktH?oc=5",
+   "published": "2026-11-14T09:30+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
     {
      "symbol": "^IXIC",
      "name": "나스닥",
@@ -30,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wall Street stocks mostly lower as Nvidia extends slump",
+   "summary": "Nvidia가 부진을 연장함에 따라 월스트리트 주식은 대부분 하락했습니다.",
    "title": "Wall Street stocks mostly lower as Nvidia extends slump",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
@@ -44,14 +80,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Organigram Provides NASDAQ Listing Update",
+   "summary": "Organigram, 나스닥 상장 업데이트 제공",
    "title": "Organigram Provides NASDAQ Listing Update",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG5wLWJuTUk3Y0ZsOV9xVEJOSDhJXzVwRWpZTVNISWtmUzZZcTZ2akFUU0gxbTZYeDg2N3RnQmJkUVpQRTJLeWxmcjM1T2d0ZEdyYnVZVW9lZl80R0ROTkZoQ0VGa084ZHBPdDZjY3ZwNmVkS3VuVUZPTUZKUUswU19RSGJYSW05ZW9WRXU5eXJITUhSZzZIUGNTQ1JEa3pQ?oc=5",
@@ -71,54 +107,31 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
-   "title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+   "category": "반도체 · 메모리",
+   "summary": "Jim Cramer는 Nvidia가 최대 13%까지 하락하면서 Jensen Huang이 주주들을 배신했다고 말했습니다. 귀하의 401(k)가 하나의 주식에 너무 묶여 있습니까?",
+   "title": "Jim Cramer says Jensen Huang betrayed shareholders as Nvidia sinks up to 13%. Is your 401(k) too tied to one stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXV6YzE3a0pZUHJoU3VFRkp5bVJKcUdXNUVOWEJYblpCLUY3R3poa2ZqR1RJOVIxajFDN3FTdFBETnNkdEpTRnlWTVFoeWlITXdNZUFuQ3hsQ1dwTFUtZVhxRkxOeUVvNWlEQ0UtenlSYlFyS2V4XzFDQ1RNcU0xbER5UUJ0bGNENWpkMFhQd2RxUXc2?oc=5",
-   "published": "2026-11-14T07:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0IwQTR5dTFrOWZWSG8wcGZ4YUVJaGZWWmJHaDMtVzA2WWEwQ09OOWFvYlVLdHZ4bXhHblNkY0poR2poZlR1WlJuVXl4V0t6LU90MTctcXY4SVc0LXluRHJ5NUtHN0FoYnBobDlWZEw3aFo2VTVOQnllVmhJVlpmZThTQkFQdkltU0NxMm9yelEtVndtMjlHTA?oc=5",
+   "published": "2026-11-14T21:30+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 13: Nu Holdings Surges on Record Q3 Earnings Beat Driven by Strong Revenue",
-   "title": "Stock Market Today, Nov. 13: Nu Holdings Surges on Record Q3 Earnings Beat Driven by Strong Revenue",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFRtN25QbXZRWklxazJjRTloeS1qRElPZkpjMUJxNXZObERNTnVvN3RxVEg5Q1AyZklsX3BETEtNbzF2UTRjSVFZWXZ6UUxBUkpGZkJHci10LXNjRlNYdk8xSGZJRVZPTU94R0Y5N0ZGbnJjNDZ2dlVqcm1xRWVJVTIzSDBLTVNGeWFGdDJNTTNGNmlq?oc=5",
-   "published": "2026-11-14T07:13+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
-   "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+   "summary": "Nvidia 변동성 이후 소매 투자자들이 주목하고 있는 브로커 주식 3개",
+   "title": "3 Broker Stocks Retail Investors Are Watching After Nvidia Volatility",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlVNV3h5QXNRLVhnek5wV0pmVlR3MUFyTEJOc2RVbkt6Z1VlUDJrc2x4Qm9jWnJkTFdaZ0NoTmJadE9hYkowN3pkN1FQWllIRXZIaEs5SjB6ME1RTEw4R3BHY2ZzeEpOUDBiOFNSUlNFMWMyN2NSekZNdXY3ZTBJNV9nYmdrX3hHVjhLWG5ObVkwNG5sR296NlZ4X2pxSmp2WlJwRWZB?oc=5",
-   "published": "2026-11-14T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFdqblhpdF9LaER4Mmp6UTBMMEw3ZnRuRkVuZHI4VHF0Z3pTN3dmMjR0TnFaeC1aQ3NOSnFFYVFvaXBsUENEMGwzQVBlLTVpdTFKejJUd0RfZkpnSXljV0U2cW5CU3VORldnY1pyU09neG9oVzh3UGVJZTdWYmI5ZUNlYk1RcFZmdlBENTJ0aS1xQ2RTUXZJaU41cElUUQ?oc=5",
+   "published": "2026-11-14T21:09+09:00",
    "holdings": [
     "soxl"
    ],
@@ -126,18 +139,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia lost $600B in value as the Jensen Huang scandal exploded — but insiders had already sold $1B+. Lucky or illegal?",
-   "title": "Nvidia lost $600B in value as the Jensen Huang scandal exploded — but insiders had already sold $1B+. Lucky or illegal?",
+   "summary": "Nvidia와 Jensen Huang의 낙진: 중요한 한 주 후에 우리가 알고 있는 모든 것이 여기에 있습니다.",
+   "title": "Nvidia and Jensen Huang fallout: Here’s everything we know after a momentous week",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRU9hZVJZS3VxLU5GV0Y4ZHlGaW81czJINHNiMGluWjNaMUhmX21aV1lzMDA1TDFFRGkyWjh1akVhelE1V1lJbXlrc0g5S0F1LW9xN1dTQXZoMzlqQlo2aGt1WDRfdHNobTZwalN3dWQ2YkItT0Y3WlpnN1lMbG5jZXhxU3VhQVBSbWcyZ0s5LTkyQ1lEb2ZoUGxR?oc=5",
-   "published": "2026-11-14T06:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEFJLU44LVNlR0hSNXBQVk9MX2lteF9Ba3JGYUJITktIU21YLTJuM2YxcXptcWJrQ0FxLUJUU21kUDlUVzNNdm5MMEdOaE55X0ctX1hyQUV2N1A0cUZXbkZWQnMtTVBOU1lRTGRNMGEwT0JUZWZFamg0bmRkNjNwRldWRzdHTFJRZlI0WGVqMWFuRVZreUpYeFA5MWVNR0JxX0RNRnN3dXIzbUk3VUJrcFIwX3puTVI3S2NQYmhzdV9aQ001c1U5UHJJZUpBeWlfeFkyODRn?oc=5",
+   "published": "2026-11-14T20:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -145,37 +158,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
-   "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LMVB3Z0oxMi1ZbkczN2ZDYURLaXUyczRNOGNaUFdQWkFXRFN0bjctVU9fZGM2Yk50TTg1LTVzdjE1aFc4VXE3dHlPRGt5YU1RbjI3RmxBQ1IwcjFHS0JGYmhGN0F3R2pXeUVLNmNDbXpiWlU?oc=5",
-   "published": "2026-11-14T06:32+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-   "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
+   "summary": "Eric Balchunas는 Nvidia가 주도하는 시장 매도를 '280차 신경 쇠퇴'라고 부르고 비트코인 ​​기반을 $60K로 봅니다.",
+   "title": "Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGF1X29FYW9Vb0NmalZsbXJ5c3ZYNTQ1R1RlaU12TnRYM3pRbWd3Zm5Db3dzZTN4QUY0TjRGN2RjYWp3ZjZkTkw0ZXdkejB0dDhkVnIwS0FYcFdFSExoVG41TGRVdjE1aHB2R2lFSVEyYUtFTlBmZHNwVXhsNDQ1Tjlnbjc1T3NjakozVkJTMEVETTFIVEVUamF0OGViamY1cHAtR1RObmVVeUdEajJwcw?oc=5",
-   "published": "2026-11-14T06:31+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVR0T1BfM2ZBMkJhbDVhNXdldUlZOFhFZTFqZzFibnJQQXhwVVEtLTJGdlJpLWZYUlZ6ajlkOHhodXc3c2pvaGwxNHhKYm9EZWxVRWZERmFTaFR5LV9zanNnbHZRM05xNFRfTU5EODdUa09RaUotRGQ1Tk4tRXJFejhlWVRUUHpkQXBfTzgyM0I4ZE11NU1MbzhSU19ZMFlE?oc=5",
+   "published": "2026-11-14T19:23+09:00",
    "holdings": [
     "soxl"
    ],
@@ -183,24 +177,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
-    },
-    {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": 0.36,
-     "asOf": "2026-11-12"
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia’s board is still investigating Jensen Huang despite his resignation, sources say",
-   "title": "Nvidia’s board is still investigating Jensen Huang despite his resignation, sources say",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUVKdTBnQ3JZdzNiVXhaY3FZMmNIQ0hlNkNzamhaRVlXY0tPNFg2Mk5HZThiWTYxamJlLTh5dWl6WDFhcFlOOVRJNEVoVThsWmdPb0RYdTNBRFpOMUozZjY2aVhqUEFNMTNISnhjNm5xSzBYdWVVYlhRRjVhNW43NEFOdTdyLVQ2SVAzOUp5STJwb050TExSNzVpY2ZqX1NzOTFpTkRBMnZlTk9UaWczTWE3N24?oc=5",
-   "published": "2026-11-14T06:13+09:00",
+   "summary": "Nvidia 주가는 회사가 CEO Jensen Huang에 대한 조사를 개시한 후 하락 마감",
+   "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
+   "published": "2026-11-14T18:56+09:00",
    "holdings": [
     "soxl"
    ],
@@ -208,8 +196,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -4.34,
-     "asOf": "2026-11-12"
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
     }
    ]
   }
