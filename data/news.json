@@ -1,6 +1,96 @@
 {
- "updatedAt": "2026-11-14T07:42:24+09:00",
+ "updatedAt": "2026-11-14T10:28:41+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
+   "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUpjR2Y4OTNkb290ZEs3VzNwNWlSRW5zQ19LYVJwRXQ1OTdtbUZadkdQUmNPZ0RaTHQ5VnVVXzA1VWp6VEJjQlkyeGFFNjJwVmdnU2dKM3J2WXpsYVVqRjRCZ0poOUhUWnRTbDZQX0tBbUo3QXlMVTdEV1BxQ0FGcWItZWZpcEZTd2dpZVRR?oc=5",
+   "published": "2026-11-14T08:37+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street stocks mostly lower as Nvidia extends slump",
+   "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
+   "published": "2026-11-14T08:07+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Organigram Provides NASDAQ Listing Update",
+   "title": "Organigram Provides NASDAQ Listing Update",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG5wLWJuTUk3Y0ZsOV9xVEJOSDhJXzVwRWpZTVNISWtmUzZZcTZ2akFUU0gxbTZYeDg2N3RnQmJkUVpQRTJLeWxmcjM1T2d0ZEdyYnVZVW9lZl80R0ROTkZoQ0VGa084ZHBPdDZjY3ZwNmVkS3VuVUZPTUZKUUswU19RSGJYSW05ZW9WRXU5eXJITUhSZzZIUGNTQ1JEa3pQ?oc=5",
+   "published": "2026-11-14T08:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+   "title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXV6YzE3a0pZUHJoU3VFRkp5bVJKcUdXNUVOWEJYblpCLUY3R3poa2ZqR1RJOVIxajFDN3FTdFBETnNkdEpTRnlWTVFoeWlITXdNZUFuQ3hsQ1dwTFUtZVhxRkxOeUVvNWlEQ0UtenlSYlFyS2V4XzFDQ1RNcU0xbER5UUJ0bGNENWpkMFhQd2RxUXc2?oc=5",
+   "published": "2026-11-14T07:20+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Stock Market Today, Nov. 13: Nu Holdings Surges on Record Q3 Earnings Beat Driven by Strong Revenue",
@@ -23,86 +113,21 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "MKDWELL Tech Inc. Announces One-For-Twenty Reverse Share Split as Part of Nasdaq Compliance Initiative",
-   "title": "MKDWELL Tech Inc. Announces One-For-Twenty Reverse Share Split as Part of Nasdaq Compliance Initiative",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFpISy1xSXBFS05XYkVhQ0hhMS15a3IwTUw3dTJOUEpMdVZNa2QtOGVwa1U4djJIOG5NWEl0QzdjUWdUUXZwSThScW9fWEtmOFVrYUNMbHp6REFuUGQ0b1oxUVBkdXk5dXlGbWlrV3BWTGdkTV9tcDBnbkozN25mS2ZmMmdyQQ?oc=5",
-   "published": "2026-11-14T06:30+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Scholar Rock Reports New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "title": "Scholar Rock Reports New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "category": "반도체 · 메모리",
+   "summary": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+   "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQV83dTNLb2dIUHhQcXYtVWsxbTRKWnJwRGRHTjJiYlp3c25IT0R6YlB2NjctYnpQRkVlU1J3eEY0SEMtUWRvODlFRFpVNm92dmFVOTdlSFl2Nm9nNFJ0R3Q0Z25tdENNa0h6N2JBT3Itd09hYnpqRURsLUFYRXRUYVl0LTliOC1Sc3NMWmhNanYwZGZ2cDNnSXI3ek5sYnpZUHpR?oc=5",
-   "published": "2026-11-14T06:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlVNV3h5QXNRLVhnek5wV0pmVlR3MUFyTEJOc2RVbkt6Z1VlUDJrc2x4Qm9jWnJkTFdaZ0NoTmJadE9hYkowN3pkN1FQWllIRXZIaEs5SjB6ME1RTEw4R3BHY2ZzeEpOUDBiOFNSUlNFMWMyN2NSekZNdXY3ZTBJNV9nYmdrX3hHVjhLWG5ObVkwNG5sR296NlZ4X2pxSmp2WlJwRWZB?oc=5",
+   "published": "2026-11-14T08:00+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Greenland Technologies Holding Corporation Receives Nasdaq Notification Regarding Minimum Bid Price Deficiency",
-   "title": "Greenland Technologies Holding Corporation Receives Nasdaq Notification Regarding Minimum Bid Price Deficiency",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWdpWHV1VE1FWEZZdEJGMmkteWI0TFQ4OFNmNmIwZDIyU0IwRWxZaDNfWGNtR29xRXNKNVBxbU1qS0ljVzBBNVR4Q1JVbGpLZTlrYzdvQWhoSnRCUGc1aURLN05NaElUQ3Jfc29YdkxacWdnZ25MYjVSTXlISS15cVZ6TUMwUlJDMVpZaWRWLWRzVFhRakpKLWhCUk9JZXFqZmtrbE1haUhMdnkyTGtxMS1GQ2ZpdjA?oc=5",
-   "published": "2026-11-14T06:10+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Evolus Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "title": "Evolus Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGJqMzh0eFRmU2V1bWxxVkl6b2pRa3cwd1hLUl8zOU5VNnMtQm1CVGFrZGk0QTZkdXpHZk9jcmlocWlIVmQ4ZWxVcEp6eGQtRzdkV3FsNVFaRVV6bkNFazN5dUFhTl9qMXdXcDJDQlg5MEdJMW9OQTV5bTNDaUlSZ2ZSZ1VzMWMxN1RFQVVFc1VtXzhwOUpVV3kzY0Y0VGJDenh0b1BB?oc=5",
-   "published": "2026-11-14T06:05+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
@@ -120,8 +145,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
@@ -139,8 +164,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   },
@@ -158,14 +183,14 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     },
     {
      "symbol": "MSFT",
      "name": "마이크로소프트",
-     "chgPct": 0.17,
-     "asOf": "2026-11-13"
+     "chgPct": 0.36,
+     "asOf": "2026-11-12"
     }
    ]
   },
@@ -183,27 +208,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Q3 Earnings Preview: What Options Traders Expect After Jensen Huang’s Sudden Exit",
-   "title": "Nvidia Q3 Earnings Preview: What Options Traders Expect After Jensen Huang’s Sudden Exit",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJpT1kwd1M1SjBUNjVPejAyYWgyazlCYWZzY055VmNiQ2I1bjV5dVpHbzJrdjFiVjRtc21DQU1tMXBta0dxaFlrQmF1X2hiTDN5RlktSUtwV1UxbnFlNTZxaV8tVGtWTS1JZWpkT3lXM29FSlhqWE83QWpKRVpfSkxnd3Z5MkxwbGlycEZTUV9VamRWM3l1M1ZvazFBSE1PR0E?oc=5",
-   "published": "2026-11-14T05:57+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.34,
+     "asOf": "2026-11-12"
     }
    ]
   }
