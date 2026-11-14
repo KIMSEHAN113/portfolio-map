@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-14T22:10:28+09:00",
+ "updatedAt": "2026-11-15T07:42:26+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "정치인들이 주식 시장에서 불공평한 우위를 점하고 있다고 생각하시나요? 이러한 투자는 귀하가 하는 방식으로 거래하는 데 도움이 될 수 있습니다",
-   "title": "Think politicians have an unfair edge in the stock market? These investments can help you trade the way they do",
+   "summary": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+   "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW15WXhRSThMdzQtcGFsV1lfWDJVeE0xTmI0MFVkVlZiZGE3aXRlbGhVR3k2aHplOVAwME9kSFVLWEp1am40WXBLLVRyN1VReVNkVlBXbWJUSmZMc2t1b2VaMHJaOElHcW9acS1rVlVLMzkyY1Rrd0UwV2praXdNUFNYZVhGYmQ0QmczSUltU0ZhTnRVUEZXUjF6aXpoWVdhZ2c?oc=5",
-   "published": "2026-11-14T21:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+   "published": "2026-11-15T03:56+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,133 +24,95 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Jensen Huang CEO의 퇴임 후 Nvidia 주식을 정말로 구매해야 할까요? 월스트리트에는 투자자를 위한 명확한 답이 있습니다.",
-   "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors.",
+   "summary": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
+   "title": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWROd0ZyWG5BRTgyU2J1U09wOWpEaEJnWlh0c1pqLURHRWkyRmNfMXY0bVVSNWVXeGp1MmdidW9QYTBEUnZOelg2YU5SQlFFTUI0cmxDUkVzSm9GM2d2bVVsWnZodG9XemVaaUY3VzhGM1FQUWhfUjJ3Nlk3VTVwTVlZRmRHOEJ5NXZpQVp4Z1oxdVFUWjFr?oc=5",
-   "published": "2026-11-14T18:41+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV84UnpXWmRaeUlPTk1jMDI5bkk5REtteGE5UmxZZHR0NFBrMGIybjBlM2tWN2ljUk1ubXZfcFA2dmZkVVIwVEpWYzk2elJvdTJzQjE1Z3FKa2NLUTh6WUpaN2l4RWJPQmU5ZkQyS0ZENEhHOEY2bjJwbVJ6ZlVPQXdSR044dWV6SWZqdzZuRnFaeEJFbncxQTY1YVExYWFCYzRUTGlmcDhLZw?oc=5",
+   "published": "2026-11-15T02:54+09:00",
    "holdings": [
-    "soxl",
     "rise-sp500",
-    "irp-kodex-sp500"
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "NuRAN Wireless, 최소 입찰 가격 부족에 관한 Nasdaq 알림 수신",
-   "title": "NuRAN Wireless Receives Nasdaq Notification Regarding Minimum Bid Price Deficiency",
+   "summary": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+   "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0ptVURnZGd3ckpDT1pkSjQwN25VUXRjMzRkckRGclJBX0N0VS16Y3FaX05rQWhZLUx3eWh5TzhZa1lMR29BaVFoQ3REOUFQal84RmNIcUdMaVYwdlAzdVZ2bFNGT0ptYWk3TWxZMzcxOTlWTlRYREFmNW95QTE4djRfRlV4Y18xd2pjOHFDeUdoT1lFOENKVlBtbDdqZEFBbTBmdkdZOGo2MktH?oc=5",
-   "published": "2026-11-14T09:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhpQkVFUkJWVzJTRzg4LTBvNWc3eF82WDZnN2xSdEhlc2NNbkxYWmp0VU9lR0FXMkE2Wkh6bTd2QmVTRlliNFltVTNWREYwZDZxRTgyYjNnR3liSVR6MmNsR2VHaXM4eVB0MnRoVl9odnZDTE1oS0NXS1JBZEV0d0pvdmxtYm9wcTFDNVNHcFJhVXJzNHNkVHRQUURlMVlPYlRjS2NRVQ?oc=5",
+   "published": "2026-11-15T01:01+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nvidia가 부진을 연장함에 따라 월스트리트 주식은 대부분 하락했습니다.",
-   "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
-   "published": "2026-11-14T08:07+09:00",
-   "holdings": [
-    "soxl",
     "rise-sp500",
-    "irp-kodex-sp500"
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Organigram, 나스닥 상장 업데이트 제공",
-   "title": "Organigram Provides NASDAQ Listing Update",
+   "summary": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
+   "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG5wLWJuTUk3Y0ZsOV9xVEJOSDhJXzVwRWpZTVNISWtmUzZZcTZ2akFUU0gxbTZYeDg2N3RnQmJkUVpQRTJLeWxmcjM1T2d0ZEdyYnVZVW9lZl80R0ROTkZoQ0VGa084ZHBPdDZjY3ZwNmVkS3VuVUZPTUZKUUswU19RSGJYSW05ZW9WRXU5eXJITUhSZzZIUGNTQ1JEa3pQ?oc=5",
-   "published": "2026-11-14T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5",
+   "published": "2026-11-15T00:20+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+   "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdETW8wRVctc294STJHUHl3QkZaV0xKcjNDR2daRXlBWlpES0xUaDVEbTFyazZrdUdRYktOcDFOWkJKWVhSYThCM1Z2S3NjT0FHUF9PUzlTZVBuZmN1SjQ0U3Y2U1hVVkxma3JPVEJoMlBEWUM5MnlIaWJhUFZyYXBOQkEzVjhleUdLUWdkT0NTd9IBlwFBVV95cUxObWlobFBpRUs4TzY5aWdNaFhWeTdILVVzbUxuQ2pmbFpfeW5md1BIQ1NJZ2tjQXJQM1l4dUp6OVI3dUlEQzQ0X2RmU2l1R194R1FNUFF2Tkd1VzltVzNxUjMzbGlUWl85dWNjRWItY051QU5EOFlEVGFtM2ktdUhYWHV1YVZGTlFXQkQ1TldiZDl3MUZMZWFr?oc=5",
+   "published": "2026-11-15T00:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jim Cramer는 Nvidia가 최대 13%까지 하락하면서 Jensen Huang이 주주들을 배신했다고 말했습니다. 귀하의 401(k)가 하나의 주식에 너무 묶여 있습니까?",
-   "title": "Jim Cramer says Jensen Huang betrayed shareholders as Nvidia sinks up to 13%. Is your 401(k) too tied to one stock?",
+   "summary": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
+   "title": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0IwQTR5dTFrOWZWSG8wcGZ4YUVJaGZWWmJHaDMtVzA2WWEwQ09OOWFvYlVLdHZ4bXhHblNkY0poR2poZlR1WlJuVXl4V0t6LU90MTctcXY4SVc0LXluRHJ5NUtHN0FoYnBobDlWZEw3aFo2VTVOQnllVmhJVlpmZThTQkFQdkltU0NxMm9yelEtVndtMjlHTA?oc=5",
-   "published": "2026-11-14T21:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 변동성 이후 소매 투자자들이 주목하고 있는 브로커 주식 3개",
-   "title": "3 Broker Stocks Retail Investors Are Watching After Nvidia Volatility",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFdqblhpdF9LaER4Mmp6UTBMMEw3ZnRuRkVuZHI4VHF0Z3pTN3dmMjR0TnFaeC1aQ3NOSnFFYVFvaXBsUENEMGwzQVBlLTVpdTFKejJUd0RfZkpnSXljV0U2cW5CU3VORldnY1pyU09neG9oVzh3UGVJZTdWYmI5ZUNlYk1RcFZmdlBENTJ0aS1xQ2RTUXZJaU41cElUUQ?oc=5",
-   "published": "2026-11-14T21:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia와 Jensen Huang의 낙진: 중요한 한 주 후에 우리가 알고 있는 모든 것이 여기에 있습니다.",
-   "title": "Nvidia and Jensen Huang fallout: Here’s everything we know after a momentous week",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEFJLU44LVNlR0hSNXBQVk9MX2lteF9Ba3JGYUJITktIU21YLTJuM2YxcXptcWJrQ0FxLUJUU21kUDlUVzNNdm5MMEdOaE55X0ctX1hyQUV2N1A0cUZXbkZWQnMtTVBOU1lRTGRNMGEwT0JUZWZFamg0bmRkNjNwRldWRzdHTFJRZlI0WGVqMWFuRVZreUpYeFA5MWVNR0JxX0RNRnN3dXIzbUk3VUJrcFIwX3puTVI3S2NQYmhzdV9aQ001c1U5UHJJZUpBeWlfeFkyODRn?oc=5",
-   "published": "2026-11-14T20:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTU4MTUtSndpZFFoWUR1VEhjZE9yak8wdWViV3VzT2hzeEhSaDZYVlVSNHRxVE1sWXhMM3RxblNELS03ZTBNVm5YLVJwc0NsUmlUTFIwM2hfc2R2dkNheGlxeFhiRXZXUWNiY1VGRmZ5VnpZZHF3ZzdYODVUUllKX3R5TF9DT2xwWXBNMTBKeXE?oc=5",
+   "published": "2026-11-15T07:09+09:00",
    "holdings": [
     "soxl"
    ],
@@ -165,11 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Eric Balchunas는 Nvidia가 주도하는 시장 매도를 '280차 신경 쇠퇴'라고 부르고 비트코인 ​​기반을 $60K로 봅니다.",
-   "title": "Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K",
+   "summary": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
+   "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVR0T1BfM2ZBMkJhbDVhNXdldUlZOFhFZTFqZzFibnJQQXhwVVEtLTJGdlJpLWZYUlZ6ajlkOHhodXc3c2pvaGwxNHhKYm9EZWxVRWZERmFTaFR5LV9zanNnbHZRM05xNFRfTU5EODdUa09RaUotRGQ1Tk4tRXJFejhlWVRUUHpkQXBfTzgyM0I4ZE11NU1MbzhSU19ZMFlE?oc=5",
-   "published": "2026-11-14T19:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFljaWVtdURHQzgxcERTYjY3V1c0cnI2ZkRJLTBsc0tZbnBBY292UV82dk1JM0dXLWxfMnJDUnRGUG5EZkNVdzh6S0gyU3pGdXFxUjA1bmg1ZmpzbzFBWG9UQ0Q3T2VIMEJxYldFUTQ0TTRxRU1fRmtVWXJkd1ZoMGVRLWp6M2R1REVoWDVzdTNMQ1U?oc=5",
+   "published": "2026-11-15T05:06+09:00",
    "holdings": [
     "soxl"
    ],
@@ -179,16 +141,64 @@
      "name": "엔비디아",
      "chgPct": -2.01,
      "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -8.75,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 주가는 회사가 CEO Jensen Huang에 대한 조사를 개시한 후 하락 마감",
-   "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
-   "published": "2026-11-14T18:56+09:00",
+   "summary": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
+   "title": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFxb0NFNGNaVzBRdzExcGJ6a2Jremg4N1JFQk1lRHlQME04V3NnQ2ZocVlBR2RkeVpVWmwzQ3BaVmZSZjhrTFZZTndQSTJNR2hieUtXSzdaNUdraVFlU3ZUNllBRFpNTUtTZUFJeTg3TTdIWGtib0ZKZmROZGk1NHVSeERfLXZoOHNGNmY1TTlqZGpVWjl2Sg?oc=5",
+   "published": "2026-11-15T04:30+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -2.52,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Where Will Micron Stock Be in 5 Years?",
+   "title": "Where Will Micron Stock Be in 5 Years?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalJBaFNOZlJDNlRicGwzbDFyRWI3M25BV2otTUJDREtBSkJsdGlyVTc2WXFnaFJvN1JNR3lhT2IzcU9OeGQybzF5dFFtREFDRTlhbnkyaDhIUGFiS0hmSWkxNVBRMUo5NXJuTDYyOUlJSW54NTZYUzVEdFljRUp4U3lyc0Jod1FRUlZmOFp1WXJmbXI3cmc?oc=5",
+   "published": "2026-11-15T02:40+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -2.52,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
+   "published": "2026-11-15T02:35+09:00",
    "holdings": [
     "soxl"
    ],
