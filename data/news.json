@@ -1,103 +1,101 @@
 {
- "updatedAt": "2026-11-15T10:05:44+09:00",
+ "updatedAt": "2026-11-15T22:10:13+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "그는 자신의 $200,000 S&P 500 401(k)가 AI 위험을 확산시킨다고 생각합니다. 두 개의 알파벳 주식 클래스가 한 회사에 $10,380를 투자했습니다. 20% 하락하면 $2,076의 비용이 발생할 수 있습니다.",
-   "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+   "summary": "Amazon, Apple, Microsoft와 같은 최고 성장주에 투자하고 싶지만 Nvidia는 피하고 싶으신가요? 올해 24.8% 상승한 이 저비용 Vanguard ETF를 생각해 보십시오.",
+   "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
-   "published": "2026-11-15T08:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmhrc016aHFEMGZNbDhPS2RHSGZma215dUtkQnN4Z3E5Nk1CSmM4OVlNLVRaWEdyNkJ0VWwxSTAtMG1LUXh3ejh3bUhaZU5HM2lfNEhoRzExbGZJWUVGSnRvU1kzQlMwTWNCa0ZaTDhQRlhhX2VPdkJkakd0d1dMaFZ2ejhmYlBYWDI3UXNxbVNPTjJQbVUxTVhn?oc=5",
+   "published": "2026-11-15T20:50+09:00",
    "holdings": [
-    "googl",
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": 0.39,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "AI 관련 매도에도 불구하고 기술주는 S&P 500 성과의 중심으로 남아 있습니다.",
+   "title": "Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnBFRzBWTWJLWU1Valc5Mnp4dWdyclpoc21lR2FITVFCNDFBNVp2VEw1bC1lV0VGMmZxTjFZaGpTOFdoVGUyWWtlS1VsQTZoU1lZRUYyQTh2U0lGc1N2clRVMkt0d0gtUTVDb0gxLTBIYUxiYnJ1dWdKT1gzRlJZZ2hCb3gwcG5idVVz?oc=5",
+   "published": "2026-11-15T20:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "주식시장 붕괴인가, 호황인가? 무엇이 먼저 올 것인가?",
+   "title": "What might come first: a stock market crash or boom?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHAwekVlNkp6SklQTmx2UkpLaloybWRTaHpueUl2VldnWWFiZ1MwcElfSVlxRXl4M3lSWFJjQVpSemVYR3VoRWdQd3dnYlZoRGhRY0FSZkExcjFGd0ZIUWRoYTVXNzJpNmVFU0JfTVNMb1FLYlRmLUxadTAwTVBVbGZMWU0?oc=5",
+   "published": "2026-11-15T17:32+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jordi Visser는 12월 연준의 결정을 비트코인의 다음 촉매제로 보고 월스트리트의 Nvidia 다운그레이드에 의문을 제기합니다",
+   "title": "Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVIdUhYQjJveVgtdEVaMGRiSmxOdkhQeU9oOXkzS3BHUGNNZVJEeUtyOVBRTHF6Z2taSnNqRHFnNG1sd18zLVV4dTE3cWJyb1EtalhRVnE2QW04YzB3TEwxYVhsdW1NVWkzcDNXTkhvY1owbXpnUHdLN2dneDh0cmJJU0kwcTQweE1kMmUwOFNlWGQwMGxVR3czSQ?oc=5",
+   "published": "2026-11-15T16:51+09:00",
+   "holdings": [
+    "soxl",
     "rise-sp500",
     "irp-kodex-sp500"
    ],
    "moves": [
     {
-     "symbol": "GOOGL",
-     "name": "알파벳",
-     "chgPct": -0.98,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "회의론이 커지면서 AI에 대한 월스트리트의 믿음을 테스트하는 Anthropic IPO",
-   "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+   "summary": "11월 25일은 주식시장에 중요한 날이 될 것이다",
+   "title": "Nov. 25 Will Be a Critical Day for the Stock Market",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
-   "published": "2026-11-15T03:56+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "워렌 버핏의 버크셔 주가는 60년 동안 연평균 19% 이상의 수익률을 올렸는데, 이는 S&P 500의 10% 수익률의 거의 두 배에 달하는 수치입니다. 투자자들이 지금도 그 플레이북을 적용할 수 있나요?",
-   "title": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV84UnpXWmRaeUlPTk1jMDI5bkk5REtteGE5UmxZZHR0NFBrMGIybjBlM2tWN2ljUk1ubXZfcFA2dmZkVVIwVEpWYzk2elJvdTJzQjE1Z3FKa2NLUTh6WUpaN2l4RWJPQmU5ZkQyS0ZENEhHOEY2bjJwbVJ6ZlVPQXdSR044dWV6SWZqdzZuRnFaeEJFbncxQTY1YVExYWFCYzRUTGlmcDhLZw?oc=5",
-   "published": "2026-11-15T02:54+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "캔톤 네트워크란 무엇입니까? 월스트리트를 위해 구축된 개인 정보 보호 블록체인",
-   "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhpQkVFUkJWVzJTRzg4LTBvNWc3eF82WDZnN2xSdEhlc2NNbkxYWmp0VU9lR0FXMkE2Wkh6bTd2QmVTRlliNFltVTNWREYwZDZxRTgyYjNnR3liSVR6MmNsR2VHaXM4eVB0MnRoVl9odnZDTE1oS0NXS1JBZEV0d0pvdmxtYm9wcTFDNVNHcFJhVXJzNHNkVHRQUURlMVlPYlRjS2NRVQ?oc=5",
-   "published": "2026-11-15T01:01+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "워렌 버핏은 수년 만에 주식 시장에 대해 가장 강력한 경고를 발표했습니다. 역사가 말하는 내용은 다음과 같습니다.",
-   "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5",
-   "published": "2026-11-15T00:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5",
+   "published": "2026-11-15T12:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,11 +112,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Warren Buffett의 Berkshire는 Nvidia가 침몰하면서 사상 최고치를 기록했습니다. 2016년에 1,000주를 구입한 67세 노인은 올해 106,000달러를 매도하고 이익에 대해 0%를 지불할 수 있습니다.",
-   "title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
+   "summary": "Nvidia의 Jensen 이후 첫 수익과 Anthropic의 IPO: 이번 주에 주목해야 할 사항",
+   "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODJfX05LOWRHRWdaT2ZTTjFxTnZzb25YZmFfWGxrS1FrNG51TXpxQURpZ1NYX2hHWVpraDZqeUVUd2V6U2VkTGdvZ3ViX3pPMm41RU51S0RRMzdLYnFGdUxnZ0xKMFp2Ym43RGdEdUl1c1BTaDNmS2hrMDYyaWgxYjhMeFY2V1hWRTMtMWsyZHl4V1Nwa18tUnN3M2djc0E?oc=5",
-   "published": "2026-11-15T08:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGowX3ljRUhFOUtMR2diRUJHR2xTalpGZExTNFRKTExUQTQ2cUtNQXZfWEVRM3BMYldsOEh2czRtSmJZVExCakN0Q2VaWVRWWmFSYjRsRFBqNzRucXh1c2pIcW84aDUzdkhjY3pyZFFkVjRSN2gzU0dNM1NEWXI2WHIxdXl0OTB4OVM3QVVsSXg5V2NUQVVLVmZJWURyaWhXOUxyTWE3cm1qVXRQTFktZWQ0Y3hmaWlaenFrTi1jc3ZPSTFlWUVEbXRaYUVQOU0?oc=5",
+   "published": "2026-11-15T20:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -133,30 +131,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "3가지 AI 칩 주식 소매 투자자는 Nvidia 외에는 누락될 수 있습니다.",
-   "title": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
+   "summary": "Anthropic은 AMD 투자자에게는 좋은 소식을, Nvidia에게는 나쁜 소식을 전달했습니다.",
+   "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTU4MTUtSndpZFFoWUR1VEhjZE9yak8wdWViV3VzT2hzeEhSaDZYVlVSNHRxVE1sWXhMM3RxblNELS03ZTBNVm5YLVJwc0NsUmlUTFIwM2hfc2R2dkNheGlxeFhiRXZXUWNiY1VGRmZ5VnpZZHF3ZzdYODVUUllKX3R5TF9DT2xwWXBNMTBKeXE?oc=5",
-   "published": "2026-11-15T07:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AMD는 1999년 이후 Nvidia를 상대로 가장 큰 경쟁을 벌였습니다. 수익에서 살아남을 수 있을까요?",
-   "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFljaWVtdURHQzgxcERTYjY3V1c0cnI2ZkRJLTBsc0tZbnBBY292UV82dk1JM0dXLWxfMnJDUnRGUG5EZkNVdzh6S0gyU3pGdXFxUjA1bmg1ZmpzbzFBWG9UQ0Q3T2VIMEJxYldFUTQ0TTRxRU1fRmtVWXJkd1ZoMGVRLWp6M2R1REVoWDVzdTNMQ1U?oc=5",
-   "published": "2026-11-15T05:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5",
+   "published": "2026-11-15T19:40+09:00",
    "holdings": [
     "soxl"
    ],
@@ -177,11 +156,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA(NVDA): AI 수요가 리더십 불확실성을 통해 성장을 유지할 수 있습니까?",
-   "title": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty?",
+   "summary": "Nvidia 주식은 2022년 이후 처음으로 손실을 입을 수 있습니다. 마지막 7년 이후의 내용은 다음과 같습니다.",
+   "title": "Nvidia Stock Could Have Its First Losing Year Since 2022. Here's What It Did After Its Last 7.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5",
-   "published": "2026-11-15T04:24+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzB5dGpZSkhYa3cwUHkyT19vMUNERzA5MXJhUWtjZFFfWDYtXy1vLU16S0huQzhBSzVCXzBjdmpQUlVNOGFzUlN6RndocmtyQ2V0WF9KTmdoYkQtWkVmVVNYYVM1NFVNN210aHJCZWU2cnA3d0o2ZHB1LWgzOTZqbUZjYUdfMVRFclU3UFhtVHV4ZXlzTkZ1YVd5aGI?oc=5",
+   "published": "2026-11-15T18:12+09:00",
    "holdings": [
     "soxl"
    ],
@@ -196,21 +175,44 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "5년 후 마이크론 주식은 어디에 있을까요?",
-   "title": "Where Will Micron Stock Be in 5 Years?",
+   "summary": "AMD는 Oppenheimer의 업그레이드와 Nvidia의 혼란으로 일주일 만에 19% 급등: \"수요가 공급보다 높습니다\"",
+   "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalJBaFNOZlJDNlRicGwzbDFyRWI3M25BV2otTUJDREtBSkJsdGlyVTc2WXFnaFJvN1JNR3lhT2IzcU9OeGQybzF5dFFtREFDRTlhbnkyaDhIUGFiS0hmSWkxNVBRMUo5NXJuTDYyOUlJSW54NTZYUzVEdFljRUp4U3lyc0Jod1FRUlZmOFp1WXJmbXI3cmc?oc=5",
-   "published": "2026-11-15T02:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+   "published": "2026-11-15T17:06+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.52,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -8.75,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 주식 폭락 이후 ISA와 SIPP에서 내가 하고 있는 일은 다음과 같습니다.",
+   "title": "After the Nvidia stock crash, here’s what I’m doing in my ISA and SIPP",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekh0UHV1WThuLTRORUgtZ3k5QnUtTnhnOGQyS3h3MUNvbi1LRmtINmJsSWgtUWdSakZmR0lLeHkzcTJNRTBZcDFqTkJjTlBPRjJLbF81VmJfTkljdU5Vb1pyWDg5NWhYVFVSUHBybkRjTlRRa0p4UFFPbkpHY2ZreA?oc=5",
+   "published": "2026-11-15T16:53+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
