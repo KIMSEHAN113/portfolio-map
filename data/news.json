@@ -1,9 +1,36 @@
 {
- "updatedAt": "2026-11-15T07:42:26+09:00",
+ "updatedAt": "2026-11-15T10:05:44+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+   "summary": "그는 자신의 $200,000 S&P 500 401(k)가 AI 위험을 확산시킨다고 생각합니다. 두 개의 알파벳 주식 클래스가 한 회사에 $10,380를 투자했습니다. 20% 하락하면 $2,076의 비용이 발생할 수 있습니다.",
+   "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
+   "published": "2026-11-15T08:03+09:00",
+   "holdings": [
+    "googl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "GOOGL",
+     "name": "알파벳",
+     "chgPct": -0.98,
+     "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "회의론이 커지면서 AI에 대한 월스트리트의 믿음을 테스트하는 Anthropic IPO",
    "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
@@ -24,7 +51,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
+   "summary": "워렌 버핏의 버크셔 주가는 60년 동안 연평균 19% 이상의 수익률을 올렸는데, 이는 S&P 500의 10% 수익률의 거의 두 배에 달하는 수치입니다. 투자자들이 지금도 그 플레이북을 적용할 수 있나요?",
    "title": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV84UnpXWmRaeUlPTk1jMDI5bkk5REtteGE5UmxZZHR0NFBrMGIybjBlM2tWN2ljUk1ubXZfcFA2dmZkVVIwVEpWYzk2elJvdTJzQjE1Z3FKa2NLUTh6WUpaN2l4RWJPQmU5ZkQyS0ZENEhHOEY2bjJwbVJ6ZlVPQXdSR044dWV6SWZqdzZuRnFaeEJFbncxQTY1YVExYWFCYzRUTGlmcDhLZw?oc=5",
@@ -45,7 +72,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+   "summary": "캔톤 네트워크란 무엇입니까? 월스트리트를 위해 구축된 개인 정보 보호 블록체인",
    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhpQkVFUkJWVzJTRzg4LTBvNWc3eF82WDZnN2xSdEhlc2NNbkxYWmp0VU9lR0FXMkE2Wkh6bTd2QmVTRlliNFltVTNWREYwZDZxRTgyYjNnR3liSVR6MmNsR2VHaXM4eVB0MnRoVl9odnZDTE1oS0NXS1JBZEV0d0pvdmxtYm9wcTFDNVNHcFJhVXJzNHNkVHRQUURlMVlPYlRjS2NRVQ?oc=5",
@@ -66,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
+   "summary": "워렌 버핏은 수년 만에 주식 시장에 대해 가장 강력한 경고를 발표했습니다. 역사가 말하는 내용은 다음과 같습니다.",
    "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5",
@@ -86,29 +113,27 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
-   "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdETW8wRVctc294STJHUHl3QkZaV0xKcjNDR2daRXlBWlpES0xUaDVEbTFyazZrdUdRYktOcDFOWkJKWVhSYThCM1Z2S3NjT0FHUF9PUzlTZVBuZmN1SjQ0U3Y2U1hVVkxma3JPVEJoMlBEWUM5MnlIaWJhUFZyYXBOQkEzVjhleUdLUWdkT0NTd9IBlwFBVV95cUxObWlobFBpRUs4TzY5aWdNaFhWeTdILVVzbUxuQ2pmbFpfeW5md1BIQ1NJZ2tjQXJQM1l4dUp6OVI3dUlEQzQ0X2RmU2l1R194R1FNUFF2Tkd1VzltVzNxUjMzbGlUWl85dWNjRWItY051QU5EOFlEVGFtM2ktdUhYWHV1YVZGTlFXQkQ1TldiZDl3MUZMZWFr?oc=5",
-   "published": "2026-11-15T00:14+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Warren Buffett의 Berkshire는 Nvidia가 침몰하면서 사상 최고치를 기록했습니다. 2016년에 1,000주를 구입한 67세 노인은 올해 106,000달러를 매도하고 이익에 대해 0%를 지불할 수 있습니다.",
+   "title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODJfX05LOWRHRWdaT2ZTTjFxTnZzb25YZmFfWGxrS1FrNG51TXpxQURpZ1NYX2hHWVpraDZqeUVUd2V6U2VkTGdvZ3ViX3pPMm41RU51S0RRMzdLYnFGdUxnZ0xKMFp2Ym43RGdEdUl1c1BTaDNmS2hrMDYyaWgxYjhMeFY2V1hWRTMtMWsyZHl4V1Nwa18tUnN3M2djc0E?oc=5",
+   "published": "2026-11-15T08:53+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
+   "summary": "3가지 AI 칩 주식 소매 투자자는 Nvidia 외에는 누락될 수 있습니다.",
    "title": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTU4MTUtSndpZFFoWUR1VEhjZE9yak8wdWViV3VzT2hzeEhSaDZYVlVSNHRxVE1sWXhMM3RxblNELS03ZTBNVm5YLVJwc0NsUmlUTFIwM2hfc2R2dkNheGlxeFhiRXZXUWNiY1VGRmZ5VnpZZHF3ZzdYODVUUllKX3R5TF9DT2xwWXBNMTBKeXE?oc=5",
@@ -127,7 +152,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
+   "summary": "AMD는 1999년 이후 Nvidia를 상대로 가장 큰 경쟁을 벌였습니다. 수익에서 살아남을 수 있을까요?",
    "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFljaWVtdURHQzgxcERTYjY3V1c0cnI2ZkRJLTBsc0tZbnBBY292UV82dk1JM0dXLWxfMnJDUnRGUG5EZkNVdzh6S0gyU3pGdXFxUjA1bmg1ZmpzbzFBWG9UQ0Q3T2VIMEJxYldFUTQ0TTRxRU1fRmtVWXJkd1ZoMGVRLWp6M2R1REVoWDVzdTNMQ1U?oc=5",
@@ -152,28 +177,26 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
-   "title": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
+   "summary": "NVIDIA(NVDA): AI 수요가 리더십 불확실성을 통해 성장을 유지할 수 있습니까?",
+   "title": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFxb0NFNGNaVzBRdzExcGJ6a2Jremg4N1JFQk1lRHlQME04V3NnQ2ZocVlBR2RkeVpVWmwzQ3BaVmZSZjhrTFZZTndQSTJNR2hieUtXSzdaNUdraVFlU3ZUNllBRFpNTUtTZUFJeTg3TTdIWGtib0ZKZmROZGk1NHVSeERfLXZoOHNGNmY1TTlqZGpVWjl2Sg?oc=5",
-   "published": "2026-11-15T04:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5",
+   "published": "2026-11-15T04:24+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.52,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Where Will Micron Stock Be in 5 Years?",
+   "summary": "5년 후 마이크론 주식은 어디에 있을까요?",
    "title": "Where Will Micron Stock Be in 5 Years?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalJBaFNOZlJDNlRicGwzbDFyRWI3M25BV2otTUJDREtBSkJsdGlyVTc2WXFnaFJvN1JNR3lhT2IzcU9OeGQybzF5dFFtREFDRTlhbnkyaDhIUGFiS0hmSWkxNVBRMUo5NXJuTDYyOUlJSW54NTZYUzVEdFljRUp4U3lyc0Jod1FRUlZmOFp1WXJmbXI3cmc?oc=5",
@@ -188,25 +211,6 @@
      "symbol": "MU",
      "name": "마이크론",
      "chgPct": -2.52,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
-   "published": "2026-11-15T02:35+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
