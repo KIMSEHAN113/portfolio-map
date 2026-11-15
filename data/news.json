@@ -1,38 +1,13 @@
 {
- "updatedAt": "2026-11-15T22:10:13+09:00",
+ "updatedAt": "2026-11-16T07:42:25+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Amazon, Apple, Microsoft와 같은 최고 성장주에 투자하고 싶지만 Nvidia는 피하고 싶으신가요? 올해 24.8% 상승한 이 저비용 Vanguard ETF를 생각해 보십시오.",
-   "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
+   "summary": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.",
+   "title": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmhrc016aHFEMGZNbDhPS2RHSGZma215dUtkQnN4Z3E5Nk1CSmM4OVlNLVRaWEdyNkJ0VWwxSTAtMG1LUXh3ejh3bUhaZU5HM2lfNEhoRzExbGZJWUVGSnRvU1kzQlMwTWNCa0ZaTDhQRlhhX2VPdkJkakd0d1dMaFZ2ejhmYlBYWDI3UXNxbVNPTjJQbVUxTVhn?oc=5",
-   "published": "2026-11-15T20:50+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": 0.39,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI 관련 매도에도 불구하고 기술주는 S&P 500 성과의 중심으로 남아 있습니다.",
-   "title": "Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnBFRzBWTWJLWU1Valc5Mnp4dWdyclpoc21lR2FITVFCNDFBNVp2VEw1bC1lV0VGMmZxTjFZaGpTOFdoVGUyWWtlS1VsQTZoU1lZRUYyQTh2U0lGc1N2clRVMkt0d0gtUTVDb0gxLTBIYUxiYnJ1dWdKT1gzRlJZZ2hCb3gwcG5idVVz?oc=5",
-   "published": "2026-11-15T20:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXpWWmwyYjBfOVJkVGZvdXJkdHMxMFlZYkFZTjE3Y0dHVTFXamhOX1l6UUJZcTlPbFl3Vm41WXRRZXo2bmI5Q1FtS3Y4UlZNLWFnU0hQd21JdXhDR1RPMDVEcmJEZHg0T3ZCR2dRb1FQR2VBNUpNaElPR1ZIZEdUXzlWLUhNRHg3UmphMGtvcXVqMUswbmlnNzgyOGg3a2M?oc=5",
+   "published": "2026-11-16T06:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -49,36 +24,15 @@
   },
   {
    "category": "미국 지수",
-   "summary": "주식시장 붕괴인가, 호황인가? 무엇이 먼저 올 것인가?",
-   "title": "What might come first: a stock market crash or boom?",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHAwekVlNkp6SklQTmx2UkpLaloybWRTaHpueUl2VldnWWFiZ1MwcElfSVlxRXl4M3lSWFJjQVpSemVYR3VoRWdQd3dnYlZoRGhRY0FSZkExcjFGd0ZIUWRoYTVXNzJpNmVFU0JfTVNMb1FLYlRmLUxadTAwTVBVbGZMWU0?oc=5",
-   "published": "2026-11-15T17:32+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Jordi Visser는 12월 연준의 결정을 비트코인의 다음 촉매제로 보고 월스트리트의 Nvidia 다운그레이드에 의문을 제기합니다",
-   "title": "Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades",
+   "summary": "Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus",
+   "title": "Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVIdUhYQjJveVgtdEVaMGRiSmxOdkhQeU9oOXkzS3BHUGNNZVJEeUtyOVBRTHF6Z2taSnNqRHFnNG1sd18zLVV4dTE3cWJyb1EtalhRVnE2QW04YzB3TEwxYVhsdW1NVWkzcDNXTkhvY1owbXpnUHdLN2dneDh0cmJJU0kwcTQweE1kMmUwOFNlWGQwMGxVR3czSQ?oc=5",
-   "published": "2026-11-15T16:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxLYTRSRlRoWkpwekdvdTNqZjZuUkdCSkd0clhtLXNDWjJtZHdQYnhqdnVObzdTWkVHUHIzZnRLV2FKRGZnMXJzOHFrTTRaQjlpWVQ4bTVoWHloeGlMazdBaEp3djN0eF9GTW5HdDZLMDVMNDFOZmxCR0hYNXhkXzFwcDV3NDZPcDhwRFhYOUNBcmk5Mkk3enlacS1SYkN5c0E?oc=5",
+   "published": "2026-11-16T04:08+09:00",
    "holdings": [
     "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "kodex-nasdaq100",
+    "qqqm"
    ],
    "moves": [
     {
@@ -86,16 +40,64 @@
      "name": "엔비디아",
      "chgPct": -2.01,
      "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "11월 25일은 주식시장에 중요한 날이 될 것이다",
-   "title": "Nov. 25 Will Be a Critical Day for the Stock Market",
+   "summary": "This Dividend King Yields 5 Times the S&P 500. Is It a Buy Now?",
+   "title": "This Dividend King Yields 5 Times the S&P 500. Is It a Buy Now?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5",
-   "published": "2026-11-15T12:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1JpWU51SUIwWGlpSTcxM2VxMUhicGd4ck95WWxwTGNNWUdBdVRRQndmUzdJb2c5a25tUWc5c1o0b0ZkenJ3aTZUMTlzYURpRThrTnc3SDBvdUhWbXF1clVzYlM4alVqMWt2cWZLM3JfWGlLMkh2c3NBT1BtN2E3OU82WDBEODBSOVZwUUFhNUpYaGNxQlEzcQ?oc=5",
+   "published": "2026-11-16T03:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Where are the opportunities in the UK stock market?",
+   "title": "Where are the opportunities in the UK stock market?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm11aHZKVWQtM1d2Y2NUcEladklaREctQ1hXcG5PNTBWQjVNRzJsc1VoOHhRQjFnLTdUeDRBTGd6NHNrTjBmYWtOTHVVelduRnBCbmE4WkJWNHdJZTZIZWFGQkxORDE1MFdTSWp0OGUwendaZE1ucDZXOVRfdmNTMkwwTmV1aDN0aEpoRA?oc=5",
+   "published": "2026-11-16T02:06+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmR2S3hBOTNvNXdrRHZrQnJpRFN6aUVUY0RieFA5aXowZHQtME9VeV9KRkNRbi1COFFvOTJ2YXZMRlgyYmpPQzJETW96eVF6b1NUR3JrbUhWdEsycDhKVnRER3hFNENVbjVUOTBZT213OGJsSS1TWGlsY25FQVc2NUdfSmMwTFc5Yy1CWjBRUzdhUEg2aDJ1Q3JOMlJtdw?oc=5",
+   "published": "2026-11-16T01:01+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -112,11 +114,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia의 Jensen 이후 첫 수익과 Anthropic의 IPO: 이번 주에 주목해야 할 사항",
-   "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+   "summary": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
+   "title": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGowX3ljRUhFOUtMR2diRUJHR2xTalpGZExTNFRKTExUQTQ2cUtNQXZfWEVRM3BMYldsOEh2czRtSmJZVExCakN0Q2VaWVRWWmFSYjRsRFBqNzRucXh1c2pIcW84aDUzdkhjY3pyZFFkVjRSN2gzU0dNM1NEWXI2WHIxdXl0OTB4OVM3QVVsSXg5V2NUQVVLVmZJWURyaWhXOUxyTWE3cm1qVXRQTFktZWQ0Y3hmaWlaenFrTi1jc3ZPSTFlWUVEbXRaYUVQOU0?oc=5",
-   "published": "2026-11-15T20:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTJucVZFZS1YZmtjQmcyeDNKV2dXN0o0cThVZW1IWFQ1SU5KOXR1QlNSM1lEeTUwSDEwcTlrdlZsRjRNZ1pqb0JSWVVfal84YkhDUFpTUWFSM3VjYnN0UEpVX2Mxdmd2bUdhUXBKYU9GWWNBYWZFNnp0VkRlcXprZUtrQWYzS2htNDI3b0ZMQkF4QXJXV0ZQRDJjRk0?oc=5",
+   "published": "2026-11-16T06:20+09:00",
    "holdings": [
     "soxl"
    ],
@@ -131,11 +133,49 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Anthropic은 AMD 투자자에게는 좋은 소식을, Nvidia에게는 나쁜 소식을 전달했습니다.",
-   "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+   "summary": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
+   "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5",
-   "published": "2026-11-15T19:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhPNUFLeEpOMmNseG40aV9MMzVpTlhDNUxqOGo2b2lkUjVrUTlqRkQ4QTNxWDJGcTZuM3I5OUJGZzdSLU4yVnVsNkltdUxTQmRFeGNTaUctYUVFNkJ2cFJ4MEkyTHN6Tk9EQXVwcDdEV0RCaUZpaTJDTmVDYjdOdERVVVQ2ZWNLa2d5ZjdvTjRyRVJTZ19lYVoyUHlZYjZ5?oc=5",
+   "published": "2026-11-16T04:23+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
+   "title": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3Q2ck1VaXo5eVZtWXVaX3pubzNqQ0ExR1oxUUJnUkRrVzhuclVScHBEanptSFhqT3cyRjhZREdlWUR1by1QNmVoTlczTmhaY29wUUs0bHpTajNZRjltV1oxZHNjUGU4Qm9ucVJCUlI1TG1wNlRmRUEwdTN3SlRic2FVNl9rR2UzaG1QaEdiTjJFOEpfbWVaZWxQNGIxZEJUb1E?oc=5",
+   "published": "2026-11-16T04:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+   "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGlzTVRWN1R3aWduYTVJa0tqUG9fU1pPTzV1WFZmNFRkb3VuQkV2Rkg5YkcwekRYNFBiWHJEaXBLZlhWTm9zT3pxbjhadkhnTk5fYmxVZVQyRm9CUVpOVEhab2tuLVQ3bkltNVhhRkxqQTJPY0haZE5ZbV83QldHanpEYXNKWnQ3WW1RYThoTHZxQm50?oc=5",
+   "published": "2026-11-16T02:59+09:00",
    "holdings": [
     "soxl"
    ],
@@ -147,64 +187,20 @@
      "asOf": "2026-11-13"
     },
     {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -8.75,
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -1.67,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia 주식은 2022년 이후 처음으로 손실을 입을 수 있습니다. 마지막 7년 이후의 내용은 다음과 같습니다.",
-   "title": "Nvidia Stock Could Have Its First Losing Year Since 2022. Here's What It Did After Its Last 7.",
+   "summary": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
+   "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzB5dGpZSkhYa3cwUHkyT19vMUNERzA5MXJhUWtjZFFfWDYtXy1vLU16S0huQzhBSzVCXzBjdmpQUlVNOGFzUlN6RndocmtyQ2V0WF9KTmdoYkQtWkVmVVNYYVM1NFVNN210aHJCZWU2cnA3d0o2ZHB1LWgzOTZqbUZjYUdfMVRFclU3UFhtVHV4ZXlzTkZ1YVd5aGI?oc=5",
-   "published": "2026-11-15T18:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AMD는 Oppenheimer의 업그레이드와 Nvidia의 혼란으로 일주일 만에 19% 급등: \"수요가 공급보다 높습니다\"",
-   "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
-   "published": "2026-11-15T17:06+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -8.75,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia 주식 폭락 이후 ISA와 SIPP에서 내가 하고 있는 일은 다음과 같습니다.",
-   "title": "After the Nvidia stock crash, here’s what I’m doing in my ISA and SIPP",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekh0UHV1WThuLTRORUgtZ3k5QnUtTnhnOGQyS3h3MUNvbi1LRmtINmJsSWgtUWdSakZmR0lLeHkzcTJNRTBZcDFqTkJjTlBPRjJLbF81VmJfTkljdU5Vb1pyWDg5NWhYVFVSUHBybkRjTlRRa0p4UFFPbkpHY2ZreA?oc=5",
-   "published": "2026-11-15T16:53+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX21BUzJKcno4QV9IY3F5QVlpNTVYaUVlbmpUeVlzQmdjcUVrQU5ucUNTdEFBaXF2VnBRaWxDcHIzSlJKNGpDdmlNdHJweGJpN1p1cWN3TFVPZmp3Z1BQb29uQjJqSm9ENGZzTEF3a0d1V3NkOWMyMjFhdjQ1UHlBanhhN0gwSU80T19IWEpQWmN4OTk3MkRvY2F6dw?oc=5",
+   "published": "2026-11-16T02:50+09:00",
    "holdings": [
     "soxl"
    ],
