@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:32:05+09:00",
+ "updatedAt": "2026-11-17T00:01:58+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -8,6 +8,27 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWV6Nk04OWF0dERpdmN4azhtTXBzcGR2RFJOWm9vbG16RE9iYXB2U2pBRS1RX002bzI2SWZlMjZtb1A1TlJtY0JyTWdYUG90WkhVcU5ITFdzc1gyRmNpa3lFRzdnazV0Uk5CLThXZVA3eGViR1VNX055X0xRLWdNa0tCOVVpdTFjTWJhbU00b0dqQjZneU9YMHFmWHo?oc=5",
    "published": "2026-11-16T22:33+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market News for Nov 16, 2026",
+   "title": "Stock Market News for Nov 16, 2026",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjBPUVRWT21SU1M5N0F0UExma3NZeXNQbHBER181NkZ1VXNiekhuZXByN1hhcXZ3dEVDOUcyU2dod1EyalZyZlRieXcwZVp2X3EyZ2lUZWhfMTJwVFZ5VGFLdGdCYUNOX21mc1RLa2tLSnl6M2JaLXlOT212M2RMSldkTk40Qk1KTnhxQzBoVmJWaGc?oc=5",
+   "published": "2026-11-16T22:27+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,10 +87,10 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Seeking Clues to Walmart (WMT) Q3 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-   "title": "Seeking Clues to Walmart (WMT) Q3 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+   "summary": "Ahead of Intuit (INTU) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
+   "title": "Ahead of Intuit (INTU) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjJUSVRVcVBMeXJQVlBmYlNQMkZHUE0ycW00TGVrMTlzbWNTcTNDVWlQNDZMTGZkYTZDVUhOYjAwRG5keEZrdXdSVjJfOEZpZmJMUG8weGJjWlgzNldVTG1jVnFQaE5SRGRWdEVBdHRtR2RFLWwzdUJROF94WVNPRGtLTmNYZkJWS3NlNXF1UFFzbERkUE5WVA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2Nkc3NwOGpqalJrbDRWNGpmcG9rZHB3cWtmWE4zRGYzUHlYY2JjRFdXT0xUOWVxVURDR19UWEpHMTZHalIyQUVLenl2OFBkOFpjMUdrT19mVXZDY0loV0Q5czZQdFl4cm1pZHJVODkyam9XRFZwRzc3dlFuUV91UU9QNkZjVWo2VVZ6SFdLa0lNN0Zvb1VwWmd3?oc=5",
    "published": "2026-11-16T22:15+09:00",
    "holdings": [
     "rise-sp500",
@@ -86,22 +107,53 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "If You Had Invested $10,000 in the Vanguard S&P 500 ETF (VOO) in 2016, Here's What You Would Have Today",
-   "title": "If You Had Invested $10,000 in the Vanguard S&P 500 ETF (VOO) in 2016, Here's What You Would Have Today",
+   "category": "반도체 · 메모리",
+   "summary": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
+   "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcTJSZGZmYXVlYWRnbWVLOFRCMXEycGRtWjBHZm5Ca1JZeWNIRy1Ra2hmTmFqVXRrSmNpX3dvU1lnRFp4TDNQZ2FCVXF5Vk9wSEhOeWVmOVl0Ym8zT193ZWNpbHA5VnlQbGlCWm5mazlkempXa0FaWWJMTXR1aVd1ZlMtX2lpX0RLbWFjZ3EtYklQSGJiNHBHQw?oc=5",
-   "published": "2026-11-16T21:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
+   "published": "2026-11-16T23:33+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": -4.76,
+     "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -8.75,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Sandisk Sinks 8%, Micron Down 6% as Memory Selloff Deepens Before Nvidia Earnings",
+   "title": "Sandisk Sinks 8%, Micron Down 6% as Memory Selloff Deepens Before Nvidia Earnings",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXJLcFV4TUtQV0cyR0FTVC1aS0NuazBJZ01jRzE4VGQ4dkV1bkZEYl96NFhwLTZfOHFVd0ZNc09JN3FsdHpWMmIzVHlnRjByWmdhRzZBZW1BTnRaMUNXbExFNjQtRXdYY2Jkb1ZaOUxxd1g4dktUVmt4MWE1QjNHeFNIWWwtS1Fjem5oNmhRQXNnei1CRVdn?oc=5",
+   "published": "2026-11-16T23:31+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -2.52,
+     "asOf": "2026-11-13"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
@@ -133,6 +185,25 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "XRP Price Struggles Below $1: Anthropic IPO and Nvidia Earnings Could Trigger Another 33% Drop",
+   "title": "XRP Price Struggles Below $1: Anthropic IPO and Nvidia Earnings Could Trigger Another 33% Drop",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemFndmNYT09rN1ZhMjVScUh2NGZxc3R0a0xnbndvWXF5aWZXZjdwOGRqenVkd2E1NHZyS3FNdUM4UkY1cV8yNG9uMXNLMDdKZmxaMnBQM3NhUnFTbzBTcWhOZERkWXh6MGc5SzBPbmpfd0RiZTdteXF0dThkNHRUdUxpYV95WUhIQTk2bUd0WVFNWkxEZU1z?oc=5",
+   "published": "2026-11-16T23:22+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6%",
    "title": "SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6%",
    "source": "Yahoo Finance",
@@ -154,69 +225,6 @@
      "symbol": "SNDK",
      "name": "샌디스크",
      "chgPct": -5.59,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
-   "title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTN6c1RxdUhEaFJpcmd1amZzR19ISTZfTlhqc0lVNXR3ZE9HQzF6eWlYb3R0TnZZc2FNczBHRkRwTWlLV2RwV2RJSENsMmtFdFUyck5VLUh5eVRHSTliOFJ6U2JpVlJHc0tNX284SE42RGtEMldnXzM0MFVGX2ZLbE9WUHNJYkZYSm1oYi1xeFI3OEFDbnRHcVVn?oc=5",
-   "published": "2026-11-16T23:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -1.67,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Buy Nvidia stock or wait? A guide to making the call on any stock.",
-   "title": "Buy Nvidia stock or wait? A guide to making the call on any stock.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0Q4R2RadzVRQURKSWNYQURyZGl6UXYzamxWZERJM3pfTVpGbDRyUnI2cmRyTHhoaTRQNFp1eGZvalh2RmxDYmZqbEEzbWdMMlJ5N1U3NGRYdVhSZnV0Vk9vRXE4QkF4MFk5R3B5UXlMS2VzV1Z5WFU5VGtwb2F6WUg1QW9FbWM3bmlxMks4SnVNTFJ6Zm5WbzFkanhQYm8yREUwQkNJOFZtLWZpMVNQQi1UQ1ctVUhqOFd4aGdibjJoazdHY2pGbEVzOVVRNnR5Y0I5ZXk2OA?oc=5",
-   "published": "2026-11-16T23:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
-   "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
-   "published": "2026-11-16T21:45+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
