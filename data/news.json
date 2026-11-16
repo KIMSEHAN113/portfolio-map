@@ -1,9 +1,72 @@
 {
- "updatedAt": "2026-11-17T00:31:55+09:00",
+ "updatedAt": "2026-11-17T02:01:39+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "오늘의 주식 시장: Nvidia가 Jensen Huang 없이 첫 수익을 내면서 Nasdaq-100은 1% 하락했습니다.",
+   "summary": "The Nasdaq Just Entered a Correction. Are Your ETFs All Making the Same Bet?",
+   "title": "The Nasdaq Just Entered a Correction. Are Your ETFs All Making the Same Bet?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG5LUm9mc1gtYklodHhaMFdVSWVMQzBDbGVkV01yRjFKcExoOHhBSWJzZEZNOWpfY1oyTHhmNmlOOVpqQk9HYWg0ZW1yaUlOaVNrVGk4bWI5Mm1vdGN0QWdSUDhKei1lOE5Kb3BrUmlBdUNBZzlUYW5HVFRoZ0lrNFU5MUdtQnB1UHpuZnlFMlFKTnZkb0dZa1ktLTFsak9KY0E?oc=5",
+   "published": "2026-11-17T01:50+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+   "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oLVJBMUQycUtqY2tvU1p3WlRDVW5sa0h6Z1V3SzBNb1BwMVZRSF9sdkV5NmtJVVk5NVlNOUhtUXp0YlF6UFRWZHlWMXN5d0hzNERQSDRZYUUxRHZydVFDYkxOZGVxOFBkcHlOc0xaMGx0UXIy0gF6QVVfeXFMTlk4eUZfR2ZwYVJqd1ZfOGlnM2duYi1vSmlmbU1Wb1RpZUtSRFpIdmRpbC1CVEY5YVMyVEhZLWlTNXpubXBveDdrZkoxVWwxMXk0SlJHMDVnTTZibzlncEJ5M29rUEM1RV9WUDR4UjVrMHV1aG4td2dLelE?oc=5",
+   "published": "2026-11-17T01:08+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The S&P 500 Is on Pace to Do Something That’s Only Happened 3 Times in History",
+   "title": "The S&P 500 Is on Pace to Do Something That’s Only Happened 3 Times in History",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekpJbGppRWtzNllLYU1iMzJ5WVY4YmxIUWNLSXB1RzlhTlNiN2tEZG5aVWdaeFpycjlMRld1QmNnakFPcEpEOTViY2dQX0lGalBMZWt4dEM2SjhWekJrUHRaR2ZJbWZndEh4MnFaVzlwZkQ1UmM5VXRNRzdlTzJLajllWGFjQnFuTm90TG5mSF80UklR?oc=5",
+   "published": "2026-11-17T00:27+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
    "title": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDVpN2RLWTVRb25zM19CZURtUUlIT056MDhZWVJ4NFlwN0pyeWhIb2FsQmJnOGVDQ1d3UWowSjJZdzg5dVJpa1d2cS1wLVBhOFktaGtXN3JkeDVvemUtZ1RPMHY1OFY2Yjc0QTdmVDQyVVROeDhvem9rZmpjOUNCYXFGcFZ3MXZKclUwR01FTXA4MUFQc1RBdG5R?oc=5",
@@ -30,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "2027년에 주식 시장 붕괴가 다가온다면 워렌 버핏의 조언으로 나의 다음 행보가 명확해집니다",
+   "summary": "If a Stock Market Crash Is Coming in 2027, Warren Buffett’s Advice Makes My Next Move Clear",
    "title": "If a Stock Market Crash Is Coming in 2027, Warren Buffett’s Advice Makes My Next Move Clear",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUVNMEQ3Q2hWZU44V1V4TmJEOF9CUko3V3E3UkktbWk2emQ0YVdZQlVJYmxOS215T3hvNkxXM3B0eFBqSFVxMm9RLXhXOGpZeXZkSXFPZFlnalZmS0hsd3JEczJ0Q193V2dfS0lPLUZFZHRWdGJabU9uamRKZnFZMGFJeDdyQ2psLVo4VGdmb1JQV3JfczAxWlVudw?oc=5",
@@ -50,71 +113,84 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "짐 크레이머가 월요일 주식 시장에서 주목해야 할 10가지 항목",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHZhUS03cHlBclV5R1RvaDNvYkhfSkpGT08xRFZscTRRQXd0b1lud1pWR0dwMjNLc280MmYxOTltZGQ2STRNd2I3c3dPcXR0RjNXYmlQVTRGXzhyczZHYXMteDdrTXhKXzY0TWhzZVltYVlrdWhxMEVGWDRzRGVOd0hwbzcySDZIdUtnc285Y3Z5WTRobmwzUTRmXzU0SUhTcnZkZ1c4VDc3X1dhaHNBMWFB?oc=5",
-   "published": "2026-11-16T23:11+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "ProShares S&P 500 Ex-Technology ETF(SPXT)가 귀하의 투자 레이더에 포함되어야 합니까?",
-   "title": "Should ProShares S&P 500 Ex-Technology ETF (SPXT) Be on Your Investing Radar?",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Earnings to Test AI Boom as Hike Looms",
+   "title": "Nvidia Earnings to Test AI Boom as Hike Looms",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkFUU25RcGdETEVlWm82N0ZBbGU3dG1KRWF3Znc5em52WmtUUmRraFVLZ3V1dENaNXl5UUxtYlF3eWRleXVIZUtsN1ptdkVkV3FTcnVTS3k5NUg4OUU4UDhXQnNlXy1taGRIQjBVWEVUSVVhS1lJV3BHQjJRZE00a1pMWnlSNFhZQnljRFF3VEtnTG9uUW91QWp3?oc=5",
-   "published": "2026-11-16T23:02+09:00",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2J3Y01vY180MUNOQ0EyY1lyR2p5ajAzVUFRQ1FaZFFZWUxfVmtVZDVmcGI1MXNCTzNuLVdnOFVjNEhBY0cwbGhFYmRkb0JGejlSd1IwZE5BTXlDdHc2TEhxTExFdk9GWEszWE01bnoySkd5SVJRRURkd0xKS3dXOA?oc=5",
+   "published": "2026-11-17T01:32+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트 분석가들은 CDNS(Cadence)가 28.15% 급등할 수 있다고 생각합니다: 베팅하기 전에 이 글을 읽어보세요",
-   "title": "Wall Street Analysts Think Cadence (CDNS) Could Surge 28.15%: Read This Before Placing a Bet",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekIyeE1oaWd2dXo1T2RoMXNncGVJQ0QteVBFTG1JdFY4eldNR2szVE9CaE5DdGs2aWNQdkx5VlV0cWNPQTMyLWNYVklKdnNZaWxhUFZnSi1VOFZ1T2lJcDE1Q0F6dk1PVmo2MURpMDgtN2VqVTBmZnNORV9lUVIwUjhFYjlIMFduSDFxVjltRnVzOTk1akZTREQ0RWF3SVhP?oc=5",
-   "published": "2026-11-16T22:55+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
      "asOf": "2026-11-13"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "엔비디아 주식은 수익보다 먼저 매수되어야 할까요?",
+   "summary": "Elon Musk and Tech Executives Sign Petition Demanding Nvidia Bring Back Jensen Huang",
+   "title": "Elon Musk and Tech Executives Sign Petition Demanding Nvidia Bring Back Jensen Huang",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkJDNUZ6Q2RDamgzTVIzMVJFekgxTURVX0ktZ1ZydGtrYjZDRFhQYUZFZFdGZUFnLUR5eFFOYzB1ZnFhaWhqMllHcHhhVUJ0SGxNaGgxcWpaaVNOUVdicFhQS2w4blBfTGl2S0ZNU09jUjQ1WjloVDlNRElmMTkxcGtfWkVSbEMxQ1hWRmtldkppeWgyOEE?oc=5",
+   "published": "2026-11-17T01:15+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue?",
+   "title": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjF0a3BnRmc5S3VoYWlfUHdHdTFaSlduZDJCa3IyeVpZQ1RFc2R2Q0V2NTAzdWZuenZRZ1J1Y2FtWWowdzk4OFlFWUkyZ1V2SnpvYVdSQkpNbjNKRXk1TXVxX3lXdDVsMkZMRDNYNDRLYXEzWjVhMXVhQlZrSUNfNFRONE8xTHE0ZXQ2aG1sYTJaUzdVWS1RMG9KQ0l5OUk?oc=5",
+   "published": "2026-11-17T00:56+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia's Q3 results will be no ordinary earnings day. Here's what investors need to see.",
+   "title": "Nvidia's Q3 results will be no ordinary earnings day. Here's what investors need to see.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0w4MV9QdjE2NVM4cENydEl0bUp5ZEs0TkdHZUt2eEZ3ODJOejBlSlc5ODBxeWpiX04tWWVoMlBwRWpnZVNtVDZYY0JBQVEwdmdYSFAtbHVtcGpybEN2M3h6Rnc5VTlZaXJvUENjUEJKM3JJYS1vNHp3M3ROVDZmc29Oak1ZY0tBVU96bHJFazlVTFkxeGZtMGJJdGRzSmFPQ1pNUUZVYTVhMHdZcGxPSEZpUjlydUJLREM5ZVY1Y0pxeXBRbk90bzFqOA?oc=5",
+   "published": "2026-11-17T00:34+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Should Nvidia stock be a buy ahead of earnings?",
    "title": "Should Nvidia stock be a buy ahead of earnings?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzFjdXVCYTYweU53RmZfTk9na0VVcnFnS2kxbUNBcndUZ1AzWElDUHNsZXd0ekZiNnphOUZvbkxwRnFTajNGRXJWY1R5QmpSTmpHVVNlQVdXdE9fR0F0QWhkVE5DSG5QLTY3QkQ1cXVrRVZWYWRKTDlCRVVPbFZVZkxWc2NQdFIwY2RJOFMtc0xnTTBQT3l6Rw?oc=5",
@@ -127,88 +203,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "기술 분야에 큰 위험이 따르는 한 주: Anthropic IPO 및 Nvidia 수익",
-   "title": "A high-stakes week for tech: Anthropic IPO and Nvidia earnings",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3k5RE5laXJ4cTVjUEFCNEE2VndJWlpQaWczeHlsZEhzaTZNOExHZG55bHJzdDMwQ283dE9ybVBqMTlWQkxaMHpCR2l4MkpKRHJfNkNjOFp2MXlPZVBGdlcwX1lHV3dXT1ZKMTZJanc1UkdDSXExcERkajJMZ3FUTF9IUjNTdzJXUnpYQ1Q1S2EyTF9Odkx2TWw3QV9HRnNMY2tGXzE5OXhTMXJv?oc=5",
-   "published": "2026-11-17T00:11+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "미국 반도체 규제로 칩 재고 하락: AlphaCheck",
-   "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
-   "published": "2026-11-17T00:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -3.67,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "머스크, Jensen Huang의 Nvidia 복귀를 요구하는 160,000명의 서명자 합류: NVDA 주식은 어떻게 반응하고 있습니까?",
-   "title": "Musk Joins 160,000 Signers Calling for Jensen Huang’s Nvidia Comeback: How Is NVDA Stock Reacting?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09wamVRYTNQdlA3VVJzXzlXaDBtVVA0SjZoOXkyYUZZeXhIMnhSSkF3ZnhBbVhjbjV3bklrRUtEbUh1X3VDV01ZUE9jUFZwLTFKeDBHS21MdzhGaTlrUGc4V09xTXJvMURmY01acTFvdG5QTU1GdjZrVEkxZFR6Znd4RjZIWEhsQnFXUXp5RFZqMzdib0E?oc=5",
-   "published": "2026-11-16T23:48+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AMD, Broadcom 주식은 미국 칩 규정 강화로 인해 하락하고 CoreWeave 및 Nebius 주식은 하락합니다.",
-   "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-   "published": "2026-11-16T23:33+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": -4.76,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -8.75,
      "asOf": "2026-11-13"
     }
    ]
