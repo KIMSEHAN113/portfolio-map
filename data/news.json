@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-16T10:05:40+09:00",
+ "updatedAt": "2026-11-16T11:01:40+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "The 10 biggest stock market IPOs",
+   "title": "The 10 biggest stock market IPOs",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTFoWW1RRWMwZ1hNVWcwNmg0RXJpMDZEcWhDSEk0dWlWQWZ4WTBBT2VMZWlLaFc2ZnlqeU9GbHlqRlJGMmIzb3JnOVFlbnFXTEpPMkt5bExSTnRlOURuSE5pVHU3VmRsaTNkZWgyVVRFTjliQUtrOXpkbnY3RzIzUEI1RQ?oc=5",
+   "published": "2026-11-16T10:26+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.4,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.",
@@ -92,18 +113,41 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
-   "title": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
+   "category": "반도체 · 메모리",
+   "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+   "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenV5VVdxS2p1VWNqYW1vVmRrTHZneHBjMHY1emdONWFJSjUyMkk2OVl5cUZpR2xwNEVBQjVsRGhWamV1cjA3MllSX2NVMTZQdjFZS0d3cWp6SDRLdnJBX2pvaE85NHhKeV9uVHdLd2Vsa3BmeUtQeS1UTG1ERl9Qd0hJa0p4VnZwdXU0QnQwc0ppX0t6Y3AtMUZ0ZFM?oc=5",
-   "published": "2026-11-16T02:05+09:00",
-   "holdings": [],
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
+   "published": "2026-11-16T10:35+09:00",
+   "holdings": [
+    "soxl"
+   ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Micron Stock Is a Screaming Buy Before Year-End",
+   "title": "Why Micron Stock Is a Screaming Buy Before Year-End",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3hpcF8waGhWQUV0WGRKUnBMdzRnb0hydEItT3ZTMGhlUDB2UG1iUHhFWVZMX0k4VnZXdGJpYXJiREpmcS1RbHdaVXJUMEJ6QzJxb1lsdWgteF9ZeDc0X3hHWHJrZlNPYTZBMUo2RzQ4d2pDc3NTdmxUREdOMi1nd2pZMDVWZTlicjVHb3RhTnlGclN0MG9IZFNpUQ?oc=5",
+   "published": "2026-11-16T10:20+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -2.52,
      "asOf": "2026-11-13"
     }
    ]
@@ -153,50 +197,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1BtR2d1Q2dtU3pWUXRGaU51TTBxMFlTNWkyNDlrVG5zTWRaTE92RlhJUEhVV1Z5T09OU0NlcldPU1ZZRkFUZDk2TFhzQjlDVFA3dE9oSG5VU1I4OXVsbjdPVzVVRUF5b0RVNlgtOFhyTkl4OEFDZERLNkswY1gyOGE1SEVsdUItR1VNdksxNDhndEpuZDRlcjNjdzhULWkt?oc=5",
    "published": "2026-11-16T03:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
-   "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGlzTVRWN1R3aWduYTVJa0tqUG9fU1pPTzV1WFZmNFRkb3VuQkV2Rkg5YkcwekRYNFBiWHJEaXBLZlhWTm9zT3pxbjhadkhnTk5fYmxVZVQyRm9CUVpOVEhab2tuLVQ3bkltNVhhRkxqQTJPY0haZE5ZbV83QldHanpEYXNKWnQ3WW1RYThoTHZxQm50?oc=5",
-   "published": "2026-11-16T02:59+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    },
-    {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": -1.67,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
-   "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX21BUzJKcno4QV9IY3F5QVlpNTVYaUVlbmpUeVlzQmdjcUVrQU5ucUNTdEFBaXF2VnBRaWxDcHIzSlJKNGpDdmlNdHJweGJpN1p1cWN3TFVPZmp3Z1BQb29uQjJqSm9ENGZzTEF3a0d1V3NkOWMyMjFhdjQ1UHlBanhhN0gwSU80T19IWEpQWmN4OTk3MkRvY2F6dw?oc=5",
-   "published": "2026-11-16T02:50+09:00",
    "holdings": [
     "soxl"
    ],
