@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T07:42:25+09:00",
+ "updatedAt": "2026-11-16T10:05:40+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -93,16 +93,12 @@
   },
   {
    "category": "미국 지수",
-   "summary": "How Wall Street Is Racing to Claim the Onchain Dollar",
-   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "summary": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
+   "title": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmR2S3hBOTNvNXdrRHZrQnJpRFN6aUVUY0RieFA5aXowZHQtME9VeV9KRkNRbi1COFFvOTJ2YXZMRlgyYmpPQzJETW96eVF6b1NUR3JrbUhWdEsycDhKVnRER3hFNENVbjVUOTBZT213OGJsSS1TWGlsY25FQVc2NUdfSmMwTFc5Yy1CWjBRUzdhUEg2aDJ1Q3JOMlJtdw?oc=5",
-   "published": "2026-11-16T01:01+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenV5VVdxS2p1VWNqYW1vVmRrTHZneHBjMHY1emdONWFJSjUyMkk2OVl5cUZpR2xwNEVBQjVsRGhWamV1cjA3MllSX2NVMTZQdjFZS0d3cWp6SDRLdnJBX2pvaE85NHhKeV9uVHdLd2Vsa3BmeUtQeS1UTG1ERl9Qd0hJa0p4VnZwdXU0QnQwc0ppX0t6Y3AtMUZ0ZFM?oc=5",
+   "published": "2026-11-16T02:05+09:00",
+   "holdings": [],
    "moves": [
     {
      "symbol": "^GSPC",
@@ -133,11 +129,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
-   "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
+   "summary": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
+   "title": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhPNUFLeEpOMmNseG40aV9MMzVpTlhDNUxqOGo2b2lkUjVrUTlqRkQ4QTNxWDJGcTZuM3I5OUJGZzdSLU4yVnVsNkltdUxTQmRFeGNTaUctYUVFNkJ2cFJ4MEkyTHN6Tk9EQXVwcDdEV0RCaUZpaTJDTmVDYjdOdERVVVQ2ZWNLa2d5ZjdvTjRyRVJTZ19lYVoyUHlZYjZ5?oc=5",
-   "published": "2026-11-16T04:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3Q2ck1VaXo5eVZtWXVaX3pubzNqQ0ExR1oxUUJnUkRrVzhuclVScHBEanptSFhqT3cyRjhZREdlWUR1by1QNmVoTlczTmhaY29wUUs0bHpTajNZRjltV1oxZHNjUGU4Qm9ucVJCUlI1TG1wNlRmRUEwdTN3SlRic2FVNl9rR2UzaG1QaEdiTjJFOEpfbWVaZWxQNGIxZEJUb1E?oc=5",
+   "published": "2026-11-16T04:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -152,11 +148,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
-   "title": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
+   "summary": "Nvidia Fallout, Anthropic IPO and Other Can't Miss Items this Week",
+   "title": "Nvidia Fallout, Anthropic IPO and Other Can't Miss Items this Week",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3Q2ck1VaXo5eVZtWXVaX3pubzNqQ0ExR1oxUUJnUkRrVzhuclVScHBEanptSFhqT3cyRjhZREdlWUR1by1QNmVoTlczTmhaY29wUUs0bHpTajNZRjltV1oxZHNjUGU4Qm9ucVJCUlI1TG1wNlRmRUEwdTN3SlRic2FVNl9rR2UzaG1QaEdiTjJFOEpfbWVaZWxQNGIxZEJUb1E?oc=5",
-   "published": "2026-11-16T04:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1BtR2d1Q2dtU3pWUXRGaU51TTBxMFlTNWkyNDlrVG5zTWRaTE92RlhJUEhVV1Z5T09OU0NlcldPU1ZZRkFUZDk2TFhzQjlDVFA3dE9oSG5VU1I4OXVsbjdPVzVVRUF5b0RVNlgtOFhyTkl4OEFDZERLNkswY1gyOGE1SEVsdUItR1VNdksxNDhndEpuZDRlcjNjdzhULWkt?oc=5",
+   "published": "2026-11-16T03:00+09:00",
    "holdings": [
     "soxl"
    ],
