@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-16T11:01:40+09:00",
+ "updatedAt": "2026-11-16T22:10:27+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "The 10 biggest stock market IPOs",
-   "title": "The 10 biggest stock market IPOs",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTFoWW1RRWMwZ1hNVWcwNmg0RXJpMDZEcWhDSEk0dWlWQWZ4WTBBT2VMZWlLaFc2ZnlqeU9GbHlqRlJGMmIzb3JnOVFlbnFXTEpPMkt5bExSTnRlOURuSE5pVHU3VmRsaTNkZWgyVVRFTjliQUtrOXpkbnY3RzIzUEI1RQ?oc=5",
-   "published": "2026-11-16T10:26+09:00",
+   "summary": "2016년에 Vanguard S&P 500 ETF(VOO)에 10,000달러를 투자했다면 현재 얻게 될 결과는 다음과 같습니다.",
+   "title": "If You Had Invested $10,000 in the Vanguard S&P 500 ETF (VOO) in 2016, Here's What You Would Have Today",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcTJSZGZmYXVlYWRnbWVLOFRCMXEycGRtWjBHZm5Ca1JZeWNIRy1Ra2hmTmFqVXRrSmNpX3dvU1lnRFp4TDNQZ2FCVXF5Vk9wSEhOeWVmOVl0Ym8zT193ZWNpbHA5VnlQbGlCWm5mazlkempXa0FaWWJMTXR1aVd1ZlMtX2lpX0RLbWFjZ3EtYklQSGJiNHBHQw?oc=5",
+   "published": "2026-11-16T21:43+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.",
-   "title": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.",
+   "summary": "IREN Limited는 6개월 만에 67% 급락: 두 월스트리트 기업은 이제 400% 이상의 수익을 기대합니다.",
+   "title": "IREN Limited Plummets 67% in 6 Months: Two Wall Street Firms Now Expect Returns Above 400%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXpWWmwyYjBfOVJkVGZvdXJkdHMxMFlZYkFZTjE3Y0dHVTFXamhOX1l6UUJZcTlPbFl3Vm41WXRRZXo2bmI5Q1FtS3Y4UlZNLWFnU0hQd21JdXhDR1RPMDVEcmJEZHg0T3ZCR2dRb1FQR2VBNUpNaElPR1ZIZEdUXzlWLUhNRHg3UmphMGtvcXVqMUswbmlnNzgyOGg3a2M?oc=5",
-   "published": "2026-11-16T06:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2VmRW91OHRqVDZZTmlaTlUtOEtIZUJjUm1qT3U5YnNQQk92aE1qQVJ4ZW9VbEdWRmM3VzVOb05BM01xT0VnbGdQalE3aWx3UGp0eXFqMU9HaUhYWmFvbGNfSlRnVDNEdjBpZEtXSFpVbExyU2VSSHhsRHZINnROV1VFY2p3U185NlJFbFl6MTIwN1hhZ1E?oc=5",
+   "published": "2026-11-16T21:15+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -45,23 +45,17 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus",
-   "title": "Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus",
+   "summary": "역사에 따르면 나스닥은 조정 후 6개월 동안 평균 17% 상승했습니다. 가장 간단한 투자 방법은 다음과 같습니다.",
+   "title": "History Says the Nasdaq Gained an Average of 17% in the 6 Months After a Correction. Here’s the Simplest Way to Invest.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxLYTRSRlRoWkpwekdvdTNqZjZuUkdCSkd0clhtLXNDWjJtZHdQYnhqdnVObzdTWkVHUHIzZnRLV2FKRGZnMXJzOHFrTTRaQjlpWVQ4bTVoWHloeGlMazdBaEp3djN0eF9GTW5HdDZLMDVMNDFOZmxCR0hYNXhkXzFwcDV3NDZPcDhwRFhYOUNBcmk5Mkk3enlacS1SYkN5c0E?oc=5",
-   "published": "2026-11-16T04:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHJsVThxRl9lZG5VeVk5V19XU0ZwWHdjY2JMN0VzMlZVYzVSSGJCU1ZadU80Rmo1bGc3ckRMeFZ4cDJIM1BUQlFjNHZ3Zm5LRE1CeXkwRktrQUlmcm1CTkE4UzVJX1E1djhYT0RjbFE1XzJtOEc3eFRxdENjODlkaVdWT21kSDBGMTByYW8zaXF2RERxbHJJTmlRZXNULUFC?oc=5",
+   "published": "2026-11-16T21:14+09:00",
    "holdings": [
-    "soxl",
     "kodex-nasdaq100",
-    "qqqm"
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
-    },
     {
      "symbol": "^IXIC",
      "name": "나스닥",
@@ -72,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "This Dividend King Yields 5 Times the S&P 500. Is It a Buy Now?",
-   "title": "This Dividend King Yields 5 Times the S&P 500. Is It a Buy Now?",
+   "summary": "월스트리트는 Cardinal Health 주식에 대해 낙관적인가, 아니면 약세를 보이는가?",
+   "title": "Is Wall Street Bullish or Bearish on Cardinal Health Stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1JpWU51SUIwWGlpSTcxM2VxMUhicGd4ck95WWxwTGNNWUdBdVRRQndmUzdJb2c5a25tUWc5c1o0b0ZkenJ3aTZUMTlzYURpRThrTnc3SDBvdUhWbXF1clVzYlM4alVqMWt2cWZLM3JfWGlLMkh2c3NBT1BtN2E3OU82WDBEODBSOVZwUUFhNUpYaGNxQlEzcQ?oc=5",
-   "published": "2026-11-16T03:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTdPblRQYzByOTlzR2hLd0pYSFdWdTUxTy1NVmZhRjBJREplMmtCTTE3eE91V2VQdFd6T1RiaXVla1M4ZUxKWFB1NVRacEJxTDA5dEsxV0VQYjlJc0llQTJUWDBuVDA2WVc5ZEJMREktMVRCTV8wQjk3UXhySFM5a1B3MXhtWVMwRFZtQW5sVGtoUHBWNzdaM2tFM1VhdkxOSW44?oc=5",
+   "published": "2026-11-16T20:37+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -93,11 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Where are the opportunities in the UK stock market?",
-   "title": "Where are the opportunities in the UK stock market?",
+   "summary": "이번 주 주식 시장이 급락한다면 이 FTSE 100 주식을 살펴보세요",
+   "title": "If the stock market tanks this week, watch this FTSE 100 share",
    "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm11aHZKVWQtM1d2Y2NUcEladklaREctQ1hXcG5PNTBWQjVNRzJsc1VoOHhRQjFnLTdUeDRBTGd6NHNrTjBmYWtOTHVVelduRnBCbmE4WkJWNHdJZTZIZWFGQkxORDE1MFdTSWp0OGUwendaZE1ucDZXOVRfdmNTMkwwTmV1aDN0aEpoRA?oc=5",
-   "published": "2026-11-16T02:06+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQi1qSTRwNlY4QzVaWk85MkdwTlg2WG5ONEtIcGt3NUhfeFBkZlQwTVRwOVBmZE1Gc094TzItNjJ4RVp6aVRaSmY3Yi1kOW40VVVkcmY0MjFWZTBjMGVURXVXd3U0N1cwaVo0NzZSbGsyVkRYcmYyX19rRXU5UUdtMGlVcGE?oc=5",
+   "published": "2026-11-16T20:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -114,11 +108,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
-   "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+   "summary": "Renaissance Technologies는 Jensen Huang이 퇴사하기 전에 14억 2천만 달러 규모의 Nvidia 지분 중 99.7%를 매각했으며, 또 다른 칩 주식에 16억 2천만 달러의 지분을 구축했습니다.",
+   "title": "Renaissance Technologies Sold 99.7% Of Its $1.42 Billion Nvidia Stake Before Jensen Huang’s Exit, While Building A $1.62 Billion Stake In Another Chip Stock",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
-   "published": "2026-11-16T10:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUpybFRMMEJlRUlLQ0hIMDYtemJKTEZjWjI0dVZwdHZuSDVCVTRpbjhkOHA1eS1FU2NGaGVnRnZ1SnVyOTlmZTBBLXo0LXJDcnZteWh2X2dHOXYwUDQxaGdIZjNDYU9wdktEMUp3ZzRMajFseHppWm8za3V3RENseFM2ZXRLU3Qzb3d3Mk9LazltYmwzRHVvR0NlQlhDc0E5?oc=5",
+   "published": "2026-11-16T21:26+09:00",
    "holdings": [
     "soxl"
    ],
@@ -133,32 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Micron Stock Is a Screaming Buy Before Year-End",
-   "title": "Why Micron Stock Is a Screaming Buy Before Year-End",
+   "summary": "엔비디아의 전 CEO 젠슨 황(Jensen Huang)은 워렌 버핏의 깨지지 않는 두 가지 규칙 중 하나를 어겨 예측 가능한 미래에 그의 주식을 투자할 수 없게 만들었습니다.",
+   "title": "Nvidia's Now-Former CEO, Jensen Huang, Just Broke One of Warren Buffett's 2 Unbreakable Rules, Making His Stock Uninvestable for the Foreseeable Future",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3hpcF8waGhWQUV0WGRKUnBMdzRnb0hydEItT3ZTMGhlUDB2UG1iUHhFWVZMX0k4VnZXdGJpYXJiREpmcS1RbHdaVXJUMEJ6QzJxb1lsdWgteF9ZeDc0X3hHWHJrZlNPYTZBMUo2RzQ4d2pDc3NTdmxUREdOMi1nd2pZMDVWZTlicjVHb3RhTnlGclN0MG9IZFNpUQ?oc=5",
-   "published": "2026-11-16T10:20+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.52,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
-   "title": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTJucVZFZS1YZmtjQmcyeDNKV2dXN0o0cThVZW1IWFQ1SU5KOXR1QlNSM1lEeTUwSDEwcTlrdlZsRjRNZ1pqb0JSWVVfal84YkhDUFpTUWFSM3VjYnN0UEpVX2Mxdmd2bUdhUXBKYU9GWWNBYWZFNnp0VkRlcXprZUtrQWYzS2htNDI3b0ZMQkF4QXJXV0ZQRDJjRk0?oc=5",
-   "published": "2026-11-16T06:20+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnBVa05zVTU4NjZxUkxGZXlacFpPQUplT24yaWFaLXZwZzRsQllzLVlrUUExSVpyajNQSnhycWhISTBfREkzTW5OODk2WHV6LVNWNmE3TTFkcF9PazU3SFVjeXd4SXhJZTdRbU5jNHptcHlRSzJxOFp0bExPa1RtX1ZUVFVkd3R2dHlOWThiUTBfVFhpT2NkYmhn?oc=5",
+   "published": "2026-11-16T21:26+09:00",
    "holdings": [
     "soxl"
    ],
@@ -173,11 +146,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
-   "title": "Colette Kress’ First Nvidia Earnings Call Without Jensen Huang: 5 Things Investors Need to Hear",
+   "summary": "워싱턴포스트(WP)는 트럼프의 엔비디아 지분이 6200만 달러까지 늘어났다고 보도했다.",
+   "title": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3Q2ck1VaXo5eVZtWXVaX3pubzNqQ0ExR1oxUUJnUkRrVzhuclVScHBEanptSFhqT3cyRjhZREdlWUR1by1QNmVoTlczTmhaY29wUUs0bHpTajNZRjltV1oxZHNjUGU4Qm9ucVJCUlI1TG1wNlRmRUEwdTN3SlRic2FVNl9rR2UzaG1QaEdiTjJFOEpfbWVaZWxQNGIxZEJUb1E?oc=5",
-   "published": "2026-11-16T04:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNQV3F6WTgxWjVrTjZ4UFhMLWROS2Mya2lWbmM2S0hxTkxTSmphb1lXeWw1eHAwM2c0UVptTGlRZ3VNSlc0azVYeWZRWFFQcnlHWGloSzMtOVF5azh2X05CMDJmZFJINWEyV2lQdEpvdWxVenozVGdzallzdWZwNjI3QTI1dTdFQ0hxaV9xeDF4LTVqOXdTNGRR?oc=5",
+   "published": "2026-11-16T21:13+09:00",
    "holdings": [
     "soxl"
    ],
@@ -192,11 +165,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia Fallout, Anthropic IPO and Other Can't Miss Items this Week",
-   "title": "Nvidia Fallout, Anthropic IPO and Other Can't Miss Items this Week",
+   "summary": "Jensen Huang이 CEO 복귀에 무게를 두는 것으로 알려지면서 Nvidia 주가 하락, Musk가 복귀를 지지",
+   "title": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1BtR2d1Q2dtU3pWUXRGaU51TTBxMFlTNWkyNDlrVG5zTWRaTE92RlhJUEhVV1Z5T09OU0NlcldPU1ZZRkFUZDk2TFhzQjlDVFA3dE9oSG5VU1I4OXVsbjdPVzVVRUF5b0RVNlgtOFhyTkl4OEFDZERLNkswY1gyOGE1SEVsdUItR1VNdksxNDhndEpuZDRlcjNjdzhULWkt?oc=5",
-   "published": "2026-11-16T03:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5",
+   "published": "2026-11-16T21:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.01,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia 수익, Fed 회의록, Anthropic의 IPO로 AI 랠리 테스트: 이번 주에 주목해야 할 3가지 차트",
+   "title": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHU2V3IySzZJUE42dGxWdl8wcXo2NzRncW5KZF9qTHdZeUd2bzVVYmV0aGRFSGlmMnBzcVJCZ21pajV5SVJDOW4zUlhzTU9RaTFmOU5CQUJyaTdSdDJaZENrcTRjdk1jT2VCSExBN3NocXBDdk5ockVyXzNKSzA5ZEtMVjktMEZQemZ4VGYzZUlobF9Sc0N5bGdSWEFXR3M2MTlj?oc=5",
+   "published": "2026-11-16T21:00+09:00",
    "holdings": [
     "soxl"
    ],
