@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-17T03:31:39+09:00",
+ "updatedAt": "2026-11-17T04:01:47+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "상업용 부동산 부채: 글로벌 자산 관리 그룹 CEO 겸 회장 Richard Balles, Nasdaq에서 라이브",
+   "title": "Commercial Real Estate Debt: Global Asset Management Group CEO & Chairman​ Richard Balles, Live at Nasdaq",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXpQenp5NmRXRTZWVlhpWjd4RmhQajBKbkpOYk41ZnR0ZzRMTlI3QmlFd0JsX3AyT0dSUWRRajM4TjZZWFlKNkJNcF9NQzdNS0ZqaXN2ZWlZQ01MUUlkNHV4ZkZCc2VmLTRBYnpWUGRnU3ZkcnhfQTlmdGhfZW9fRFA1VGZCSlVYMmVZ?oc=5",
+   "published": "2026-11-17T03:44+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "나스닥 주식시장 조정: 워렌 버핏의 6가지 말은 그 어느 때보다 관련성이 높습니다.",
+   "title": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnRWZHh6aW5DZ0x0RTFMOHNJMENEeUw5UnNhMGVLN3RONHB4U3hvbkgtd0E2LWNBTlEtNEYxMkxub1V1MDFzcjRPZXBjUmdsVjJfZlFZV1paYW1MMDhxOU8tSDJzcDljeW0yWEJTbXpIU0phZ3RxdDVmdXBXa3YyM2swOTI0OEt3RzduVl9pUXMtQ3JIaExCNVRGM19yZw?oc=5",
+   "published": "2026-11-17T03:35+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.91,
+     "asOf": "2026-11-13"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "주식시장의 가장 큰 위험은 붕괴가 아니다. 투자자가 도착했을 때 투자자가 할 수 있는 일입니다.",
@@ -51,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥은 방금 조정에 들어갔습니다. Are Your ETFs All Making the Same Bet?",
+   "summary": "나스닥은 방금 조정에 들어갔습니다. 귀하의 ETF는 모두 동일한 베팅을 하고 있습니까?",
    "title": "The Nasdaq Just Entered a Correction. Are Your ETFs All Making the Same Bet?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG5LUm9mc1gtYklodHhaMFdVSWVMQzBDbGVkV01yRjFKcExoOHhBSWJzZEZNOWpfY1oyTHhmNmlOOVpqQk9HYWg0ZW1yaUlOaVNrVGk4bWI5Mm1vdGN0QWdSUDhKei1lOE5Kb3BrUmlBdUNBZzlUYW5HVFRoZ0lrNFU5MUdtQnB1UHpuZnlFMlFKTnZkb0dZa1ktLTFsak9KY0E?oc=5",
@@ -66,48 +108,6 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Anthropic의 월스트리트 속삭임: CFO Krishna Rao를 만나보세요",
-   "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oLVJBMUQycUtqY2tvU1p3WlRDVW5sa0h6Z1V3SzBNb1BwMVZRSF9sdkV5NmtJVVk5NVlNOUhtUXp0YlF6UFRWZHlWMXN5d0hzNERQSDRZYUUxRHZydVFDYkxOZGVxOFBkcHlOc0xaMGx0UXIy0gF6QVVfeXFMTlk4eUZfR2ZwYVJqd1ZfOGlnM2duYi1vSmlmbU1Wb1RpZUtSRFpIdmRpbC1CVEY5YVMyVEhZLWlTNXpubXBveDdrZkoxVWwxMXk0SlJHMDVnTTZibzlncEJ5M29rUEM1RV9WUDR4UjVrMHV1aG4td2dLelE?oc=5",
-   "published": "2026-11-17T01:08+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "현재 동일 가중치 S&P 500 펀드가 귀하가 보유하고 있는 펀드보다 더 안전한가요?",
-   "title": "Is an Equal-Weight S&P 500 Fund Safer Right Now Than the One You Own?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWF5STFhcFhta3lwQURmendwVktQbWNKWjJFTlowN3FZc2RjTGp1ZnVTTUk2ZjVUczNqT0lqR2ZMbjNIR3R0N212Y0E0MV9CMXpnQXU0MmRWMk1XVHlnTTBIZ2RIQmp5dWRVLVVISmw1aU9ZMS1Eb1BnMTAxdlNrOElEVnhUdkplbmVSWEl2dXh5QQ?oc=5",
-   "published": "2026-11-17T00:31+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.4,
      "asOf": "2026-11-13"
     }
    ]
@@ -173,7 +173,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론의 중국 관련 매출은 146억 달러입니다. Are These New U.S. Chip Export Rules a Threat?",
+   "summary": "마이크론의 중국 관련 매출은 146억 달러입니다. 이러한 새로운 미국 칩 수출 규정이 위협입니까?",
    "title": "Micron Has $14.6 Billion in China-Linked Revenue. Are These New U.S. Chip Export Rules a Threat?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk1SN3JXMjBhb1E2SEZhVWhHX3JMVnA0VzkteGdGdjVkOXBlcldZY2E5VXllckJvejRUZFB6bDdmWWx3U0lINkJ6QVZDaW9CaUNXU01ZNExZVEJ3dlotWUdIQnNYTTU4ZXZHR1NpeUNSc3Q2T3ZQTE5zdi1Va2FUOFJJZHVCZHIwSzVBUDkxYm9rRDg?oc=5",
