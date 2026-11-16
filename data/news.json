@@ -1,55 +1,13 @@
 {
- "updatedAt": "2026-11-17T04:01:47+09:00",
+ "updatedAt": "2026-11-17T07:42:24+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "상업용 부동산 부채: 글로벌 자산 관리 그룹 CEO 겸 회장 Richard Balles, Nasdaq에서 라이브",
-   "title": "Commercial Real Estate Debt: Global Asset Management Group CEO & Chairman​ Richard Balles, Live at Nasdaq",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXpQenp5NmRXRTZWVlhpWjd4RmhQajBKbkpOYk41ZnR0ZzRMTlI3QmlFd0JsX3AyT0dSUWRRajM4TjZZWFlKNkJNcF9NQzdNS0ZqaXN2ZWlZQ01MUUlkNHV4ZkZCc2VmLTRBYnpWUGRnU3ZkcnhfQTlmdGhfZW9fRFA1VGZCSlVYMmVZ?oc=5",
-   "published": "2026-11-17T03:44+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "나스닥 주식시장 조정: 워렌 버핏의 6가지 말은 그 어느 때보다 관련성이 높습니다.",
-   "title": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
+   "summary": "Stock Market Today, Nov. 16: Snap Falls Amid Tech Sector Sell-Off and Ongoing Youth Social Media Addiction Lawsuit Exposure",
+   "title": "Stock Market Today, Nov. 16: Snap Falls Amid Tech Sector Sell-Off and Ongoing Youth Social Media Addiction Lawsuit Exposure",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnRWZHh6aW5DZ0x0RTFMOHNJMENEeUw5UnNhMGVLN3RONHB4U3hvbkgtd0E2LWNBTlEtNEYxMkxub1V1MDFzcjRPZXBjUmdsVjJfZlFZV1paYW1MMDhxOU8tSDJzcDljeW0yWEJTbXpIU0phZ3RxdDVmdXBXa3YyM2swOTI0OEt3RzduVl9pUXMtQ3JIaExCNVRGM19yZw?oc=5",
-   "published": "2026-11-17T03:35+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식시장의 가장 큰 위험은 붕괴가 아니다. 투자자가 도착했을 때 투자자가 할 수 있는 일입니다.",
-   "title": "The Stock Market’s Biggest Risk Isn’t a Crash. It’s What Investors Might Do When One Arrives.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUY1VWViX2JyXzR0XzJTN1lDVnNaUzZwcm5RTTlmMWxYUUNFU1pfMVNfZTB3MHV2R3BOYW1FQTdPNUt4N0gwTDlqWC10WWZ4OXpQamR5dElGc1c5dDFfaDlZcUZfZ19qSFZsZmJOazB3WjNDMWdpQlAzOVVremNQRE9zQUFWNDNoX2ozLTA4bHE5UVNPWDBENVJn?oc=5",
-   "published": "2026-11-17T02:50+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjQxUFRvS19ETWlvZzNfVzdrUDRCQUZON2lZTVNJanVIQi1pTWFtN1Fma3lYZFdoTHo5T2dUeHgydXBaM2haSkhZdVdPbUlnUDZVSEE5OHRZNlFpS1o5Vlc5bXdrQWFEdGx0U1JHR25HbDRJQ1ZoQ21wZ3VQTE5jRXEzMVprMm5tTlB0ZWYwQzF6YldD?oc=5",
+   "published": "2026-11-17T07:33+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,87 +17,120 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.4,
-     "asOf": "2026-11-13"
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "11월 16일 정오: 나스닥은 엔비디아 수익과 비트코인 ​​슬라이드에 대한 월스트리트의 버팀목이 되면서 폭락했습니다.",
-   "title": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
+   "summary": "Trading Day: AI jitters slam Wall Street",
+   "title": "Trading Day: AI jitters slam Wall Street",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVNlc3FyY2w0TUVtTDRsVF9HUUMyc2JPU3JQZUJvYW5SZll1SUExRXNkXy15amJWNEJTUVdndFNPVEZZUzBzUl8xWFpWTTZkNEg2UzJ3MWpLcHQxRWM1VmFsNENQX2Q2U0hxb3VzRWI2RDU5bklWYWdTSlVsTlRHOW9WSmpFR19rWTFOSmZMd0F5QzVCUWc?oc=5",
-   "published": "2026-11-17T02:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVFYSWlRaTc2Nm5BNGZZY2RDWHNQR0xJdm93ZjBMdEhtX3M3ODFmSXhlMml2dU9MQWhHVV9kRml0c1pxZkdCd0tZczZLTjVXcktNUVFWdENVVzcxZm1va1p3VUJnMjhWbERfWjRWVkZ4NHU5dkhOc2xwNk8zVjkyMjE2OGMwNDhXZXJTdU12d2R4R1ZTTmNj?oc=5",
+   "published": "2026-11-17T07:07+09:00",
    "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "What's dragging down the S&P 500? Apple in focus",
+   "title": "What's dragging down the S&P 500? Apple in focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnRVeFBibjZuWWhrbFNVbTJZaU5DU3N6SnNkOE5sOUIwNEt6cWZub0JsdHlBWXc3LS1CQ0tFZlVpTGFUa3gxc01KUlI2WjRsblU2NDV6LVJULUMwTy1yNFVkOUVlZnh3T0pHOExheldPcUZ3U29mclliZk5jNlZJQTYzTng3Mmp0eUoyZDh5SDdhV1IzTVRF?oc=5",
+   "published": "2026-11-17T06:49+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -0.98,
+     "asOf": "2026-11-16"
     },
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥은 방금 조정에 들어갔습니다. 귀하의 ETF는 모두 동일한 베팅을 하고 있습니까?",
-   "title": "The Nasdaq Just Entered a Correction. Are Your ETFs All Making the Same Bet?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG5LUm9mc1gtYklodHhaMFdVSWVMQzBDbGVkV01yRjFKcExoOHhBSWJzZEZNOWpfY1oyTHhmNmlOOVpqQk9HYWg0ZW1yaUlOaVNrVGk4bWI5Mm1vdGN0QWdSUDhKei1lOE5Kb3BrUmlBdUNBZzlUYW5HVFRoZ0lrNFU5MUdtQnB1UHpuZnlFMlFKTnZkb0dZa1ktLTFsak9KY0E?oc=5",
-   "published": "2026-11-17T01:50+09:00",
+   "summary": "More drops for Nvidia and other AI stocks drag the US market lower, pulling the S&P 500 down 2%",
+   "title": "More drops for Nvidia and other AI stocks drag the US market lower, pulling the S&P 500 down 2%",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+   "published": "2026-11-17T05:08+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.91,
-     "asOf": "2026-11-13"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "The S&P 500’s shot at 4 straight double-digit years is in Nvidia’s hands",
+   "title": "The S&P 500’s shot at 4 straight double-digit years is in Nvidia’s hands",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHlYZ01WOVlzY05TbGRkUTRVc2RIMTlLb2tVZnJFbXgwYTJWN05YNUNBYjZsdHJ2Q25weThybnAySzh2c1VBbG1jTGhoREgzc2JoWmc3a3ZqOU83bHlpVUh5UGtrQ1ByYnlwNF9nci1ZcUhHWXQtM3V3UENXdXEyR2xGbkhNUWx3b0paaVoweU1FMkJYQjBXLTI4MERlUzJwQ0FaRXRVbHFxbHphNndyLVVETFlZMkNrbzNNQVVrOXZoQTJW?oc=5",
+   "published": "2026-11-17T04:18+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론 주식이 계속 하락하는 이유",
-   "title": "Why Micron Stock Keeps Going Down",
+   "summary": "Nvidia Stock: What Would Warren Buffett Do?",
+   "title": "Nvidia Stock: What Would Warren Buffett Do?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE9tT1dYdmpyZ3d5T0RiZm84UllQWHJOU1JKZEN0eGNBUjVYZlQ3RUdDQTRQaUJqWndzLWpURWs0bFZ1V2gxSFFrUVpBekZjSUFUY1Q2NGlDOFR5Tk5PNTU4ZzV6QWN5blA0aWFkM240c1AzOTBlMG5ieWxkVjFjU3Fna0M3ZzBVQ0NwRHlKZU9sVjJSeHZvLQ?oc=5",
-   "published": "2026-11-17T03:10+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.52,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아는 투자자의 신뢰를 회복하는 데 어려움을 겪을 수 있다고 다른 CEO 스캔들에서 알 수 있습니다.",
-   "title": "Nvidia could struggle to regain investor trust, other CEO scandals suggest",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10VENpeFcxYTZIR0tZSGZQeWZxVmRVMjdBZFJJekhyODF1MFhxWFhvUWJTS2oxTTNqNmRIa0t1X0pUSENLWW5maE9LR2JucVFqRDFPU0pvakRFUDBCdVBVbG1vLVpWMDJrLUlWUWtnZVY1eXBxcmNZ?oc=5",
-   "published": "2026-11-17T03:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2FUaGVkQmFVcV8wdGRfZExvUm1TM0NIYlFtb0xFcjVNLVYxWUhGT1RScU9sRDhHbHVzZEJfcS00NW52TEEyX3lqUnlNMVZiWk9iZWdkX2RUaFA5SFphcHh6QnBiN3FKcFR5SVhWTU9PMXFXU21lT3h0UUtrZkQteHJrcEctQ1VQX1paVmJaUWVOTERJdUl3?oc=5",
+   "published": "2026-11-17T07:20+09:00",
    "holdings": [
     "soxl"
    ],
@@ -147,18 +138,37 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "162달러에 Nvidia는 이전에 놓친 사람들로부터 제도적 지원을 받을 예정이므로 구매하겠습니다.",
-   "title": "At $162, Nvidia’s Going to Get Institutional Support From Those Who Missed Out Earlier, So I’m Buying",
+   "summary": "Tower Semiconductor (TSEM) Expects Profit to Outrun Sales. What’s Behind It?",
+   "title": "Tower Semiconductor (TSEM) Expects Profit to Outrun Sales. What’s Behind It?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0xXZUZyWDdXblcxdndsNTE2NHo0X3ZwMzVzOGs3VEYwd25EaXo4bTFKSFhLbFlFVWdxR19lQkstTHhIdXcxT2tRRmVzTUJaNzVwVHk3TEg0RUEyNXFoNHhqUERMQXQ3cEp4RXRVaE5HaTZPWlVSMmNFOGFoZHNwWUFhTzJWeXRfUV9vQnZ4Y29wN2pHa0pzeWRnOHNKZFBXWlh5T3h3?oc=5",
-   "published": "2026-11-17T02:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHp0cFF1RUJaUDdVaXZZWWgzczNrajlqMHBVcGlOVWk3ZGh0S2dwUXJKcThPMTh4RVdxWTd3RGlwVlF6OHJyWFFUN3A1N2w0UVc4MW9iVTVDRzZxdFZoR2JIcVJmMnEzTVpSbElSYU52VC1Obi1ZbmRacktPcDh3bk5ocWFtdXZtOUVHOFN4NnhjRG00RmpmbkQ5UHQ3SEQ5WnFLQ21iRQ?oc=5",
+   "published": "2026-11-17T07:03+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -5.41,
+     "asOf": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst",
+   "title": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDl4WHFaaUdid1hZWl9vazlpQTJwbmxuR2xyT3RUblBjemlFOHRnR3BGemhCUmI3ZWktSHlib1NqUDl5SnFPVWlFenh6NUFUMUk1YWdyWmxfTmRKbzJDSDFZdUJCU3FTb3UzbVF0NXBJS25QMWxIOHFiSmhLXzR5clZqYmZYZkRHYi1WVXdnYkdwOUNVX2JrS1ZxUWhkaXZJdnJTcTBWMzRPbm42dm1zVEE2NmNhOEcyRUtjTkFFZU1KWWJUZk5WTVhxd1dmYXpSQlE?oc=5",
+   "published": "2026-11-17T07:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -166,39 +176,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "마이크론의 중국 관련 매출은 146억 달러입니다. 이러한 새로운 미국 칩 수출 규정이 위협입니까?",
-   "title": "Micron Has $14.6 Billion in China-Linked Revenue. Are These New U.S. Chip Export Rules a Threat?",
+   "summary": "Nvidia Earnings Preview: Can Data Center Growth Sustain Its Profit Boom?",
+   "title": "Nvidia Earnings Preview: Can Data Center Growth Sustain Its Profit Boom?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk1SN3JXMjBhb1E2SEZhVWhHX3JMVnA0VzkteGdGdjVkOXBlcldZY2E5VXllckJvejRUZFB6bDdmWWx3U0lINkJ6QVZDaW9CaUNXU01ZNExZVEJ3dlotWUdIQnNYTTU4ZXZHR1NpeUNSc3Q2T3ZQTE5zdi1Va2FUOFJJZHVCZHIwSzVBUDkxYm9rRDg?oc=5",
-   "published": "2026-11-17T02:07+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -2.52,
-     "asOf": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "11월 17일, Nvidia 주식에 대한 가파른 테스트 제공",
-   "title": "Nov. 17 Presents a Steep Test for Nvidia Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXFNUjlaTHFjcXdud3dya2NDbjlPajdJOGZRTkEyWHlDUF9SdzZPQXMxMzN1SmJsbHRxX2VXQS1xTVhuSWZHelFWbngzUHRWVjZfeWNGdC1XRTNGdGw2NG5nNGY3WThXcDQxcUJYb05qZDY2ekNRdU5vYVNJNEVCNTRJcE9JY1hLQmxMSW9PUmJJY2JMQlE?oc=5",
-   "published": "2026-11-17T02:02+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHlpWDI3TUg3dXBlMGoxRDVURy1NeURQTkNNcUoteHRqMW9SYzRodnRvN29hZzUzQWNBSWp1QUo3c0VwWjJ5WFAzWC12REJubE1qc0h3T1cxTmF4WGZSanp6WC1uUlhMMTUxUHZVaUFVVUhWSUFaWU9YaVhSN1Z5RTNzcXk2N2JhNy1mUUNrcVFMNWszb0FNb1k5eUx2SmdTTFE?oc=5",
+   "published": "2026-11-17T06:54+09:00",
    "holdings": [
     "soxl"
    ],
@@ -206,8 +195,27 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -2.01,
-     "asOf": "2026-11-13"
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+   "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBVdnBsa3dsRmN0X3c2YjR4REozem9ZUW5UcGx4WEdMTS1qYUhjbjNRU3J5UE81VjhPR0Q4cUV1UFBVSlUzSEtwTW5saFh0QTE3ZkJkZXF1V013cDFMaTNXRThwT2lBdkF0aVdxZXlIRXc4cFR4WXJjOTNMZUJZMtIBhgFBVV95cUxQMGFndkM3RUMtUkFEVDRPZmZmTHZVdXlVbl9GQ1RWY3dsMUhSVzE5SjNGcVJOLUVJb2szbmNudy1oZUVScGhoQklaUzdPV0hpTmZvYktWUFpBLXhVMnV3WG5PVkdIdTFDU1NKQ3o5al9TM1Q5VDE2Ul9GUFVEQWIwWUUzcFlTQQ?oc=5",
+   "published": "2026-11-17T06:52+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
     }
    ]
   }
