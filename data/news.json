@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-17T12:57:07+09:00",
+ "updatedAt": "2026-11-17T13:31:51+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Asian shares decline following stocks tumbled on Wall Street",
+   "title": "Asian shares decline following stocks tumbled on Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWllbjFlaThpR2RQLXdFcG1NWFhiNGF1UlUxRmFNUjk0R0VFeHVETnNhLUxhVHBDMFNXbEtFSTZHVFBEQllCNGpCVDVWZGZhNXVvVWR2UlduMGtRYWpyZ1dvenE3ZlI1Q3N3eV9sVjNPaEwtc0R4VW5nU2IycWtzcGN6dUtyVVBuSlZCai1SVlFhTUhQUG9pc2k3Q25vZVNCMEdjMWxHX28xMXJXQ3c?oc=5",
+   "published": "2026-11-17T13:01+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -1.92,
+     "asOf": "2026-11-16"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "USA Rare Earth (USAR) Gets a Reality Check From Wall Street. Shares Slide",
@@ -92,22 +113,26 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Stock Market Today, Nov. 16: IREN Slides as Neocloud Weakness and Tech Sector Selling Put Pressure on Shares",
-   "title": "Stock Market Today, Nov. 16: IREN Slides as Neocloud Weakness and Tech Sector Selling Put Pressure on Shares",
+   "category": "반도체 · 메모리",
+   "summary": "SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600%",
+   "title": "SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0c4cFhmdm8tR3hpWmxEX1R1V3lqdDlxRlRER3dIUTd2YXRkMkMzYjFvRC1qZ2dTQ0QwTEpRNG9xVGJvU1dGaUR3SVk0T1pzelFFajU4cGhzT0x6V3Jxem45bDh2alB4ZGtwUkhYOW5kamdKUWo2bGNJbWtwYWJwVFlUZUc3eHBNUExCOEZpRFBSSWF4?oc=5",
-   "published": "2026-11-17T08:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX01yOEN1TGxCekQ5dld3ZjJDWjlQMGVzRy1TNk9BRi1KaTVqWjRxczNid0Z1dE4yNTdzMmViNGpUaklaSy1TUXFPXy1xUHVyb0tnRnIwZ1U3MENqLWtHX0h0emFYVFZ4ZmlFaDlROGVtUl9JQ09JT2JsSG8xNzdSNzdCRHNpYkdYRjdDS0ZqbWIwSmdJN19qN3MwMVpGTU0?oc=5",
+   "published": "2026-11-17T12:56+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -1.92,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -4.12,
+     "asOf": "2026-11-16"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -7.02,
      "asOf": "2026-11-16"
     }
    ]
@@ -190,25 +215,6 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": -5.41,
-     "asOf": "2026-11-16"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia earnings to test AI boom after Huang's exit",
-   "title": "Nvidia earnings to test AI boom after Huang's exit",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU9FSGdETFE5cnZOUk9GYVRUY3c4VVU1Z29nTzFfUHVPbmVaNHA0YWU3bi1IQ0RGaC1adERMNURUQzlZbE5OUXM0UHIzR25DaHNsYzg0WDJGd0xFaHJ4WXRaRFRzWkstdFRxYjg4YXBVRXRjYUFKckY3cUxmRnZjWVdaUTRQR082MlZUVGt4YlgxQVY2MTZv?oc=5",
-   "published": "2026-11-17T10:43+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -4.12,
      "asOf": "2026-11-16"
     }
    ]

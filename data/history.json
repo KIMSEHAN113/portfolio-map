@@ -14960,9 +14960,9 @@
   },
   {
    "date": "2026-11-17",
-   "updatedAt": "2026-11-17T12:57:00+09:00",
+   "updatedAt": "2026-11-17T13:31:44+09:00",
    "fx": {
-    "usdkrw": 1337.61,
+    "usdkrw": 1336.54,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -14976,8 +14976,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 768,
-     "price": 24150.0,
-     "chgPct": -0.82,
+     "price": 24075.0,
+     "chgPct": -1.13,
      "asOf": "2026-11-17",
      "dca": "매주 월 +2"
     },
@@ -14991,8 +14991,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 605,
-     "price": 21525.0,
-     "chgPct": -1.08,
+     "price": 21470.0,
+     "chgPct": -1.33,
      "asOf": "2026-11-17",
      "dca": "매주 월 +2"
     },
@@ -15006,8 +15006,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 191800.0,
-     "chgPct": -2.54,
+     "price": 191200.0,
+     "chgPct": -2.85,
      "asOf": "2026-11-17"
     },
     {
@@ -15020,8 +15020,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 7010.0,
-     "chgPct": -0.71,
+     "price": 6980.0,
+     "chgPct": -1.13,
      "asOf": "2026-11-17"
     },
     {
@@ -15174,8 +15174,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 11320.0,
-     "chgPct": -0.53,
+     "price": 11270.0,
+     "chgPct": -0.97,
      "asOf": "2026-11-17"
     },
     {
@@ -15188,8 +15188,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 22300.0,
-     "chgPct": -1.17,
+     "price": 22270.0,
+     "chgPct": -1.31,
      "asOf": "2026-11-17"
     },
     {
@@ -15202,8 +15202,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 24150.0,
-     "chgPct": -0.82,
+     "price": 24075.0,
+     "chgPct": -1.13,
      "asOf": "2026-11-17"
     },
     {
@@ -15216,8 +15216,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14250.0,
-     "chgPct": -0.07,
+     "price": 14215.0,
+     "chgPct": -0.32,
      "asOf": "2026-11-17"
     }
    ]
