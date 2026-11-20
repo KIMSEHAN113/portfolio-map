@@ -1,34 +1,34 @@
 {
- "updatedAt": "2026-11-19T11:37:30+09:00",
+ "updatedAt": "2026-11-20T11:22:23+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Anthropic의 83달러 IPO 가격은 월스트리트에서 기록적인 데뷔를 위한 궤도에 올랐습니다. 의미는 다음과 같습니다",
-   "title": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmEtRzVlbGY4bUNlRDJ2UWZTdE9GRm1ZOFpZTGs4ek1jaFRkRDl5X29ZUUNYdmVWYWJPX2Y0OU5jRDZfSlNJel9tMUJkNUdyb3FZb2ozcW93Z2J4OV94VXNQVFpZNlVNdWJiSnlnV1VfMjg1Wmw5T0wzSHRsTnVVZ2gxdHUycXp5eWhFMm9pRU50dFhPVG9j?oc=5",
-   "published": "2026-11-19T09:01+09:00",
+   "summary": "Anthropic은 역사적인 2조 달러 규모의 데뷔와 함께 나스닥에 상장됩니다.",
+   "title": "Anthropic goes public on the Nasdaq with a historic $2 trillion debut",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGlhY1Nxa3NPMjNVSVhrQW1Nd2VEWWJac3B2NHU3MzVnSjlfVUsxWmRkV2U5a24yN2JlaXdjQ3NHSjRza3NBdWZxVzMxdWs1Z3FtQnMtWS1qZXBXWEMtaFN0ck5ZSzNLMEpFN0JhU0JOUGdkVWE1SHJaRUtoMFFHbG5xWXFJNEhpTGc0aHowOXY3QTZjSGN1MEhxOGZfQjdyUTgzcEMtSkY3NkxnQzVoSlZwR3NqUQ?oc=5",
+   "published": "2026-11-20T09:30+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.23,
-     "asOf": "2026-11-18"
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.25,
+     "asOf": "2026-11-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Lockheed Martin Corporation(LMT)의 비즈니스 기본에 대한 월스트리트 베팅, 백로그 증가",
-   "title": "Wall Street Betting on Lockheed Martin Corporation (LMT)’s Business Fundamentals, Growing Backlog",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzVmbzVCX2NvZ05qcU9XOUt6ZllSc1BiblVQVXJsRjJYMEZxX1hNY3ZBWUQyTlFQcjREdUNiM1p0b2dQSFR1OWV0VG42SjV6MmJPYWFITlRBejI3NzdlbHV6X1hFTjN6RmVjdGtwdnBPRXF4aU1RTGJQV2JvNUxVY0VuVi1PbHlMazBJUGVuYTJPbTd1TEk4WmthMkg4S1ZqdEE?oc=5",
-   "published": "2026-11-19T08:37+09:00",
+   "summary": "Anthropic은 역대 최대 규모의 데뷔로 주식 시장 역사를 만들었습니다.",
+   "title": "Anthropic makes stock market history with the largest debut of all time",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWREbWc4NERHcjdPMkgydUYyenA4cWxQOS1pM28yaVNzYUlaNElfMnRzZW5iS0JmNmlTbk5ud0lCZm0tdHhDYVZmSEFPcDdya0xHaEJSUElUZmo0VGpiM3ZzYVBmU0dEaWpCS1p5UTFRRktabGVhcVBLN1lwaUNybzRzWExfSWtwOE0xS2JtVVQzRVAtQld2S0VKVFRadEVKcXRMSDJXRWxKS3JzbG5kbzVn?oc=5",
+   "published": "2026-11-20T08:36+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,39 +38,45 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.23,
-     "asOf": "2026-11-18"
+     "chgPct": -2.02,
+     "asOf": "2026-11-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "백로그가 7,450억 달러로 증가함에 따라 보잉사(BA)에 대한 월스트리트의 낙관적 전망",
-   "title": "Wall Street Bullish on The Boeing Company (BA) as Backlog Grows to $745B",
+   "summary": "S&P 500, Nasdaq, Dow는 Anthropic Trading 데뷔가 적절한 신뢰를 제공하지 못함에 따라 하락 마감 — ANT, META, AAPL, GME In Focus",
+   "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0h3X3ZkelhGUWJ2QlhSa0VDQXB6cW9VSjdsQktMTXA5Yk45aThWVXFGdkgtSy1lYXQtaVhXem56ZGFSTHZFQnlZblZJamg3NzR0OWt4SGJDWElJVHpPa0dEZXRKTDlVZzFoczVRc092NENQYVAwbElCVEJIZjRBUzd2djZiYkEwTWtLNWpPYnJoV3ZTRDd4NTV0T0lPS19L?oc=5",
-   "published": "2026-11-19T08:36+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmNocC1iR2VBV0hSR1RaZk5LRUI0dDZlNHNNd20zRUFJTDVMOHBBaTdlQTVuLUNEeE5oRDlLd0ZsX0ZxNXk4VEZZZEU5SjNIclZzR1ZNdDE5MHFnV1FzdXRIY05EUXJONDdSZGVUdjc4bWRrR2lxd2ZYbG9HbXBJdlUwOUVaU2VBd3BJeUNn?oc=5",
+   "published": "2026-11-20T08:01+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.23,
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": -0.4,
      "asOf": "2026-11-18"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -2.25,
+     "asOf": "2026-11-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "AeroVironment, Inc.(AVAV): 월스트리트가 이 드론 주식에 대해 낙관적인 이유는 무엇입니까?",
-   "title": "AeroVironment, Inc. (AVAV): Why is Wall Street Bullish on this Drone Stock?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHFTVl9IVnFRSkFEekhHOTJSZTBidmVDalJDeWpER2Jhb0NhZ3YzY1ZRX1B6aHgtcjBLbG9Vc2NsS0JxeHRFOHQ3V1JJYmVaXzE0SUhGSEpVdGdWYkNMdElxRXpTUDVvUVM2cHdRMkxJOUI4SklPM0M5UE55cTV6WWgwRUxWNXlHVXZDMmZDeDVaQXhhS1V5TWh2dTQ?oc=5",
-   "published": "2026-11-19T08:32+09:00",
+   "summary": "역사적인 월스트리트 데뷔로 인류 주가 급등",
+   "title": "Anthropic stock surges in historic Wall Street debut",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVRQY0M3TUhDRUdEOUkwaHZfR2dQOWxzVVhuYkFpVDNxMjNKczFSUk42WHJselg1Mld0QVlKa21kd0E5aWJseFhKaDFLOENValZXNDJzLVV4Q0F5aE54dU5sTzVLdUFXSW9fNE1nSUpDMXF0aG5LX3VqZHd0WmM1WnNQYnpTMVNyaDZqZ0Fod2s5bU0?oc=5",
+   "published": "2026-11-20T07:55+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -80,18 +86,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.23,
-     "asOf": "2026-11-18"
+     "chgPct": -2.02,
+     "asOf": "2026-11-19"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 11월 18일 주식 시장: 연준 회의록에서 추가 금리 인상이 예상됨에 따라 S&P 500이 주요 지지를 이탈했습니다.",
-   "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
+   "summary": "오늘, 11월 19일 주식 시장: 이익 실현이 인류의 IPO 가격 범위를 넘어서면서 CoreWeave 하락",
+   "title": "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
-   "published": "2026-11-19T08:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFZCNTA3YzdCeVgzekh4Z25id2RNRmxKSTVMZlIzQk9kM1pmeGpwaTVCUzN4N1NWdTRNVF96ang2M3lEZWJZWGFTNmVGUnJWWFBVaWRZQlh1cHFoNmlOUklVWUZ2U1FvaXpnY0ZCeWhGR3I0RmlpekM2X2duaGsxY0lrS19hNkRkNm5MRWF3RHJZeG5q?oc=5",
+   "published": "2026-11-20T07:53+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -101,18 +107,102 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.23,
+     "chgPct": -2.02,
+     "asOf": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Michael Burry는 Nvidia, CoreWeave 및 Nebius에 대해 경고하려고 했다고 말했습니다. '빅쇼트' 투자자가 본 것은 다음과 같습니다.",
+   "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGRrc1VrMldqYWVBbVlYN0hWeDBZX25tWDdzaVZvWnZaNGtpM1BuMGtYS0ozMWo3WjNEazhneVlMRXk2X0hYbEZXdWhva20xZFpaQjlObzlnWnFYU3JhcnlpZ3M3eWFNZDRKZXN0ZjFQV21pR0dJYWFOdWJlNURieGpmcENSdElaOUI3NXd6MUg5X2VNTlF1MWNR?oc=5",
+   "published": "2026-11-20T10:03+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.89,
      "asOf": "2026-11-18"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "주식분할 관찰: 마이크론이 다음인가?",
-   "title": "Stock-Split Watch: Is Micron Next?",
+   "summary": "캘리포니아 AG, 중국 정보 유출 위험 및 투자자 공개에 대해 엔비디아 소환",
+   "title": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS05QN2ZHeGJialhoZkRIcnZURkU4dkFfb2N4LUNzMEY4WlhFVXdaMGtsblhwR1RFTWo5OXNFTUhMWEY5ZlBSMFhOckNQUzJ3ZnkzajBPeXFpeDBPeGdPWEd1b3pmZXBhT2NSd1Z3NWF5dVJfemZCMEJ2cDhRRjh4OWVEZFVZOW4tb2QtSGxBMFFqcXNBTWxuUVBn?oc=5",
-   "published": "2026-11-19T10:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTEwSjFtQXVROXhLRGNjX21qTWR1RS04bkpDTy10Y29wNl9GY1ZiX2VMSGIwR3dZdGhxaHhqLS1zb2hsTV9zZUlObnFyNmVIOVFwQ2dOU09TMlJCQllGUmlhdEV0dDRLbU41R1dBVTJ6cUZTTkR2UUVvZGk0V25SZGxhWFFmZzRs?oc=5",
+   "published": "2026-11-20T08:23+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.89,
+     "asOf": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "이 하락세를 보인 반도체 주식은 2027년에 급등할 수 있다",
+   "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0NzUjVYU2FjcGJBUDYya3dyRlZrLU1TUWZjQ2VwUlp5S3AxdlFHZXpWMHg3OGlNWjY4QU9KNEFhY3NHcXRwbzR0WGNhekc3blQ1ZzVpTTlQa3k0c184dW5XUGlFbTdZNVd4QUZCSndyRVdZVEs4aTJEZXo3NXBfMFVyTXFlM2lkRElHRWRmaHJ2dkFRMDlRLVJ6bzlEalEwSWow?oc=5",
+   "published": "2026-11-20T07:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 0.28,
+     "asOf": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia vs. Intel: 한 AI 주식은 드라마틱한 가치가 있고 다른 주식은 기다릴 가치가 없다고 투자자는 말합니다.",
+   "title": "Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2Y1dk9LNHBXLWpMa0hUcmUwT1JKVHZaeDA0RU1rNFJGUWx4aE44d2JDSWgwVDFaVHRGd3BNaG5ZZ3JBTmNXZENjTHZoMFdMalhVeXNCSjFZVEluYkdRMGdYV3Y5a1ljRlVyWndwZndvWnp5aXNUZmNrbEp0QW9MVTZvekZTRjhpUjlKWGRMSzY?oc=5",
+   "published": "2026-11-20T07:20+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -2.89,
+     "asOf": "2026-11-18"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -0.91,
+     "asOf": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Anthropic이 상장됨에 따라 Nvidia, Broadcom 및 Micron 주식은 하락합니다.",
+   "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
+   "published": "2026-11-20T06:21+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -124,83 +214,7 @@
      "name": "마이크론",
      "chgPct": -1.0,
      "asOf": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "'엔비디아의 혼란이 나를 겁먹게 했다': 주식을 팔고 부동산을 사야 할까요? 아니면 폭풍을 피해야 할까요?",
-   "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXdtR2s5Y3EzQXFqbmF5X1Q4X2ptUF82czA1RUd6WFNXNGNBd1RJTjhhU2hGU0RCX0EyeEF5TWlwQlhlckZfUmtMOG9ncU4zY2QyZXRPOC02aHBIMDlMd0ZZb3poeHlmNlJvRTAzUEJhQ1hGZE5wd0RzRDRRdU95MVp0MUVlZWxiRTFQRk90TnBrdG52MGZWMklsS1plUQ?oc=5",
-   "published": "2026-11-19T09:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.89,
-     "asOf": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia의 실적 이후, 연말까지 주가에 대한 나의 예측은 다음과 같습니다.",
-   "title": "After Nvidia’s Earnings, Here’s My Prediction for the Stock Price by the End of the Year",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5",
-   "published": "2026-11-19T09:25+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.89,
-     "asOf": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "11월 19일 Anthropic의 IPO 구매를 고려하고 계십니까? 먼저 고려해야 할 AI 주식은 다음과 같습니다(힌트: Nvidia나 Broadcom이 아닙니다).",
-   "title": "Thinking About Buying Anthropic’s IPO on Nov. 19? Here’s an AI Stock I’d Consider First (Hint: It’s Not Nvidia or Broadcom).",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVhvN3gyVkdkQVVBQmNjc21mQ2JjNFBmTWZwTXBYcDBJR1ZkMng2WFI5dURDeXdwb0liZnA4MEJRRTBxV0RWTWh0d0NZT084U1JjWTRjUzVxODg5WE1yVHI5Z3YxQThmaC1WcFZWWDJNVnZlLUk1X2xwVnBTNExFOFlWbXdVRW55a29KaE9Kb3ZvNWVOb0RXelhrR3AtR2s?oc=5",
-   "published": "2026-11-19T08:35+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -2.89,
-     "asOf": "2026-11-18"
     },
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 3.64,
-     "asOf": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "3분기 결과에서 AI 수익이 크게 나타났음에도 불구하고 엔비디아(NVDA) 주가 하락",
-   "title": "Nvidia (NVDA) Stock Drops Despite Q3 Results Showing Huge AI Earnings",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNRcEVuR1ViVWpUY0p5RnIyekVpWDRTVUFLXzhLYnFDZ2tfeGctTGFkcENyRFliRXVRSktrc3hiTU01ZW9oY1dzaVJ2dzBNcTBxLWZienhFM0I0dVFDYXp3NTVjM3lZNGhxMXpuZUhuLXdUd1o0RTN2VVR0bzRDNnE0LXByUDJvWFl3VUFra1JDQXZmbV9FejNKdEI?oc=5",
-   "published": "2026-11-19T08:21+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
