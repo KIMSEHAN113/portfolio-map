@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:53:31+09:00",
+ "updatedAt": "2026-11-21T22:54:51+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -127,6 +127,25 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
+   "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
+   "published": "2026-11-21T20:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Micron Stock Fell More Than 40% From Its June Record. History Says What It Did After Its 5 Other Drops This Deep.",
    "title": "Micron Stock Fell More Than 40% From Its June Record. History Says What It Did After Its 5 Other Drops This Deep.",
    "source": "Yahoo Finance",
@@ -178,25 +197,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDBWLTd5T3R4NFVNLWI0Vm9nWEJmd1FHdDdqLUdfWjJJdXBOWFU1d2x1Nk1NUjNCVW5OT1IzY0hLUnRIbkIxZXBsd1pNMV9MQUppQ2twZmRQT2EwT3Q3V0I2dVVLX1EyOEN6cjdSOTJHWmkydGJ6bFpfb2VaN295ekRxWDM3SXhqcVdOZlhoVzlma3VSOERiaA?oc=5",
    "published": "2026-11-21T11:48+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congress to Force Him to ‘Divest’ (UPDATED)",
-   "title": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congress to Force Him to ‘Divest’ (UPDATED)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWxzejQ5eTkzajlLd09JcWVkd2xSbTBUVTVEcTBLU21YZVhWdDFUQmh2blg0dVNzdkFkRXlhbzhYdEZKMUo5WnJtOVRHT2lRZ0ZrbDBGOV9RS19Bd3hFX3hmNS1zZUtVQlZueE1xcEpHR0I0ell0dGlocEVVcFU1UC1hLVhfeUc2TGNKdDVUc1JyYWIxNXpfRzVYc1Y?oc=5",
-   "published": "2026-11-21T08:00+09:00",
    "holdings": [
     "soxl"
    ],
