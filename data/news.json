@@ -1,88 +1,13 @@
 {
- "updatedAt": "2026-11-21T11:23:43+09:00",
+ "updatedAt": "2026-11-21T22:53:31+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "나스닥이 2026년 상승폭을 지우면서 주식시장이 폭락했습니다.",
-   "title": "Stock markets plunge as Nasdaq erases 2026 gains",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYm5LZ29JeEMyNkluSXR6Rlc0cDJ3YWVhX2FDTmRwcDFxT0tzS0xGRk1jR3lucW9CeGFCMDl5SWo1NzlSS1E1ZFdaS2tLalAyREdpTHhPOGhYM1BOR05Lb01SS1ZFLWJZR2ZVd2ZVUkR6dTcwZi1LSHJvWGQ3eDZVUElvU3J6Zk1HcWtTS3N3cllKeUliYmUzWXB3R2Mtb1k?oc=5",
-   "published": "2026-11-21T10:52+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq 100은 2020년 이후 최악의 주를 마감하고, AI 패배로 인해 S&P 500이 조정 영역에 진입했습니다 — ANT, NVDA, TTWO, ZS, CRWD 집중",
-   "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
-   "published": "2026-11-21T10:30+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
-     "asOf": "2026-11-20"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "다우지수, S&P 500지수가 조정권에 진입하면서 월스트리트는 역사적인 손실을 입었습니다.",
-   "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
-   "published": "2026-11-21T09:47+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": -1.93,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "AI의 신혼여행은 월스트리트에서 끝났는가?",
-   "title": "Has AI's honeymoon ended on Wall Street?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW02SHVNQUZPSDdlWHkzX1JPenFtUHZ0dFo0T0dBLWptSXUzaDhwcjlHUkFwbUcxcGE3YnRidUVGQTM5TzltYUdMSkFiS2dQRThxdGhGcWhtRUhIUVFMcnJjR29oalE3UGVKUW5jWkl1a2tXeFo2M3JRS2dkbjlzSEx2ZVVyblJuM2t5dUotcHFCWHpZanhiU2pUZ0I?oc=5",
-   "published": "2026-11-21T09:46+09:00",
+   "summary": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+   "published": "2026-11-21T22:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -99,11 +24,74 @@
   },
   {
    "category": "미국 지수",
-   "summary": "S&P 500은 최근 하락세 이후에도 10년 동안 3배 이상 상승했습니다. VOO의 1,000달러가 어떻게 될 수 있었는지 살펴보겠습니다.",
-   "title": "The S&P 500 Has More Than Tripled in 10 Years, Even After Its Latest Pullback. Here’s What $1,000 in VOO Could Have Become.",
+   "summary": "Jensen Huang's next move: Wall Street floats Intel and SpaceX, but bettors are banking on a surprise second act",
+   "title": "Jensen Huang's next move: Wall Street floats Intel and SpaceX, but bettors are banking on a surprise second act",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmJBTnllREFTbldoS1ZGSl91d1JTLS1LU0NXeG9EVUlGNXhlVlpzTjdTcDRFeDJnY2E2MzBvT3djVWVpeUgtWDRxZnQ2SVRJTWRKVVlIZjBfYmhxS3A2ZVpaTzFrVzZoaS1rWnBwdUVNUzB6Smo3M3Zrekk5cG9PRUpJNU5la1FCa05Nd0M2SQ?oc=5",
-   "published": "2026-11-21T09:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUtCZC0zLUNQYkUwUVAxSlkxU05NWEt1WC1LZDUweWdKYUlhZnJnVmxOV0dzTXltUHlfbkdyOTB6ZGNaSW1lZlNjTnB0c1UxR1BDcW9yaEMwV0FmVEk1emFGSzN6ZXJJYXhpcjFuZ2luOHJ0TXN0LUNtUGJsNkNZMGJFcWNad0UzTHQ4Mm9FWVZQUXQtUS1EbXRhc25pU0VGeDAxYWtIaDZTUlZ2RlpPSk5QaXR4dGw0VThfb1BrdTVtck5xQTlxMDBKOG0zVmh2blRYV3Q1dlF0ZlkzTGh4WTRZRXl2WkJlamNDazBFUUtOeVozTWNieQ?oc=5",
+   "published": "2026-11-21T21:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -7.97,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "General Mills (GIS) is Suddenly Drawing Wall Street’s Attention",
+   "title": "General Mills (GIS) is Suddenly Drawing Wall Street’s Attention",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGJ2RGZIMlVrUGM0TGxWV0F2STRMb3l3aEFnZDc2VGxsSXZkc2RwOWc1MWlsT2Y4QUlHU1dSbW1USHNuWkROUjEtcWZwd1BxX1FiZXRYN1lad284R2RwS1JELVQ4QjR2M2J1TjJPSUg5dlRJVHRGdERUcGZKYklyb2JsclQyTncyRnZGQTFfQ09yaDhSWG1QUmh0NUpRSUtW?oc=5",
+   "published": "2026-11-21T16:16+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Brookfield Infrastructure (BIPC) Is Getting Wall Street Excited — Here’s Why",
+   "title": "Brookfield Infrastructure (BIPC) Is Getting Wall Street Excited — Here’s Why",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZExFOHJvemQyUkl5RzItSG1lOVBJdEJRSjJEVlpnaGNld1RpVHRuMHJSNzQ4YklJc3BOZFBQeXF1RWtPemdfRzRmMXlJWUNjWlBxUkZBYlBURTZJZGtzM1R4WndHTXRLcEJwT1V0ZkdYbXM4MER2YW5BOTA5UVhvNGJTQ2RuQ3BQcDBBMlZTbkhkV1RvMkNPbU5hQzgyZjRpM3RqQVdhbEFfS0xL?oc=5",
+   "published": "2026-11-21T16:13+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Rocket Companies (RKT) Just Got a Major Win — Wall Street Is Reacting",
+   "title": "Rocket Companies (RKT) Just Got a Major Win — Wall Street Is Reacting",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYm9zVnk2WDZvNlhGM08xZGs0LU5pQU1PX1JYZ3hoVTN2OGgxcUZ5cUZqc0NzSk1jUVRmRGhab2NpZXExNWJNbWt3ZFdzWU93bkE2ZHVOLVoyMjVTQTAxbHdIRE51bVZkVmNDUzJqT3pfYUU3cXZMbzJXeXpuS2dzVS1vSGJMRkdMajktekczZnF4dmNySlV1VVJR?oc=5",
+   "published": "2026-11-21T16:11+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -120,7 +108,91 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "트럼프는 2년 만에 9,700만 달러 상당의 Nvidia 주식을 거래한 것으로 알려졌습니다. 엘리자베스 워렌은 의회가 그를 '매각'하도록 강요하기를 원합니다(업데이트됨)",
+   "summary": "Nvidia Is CoreWeave’s “Key Sole Supplier” and $6.3 Billion Backstop. Congress Is Now Looking",
+   "title": "Nvidia Is CoreWeave’s “Key Sole Supplier” and $6.3 Billion Backstop. Congress Is Now Looking",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGhnc2dTb1BZa19kOFA5Z1ZZYXZDcGJtVHIzR21HQlZpekYyQVZuenFKWkxodmtCREdqU3Brc291OExzM240aTVQWDRQV1IwY3MzZm9pbXFGaU1BZGpqR0RLRHg1SmNZUENfVDF3NDByemw0bVFfZEJYWFhPaENvUVI0RC1oMk8xY3VYOVJid3ZaMjVNZ3Zib2JpMC05Uzg?oc=5",
+   "published": "2026-11-21T21:49+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron Stock Fell More Than 40% From Its June Record. History Says What It Did After Its 5 Other Drops This Deep.",
+   "title": "Micron Stock Fell More Than 40% From Its June Record. History Says What It Did After Its 5 Other Drops This Deep.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZG8yeWFVVTRUTndGRmVPNnRWS3Frc2R1UFBRcFh2eE9acmwxWTI1aHU2YUxwdWdzTlY4cU1yOXNTa0V5RVZ4eDhZSGRYQmdxS1lYblo2Vk1qNW9wem9VWFhxT0JJU1pKc1pTdlNpeWlHVzFabkFMTlFRZFM3Q2ZsYzZ1V3JmbWNjSnlTRUlObER6WEU0?oc=5",
+   "published": "2026-11-21T19:37+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -13.89,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
+   "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmlQUHN4Q1J4Y3IyTXVzemJTS09DdGR0WDJ1aXFMZW1fNjZYYk52c2RZZWxkOXd1SkJ3b3NnaTJyQnpENnJ5MUg1X1JLX1pTVnNhOVFsa2h4bEY1ZnNranNoSFVoVzJtaW5IUGdQREJfeF9iV0s5MVFWVXBfTkstOG9ia2ZBQkRjc3RYLThkTnlHN2Zs?oc=5",
+   "published": "2026-11-21T19:07+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -9.48,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVDA Stock Sees Biggest Fall In 22 Months, But Top Analyst Says Nvidia’s AI Boom Isn’t Over Yet — Here Are 5 Reasons Why",
+   "title": "NVDA Stock Sees Biggest Fall In 22 Months, But Top Analyst Says Nvidia’s AI Boom Isn’t Over Yet — Here Are 5 Reasons Why",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDBWLTd5T3R4NFVNLWI0Vm9nWEJmd1FHdDdqLUdfWjJJdXBOWFU1d2x1Nk1NUjNCVW5OT1IzY0hLUnRIbkIxZXBsd1pNMV9MQUppQ2twZmRQT2EwT3Q3V0I2dVVLX1EyOEN6cjdSOTJHWmkydGJ6bFpfb2VaN295ekRxWDM3SXhqcVdOZlhoVzlma3VSOERiaA?oc=5",
+   "published": "2026-11-21T11:48+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congress to Force Him to ‘Divest’ (UPDATED)",
    "title": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congress to Force Him to ‘Divest’ (UPDATED)",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWxzejQ5eTkzajlLd09JcWVkd2xSbTBUVTVEcTBLU21YZVhWdDFUQmh2blg0dVNzdkFkRXlhbzhYdEZKMUo5WnJtOVRHT2lRZ0ZrbDBGOV9RS19Bd3hFX3hmNS1zZUtVQlZueE1xcEpHR0I0ell0dGlocEVVcFU1UC1hLVhfeUc2TGNKdDVUc1JyYWIxNXpfRzVYc1Y?oc=5",
@@ -132,84 +204,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.3,
-     "asOf": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Anthropic이 AI 매각을 막을 수 없어 Nvidia 주가 급락",
-   "title": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "published": "2026-11-21T07:32+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.3,
-     "asOf": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "주가 하락하자 트럼프는 엔비디아가 젠슨 황을 되찾아야 한다고 말했다",
-   "title": "Nvidia should take back Jensen Huang, Trump says as stock falls",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92eG1XbkRGbXkzOC1wMmFlY29panU2WTBSc3BWUEQ0LWF5X2ZLTkZuOVFBeFRLTXc4aGFZWmpub19LSENsbVFCSFFwWGthUzV5NkYxYk1sR2FLamM?oc=5",
-   "published": "2026-11-21T07:27+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.3,
-     "asOf": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "캘리포니아가 중국 위험에 대한 조사를 개시함에 따라 Nvidia 주식은 계속 하락하고 있습니다.",
-   "title": "Nvidia Stock Keeps Falling As California Opens A Probe Into Its China Risk",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNTVpcmh6bWdjckZEdGUxVWtQQy01NlJ2N3E3ZWxoU0dGNlRiQ3lSYThneV83dnNjTy1QT3FSMUpHcDdYQmUyNDFIQk1wbXJDWjE4RndCd3ZrMEdCMTBnckhrQlhFQlp3QllaN3E2N2F1LWlWVjZ0VU1rZ19MMzVZZFpqdkhOLXNfYnlaRkZpYUNfOHdmTzE1d0RPVHdwNDdzN2x0aA?oc=5",
-   "published": "2026-11-21T06:42+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.3,
-     "asOf": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "SEC가 회계 조사를 하는 동안 Nvidia 주가 급락으로 하루 만에 거의 5000억 달러 손실이 발생했습니다.",
-   "title": "Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWFQUldJZnVhd3djV1YwODFlN1FHamxJNVZENFJfRUZ1X29GRUdFTnZNRkVRTFF4T0R5azFKVVpBSEloRko5clVoeEQtSlBiTkt1OHJOVEJNWjZJZXozR1d1UGg1MUFNeHMtU21kSWZxYzdEdm80VEhfaVEwMjdXMFY1Mk85d0xUNUFfZ1dRWTY5aG5Zb3NjaUlVaXZsQQ?oc=5",
-   "published": "2026-11-21T06:27+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.3,
-     "asOf": "2026-11-19"
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
     }
    ]
   }
