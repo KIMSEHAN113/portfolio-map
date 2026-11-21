@@ -83,7 +83,9 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Send KakaoTalk briefing
-        if: steps.brief.outcome == 'success' && (github.event_name == 'schedule' || inputs.send_kakao)
+        # 카톡은 Mac 예약(화~토 08:00, com.kimsehan.kakao-briefing)이 send_kakao=true 로 실행할 때만 보냄.
+        # GitHub 예약은 몇 시간씩 밀려서 시세 갱신만 함.
+        if: steps.brief.outcome == 'success' && inputs.send_kakao
         continue-on-error: true
         env:
           KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
