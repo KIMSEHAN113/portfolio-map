@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-22T10:23:18+09:00",
+ "updatedAt": "2026-11-22T22:10:23+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
-   "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDZEcElOUEQwWnhDamh2ZWdRd0VqWUI3U0dROEtaUDNkM0c3dktBbkxhSXNvVVBSWnJtZEdEel9YRnd1RVVrN3BtRGsxOE50eHRKQWl5VmFJMmdvcEtSMm96MUlrQlpWSzJfMC1WeW1IZWhhS1NPVkRzS0VEczd0b3J4c1R4RUc3NW9MY0owT3dmQmZJYk5kcHhSM3Bldw?oc=5",
-   "published": "2026-11-22T09:50+09:00",
+   "summary": "월스트리트 최고의 분석가들은 강력한 수익률을 위해 이 3가지 배당주를 선호합니다.",
+   "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEloal8zR3MyUU1YX3VxeWRPTHNUR3B2dmVhZmFRcDAxMXA2YjBDRlcwQkI4djY1MzB4NnBvbUpNRjhiNm83MC02MTlwOFFQRVJYUzNmR0JBQU1CQVlFbXo5VmFxcXNxRmROQzVvbnA2YzgyYWVzZkkyeG81Z1kzS2xvTW84ZUlQU0M0MDNFX0t1MC1jSVpIT0ZuU1ltbFI20gGmAUFVX3lxTFBaNV92d1hjUGxtd0pQNGdJQUhaemFybTV6dXp2cEpGQ3g0bnJfTmRGZUtoU1BYWmNuNXp2OFlkRFpnVi1OSXg1YjRCMndoN2c0TmcxdjNwN3cyRno1S25YSm9aSkRZT1NLTEw1dE9GUmlDUDdhTThiQVVYMHVnZzBubXhyLVQtTEpZZ3VQaXVHVUVrWUhhdVhkZTJ4RVlsT2J0UF8tWHc?oc=5",
+   "published": "2026-11-22T21:13+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,74 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "In the Last Tech Bust, the S&P 500 Lost Money for a Decade. History Says Stocks With the Highest Yields Gained 5.4% a Year.",
-   "title": "In the Last Tech Bust, the S&P 500 Lost Money for a Decade. History Says Stocks With the Highest Yields Gained 5.4% a Year.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3RVMk54M0ZDTHJ6bXhfSV96UFViZTBfZ3lUVFJaY0JaMW1NWkxvTVY0NDRuTkwtTUZDNlU5eFZ6RWlXdGJTeXphME9CRGlfaWpCUDdpa21sSEJjYVhETndJaEphNVRaSUoxR0RfQ3B2aFBzTVhxRGdjNHBROGwtbVZfS2ZLaGVzWS0zZm9n?oc=5",
-   "published": "2026-11-22T07:51+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "His Indexed Annuity Tracks the S&P 500. The Fine Print Says “Price Return,” Which Means It Leaves Out Every Dividend the 500 Companies Pay",
-   "title": "His Indexed Annuity Tracks the S&P 500. The Fine Print Says “Price Return,” Which Means It Leaves Out Every Dividend the 500 Companies Pay",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWQ3WmxBb19JNjBhbTBZT0NvTG85VlZtRlFqdlA4ZDZzczBqOEhTb0xqeHRiRTZoX2Rhc056THhORHllOWJZZTdyY0d0VHRKT1VGMk90N0JreTZ1S0N1RHk3WnN6dzdMVGlzNVIwMklrZEg4NmQ2cnBOYjJQeF9jVlRlQm5sR0FqSFY4QU1lZmFOcm9hT0VVMjh3?oc=5",
-   "published": "2026-11-22T06:03+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
-   "title": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2NoR0NPVmlhT0tLTnRIRHc2RTJsME1lYXF2WnJDeS1aeXFpU18waThxQ0ZBNlR0Z0ozRWtJSTcxWlJ4RFdNZXVGQTNEb3BLWm9fM0tvLUdvYUpwaVpOX2NoSlFHd3NBRGZjYW5yTG1NMmt5NUg5VkVyY2Q4R3JjT3VoMmlwX1EyN3AtTFFFZw?oc=5",
-   "published": "2026-11-22T05:42+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq Starts Charging for Financial Crime AI Agents as 850 Customers Sign On",
-   "title": "Nasdaq Starts Charging for Financial Crime AI Agents as 850 Customers Sign On",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmtjU2w4azRoOF9HM1pwb2l0ZDQxZ0M3VFBqZ0ZnaHc4Y0w2WlREcnFndVZTSEMzQXE1ZDZxWklGZVBYXzJOOS1Ga3FESDZLNmxWcjVpcDltdi1IMDJlZ0sxUDdrU2paZm9GNG14ZktRUnRadGVmWmZRbWhKaGNVYmNUZmtaM2JBOUZ3UGZJYWJqQWtIcjFCdURnc2FWMzRDd21sTw?oc=5",
-   "published": "2026-11-22T05:12+09:00",
+   "summary": "나스닥은 자유낙하 중이다. 주목해야 할 주식이 하나 있습니다.",
+   "title": "The Nasdaq is in freefall. Here's one stock to look at",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV21yRnY1UENEbVlMTUtGcFh5VmJWRXpEOEh6MG80YTdlZTZ5bjNmdGZGSGhBTEZVYml4TGlMTkREWmtkTm5VSDV0b0l6TG1zOC1EUjhvN01hbG5XaFZPbF9yOTRNYmFELTczQnFqVE9yZlJEX0dSa19uaUhsTHBKY3oxbGZBcHE1eTM5S0EzNnhad0HSAZgBQVVfeXFMT2h6aUk0Rm0wTFctR0JSN0VxX0tTRGNaVVUzdExQdEFFZExsYXJycDBJZFR4bGNhNV9oQVVoXzIxTmc0cGtma2NaV0syakJXVWVDUUNva1ItVlp5LVptUVJCSEZZaGlPTm5fOHk4bVZoUnpoOFNhWUhPcmZmOGZWQ0lyZGlSdGptUW8zY3laR2NnNjhackZGNjE?oc=5",
+   "published": "2026-11-22T21:10+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -107,75 +44,16 @@
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA.TO) stock price, news, quote and history",
-   "title": "NVIDIA Corporation (NVDA.TO) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSUwyMXVKOVJzYnJFekdEbW4zSURtcU56NFYyOEd6alZRWWh1alJLbTloUHJJTmVEZ1U4X29qM2YtbksyUFJhU2tIMGY2UUFFMG52Z1d3?oc=5",
-   "published": "2026-11-22T07:51+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "published": "2026-11-22T07:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
-   "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
+   "category": "미국 지수",
+   "summary": "Anthropic에서 Nvidia까지, 월스트리트는 기괴하고 거친 한 주를 보냈습니다.",
+   "title": "From Anthropic to Nvidia, Wall Street just had a bizarre, wild week",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk5ZMVY1LXA3aUpIMThHZl95aXZiNEt1VFk0WTJEMGF4QXFDbEJPR2tjMTdwMFU5OWJyUjFSMXZOTFRsc3JBUHdJaFVmUUNrbnlKMVdJbDRMNHoyMHAxR0VzLVkwSUdmaGZxMFFIUTUzeE1BcE03QnNJZjJmY0pxcVAwMGg1LTBoMWtrSG53UC1YRzBuQm43Qg?oc=5",
-   "published": "2026-11-22T06:12+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -13.89,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
-   "title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2V0Qk5IVnlEWUhvV2tEYXB1cm9EUk9XVjJXdU96X3NFczNJaVRGTG8zemc1eWFjYXdUS1VzUWNqd0tQN3l3TGZwbl9ZS2I2blVlMUprVHBBWndWdF9pQ2R1eWFGZlN0dTFQUXJKUUQ3Y2xHbWREOUhtWHBMR25wX0lkakZGY3RYLXhwYjNrdklveHlOMXpod3dMaGdwdw?oc=5",
-   "published": "2026-11-22T04:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTlnMTk2THBhREtONUtxbE43WnpsM0pVRllWY0Z1ZEplVDA1QXRtOUxlYXhHUnNEaTRDXzA3a0IxRUtJbkxMdlBXQ0s1MGgza0VEejF0ZjA1OEc5SkJ1WHMwaGFGak1FVURSYnd5STIybnB5MnJJdHdsSUtQUjlvdUpyMHRjTWdyTWQzRHRIdUNUOU00Y1Z4aGxNQ25QZmhfMlk1eVhmX2lXQXdDUzU4WlRHc0VWNHA4bnJZZ2NVQQ?oc=5",
+   "published": "2026-11-22T20:00+09:00",
    "holdings": [
     "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
@@ -183,22 +61,58 @@
      "name": "엔비디아",
      "chgPct": -14.01,
      "asOf": "2026-11-20"
-    },
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "GTA 6가 판매 기록을 경신하고 있습니다! ISA를 위해 S&P 500 주식을 구매해야 합니까?",
+   "title": "GTA 6 is breaking sales records! Should I buy this S&P 500 stock for my ISA?",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzdFSDZLWGZhNEh4SngtV1hpZTc4NXlBRGk0R3R4NXl1M3VmLVBnY0ZNVVVvdXVMY19sWHk0dHB3eUFSSk8tSlpzWENqWHE3MU42VXg2MXo3QUw2NkNzVzNpTGZsTGQwT3lCcnZCRTI5QTBRaEtjT0xCWmJ1VkItWjFuOA?oc=5",
+   "published": "2026-11-22T19:17+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
     {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -13.25,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "무너진 주식시장은 바닥을 찾는다: 이번 주에 주목해야 할 것",
+   "title": "A battered stock market looks for the bottom: What to watch this week",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMThMNTNwZmI0VlB5NXhaYzZoLWxralZSSGM?oc=5",
+   "published": "2026-11-22T19:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
      "asOf": "2026-11-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
-   "title": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
-   "published": "2026-11-22T03:08+09:00",
+   "summary": "Nvidia 주가는 회사가 CEO Jensen Huang에 대한 조사를 개시한 후 하락 마감",
+   "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
+   "published": "2026-11-22T20:17+09:00",
    "holdings": [
     "soxl"
    ],
@@ -207,6 +121,82 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 놀라운 결과를 제공했습니다. 반도체 거대 기업의 미래가 여전히 걱정된다면 대신 이 인공 지능(AI) 주식을 구매하세요",
+   "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
+   "published": "2026-11-22T18:34+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Hua Hong Grace Semiconductor Limited (1347.HK) 주가, 뉴스, 시세 및 역사",
+   "title": "Hua Hong Grace Semiconductor Limited (1347.HK) stock price, news, quote and history",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdHk1ZFlfeFBFM2ROSVVOVTN0M2o3cVBBbkdpSjlhY21razBDeXZaVW1DYkJmQnUyRUhXVmFSaEJQSmpId2EteV93VmsyS05Fd3czemxR?oc=5",
+   "published": "2026-11-22T18:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -10.55,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI 칩 공급망 전환으로 Disco Stock과 아시아 도구 제조업체에 주목",
+   "title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
+   "published": "2026-11-22T17:09+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -10.55,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "금리 인상에 투자자들이 주목하는 한국 AI 칩 주식 3개",
+   "title": "3 Korea AI Chip Stocks Investors Are Watching As Rates Rise",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHg2VFc3YjJnSkVBSW5MN1BfWGYwWE1kR212NllvSGU2SW0wV1oyQXRMakZqNXpHQzYyWHBjOUMzY0J3TS15U0xaVmVEVUd3MUVhNXI0cC1CSF96cGJXY2t2a2lYSlB5VkNmSlFBbDl0bzVDZzNVX0Fya3k0eHI2ZFRHd2tGZHdrZlBHS3pFNA?oc=5",
+   "published": "2026-11-22T15:13+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -10.55,
      "asOf": "2026-11-20"
     }
    ]
