@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-11-23T07:42:44+09:00",
+ "updatedAt": "2026-11-23T08:32:14+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
-   "title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
+   "summary": "Charlie Bilello는 2025년 4월 이후 Nasdaq 100의 첫 번째 하락장을 표시했습니다.",
+   "title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMktjQ2Nya1owcU93WEJpSWRPQU1hNE55QXNNSWMwakJSZHBZYzFFekNpWnktWjhTNU1LcVhTWUYtd2tNT0tGLXItNGNqUjFNZkpUOXdVV1E2MU92ZS1ScllfWG1QZDJuRW5rSXBRcnpIaG9yd0NMdXRmbEp4RTFrcF93SmVmZktXOW43VFY2b3ZZOWUyOHpaeUUybGg4MkktMmVkTTJ0Zw?oc=5",
-   "published": "2026-11-23T03:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDNZa2xoSTJGWFFKaTB4TktCeFNJOU1IU2hvLTVtREtPRGQ3QWt1T0RRaGNlbkZ6RGpSVTNCbjFYWmxlNW5Qck9SNFB4TVd1WmYtdjB6TUlZb3d4dWE4b2lwODRmSDJ1NmN1OWx2Wm5zTGFXX3dyUVJXTkJzdzJja3FpQ3N6VmxzWGNSelc0YTFXVi04Tmo4OG0xdjl5QQ?oc=5",
+   "published": "2026-11-23T06:17+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.28,
      "asOf": "2026-11-20"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
+   "summary": "S&P 500과 다우존스 지수는 위험할 정도로 나스닥 편입에 가까워졌습니다. Nasdaq을 약세장에 빠뜨릴 수 있는 수준과 주식 시장 붕괴 중에 투자자가 해야 할 일이 역사에서 말하는 바는 다음과 같습니다.",
    "title": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTZ4Z2JvclhkYUdVajFCUnQzVXlKc2ZRUUQwbThYbC1PbGtoa0pFX0hsVVVFUUhpOEc5NUZ2eVhqM3JzZzhiWkNQYktJVFZRT3NaM2VmVjItclFQWW9wZkNnMUVFQnJhWm8tdUJoVDJTbXlFZEtGVlFyQkFpZWFBUmhRa1pFWHdaYjN1aXF1eE5Wazhzak1F?oc=5",
@@ -51,7 +51,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The S&P 500 Just Whipsawed Near a Record High. Here’s Why I’m Lowering My Expectations, Not Selling.",
+   "summary": "S&P 500 지수가 사상 최고치에 근접했습니다. 판매가 아닌 기대치를 낮추는 이유는 다음과 같습니다.",
    "title": "The S&P 500 Just Whipsawed Near a Record High. Here’s Why I’m Lowering My Expectations, Not Selling.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzhocWxUWFZ6ZHJ4U3l4LUZhMk5jMFBEd3ZYNUJVcktVZkt0LUN1alp3RWxKUENHbks1ckdrYmIwWTFncTFYX0VsWmNJVVc2Y0o4UmNpY0RKeEFMQlhObXlXMEZpWTA1aUhhWE9yNGRha09CLUJfQWFMcEV4MjhDU3l0VDJnMDdhcmxyS3pISDFyUkI5?oc=5",
@@ -72,7 +72,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain",
+   "summary": "월스트리트는 슈퍼마이크로컴퓨터(SMCI)에서 82% 상승 여력을 보지만 마진 위험은 여전히 ​​남아 있음",
    "title": "Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGxTWkM0c0d4aWRzZzlxaGIybzlPXzEwdFJTSy1lUWR4LXRJS0FPWWhoWC03dlBxTUE5N3RJX2dpb1FBOUxXZ185dk8wczN1ZjU0UUZGV053VjNMdmp2UElxT0FUUFIzQ3U2QldsenJYVXV4RHpVS2pqQ1NuOTY3T3U2ME1TU2VnTVh0Z2l2eTd4VHpRZEE?oc=5",
@@ -93,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction.",
+   "summary": "SOXX와 DRAM은 고점 대비 35.6%~51.9% 하락했습니다. 나스닥 조정 기간 동안 구매할 수 있는 더 나은 성장 주식 ETF는 다음과 같습니다.",
    "title": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction.",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDVob0NjZms3YVdySG5WLWVwZ1ByX0I0UjRMckVNMzFCLUJCZUw2Z2VlQU10a3ZPSUlqS2hTWWQ3eFdjaHF2X25vWC1uNEM2V29Ga2lRSE9LWnF5WTRfTFBKakJVQWZaam5NaXZwTl8xLUJoYkloVkkwelMyd0Z1SVRzNzZTZXBUYWd4Z1pPSkd3Y2Zw?oc=5",
@@ -114,7 +114,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+   "summary": "주가가 계속 하락하는 동안에도 Nvidia의 구형 칩에 대한 GPU 가격은 상승하고 있습니다: 오늘의 차트",
    "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5",
@@ -133,7 +133,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
+   "summary": "대출 기관은 SpaceX의 430억 달러 규모 Nvidia GPU 거래를 지지하지만 담보가 궤도에 도달하여 Musk가 채무 불이행 시 회수가 불가능해질 수 있다고 우려합니다. 5년 '지옥 또는 최고' 임대에는 지구에 대한 서면 보증이 부족할 수 있습니다.",
    "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXlVbGc3bkFTMUotbXd5UGtkUk0zc1B2blR0SHo4VVRLb0NGd3g3OXRMSEN4MWhBOVFrOFNFSkdWUGlLQWhwaHJ6UlRrNTBmTkU2WXBnUU1SZWFmdklucVg4eWRIb19MeXBUU0lVOXlHVUU0ZlVTWjFWTXgzZi1YWW9McEU0a1FFRXhPN01OZzNwM2oyMEN6SV9TOA?oc=5",
@@ -152,7 +152,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
+   "summary": "Nvidia는 놀라운 결과를 제공했습니다. 반도체 거대 기업의 미래가 여전히 걱정된다면 대신 이 인공 지능(AI) 주식을 구매하세요",
    "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
@@ -171,11 +171,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
-   "title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
-   "published": "2026-11-22T17:09+09:00",
+   "summary": "Hua Hong Grace Semiconductor Limited (1347.HK) 주가, 뉴스, 시세 및 역사",
+   "title": "Hua Hong Grace Semiconductor Limited (1347.HK) stock price, news, quote and history",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdHk1ZFlfeFBFM2ROSVVOVTN0M2o3cVBBbkdpSjlhY21razBDeXZaVW1DYkJmQnUyRUhXVmFSaEJQSmpId2EteV93VmsyS05Fd3czemxR?oc=5",
+   "published": "2026-11-22T18:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -190,11 +190,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "3 Korea AI Chip Stocks Investors Are Watching As Rates Rise",
-   "title": "3 Korea AI Chip Stocks Investors Are Watching As Rates Rise",
+   "summary": "AI 칩 공급망 전환으로 Disco Stock과 아시아 도구 제조업체에 주목",
+   "title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHg2VFc3YjJnSkVBSW5MN1BfWGYwWE1kR212NllvSGU2SW0wV1oyQXRMakZqNXpHQzYyWHBjOUMzY0J3TS15U0xaVmVEVUd3MUVhNXI0cC1CSF96cGJXY2t2a2lYSlB5VkNmSlFBbDl0bzVDZzNVX0Fya3k0eHI2ZFRHd2tGZHdrZlBHS3pFNA?oc=5",
-   "published": "2026-11-22T15:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
+   "published": "2026-11-22T17:09+09:00",
    "holdings": [
     "soxl"
    ],
