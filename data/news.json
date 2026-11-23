@@ -1,61 +1,13 @@
 {
- "updatedAt": "2026-11-23T13:34:18+09:00",
+ "updatedAt": "2026-11-23T22:10:11+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Nasdaq, Dow, S&P 500 Futures Jump Nearly 2% After Brutal Tech Selloff Last Week: GME, JNJ, ALNY, GAP In Focus",
-   "title": "Nasdaq, Dow, S&P 500 Futures Jump Nearly 2% After Brutal Tech Selloff Last Week: GME, JNJ, ALNY, GAP In Focus",
+   "summary": "As Anthropic breaks a record, Calif. issues 'dangerous' warning for stock market",
+   "title": "As Anthropic breaks a record, Calif. issues 'dangerous' warning for stock market",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczlNSFY2MjRSSnItYlJNVVV3NEp0MVZDeUtDWkpmcTltUVhMaTVIeWhoWVNJRG5NemN2RkY3Vm1aUHQxeEZrM1B1Wk85MFZ6ZHBtYTBab0hjTzczTmVKbURmQnhXZURZd1djaTAxV3NrY2lmV0hBZmJUcHBuZllhaGRNQVJIMjZkMHlHUXNmd1JReXc?oc=5",
-   "published": "2026-11-23T12:01+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
-     "asOf": "2026-11-20"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
-   "title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDNZa2xoSTJGWFFKaTB4TktCeFNJOU1IU2hvLTVtREtPRGQ3QWt1T0RRaGNlbkZ6RGpSVTNCbjFYWmxlNW5Qck9SNFB4TVd1WmYtdjB6TUlZb3d4dWE4b2lwODRmSDJ1NmN1OWx2Wm5zTGFXX3dyUVJXTkJzdzJja3FpQ3N6VmxzWGNSelc0YTFXVi04Tmo4OG0xdjl5QQ?oc=5",
-   "published": "2026-11-23T06:17+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
-   "title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMktjQ2Nya1owcU93WEJpSWRPQU1hNE55QXNNSWMwakJSZHBZYzFFekNpWnktWjhTNU1LcVhTWUYtd2tNT0tGLXItNGNqUjFNZkpUOXdVV1E2MU92ZS1ScllfWG1QZDJuRW5rSXBRcnpIaG9yd0NMdXRmbEp4RTFrcF93SmVmZktXOW43VFY2b3ZZOWUyOHpaeUUybGg4MkktMmVkTTJ0Zw?oc=5",
-   "published": "2026-11-23T03:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdi0tckJHYVBUdDdhOGM0Y3c0NXNNaVFmellyLXM1UWpiVTB6QkNCV3dRclBiS2NJYk4xYVlvMGVZVVZJMHNBSE5xWnphOUVWUm9UYUp4alpRM1FONXA1S1NWVFB2ZFQ0ZkFjRlk2M2c3SExWZDdaaGE2bTBucGhFYVpIRFNfdGlZUG5yRmdmYi0tWlBBVWJQTFp6cFdZR3JsNC1V?oc=5",
+   "published": "2026-11-23T22:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,38 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
-   "title": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
+   "summary": "Wall Street futures rebound as battered AI stocks gain ground",
+   "title": "Wall Street futures rebound as battered AI stocks gain ground",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTZ4Z2JvclhkYUdVajFCUnQzVXlKc2ZRUUQwbThYbC1PbGtoa0pFX0hsVVVFUUhpOEc5NUZ2eVhqM3JzZzhiWkNQYktJVFZRT3NaM2VmVjItclFQWW9wZkNnMUVFQnJhWm8tdUJoVDJTbXlFZEtGVlFyQkFpZWFBUmhRa1pFWHdaYjN1aXF1eE5Wazhzak1F?oc=5",
-   "published": "2026-11-23T02:50+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
-     "asOf": "2026-11-20"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "The S&P 500 Just Whipsawed Near a Record High. Here’s Why I’m Lowering My Expectations, Not Selling.",
-   "title": "The S&P 500 Just Whipsawed Near a Record High. Here’s Why I’m Lowering My Expectations, Not Selling.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzhocWxUWFZ6ZHJ4U3l4LUZhMk5jMFBEd3ZYNUJVcktVZkt0LUN1alp3RWxKUENHbks1ckdrYmIwWTFncTFYX0VsWmNJVVc2Y0o4UmNpY0RKeEFMQlhObXlXMEZpWTA1aUhhWE9yNGRha09CLUJfQWFMcEV4MjhDU3l0VDJnMDdhcmxyS3pISDFyUkI5?oc=5",
-   "published": "2026-11-23T02:46+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
+   "published": "2026-11-23T21:40+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -119,16 +44,58 @@
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
-   "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
+   "category": "미국 지수",
+   "summary": "Anthropic Just Rewrote Wall Street's IPO Record Books. Here's Where History Says Its Shares Will Head Next.",
+   "title": "Anthropic Just Rewrote Wall Street's IPO Record Books. Here's Where History Says Its Shares Will Head Next.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVh5SWlJb19JbS02d1haSVlLN241dkFQSDhETmNtTzdicTFUNzRVbktEVF9Md2VvbnhWWlljN2huYmhIWEtBcm5jd0pBTlFWZVFMQ2lZNlFHRHFqVHlGNGROWUp5ajhMV1p4VERYZlZOMVhZbU5OaFh5bkk3d1VmTW1XZnJGeDI3QWVfY3dJcXFUNmhaTDZYYnZHNXFvcm16bUE?oc=5",
+   "published": "2026-11-23T21:26+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout",
+   "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTJfaHd4Zm9NQVJDVlFGYVY2YzJYQ1dLa1ltRmNXdE1pT1BSRFFNVkZJNXZTT2IxM2JoUDh0dGZtUlJ5eFR4cGhyaTUzSWI0WU5zdVV2THhKNkk0bENScFRDNl9zNjFsYWRSb2tGQ2s2TnhfT1hyZmtuaHBxTGJCNWN5bE5kTF9CdlBrM3hfYmlfZzkwV19Qc2ZYR2IxWUNQbFAw?oc=5",
-   "published": "2026-11-23T12:47+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdmFRLVNlcExXXzdENDl5NERYRjdQWUo2U0F2bDZXcGtOQ3NHc2xFUExaeGVxS2o0ZERVeUNsaWhfdjRDY3VTUGtZWjBSNjZlSW1jb0JJSUFDRjl5VDBkaDZEQTVYODRWNG5xRDVEWjJkNi02bzJRT0M4dEdoMVdWNXM2R21lQzh6NHFzelBUQURpb0E1UEQ1dXRicUU1bHdtdzF4SmE4TjhfUEhxVVh4N0dLMUhpTzJCYlUybG5LNVh0enRVM3UyLS1qbkxxRVBYbV9UaDV3?oc=5",
+   "published": "2026-11-23T21:24+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.28,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You.",
+   "title": "Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDNtZkpIbmpYenhvQnRwR1gyQndDaFZtOHJPUVJHREdkaXdhVkZxZEtyajB6SUdPOS13ZmZYTUdhRFFGcDF0TFp1eFpzQkhHQzdCVWFqTG15bHFlei1yZXF1dUxPX2hYMDhGVVZIRmNPU25sM2Y2QXN2X0xfMVYtUGgteGNwMl9KX2lOTzJvZ19lX1pn?oc=5",
+   "published": "2026-11-23T21:10+09:00",
    "holdings": [
     "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
@@ -136,22 +103,75 @@
      "name": "엔비디아",
      "chgPct": -14.01,
      "asOf": "2026-11-20"
-    },
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Premarket movers: Chip stocks lead AI rebound; CrowdStrike falls",
+   "title": "Premarket movers: Chip stocks lead AI rebound; CrowdStrike falls",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWk9vLVo5TU5xTDBsVDE3R2IxMXlFVVJBT0JPYzNHNm8yZ29Ed2NoMWpSczh6NUpnODJZM1BaWGxqUHBOc0ladTI0MGNUYmZDaTM5cmF4OWZVY05DWXRidi1MZHZFdUtFZmJWVURVQmRjcnhreFlXOWRMcGhfUXhMakdqdWlLYVhUenFILU5QOFhoeFQwc2tUYm53SnZ4aTQ?oc=5",
+   "published": "2026-11-23T21:44+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
     {
-     "symbol": "AAPL",
-     "name": "애플",
-     "chgPct": -1.9,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -10.55,
      "asOf": "2026-11-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
-   "title": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
+   "summary": "Why Is Micron Technology Stock Falling?",
+   "title": "Why Is Micron Technology Stock Falling?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFJtZzBWMnNaVnFSNUhiUkdyYkYwcVA4U05SWnMzLTBDQjRvYTVTRzlaOGxjWFIzUVhPYlhxVmJRUk85RF8xaHlqVi1XdTFIZkNUMDhCVFdpTzBSWmRpNWJpRjRaM3laMDA4Y2RkdG1aZVFPOEJOSU1XYkhSU0xRMkpqWElPMG9zYURiaEY5WWJqME5jVjBNS0Yycw?oc=5",
-   "published": "2026-11-23T12:19+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUc3U1cwN3QwY2M0Q2liOE9BbnZMa0dyNC1PSjY2Q0k3SFFfbVVvckNCTzhobEVNa2Y5Z1FITXhoZnFtSkxOamRuTnZlSXRHU2R5ZW9nbXkxY1lwZEhzSHZGaUswUHM0dU5keVp3cjlfdHZuUXo2LVhySThTRDRReWhkZlMybkJndTJhamxXWkFROGt6b0dIVFZwOEc2ekg0T0E?oc=5",
+   "published": "2026-11-23T21:05+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -13.89,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "AI Chips Update - Global Semiconductor ETF Expands International Investment Horizons",
+   "title": "AI Chips Update - Global Semiconductor ETF Expands International Investment Horizons",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMnNGZzJvT0ZTcV9hZWFBLW4tMndyWmZRYnNmOXNMUktEMnlOaWpoa0JlQmtuYWlKbjUwdm5BcFRqeHJGWWRhQjc3cTlydDhGdGZJSEhtS1pzbVo3QVpuZElNMWpYTWRhSlA1cmdHYW04N0xoUEc5d1VpcEdBek5IazVfRER6SGt1Y2VKbEtDRVhlZV9RQ3VrWndFVk5DUQ?oc=5",
+   "published": "2026-11-23T20:37+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -10.55,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock jumps as DC makes stunning u-turn on Jensen Huang",
+   "title": "Nvidia stock jumps as DC makes stunning u-turn on Jensen Huang",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVpaTEFMb19XbmlqTzZRaUtlWGk0TE9wa25vdXF0R3JpRHM4azRDSmxYZ09WYm13RlU0bDlKYk9JR0tqVEJtQkpubV9pcWROeGllektrMUcxYm9ZWkFPMENIMkdSWmlYRWRKUm9pX1RsV2VHaVlBalkweHhNNXg4dDUxZENWbFh3ODFOZFpHLWtPZ0JwZWFyZS1sVV85SElkUDFRZXB6THdrWVJxZmZlM1dXR0hTYlpyLTc0ZVJnbDRtMFRY?oc=5",
+   "published": "2026-11-23T20:34+09:00",
    "holdings": [
     "soxl"
    ],
@@ -166,49 +186,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
-   "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+   "summary": "SpaceX Lenders Want to Stop Musk From Launching $40 Billion in Nvidia Chips Into Orbit",
+   "title": "SpaceX Lenders Want to Stop Musk From Launching $40 Billion in Nvidia Chips Into Orbit",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
-   "published": "2026-11-23T11:24+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "AMD",
-     "name": "AMD",
-     "chgPct": -13.25,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations",
-   "title": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHZNQ2JJREUycVB6VmVGZHFkdWZPMlFqRjFPcEQtNFlSY2lwVl9MZTJYcXNwcGJsd1RFT1phTDQ0b1FBbGR1aFkwby1TdDBIU21Db0IyZGhOMk4zUURSc295ZzB0c0Q3cHhQMDg2b1MzcW1oZHBtQ1lpcXI4bnFMTlk2cFpLZFlSa0E?oc=5",
-   "published": "2026-11-23T10:08+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
-   "title": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdjQzM2Y0OXVkQlVKUHhtWk5jaEROb2tnNWRtbjVFMFFTbHhXRHhnTmJWdmdyWmp5UXFMR3JjRGJzNzdzT0gtYzBONDVZOFJYTml6SEJ6NDhDWXlGc0VyQV9zSjBsRkFWY1ZDeEQ4bmVfNmxnLWVyc0E3MGo3VVZKTHhUNE84MG51TFlUS3NjUUdjMDcxM2c?oc=5",
-   "published": "2026-11-23T09:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGlKb05WNWhTXzhZZ1pmOWxtTE9BUmZ2OVo2eEtqejNXYUNmS2hXTzFiV21BQnk4V0tQOGtPWGJqOE82djVmMmd6UVVxcG1Ha0ZEOUNWSUNZUUtFLUI0MUZEZEtzZ2dYWDF1ZEE0QzhQQnZuam5UOW9fTHZ3Y3dnU1hjdlE2T3Rvdl95Q0lxQm82VVQ0OF9xRw?oc=5",
+   "published": "2026-11-23T19:45+09:00",
    "holdings": [
     "soxl"
    ],
