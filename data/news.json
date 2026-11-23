@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T07:42:12+09:00",
+ "updatedAt": "2026-11-24T07:43:54+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -125,6 +125,25 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "2조 8천억 달러: Huang이 Nvidia로 복귀하는 가치",
+   "title": "$2.8 trillion: The value of Huang's return to Nvidia",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BQnc2ZG5obmRrWHE4N3l5Z0VPQXJ3dHF0XzJjZWQyMmw1Y2tLNHlPR1J1VmpCZmd5TlJKV0xKZFVYZ0RvS21BZy1JRkxfMkZYRGdZMmhrbHVQSV9YLXdmMDdVUUgwX2dDcGEzbWR2M3A?oc=5",
+   "published": "2026-11-24T07:07+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Nvidia 주식은 2003년 5월 이후 가장 좋은 날을 보냈으며 Jensen Huang이 CEO로 복귀한 후 시가총액이 거의 1조 달러에 달했습니다.",
    "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO",
    "source": "Yahoo Finance",
@@ -149,25 +168,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
    "published": "2026-11-24T06:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "엔비디아 주가는 이사회가 Jensen Huang을 CEO로 복귀시킨 후 31% 이상 급등했습니다.",
-   "title": "Nvidia stock soars more than 31% after board reinstates Jensen Huang as CEO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnRVSU9XcXVMVkEtZG9qMThOaXFURkxUYS1JdnBaR1lNNzRucnZsaXpoZnlTdjc1RGZRS2VRQjJvX1BUVl9Da3J3MWZ4aXFzcXZyZ0VRYUdWd0RsT0V1UGRyWmtCd1c1VGh4dFZRWGU5S3BxV2FaTEJwLWFJQS1RaUtVZW4wQkc5NEdxR3M5WklHVFVJbHdSeVdCSXVYQzEwLWlCRnBGVmhZNXFkaWVrM3ZQLUVGVzZrSVRCMkZGOS1kTEdiU3FzbWIzZVBVaEE?oc=5",
-   "published": "2026-11-24T06:01+09:00",
    "holdings": [
     "soxl"
    ],
