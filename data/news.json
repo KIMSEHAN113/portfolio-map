@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-11-23T10:47:45+09:00",
+ "updatedAt": "2026-11-23T13:34:18+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq, Dow, S&P 500 Futures Jump Nearly 2% After Brutal Tech Selloff Last Week: GME, JNJ, ALNY, GAP In Focus",
+   "title": "Nasdaq, Dow, S&P 500 Futures Jump Nearly 2% After Brutal Tech Selloff Last Week: GME, JNJ, ALNY, GAP In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczlNSFY2MjRSSnItYlJNVVV3NEp0MVZDeUtDWkpmcTltUVhMaTVIeWhoWVNJRG5NemN2RkY3Vm1aUHQxeEZrM1B1Wk85MFZ6ZHBtYTBab0hjTzczTmVKbURmQnhXZURZd1djaTAxV3NrY2lmV0hBZmJUcHBuZllhaGRNQVJIMjZkMHlHUXNmd1JReXc?oc=5",
+   "published": "2026-11-23T12:01+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.28,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
@@ -24,11 +51,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Here Are the 4 Investing Rules I'm Never Breaking, No Matter How Scary the Stock Market Gets",
-   "title": "Here Are the 4 Investing Rules I'm Never Breaking, No Matter How Scary the Stock Market Gets",
+   "summary": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
+   "title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN00yaVZQclpReGlzUTFIOVR2dzRvaUR6U00wYVRBX3puSGg1dFE5Tkx2d0tISHN3eGlZYmJrRlh4MlJ5SjgyOGsyZDg0bU9XaFRwWTEyWUQydm0weVJQREhTUDJzM3BXNHk1MXpnYjhDcjJEU3BETlpPaEtpTG9vakVCUkpYeTNhT2ZTanZNNXBYbDg1cFE?oc=5",
-   "published": "2026-11-23T03:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMktjQ2Nya1owcU93WEJpSWRPQU1hNE55QXNNSWMwakJSZHBZYzFFekNpWnktWjhTNU1LcVhTWUYtd2tNT0tGLXItNGNqUjFNZkpUOXdVV1E2MU92ZS1ScllfWG1QZDJuRW5rSXBRcnpIaG9yd0NMdXRmbEp4RTFrcF93SmVmZktXOW43VFY2b3ZZOWUyOHpaeUUybGg4MkktMmVkTTJ0Zw?oc=5",
+   "published": "2026-11-23T03:43+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -92,60 +119,39 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain",
-   "title": "Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGxTWkM0c0d4aWRzZzlxaGIybzlPXzEwdFJTSy1lUWR4LXRJS0FPWWhoWC03dlBxTUE5N3RJX2dpb1FBOUxXZ185dk8wczN1ZjU0UUZGV053VjNMdmp2UElxT0FUUFIzQ3U2QldsenJYVXV4RHpVS2pqQ1NuOTY3T3U2ME1TU2VnTVh0Z2l2eTd4VHpRZEE?oc=5",
-   "published": "2026-11-23T01:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Can Samsung and SK Hynix Buybacks Stop Korea's $115 Billion Selloff?",
-   "title": "Can Samsung and SK Hynix Buybacks Stop Korea's $115 Billion Selloff?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWRnMi0yWkZLQ0ZEQXZHWG5vaUIzSHJ0djJPVER1UjJvME0yWTJIbEc5TjhJRHkwWXVFRXJfOW1UQWtiRHlHMFh1Q2QybEpzMUNhelUzdXpDMjRnV0QtZUVobmpRZ2E2LU5fMTR0Y19vX0RPaWVlS0lmbjRVOUx1dlhwOUdXUk94ajVKVDJOT2N6OGoxUWtBRzlJaw?oc=5",
-   "published": "2026-11-23T09:38+09:00",
+   "summary": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
+   "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTJfaHd4Zm9NQVJDVlFGYVY2YzJYQ1dLa1ltRmNXdE1pT1BSRFFNVkZJNXZTT2IxM2JoUDh0dGZtUlJ5eFR4cGhyaTUzSWI0WU5zdVV2THhKNkk0bENScFRDNl9zNjFsYWRSb2tGQ2s2TnhfT1hyZmtuaHBxTGJCNWN5bE5kTF9CdlBrM3hfYmlfZzkwV19Qc2ZYR2IxWUNQbFAw?oc=5",
+   "published": "2026-11-23T12:47+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -5.92,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
      "asOf": "2026-11-20"
     },
     {
-     "symbol": "005930.KS",
-     "name": "삼성전자",
-     "chgPct": -7.01,
+     "symbol": "AAPL",
+     "name": "애플",
+     "chgPct": -1.9,
      "asOf": "2026-11-20"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
-   "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+   "summary": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
+   "title": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2dTT3JSX092Y2dXMG1GLW5hS1lCNHNYTWVGTUFvbjRwY2RpWVNaUmZhcGt0Y0hFVkM0TW5xblUxZVQzRkctdmdXSEdGRVpoRW9WOWlJREtQY0RuMTlSRHZsdXJsT0hhSFBPbkFYR3VEYTVmcVJ0akw5SXpTVEVqZGFucDhfc0ZoZnVJazFEdUpxZjYwUzRZaC1scw?oc=5",
-   "published": "2026-11-23T06:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFJtZzBWMnNaVnFSNUhiUkdyYkYwcVA4U05SWnMzLTBDQjRvYTVTRzlaOGxjWFIzUVhPYlhxVmJRUk85RF8xaHlqVi1XdTFIZkNUMDhCVFdpTzBSWmRpNWJpRjRaM3laMDA4Y2RkdG1aZVFPOEJOSU1XYkhSU0xRMkpqWElPMG9zYURiaEY5WWJqME5jVjBNS0Yycw?oc=5",
+   "published": "2026-11-23T12:19+09:00",
    "holdings": [
     "soxl"
    ],
@@ -160,11 +166,30 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
-   "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+   "summary": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+   "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5",
-   "published": "2026-11-22T21:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
+   "published": "2026-11-23T11:24+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "AMD",
+     "name": "AMD",
+     "chgPct": -13.25,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations",
+   "title": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHZNQ2JJREUycVB6VmVGZHFkdWZPMlFqRjFPcEQtNFlSY2lwVl9MZTJYcXNwcGJsd1RFT1phTDQ0b1FBbGR1aFkwby1TdDBIU21Db0IyZGhOMk4zUURSc295ZzB0c0Q3cHhQMDg2b1MzcW1oZHBtQ1lpcXI4bnFMTlk2cFpLZFlSa0E?oc=5",
+   "published": "2026-11-23T10:08+09:00",
    "holdings": [
     "soxl"
    ],
@@ -179,30 +204,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
-   "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
+   "summary": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
+   "title": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXlVbGc3bkFTMUotbXd5UGtkUk0zc1B2blR0SHo4VVRLb0NGd3g3OXRMSEN4MWhBOVFrOFNFSkdWUGlLQWhwaHJ6UlRrNTBmTkU2WXBnUU1SZWFmdklucVg4eWRIb19MeXBUU0lVOXlHVUU0ZlVTWjFWTXgzZi1YWW9McEU0a1FFRXhPN01OZzNwM2oyMEN6SV9TOA?oc=5",
-   "published": "2026-11-22T21:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-   "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
-   "published": "2026-11-22T18:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdjQzM2Y0OXVkQlVKUHhtWk5jaEROb2tnNWRtbjVFMFFTbHhXRHhnTmJWdmdyWmp5UXFMR3JjRGJzNzdzT0gtYzBONDVZOFJYTml6SEJ6NDhDWXlGc0VyQV9zSjBsRkFWY1ZDeEQ4bmVfNmxnLWVyc0E3MGo3VVZKTHhUNE84MG51TFlUS3NjUUdjMDcxM2c?oc=5",
+   "published": "2026-11-23T09:30+09:00",
    "holdings": [
     "soxl"
    ],
