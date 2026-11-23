@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-24T00:01:43+09:00",
+ "updatedAt": "2026-11-24T00:31:38+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Jensen Huang이 Nvidia CEO로 복귀한 후 주식 시장이 급등했습니다.",
+   "title": "Stock market jumps after reinstatement of Jensen Huang as Nvidia CEO",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZ2IzdVdRZFN3QXJ4djZjWVZBcEtKWURLaGhwaG4xNzUyV3dXMXJtdktYUlNMaHo2eWtEdHNIeUhXLVpZaEV1dVRvd1pPaGpNelY4aERWQ1NZblk5cVdzOHpZbVFhRk9IcUlMamI5MnNLZw?oc=5",
+   "published": "2026-11-24T00:06+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nvidia는 $500,000 S&P 500 펀드의 약 5%를 보유하고 있습니다. 월요일 아침에는 펀드 수익 $23,900의 약 3분의 1을 달성했습니다.",
+   "title": "Nvidia Is About 5% of a $500,000 S&P 500 Fund. On Monday Morning It Delivered About a Third of the Fund’s $23,900 Gain",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmEzQVFpZ0dZSk1mRXlNVG9ORVNkcWRuY3JPN25BT05zUVhtZF9DaVl3RTFhd2JTNDhwY3dSckVBS1VZbVQ3dUI4TW9uUkE3b0RpR19BbEViTzdpUnBuVmRjLVZRdFppa3lPbHB0dUZObHB4c21lQ1ZlUmIta2FYYjZxVUx6anAxYXln?oc=5",
+   "published": "2026-11-24T00:03+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "주식시장은 매도세 이후 큰 폭으로 반등",
@@ -24,17 +72,27 @@
   },
   {
    "category": "미국 지수",
-   "summary": "주식이 폭락하고 있습니다. AI 버블이 마침내 터졌는가?",
-   "title": "Stocks are tumbling. Has the AI bubble finally burst?",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZklrV0VpTVZhVlN2bWFING1HakdRdHNPaHBMNFA0Z29MSWI3N3lhRnVGeGVlUWZScGQzMm1GeVE5cnZPQ3RvUjI1MUVQbE5kWDctNFVFdWRYamJEdXlQRDBnSi1EblUzc3gxMDZCcklOcFNVby1mWFRweXFNWmh1WEdEcmxFUV9UM3RMSC13bkZ2dG1LbDQ0SFJOV05QV0JKM1VaZzdDTnVQR0NM?oc=5",
+   "summary": "Nvidia가 Jensen Huang을 복귀시키면서 Nasdaq 100 선물이 6% 급등하고 월스트리트 반등을 촉발함: Dow Jones, S&P, Wall Street",
+   "title": "Nasdaq 100 Futures Surge 6% as Nvidia Reinstates Jensen Huang, Sparking Wall Street Rebound: Dow Jones, S&P, Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVlwZ3dYS1ZEb1RKclhMM0xQRzFzejFPZG9yY2V0Y3J6THFhVXhhQXZfOXdKYjNQVkd6ZWFDNFlkeE8zamJyVkFCekNTX2FVemkyQVVWOXBxcXl6aXdIUndoQ3FIek5vQ3Bpa21wWHpiREpPYXFGVGFrSEpuV2g4aTJvQ1JZSFA3bk9ldUhrbGpndV9NR1E?oc=5",
    "published": "2026-11-23T23:25+09:00",
-   "holdings": [],
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -5.28,
      "asOf": "2026-11-20"
     }
    ]
@@ -61,43 +119,47 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "나스닥 주식 시장에서 증권 상장 폐지",
-   "title": "Delisting of Securities from The Nasdaq Stock Market",
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang의 Nvidia 복귀로 AI 거래가 증가함에 따라 CoreWeave, Nebius가 네오클라우드 주식을 더 높였습니다.",
+   "title": "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzI5RVJaYlQ1WERpSkpxdVdQMmpranRBUEVtME5Nc2xSSU56bXdJLVpRLWg5N1NBbzMtelpxWE52OXJfa2t2ZGxXbmlmTjVQVV95WVpMRl9fSklIMDFITHBUVXk5S1QyZmpkSnhUVDMzaExmdm9hVF82ZnYwSVZNLUtDalVTaGFia184QWNSamdjWlBUdGNhaElzZmVqVkJMQ2hvZGR0WmI?oc=5",
-   "published": "2026-11-23T23:15+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2J1ZXlUSFVEX19VZ3YtWDhtVHJhcFdUM01mN2ljQWY5SGlYeEU2SVpkd2kzdzZFVTJjZHZRQlo1WmVYNDA2R1JFMldWU2xRTEdkZXEySFdYeEdKcmZLUS05N0xEaWRyOUlkODBwUVF3WWFsVXRfcDFleWF2TWZNb3lfMHF5TVRTNUw2cjRQVXdtVnRIakFiclZjdXhEUFQ5VXI0X3ZNRzUyWDE3enZaSTYza21vQ0FqVWFsS3JVMVZWeWFNM3ZtNVZkbEtYSFkyZmZjRm9DbTVpZ0FDaXo2cEV3?oc=5",
+   "published": "2026-11-24T00:14+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
      "asOf": "2026-11-20"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트의 '공포 게이지'가 방금 매수 신호를 보냈습니다.",
-   "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHJ1dk5xRXJfTXNnb1N0TmtjQWIzM25jalVRTV9PN1dMUTBvVzhKV1NCU3hGOU9SZDR1dHVONldZUzJvbmhBTnZqSmpLU0J5UzhzR0RVSnQwSk9HdlVBQ1piTTlHeWREMmhBejVwU2ZlOENtWEVaekxaR2JELUhVd1FJcXNyNmpvY2FXWNIBkgFBVV95cUxPV2tIdmJwNGNhdjVuTDFfbjd5SllOS015eUZsWDdIUmliVEhSc05mUzRUVlJUNnFHRXotNk5XNWlVVnhISENJTi1YR3pLQW1XSHhYWkJuUEhnYWNSMG9zNkNKLVhiMm9tengwbF9RdmgtY0Q5eFVFVEdfU3NhYVVSa21NYXNkN1FpNFhZMkJTLXdxdw?oc=5",
-   "published": "2026-11-23T23:14+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang의 NVIDIA Sparks AI 칩 반등으로 SanDisk 22% 급등; Seagate 점프 18%, 마이크론 랠리 16%",
+   "title": "SanDisk Surges 22% as Jensen Huang’s Return to NVIDIA Sparks AI Chip Rebound; Seagate Jumps 18%, Micron Rallies 16%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnhiTm55SzVmb1pIVUVxX2NSRl9NRjF6S0ZncU0tYzJDeDhDcVZqTl9uWkp1M0pqYVBVdEtFWlZ0NWFKeUlSaWpLdWNoN1JkbFl3d2VLekJXMXYwd0pOQ0R1MFVTN1BPU1lYNmlvWXRWTm1FQTFFMzZXbnotaFZmVjJrNzhEa2FJNTY2SzFEM3RSTFdpRklsaHFTOA?oc=5",
+   "published": "2026-11-24T00:04+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -3.7,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -13.89,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
      "asOf": "2026-11-20"
     }
    ]
@@ -142,49 +204,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang의 복귀 이후 Nvidia 급등으로 주가 반등",
-   "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0N0FFQTlER0NLb2VJd0VCbHNCN3UwUndCeVVfUXlzN0dWeUlaWHh3QnR2TE9YUFFpdlBLLVF4dzhnOS1PY2dHZFBsUlRpOUhhWl95N01vNm9wWVU3NXZBREw5NHBZNm1hTFFZ0gFwQVVfeXFMTWlzdG1uS2V5Z0ZOLVBkVC1HUFlqQUhHbzdfZGhDWGM0M1NwbF9KTl9mV1REMWR4Rl82MjJfendnTXVGc01RMXlIZHU2NnhMLVYwdGN4VkpzaktpazVOMXh2U0prcWowNGRhUjdLNzhLbA?oc=5",
-   "published": "2026-11-23T23:42+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
    "summary": "Jensen Huang이 복귀한 후 Nvidia 주가가 급등했습니다.",
    "title": "Nvidia stock skyrockets after Jensen Huang is reinstated",
    "source": "Axios",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OR05yV2dnUTBQdE1rZzY0bGlOblZ5ZHJ2cTRfZ3c0RlhOM0tIeXAzX2VqTFp5VURrbnc4dmxpeXpDTXY4UEt4OUJIbWpGYkx0ZWR4TkE4S0JkTzVaV3owYmxLb1hTTjNxWHc?oc=5",
-   "published": "2026-11-23T23:41+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia가 Jensen Huang을 다시 불러오고 기술 주가 상승으로 Bitcoin이 $ 63,000를 돌파했습니다.",
-   "title": "Bitcoin Tops $63,000 as Nvidia Brings Back Jensen Huang and Tech Shares Rally",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzlRNXEzT3dBY1Vub3NJQ20yUVBxUnAzWXotWTNvLUdDYm02XzhDVERBOTNVX24zcHEyUGpSZU1BaEIwbDE4UUVqOExXX2N6SE9WUlFHa2JLaW1NbDNsWmpsZUtVdzEzQzBGbTBWdWU3SHpFNWZhY1ZVQVYtczNKX1FJUGY1ZUR3NExBTDVrWmFJUlBDblE?oc=5",
-   "published": "2026-11-23T23:35+09:00",
+   "published": "2026-11-23T23:44+09:00",
    "holdings": [
     "soxl"
    ],
