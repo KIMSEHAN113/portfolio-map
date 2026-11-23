@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T08:32:14+09:00",
+ "updatedAt": "2026-11-23T10:01:58+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -18,6 +18,27 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": -5.28,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "주식 시장이 아무리 무서워도 내가 결코 어기지 않는 4가지 투자 규칙은 다음과 같습니다.",
+   "title": "Here Are the 4 Investing Rules I'm Never Breaking, No Matter How Scary the Stock Market Gets",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN00yaVZQclpReGlzUTFIOVR2dzRvaUR6U00wYVRBX3puSGg1dFE5Tkx2d0tISHN3eGlZYmJrRlh4MlJ5SjgyOGsyZDg0bU9XaFRwWTEyWUQydm0weVJQREhTUDJzM3BXNHk1MXpnYjhDcjJEU3BETlpPaEtpTG9vakVCUkpYeTNhT2ZTanZNNXBYbDg1cFE?oc=5",
+   "published": "2026-11-23T03:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -3.7,
      "asOf": "2026-11-20"
     }
    ]
@@ -92,12 +113,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "SOXX와 DRAM은 고점 대비 35.6%~51.9% 하락했습니다. 나스닥 조정 기간 동안 구매할 수 있는 더 나은 성장 주식 ETF는 다음과 같습니다.",
-   "title": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction.",
+   "category": "반도체 · 메모리",
+   "summary": "삼성과 SK하이닉스 자사주 매입으로 한국의 1,150억 달러 매각을 막을 수 있을까?",
+   "title": "Can Samsung and SK Hynix Buybacks Stop Korea's $115 Billion Selloff?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDVob0NjZms3YVdySG5WLWVwZ1ByX0I0UjRMckVNMzFCLUJCZUw2Z2VlQU10a3ZPSUlqS2hTWWQ3eFdjaHF2X25vWC1uNEM2V29Ga2lRSE9LWnF5WTRfTFBKakJVQWZaam5NaXZwTl8xLUJoYkloVkkwelMyd0Z1SVRzNzZTZXBUYWd4Z1pPSkd3Y2Zw?oc=5",
-   "published": "2026-11-22T22:35+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWRnMi0yWkZLQ0ZEQXZHWG5vaUIzSHJ0djJPVER1UjJvME0yWTJIbEc5TjhJRHkwWXVFRXJfOW1UQWtiRHlHMFh1Q2QybEpzMUNhelUzdXpDMjRnV0QtZUVobmpRZ2E2LU5fMTR0Y19vX0RPaWVlS0lmbjRVOUx1dlhwOUdXUk94ajVKVDJOT2N6OGoxUWtBRzlJaw?oc=5",
+   "published": "2026-11-23T09:38+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -105,9 +126,34 @@
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -5.28,
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -5.92,
+     "asOf": "2026-11-20"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": -7.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jeff Bezos는 CEO 검색이 뜨거워지면서 Nvidia 주식 투자자에게 강력한 신호를 보냅니다.",
+   "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2dTT3JSX092Y2dXMG1GLW5hS1lCNHNYTWVGTUFvbjRwY2RpWVNaUmZhcGt0Y0hFVkM0TW5xblUxZVQzRkctdmdXSEdGRVpoRW9WOWlJREtQY0RuMTlSRHZsdXJsT0hhSFBPbkFYR3VEYTVmcVJ0akw5SXpTVEVqZGFucDhfc0ZoZnVJazFEdUpxZjYwUzRZaC1scw?oc=5",
+   "published": "2026-11-23T06:07+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
      "asOf": "2026-11-20"
     }
    ]
@@ -165,44 +211,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Hua Hong Grace Semiconductor Limited (1347.HK) 주가, 뉴스, 시세 및 역사",
-   "title": "Hua Hong Grace Semiconductor Limited (1347.HK) stock price, news, quote and history",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdHk1ZFlfeFBFM2ROSVVOVTN0M2o3cVBBbkdpSjlhY21razBDeXZaVW1DYkJmQnUyRUhXVmFSaEJQSmpId2EteV93VmsyS05Fd3czemxR?oc=5",
-   "published": "2026-11-22T18:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -10.55,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "AI 칩 공급망 전환으로 Disco Stock과 아시아 도구 제조업체에 주목",
-   "title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
-   "published": "2026-11-22T17:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -10.55,
      "asOf": "2026-11-20"
     }
    ]
