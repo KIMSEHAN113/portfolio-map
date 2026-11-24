@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-24T09:32:02+09:00",
+ "updatedAt": "2026-11-24T10:31:51+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer on the importance of staying in the stock market",
+   "title": "Jim Cramer on the importance of staying in the stock market",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzhseXlWMEo2UHdLMUtxTjkwZjE5NWt3R3hzSzd3Q2g1VGdRcEdGelRJekhaVFFuNWlxZFN1NDRRZl94cFhIY092S1hqX2taVnFLQ0xZMzhKS0hYSWcwUzFiNFdtSTBqTmNJMUh5MEdmOEx1UGg1Ymw2d3ZURGR4anNFaTYxYnl5Yno2SUhfQS1JSDNhbG96S3RLTnBsaF8wVkExXzl1aC1ycV9uYjlzeHlCcWZHaTA?oc=5",
+   "published": "2026-11-24T10:17+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 4.73,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "U.S. stock futures steady after Nvidia-led Wall Street rally",
+   "title": "U.S. stock futures steady after Nvidia-led Wall Street rally",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5",
+   "published": "2026-11-24T09:48+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Huang's return helped save the Nasdaq, and in turn the market, says Jim Cramer",
+   "title": "Huang's return helped save the Nasdaq, and in turn the market, says Jim Cramer",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbm5TWFIzdmJwbzBRc1lrQnV6dXVuNU5YWDhzbWJiT2owMWlUeUZTRmJnOXZSVW5fZFp6ZklzWGxjTUc4YjA2cVdlMGdSVUdpSlhvT1NjVmpQWXVwRFp1MUdOekN2NUYzV1hxTGQxQmdDeVdZQkZDbUpsWUFBRHJyQmZXXzNYNW93LURTM2RIdk1kdWtaRlhnZ3dIR2tSMGRFS2pzU2dBcl9vTU9pbmN5OFB0N0ExT1prSHc?oc=5",
+   "published": "2026-11-24T09:45+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "S&P 500 and Dow exit correction territory as Wall Street rallies",
@@ -30,11 +93,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Retirees: Is Now the Time to Ditch S&P 500 Funds?",
-   "title": "Retirees: Is Now the Time to Ditch S&P 500 Funds?",
+   "summary": "Charged: Wall Street warms to Tesla as merger review takes center stage",
+   "title": "Charged: Wall Street warms to Tesla as merger review takes center stage",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXYwNGRfb2xXS05XRzZ1REc2X09DT0ctSmdvYmU5X0lKbklsQzBXS25IUFhReFZwTWRKcGo3Vm9lZEViMjhYRFpVRklCZDNxb0Jvc1QyaERMRURQTHpBOTBIcFBCNUotSF84aFN1SHh1UnRTTnQ5LWRuVHhESGphV2htdzZEWklaQjFmQUVmbDY4NjEx?oc=5",
-   "published": "2026-11-24T08:33+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjIxZTlqN09GMWwzLXI4ZUFXWEhpZEZ5d0ZfVTh6eTJFbjN4UDBFSW5tdlNSaVFVN3JNV0tHTmZRd2Fxd2hBb1ZhRW5nYjRFY3lITnJ3RENld0pUejM4NGtheVZlZDlWODVPeUNrWk44am11MVZwb2h6c0VmODZMY1pxeC12c250MTM1TlZjaDlJZEV0dVNKMHF2U2g?oc=5",
+   "published": "2026-11-24T09:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -42,73 +105,29 @@
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 4.73,
-     "asOf": "2026-11-23"
+     "symbol": "TSLA",
+     "name": "테슬라",
+     "chgPct": -7.64,
+     "asOf": "2026-11-20"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Stock market recovers following reinstatement of Jensen Huang as Nvidia CEO",
-   "title": "Stock market recovers following reinstatement of Jensen Huang as Nvidia CEO",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZ2IzdVdRZFN3QXJ4djZjWVZBcEtKWURLaGhwaG4xNzUyV3dXMXJtdktYUlNMaHo2eWtEdHNIeUhXLVpZaEV1dVRvd1pPaGpNelY4aERWQ1NZblk5cVdzOHpZbVFhRk9IcUlMamI5MnNLZw?oc=5",
-   "published": "2026-11-24T08:15+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Opening Day: Anthropic debuts on Nasdaq following historic IPO",
-   "title": "Opening Day: Anthropic debuts on Nasdaq following historic IPO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUQ5R3RiUHk2WTRfOXJtNHl0OFYyUjZlSVdEREZTRGtoZ3djdDhlY1ZXSmhrVVoyb1l3WGNjTnpJUFhKTVdFSXA2NWtBWGFBMFhXMWtwcmdSeHY4YnhsUS1wdEZTLUJhTGh0Qmx6UzA2UzFEclZWdE9iM2NHTWY3elp4Z3IwcU9POHFralZINHhjR2xyeXVNdGJuQjIyblhYZHc?oc=5",
-   "published": "2026-11-24T08:15+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Rapid Recap: Wall Street reacts to Jensen Huang’s return as Nvidia CEO",
-   "title": "Rapid Recap: Wall Street reacts to Jensen Huang’s return as Nvidia CEO",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+   "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlpnRlhZLXFudEg0NUNabTdoSVpKU0FkY1JQZWJDQjlETnhJNU93V1R1bWFLdDRDZUtSTFZlWm9yc3AzVV9uNWxuM1ZEcUxUQjI4bmstQUZiMHlLQW9HdEQ1VmM5UjBBbnJ4NmtsVVg0dWVTaVE5RHFvUjJWTmZaZ0F1MFdkWFRrSEppbGJ0ZEgwVklTM29oNk5xalNhVTM4WXlHNkhwc3M1amR6MTVnaQ?oc=5",
-   "published": "2026-11-24T07:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
+   "published": "2026-11-24T09:24+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
     }
    ]
   },
@@ -126,8 +145,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
     }
    ]
   },
@@ -145,8 +164,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
     }
    ]
   },
@@ -164,8 +183,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -14.01,
+     "asOf": "2026-11-20"
     }
    ]
   },
@@ -186,25 +205,6 @@
      "symbol": "000660.KS",
      "name": "SK하이닉스",
      "chgPct": -2.52,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
-   "title": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5",
-   "published": "2026-11-24T07:20+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
