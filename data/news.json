@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T22:10:16+09:00",
+ "updatedAt": "2026-11-24T22:31:58+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "온폴리오 홀딩스, 나스닥 상장폐지 조치 발표",
+   "title": "Onfolio Holdings Announces Nasdaq Stay of Delisting Action",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWhPMTF3VlFJUXpQOERqYUtPbmNpSkZ1eXM4STlsRGV2ZEIzcGgxTmM5dFVpcjNKVDctbnVYWE5jdERLbWdTSzdOdmt4d3U1aGRmWWJzb3BWU21XbmdEbzdPUDNtcV9tVVJBckpxQXVxV05FNzU1NFdVaG9LS2wzcUdSNXFHWVZMMEMzal91QVU?oc=5",
+   "published": "2026-11-24T22:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "에브넷, 12월 8일 나스닥 투자자 컨퍼런스 참가",
+   "title": "Avnet to Participate in the Nasdaq Investor Conference on December 8",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFhtS0NvVmNSQkhOTzRrem1UakhQQTlxdTc2emg4Unp3MC0xclRPWnNtWWlaMFIwWmRYMUxKaGpYR0pzRDE3dU5UWEZmX3dkS2dIalBVZ3pBd0gxeDhKR0hJVm4yYkxTT0JmaG9hN094dFR4MkpwVmRFZmhTa1JDZTF2TURONkt4SzVDWTVWMXFUN3ZEOGZFaw?oc=5",
+   "published": "2026-11-24T22:00+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Jensen Huang의 복귀는 오래된 월스트리트 거래를 되살립니다. 복귀 CEO에 베팅",
@@ -56,48 +98,6 @@
    "source": "Axios",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEWkU1djBuOW5JeXF4NDJWcFg0QWljV0tDRHJOU2dHVHNfYjY0QjNZVUN5UGRXOXhrT1c1aWNpckg2ODFUUDNFWFo3ajNpdEVSTjNrRjE4TXRQbFBNYmtaTnhhSjlObzBGUkE?oc=5",
    "published": "2026-11-24T21:21+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 4.73,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500은 역사상 두 번째로 큰 포인트 상승을 기록했습니다.",
-   "title": "The S&P 500 Just Had the Second-Biggest Point Gain in Its History",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0huZmVfeW1iWEV6ZWh0TXExcmhIS0RtakIyekZJYU8wb0JzQjJNcnk0WFNUWGc3ZUxvRDREcHJLQjJtV3RmQTZyMUd2bTlsQkQ3NTlxMkhUTDY3WGRBSkQzWVJwNUdEdkJQM2d3Z2V5YzFyZDhYd0JpZ0NBZDhRRkdITWJXbktqdlgxUlBZUQ?oc=5",
-   "published": "2026-11-24T21:02+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 4.73,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "주식 시장 매도: 적절한 가격에 사고 싶은 훌륭한 주식 5개",
-   "title": "Stock Market Sell-Off: 5 Magnificent Stocks I'd Love to Buy at the Right Price",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmVFTHZtWkdHU0c3aGVRTi1kVGlOYkNyU1lqTDdqLTZQQkY3d2xQc2s1WVVVUHRSZVZEVG1sbXRNSG4wcHFnYjN3YjZSZS1PclozM3dPWDRlRVMySmJ3Y200X2JadDdPZjRhOTNMMks4Nm5wV2MyT01SWWFaSUVyNGpXdThCNGQ1bmZrenVyS0tzZw?oc=5",
-   "published": "2026-11-24T20:35+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
