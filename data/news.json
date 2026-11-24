@@ -1,6 +1,75 @@
 {
- "updatedAt": "2026-11-25T00:01:57+09:00",
+ "updatedAt": "2026-11-25T00:31:37+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
+   "title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnAxVDY4NlQ4MkZCbW5YT1lvanBJVXAycG8wVGRnekJkM3h1bmprU3RaWjVZaHhkSWVSbTNha2QyMWVYLXphRHNtWTJ4elZWbFBXNzQ2U0Nlc3EtRzdaZGhINFlOWWlCaU5VMFlnRXNwRWJCVldmTUgtQzVsX2dsMGJPcWVDMXNkTU5xZGJZTVVnM3ZFZmIyTEVEVHpRYlI4VThzX2dKYnEzdF9jdXNCbXhvU2ZGUzZPanFRTGY2LW1xTEszUnBDeVQ3emI?oc=5",
+   "published": "2026-11-25T00:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 4.73,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
+   "title": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkdWTW94VG9oalRTS3U1ZHF3WU5yX3F4ajBhM0h1WGgxRDZOSW1JQWdvc0NKeGlMYTRWcDZpTnF2eDhRaGNkUU5hb19rTlBOdU0wWFltRC11ZmpwelUyRVNYTEk3VkV5SV85UEpIMnBrb2lIOF85RlBGME81RGN5a2czOGg0dzV0enRDNTJhOGpGbjA?oc=5",
+   "published": "2026-11-24T23:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq",
+   "title": "Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXlmUFZNVDB5elZZekVYZVdHTmlUZnItQ3hpVWtLa0c1NGx3TXlUaFpRVFpIbWNyS2FJblgwaUZSN1RKLWdoNE93dnFxQkx3Q2gtYUlyeV9QdW5MRThTanh0S0Zwamg2Y0NpRzZGLXdjQl9GOHg4UDZCR2Zfd1A2aHpvZnBNTnM?oc=5",
+   "published": "2026-11-24T23:14+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
@@ -50,64 +119,20 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckhLa1BPMl9SWEVOcWxpblZDNFNIYWtYWjBzSGxrblBMUW01V3RoVklYZ3haQWFDeGk3ZnRfUHpHby13V043MUNiaW5KdTFOVHFjc1lkSTF4STFWU1o3QVlQVWduQ25KdmlqRHN4cHZJU09lbWdRZ0Q3UjNSbXg2UG1pVDJ5RjFwdGxTYXFxYkRXa3RJMDQ0b2hWWHI4eXd5V2NBWFRLakFZN3ZrM1ExWHl3bw?oc=5",
-   "published": "2026-11-24T22:53+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 4.73,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades",
-   "title": "IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades",
+   "category": "반도체 · 메모리",
+   "summary": "30 Analysts Have Weighed In on Nvidia. Here’s What Their Price Targets Reveal",
+   "title": "30 Analysts Have Weighed In on Nvidia. Here’s What Their Price Targets Reveal",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamtIUkxNQndhTGhvN3h1aXNSRUF5ZEc4MjVsamdka0duLWhReXo0b0VBYjBkbGo0NTVzMEk4RWNHX3RZbTAtaVRsVHpCQlRYTWs5akZKRmhPYy1hYjBPV0pTak81SFNlYXd1Y2pLaEFRdFVvRWFSdkZjYVd2ZUlETHBDM3NZc2tzMkY2VmF2cC1jdw?oc=5",
-   "published": "2026-11-24T22:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEdKNGllY2tkRG1HR1JPTXJJakxiWDNNTjdVLTEtNU1RemRYNTI2bkRGODg5SUVKejVFUjFRQW9ZOFRLWkI1WldiOWFxMGktY0FpU21wSnVHSzNRT0ZaVkk3eHd6VmJLQ0VTRWptVHhnRHJfQ1dQRmNLYURucXVIWFc0SV9hTlpBbGtYQVR5OG50VTNTNVRYQ2RHWlY5QQ?oc=5",
+   "published": "2026-11-25T00:03+09:00",
    "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
+    "soxl"
    ],
    "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street’s New M&A Mood: Why Both Marvell-Lumentum and CrowdStrike-Zscaler Hit Pushback",
-   "title": "Wall Street’s New M&A Mood: Why Both Marvell-Lumentum and CrowdStrike-Zscaler Hit Pushback",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2w1V0YxMkg2YXZkTExDdHpELW5IOUoxQWJxWDJaVlVNOTIwalYxQWJhUWJ6djlKUWhKWmExXzcxZE5yMDExTFJqUnVNS3ZPbnB0NF9wa2pFT0xjWGZwckxpazh0Z2x2X1prYl8yZ0UxNFZDMFpZMTFNa2M5MVkyY0oyVFhkeHp5OEFoT041aUs?oc=5",
-   "published": "2026-11-24T22:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "MRVL",
-     "name": "마벨",
-     "chgPct": 18.37,
      "asOf": "2026-11-23"
     }
    ]
@@ -196,25 +221,6 @@
      "chgPct": 19.04,
      "asOf": "2026-11-23"
     },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang Could Still Be Kicked Out, Nvidia Could Still Fall 40%",
-   "title": "Jensen Huang Could Still Be Kicked Out, Nvidia Could Still Fall 40%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWdFbVNuLWc3TE12ekl6dmVhd3dnSEtLb1BlRTQ1WTFTemFzTTF5Tm5nQVQtcWVVZTBIajFQcGlFenF4Qi1zV09nRTdZOFhaSFh2UWZtRklzUzJrV1NrN3ZDT284R1dBYTc3andOVnUteHZEMXNZTldtcHU4a3lJdVhYTVJZMGdSX2V6TFRZb0tMMEVpcVQ2dEh2d24?oc=5",
-   "published": "2026-11-24T23:04+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
     {
      "symbol": "NVDA",
      "name": "엔비디아",
