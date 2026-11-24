@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-24T22:31:58+09:00",
+ "updatedAt": "2026-11-24T23:31:46+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "온폴리오 홀딩스, 나스닥 상장폐지 조치 발표",
-   "title": "Onfolio Holdings Announces Nasdaq Stay of Delisting Action",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWhPMTF3VlFJUXpQOERqYUtPbmNpSkZ1eXM4STlsRGV2ZEIzcGgxTmM5dFVpcjNKVDctbnVYWE5jdERLbWdTSzdOdmt4d3U1aGRmWWJzb3BWU21XbmdEbzdPUDNtcV9tVVJBckpxQXVxV05FNzU1NFdVaG9LS2wzcUdSNXFHWVZMMEMzal91QVU?oc=5",
-   "published": "2026-11-24T22:00+09:00",
+   "summary": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
+   "title": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkdWTW94VG9oalRTS3U1ZHF3WU5yX3F4ajBhM0h1WGgxRDZOSW1JQWdvc0NKeGlMYTRWcDZpTnF2eDhRaGNkUU5hb19rTlBOdU0wWFltRC11ZmpwelUyRVNYTEk3VkV5SV85UEpIMnBrb2lIOF85RlBGME81RGN5a2czOGg0dzV0enRDNTJhOGpGbjA?oc=5",
+   "published": "2026-11-24T23:15+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -24,32 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "에브넷, 12월 8일 나스닥 투자자 컨퍼런스 참가",
-   "title": "Avnet to Participate in the Nasdaq Investor Conference on December 8",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFhtS0NvVmNSQkhOTzRrem1UakhQQTlxdTc2emg4Unp3MC0xclRPWnNtWWlaMFIwWmRYMUxKaGpYR0pzRDE3dU5UWEZmX3dkS2dIalBVZ3pBd0gxeDhKR0hJVm4yYkxTT0JmaG9hN094dFR4MkpwVmRFZmhTa1JDZTF2TURONkt4SzVDWTVWMXFUN3ZEOGZFaw?oc=5",
-   "published": "2026-11-24T22:00+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Jensen Huang의 복귀는 오래된 월스트리트 거래를 되살립니다. 복귀 CEO에 베팅",
-   "title": "Jensen Huang's return revives an old Wall Street trade: Bet on the comeback CEO",
+   "summary": "Amazon Publication Reveals Explosive Downside to Stock Market Euphoria",
+   "title": "Amazon Publication Reveals Explosive Downside to Stock Market Euphoria",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFgtekY2NEEzSnFobGJhM2dmOHVZX1lfUWFQbDNkajk0SnhrSmNmeWdHTVFIeUtqNDRwc3lIYk9TbWQ2QzQzODM1T05mSVZkaGZMdVRCOWs2TktUcndpNmZfZHJzQ3VKeUJabDFwWTNwWTl1LU5vZWJrU3d0dFZsbjRtb01FLWRPdEFiMENpTWdITUxKNlpEcXYzU3VvcVRBY1BEOWRMTl9TWFJLdEREcDNkQldtTDVqWWJFNndvdmJlM3BUNUtWTzN6ZUZUNUE?oc=5",
-   "published": "2026-11-24T21:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1BOS1p6ZHF6d1R0Z09UamNTdUlGLXdCZDZjOGJCWVlnUDhBcTZHejBJcmV1NDJSZkV4OVhieVkycWIwa2VmME5LMXY0YW1YRDZYX1VqUEk4bE9EU1g1WVFSNkk5ampBUFRlcDdfUjA2dm1MMzZTbnJ6TGxETndUOEg3U0Nwak5vWjEtYVV4aW1yTVlMZTZKQldMUG5VSGF1ZHRYdGdZN1FfZ2ZfTURn?oc=5",
+   "published": "2026-11-24T22:59+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 3.47,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckhLa1BPMl9SWEVOcWxpblZDNFNIYWtYWjBzSGxrblBMUW01V3RoVklYZ3haQWFDeGk3ZnRfUHpHby13V043MUNiaW5KdTFOVHFjc1lkSTF4STFWU1o3QVlQVWduQ25KdmlqRHN4cHZJU09lbWdRZ0Q3UjNSbXg2UG1pVDJ5RjFwdGxTYXFxYkRXa3RJMDQ0b2hWWHI4eXd5V2NBWFRLakFZN3ZrM1ExWHl3bw?oc=5",
+   "published": "2026-11-24T22:53+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,15 +66,15 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Jensen Huang이 복귀함에 따라 Nvidia 랠리 이후 Nasdaq 선물은 하락세로 돌아섰습니다.",
-   "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVlJa3ZsbUNKSGgzY2pJU0o2cFYyaElmQ1VWbTJTU3BhYjR3cm1kQTNfelhidGRISElYRDVMb3dQWUdTVlhGenRKMkxVc1ZUaExWV2ZRYXdIYzV2VGx2ZkM0TTRzZDdPUm5pV0JZSjc0MndLZ054TERUWFY5ZjFsZWw5YmpQQjRuaGVVTnBydXc2RHEtZTlVVEZIXzZWYTRUQktmbEJ3V2QxUmVaYW05eA?oc=5",
-   "published": "2026-11-24T21:24+09:00",
+   "summary": "IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades",
+   "title": "IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamtIUkxNQndhTGhvN3h1aXNSRUF5ZEc4MjVsamdka0duLWhReXo0b0VBYjBkbGo0NTVzMEk4RWNHX3RZbTAtaVRsVHpCQlRYTWs5akZKRmhPYy1hYjBPV0pTak81SFNlYXd1Y2pLaEFRdFVvRWFSdkZjYVd2ZUlETHBDM3NZc2tzMkY2VmF2cC1jdw?oc=5",
+   "published": "2026-11-24T22:45+09:00",
    "holdings": [
     "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
@@ -82,22 +82,16 @@
      "name": "엔비디아",
      "chgPct": 31.48,
      "asOf": "2026-11-23"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "여전히 트럼프의 주식시장이다",
-   "title": "It's still Trump's stock market",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEWkU1djBuOW5JeXF4NDJWcFg0QWljV0tDRHJOU2dHVHNfYjY0QjNZVUN5UGRXOXhrT1c1aWNpckg2ODFUUDNFWFo3ajNpdEVSTjNrRjE4TXRQbFBNYmtaTnhhSjlObzBGUkE?oc=5",
-   "published": "2026-11-24T21:21+09:00",
+   "summary": "Wall Street’s New M&A Mood: Why Both Marvell-Lumentum and CrowdStrike-Zscaler Hit Pushback",
+   "title": "Wall Street’s New M&A Mood: Why Both Marvell-Lumentum and CrowdStrike-Zscaler Hit Pushback",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2w1V0YxMkg2YXZkTExDdHpELW5IOUoxQWJxWDJaVlVNOTIwalYxQWJhUWJ6djlKUWhKWmExXzcxZE5yMDExTFJqUnVNS3ZPbnB0NF9wa2pFT0xjWGZwckxpazh0Z2x2X1prYl8yZ0UxNFZDMFpZMTFNa2M5MVkyY0oyVFhkeHp5OEFoT041aUs?oc=5",
+   "published": "2026-11-24T22:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -105,20 +99,20 @@
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 4.73,
+     "symbol": "MRVL",
+     "name": "마벨",
+     "chgPct": 18.37,
      "asOf": "2026-11-23"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang이 Nvidia CEO로 복귀한 후 아시아 주식이 급등했습니다.",
-   "title": "Asian stocks soar after Jensen Huang’s return as Nvidia CEO",
+   "summary": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEJ3YjJvLUZtM082dmlBbWdTMExKcWNqTDBaeG96bjYyZ0ZXS05IVjdxZUFSbXRZaEZ6Z1hMTWt5OTd0MFIteEVRRzIyT05PZ2hFRkwzZGhNTGpJcnFZQm02bTRxaDRvdnVQY1dHdkkxUkFDM3RfUVFuWWlQRldzbDEtWWZ3U2pPbWVxVUFyNV9scXpGWTg1QUJVNA?oc=5",
-   "published": "2026-11-24T21:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5",
+   "published": "2026-11-24T23:16+09:00",
    "holdings": [
     "soxl"
    ],
@@ -128,16 +122,22 @@
      "name": "엔비디아",
      "chgPct": 31.48,
      "asOf": "2026-11-23"
+    },
+    {
+     "symbol": "AVGO",
+     "name": "브로드컴",
+     "chgPct": 3.0,
+     "asOf": "2026-11-23"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 Jensen Huang을 CEO로 복귀시킨 후 TSMC와 SK 하이닉스 주식이 급등했습니다.",
-   "title": "TSMC and SK Hynix Stocks Jump After Nvidia Reinstates Jensen Huang as CEO",
+   "summary": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
+   "title": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkZXYzRaM19VQmpER2x5eWFGRzM5YUxsbVpRR3dSTG5DZUp2eTRfc1FaUzRkQ3pZOE1KNHMxdlN1UVg2Y1R3d2pkOE1JYTU1cjFSNEY3NEJmTmNOVkFZUXJnSk1PbnlEYkswRmdBQTc2UFh4S2wxRzA2cjFXS0pPelN1OFBZTDVOTG96Y0tTU1JWanhu?oc=5",
-   "published": "2026-11-24T21:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGk5X0RPa1BXQ09qWjZtNnZjWXp1bHZqNmpWdVV1TzRCbFg5QWJSVnBnVXk0czN3Rk5PLUYzeGU1M0oteTVqR2dBOWRMYXlGN3Z2b29DM2xkMGt3eUdfTk53TTMzTjE2dDV4LUZ2alFQQmV6UWFzakcxX245RW1pT0QxajFIbU5CSm1qZzNQWVhXRmcyNXptMU9GNA?oc=5",
+   "published": "2026-11-24T23:07+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -145,26 +145,26 @@
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 19.04,
      "asOf": "2026-11-23"
     },
     {
-     "symbol": "TSM",
-     "name": "TSMC",
-     "chgPct": 14.08,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Goldman Sachs가 Huang의 복귀 이후 계속되는 불확실성을 강조함에 따라 Nvidia 주가는 시판 전 거래에서 5% 하락했습니다.",
-   "title": "Nvidia Shares Fall 5% in Premarket Trading as Goldman Sachs Highlights Lingering Uncertainty Following Huang’s Return",
+   "summary": "Jensen Huang Could Still Be Kicked Out, Nvidia Could Still Fall 40%",
+   "title": "Jensen Huang Could Still Be Kicked Out, Nvidia Could Still Fall 40%",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1VvaWRmaUhFTFNsUGo1WHpEbEFtWERmX0xCcElOdkZya3dUWkRGSklmTlBJRllyQVQwcFpKR3lrcFhuUVBfS01JbHh5ZlZId3ljRkdNQkFmb0JnTWp5cXpoM3ZWM3NtVkdfekRyem04Rm80WmxNTVlxSzMxc3FsQ1I4cEE2THNXb25TZ1V6Y1M2NjdEakt4c0liNA?oc=5",
-   "published": "2026-11-24T20:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWdFbVNuLWc3TE12ekl6dmVhd3dnSEtLb1BlRTQ1WTFTemFzTTF5Tm5nQVQtcWVVZTBIajFQcGlFenF4Qi1zV09nRTdZOFhaSFh2UWZtRklzUzJrV1NrN3ZDT284R1dBYTc3andOVnUteHZEMXNZTldtcHU4a3lJdVhYTVJZMGdSX2V6TFRZb0tMMEVpcVQ2dEh2d24?oc=5",
+   "published": "2026-11-24T23:04+09:00",
    "holdings": [
     "soxl"
    ],
@@ -179,30 +179,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "칩 주식은 월요일에 3조 달러의 회복을 주도했습니다. 이제 화요일에 턴어라운드가 이루어집니다: 오늘의 차트",
-   "title": "Chip stocks led a $3 trillion comeback on Monday — now comes Turnaround Tuesday: Chart of the Day",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2pTa01WeG1iMWlXeVNEczZzaHFYOVlwZFhsZ2dLQi1XanVpWS1DcWVFRC1zWWhJLUkzelc0RUVxSDhVTF82NnV5T2FZNkpDazB3Y0g5eF9wVm43TnRWWVl1a1dnZE9TaUxhdUJQVlNmNjBPWmNmbWtQR2djNXBXeUZCeFh6SlVQMnBnc0dLeWdacjFIenlJQ2s1dDVsNGhGV2NzX3VHVmNnZWRxbFowT1NTUXVKOW5fa2ZzX3JrQ0hJekJEb1MyNnY0RFdfSU92QV92bmI2cEhFT0xNVWRtNHI5U1dFdw?oc=5",
-   "published": "2026-11-24T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 13.63,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia CEO Jensen Huang이 돌아왔고 주식 투자자들은 AI 칩 거인에 대한 더 좋은 소식을 얻었습니다.",
-   "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTN5ZkJwUVhHZjRoQVZHN3dSa1Y5T09zdzNqYXZlNUpEa05iN1p6WThXS3hGX09McUFLb3l0Sy1POVZuYzRBTERwblZnNDVSNkVOUVZNQi1GenRJbzBrWGVXNzBmaVVVVHJ5b2UxVjg0Qmw2ZWRabUJPb2lVWGhPSldzVjBVM2pzREJZR0ZGel9kMU4zWkExaA?oc=5",
-   "published": "2026-11-24T19:17+09:00",
+   "summary": "Nvidia stock dips after Jensen Huang CEO return",
+   "title": "Nvidia stock dips after Jensen Huang CEO return",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41RmxmODUxdE1RS0l2SDZrOFlPbW4tWmhLSHhMdFNVSDJHZDlvZnNrMnd6c05WMzRpcTFzV1lrQndvdW8tenNpNTVzQ0tSRU1mdWVlajczQjhySjQ?oc=5",
+   "published": "2026-11-24T22:50+09:00",
    "holdings": [
     "soxl"
    ],
@@ -211,6 +192,27 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Why Is Micron Technology Stock Falling 6.4% Today?",
+   "title": "Why Is Micron Technology Stock Falling 6.4% Today?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGE5S0hLbDVuTTdnOEFJaEpEVDBqSVVzbUw0OWhGSmtBOTMyN1VGZjNOMXAyMlZfSVVMb2M0bVBvcXFhaDhWRU5GeTBia0h0ZlhIVzUtT0kwNmU5REhuYUpVcGVncl9LUGotdHZJek01eHE0Zlh4dExzOU1PZGp2dzNKYkZtbmg4c1dnamliTWhFenhmaFhLM0RkVU93emVxS3c?oc=5",
+   "published": "2026-11-24T22:37+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 19.04,
      "asOf": "2026-11-23"
     }
    ]
