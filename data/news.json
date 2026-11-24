@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-25T00:31:37+09:00",
+ "updatedAt": "2026-11-25T01:01:55+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here",
+   "title": "Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnJWWkZsTFpIdUZhcFp0NnVIS3VQNzIySjc5N2xJRDFWWU9EQTVGUFgyVzhocmpJMEhiQzJkS3MtMWFMY19zMHQwdmdINllsa3k0N3liVjVHdTBnZkZXd2c0d2xMWjRxLURXdnhWVFhnRW5Pem5tX3JBdVhZVzNZcWYyRm5wSGpMTTBhcWxUSQ?oc=5",
+   "published": "2026-11-25T00:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "META",
+     "name": "메타",
+     "chgPct": 6.55,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
+   "title": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
+   "published": "2026-11-25T00:19+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
@@ -71,49 +113,39 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
-   "title": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
+   "category": "반도체 · 메모리",
+   "summary": "Why Nvidia Stock Gave Back Some Gains Today",
+   "title": "Why Nvidia Stock Gave Back Some Gains Today",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjVubEEzRVdETjc4QnJ0eFpUQkNyYVpySkZNRW5RejdRT3ZER2hrUzI2ZlVsR3hnT0JYTzZjcTJuYlNaLVRuR0o3YVJFRmMwazlvOUtIeWRMLWVtQmlkbGctRFVnZV9aSnYwQjBNeERZZmR0RFpjSmQ3UzBkeDZqQXNfMk1GWDVtQmY3WVhwWVNNTmk0MzJRQzVkV3I3TlRa?oc=5",
-   "published": "2026-11-24T23:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVRfNTRnUkRtblgwWEM3aHRGMTlwb2RNcjExM3Z1T1J2MzBrd25nQVRsb3BSclV2T2wzQmEwcFhzWGYtRlg3enF1X2Uzamp0enJWVjdqOVBlbnUzdHlFOTBjU3VJdzNKR3VCNFYyQnpvTnlFWmhfbE92ZXV3RnVuSDVCY0l5N0Y2dE9vMWlZZVNKSUg3OHc?oc=5",
+   "published": "2026-11-25T00:45+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 3.01,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Amazon Publication Reveals Explosive Downside to Stock Market Euphoria",
-   "title": "Amazon Publication Reveals Explosive Downside to Stock Market Euphoria",
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
+   "title": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1BOS1p6ZHF6d1R0Z09UamNTdUlGLXdCZDZjOGJCWVlnUDhBcTZHejBJcmV1NDJSZkV4OVhieVkycWIwa2VmME5LMXY0YW1YRDZYX1VqUEk4bE9EU1g1WVFSNkk5ampBUFRlcDdfUjA2dm1MMzZTbnJ6TGxETndUOEg3U0Nwak5vWjEtYVV4aW1yTVlMZTZKQldMUG5VSGF1ZHRYdGdZN1FfZ2ZfTURn?oc=5",
-   "published": "2026-11-24T22:59+09:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBlXzZiTnRCUzFOWEhLRzNKam9oVlVvN2FhSXU0RU9xbVJMRm5yYnRJOEVYaEdKTVVNUFNMTmFfUk5EMVk2ZzRCSTMxTFBRelEzODQtVGJaX25ySWtGNnlVc0I1d3g0cFpOM0ZlaUpqd19GN21TUkRfSDJLaTB5M3VKMDVOWEI2OUNQN09HMlRqN1Bmb2xFeWF2U3hONEw4Z1Uwd0d0SW1TeDMtZGRNdk9MREg?oc=5",
+   "published": "2026-11-25T00:13+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": 3.47,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
@@ -158,27 +190,6 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
-   "title": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTURxSE51WTNsbDhEQ2Fmc2lRNU4wYUY2TFBDM0h1dUM0NFhGemxUTngyVlpQaHZuRDhyeldqN3VDQ2FaRWpsT25QRFNfR2JTaFJOX3lRZmxacTJzQ1ZoSzh6QXZ6aV9YSGFBRGVrMnZYNVN6VENNR2ZDUVVRcFJNc0UtQ1ZKZFBZTVJfbHBVRmJLLURyVlRwaFAzeWM0a1dXSU9faF9mN0NEUDNTQlBR?oc=5",
-   "published": "2026-11-24T23:29+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": 13.63,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
    "summary": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "source": "Yahoo Finance",
@@ -198,33 +209,6 @@
      "symbol": "AVGO",
      "name": "브로드컴",
      "chgPct": 3.0,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
-   "title": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGk5X0RPa1BXQ09qWjZtNnZjWXp1bHZqNmpWdVV1TzRCbFg5QWJSVnBnVXk0czN3Rk5PLUYzeGU1M0oteTVqR2dBOWRMYXlGN3Z2b29DM2xkMGt3eUdfTk53TTMzTjE2dDV4LUZ2alFQQmV6UWFzakcxX245RW1pT0QxajFIbU5CSm1qZzNQWVhXRmcyNXptMU9GNA?oc=5",
-   "published": "2026-11-24T23:07+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 19.04,
-     "asOf": "2026-11-23"
-    },
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
