@@ -1,55 +1,13 @@
 {
- "updatedAt": "2026-11-25T01:01:55+09:00",
+ "updatedAt": "2026-11-25T07:42:19+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here",
-   "title": "Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here",
+   "summary": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
+   "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnJWWkZsTFpIdUZhcFp0NnVIS3VQNzIySjc5N2xJRDFWWU9EQTVGUFgyVzhocmpJMEhiQzJkS3MtMWFMY19zMHQwdmdINllsa3k0N3liVjVHdTBnZkZXd2c0d2xMWjRxLURXdnhWVFhnRW5Pem5tX3JBdVhZVzNZcWYyRm5wSGpMTTBhcWxUSQ?oc=5",
-   "published": "2026-11-25T00:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "META",
-     "name": "메타",
-     "chgPct": 6.55,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
-   "title": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
-   "published": "2026-11-25T00:19+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
-   "title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnAxVDY4NlQ4MkZCbW5YT1lvanBJVXAycG8wVGRnekJkM3h1bmprU3RaWjVZaHhkSWVSbTNha2QyMWVYLXphRHNtWTJ4elZWbFBXNzQ2U0Nlc3EtRzdaZGhINFlOWWlCaU5VMFlnRXNwRWJCVldmTUgtQzVsX2dsMGJPcWVDMXNkTU5xZGJZTVVnM3ZFZmIyTEVEVHpRYlI4VThzX2dKYnEzdF9jdXNCbXhvU2ZGUzZPanFRTGY2LW1xTEszUnBDeVQ3emI?oc=5",
-   "published": "2026-11-25T00:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3RjcmgzaktFaFBfbzRReFRUOUlzUEVrYlhnb04yVUx4bFBHRjZiRUhnbV9JeWxHdlYydkdRUEZCRlRhVHRTbDV6UHBNdDFuUTFaZ2FUMEREZXZqekY0Q0pVLWltdm5WekNULWxpeThjSWxBd1V2WkRpLVdBT2NrSTI3cS1aU0tGa0x6aVdXMUtQUzhI?oc=5",
+   "published": "2026-11-25T07:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +17,81 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": 4.73,
-     "asOf": "2026-11-23"
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
-   "title": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkdWTW94VG9oalRTS3U1ZHF3WU5yX3F4ajBhM0h1WGgxRDZOSW1JQWdvc0NKeGlMYTRWcDZpTnF2eDhRaGNkUU5hb19rTlBOdU0wWFltRC11ZmpwelUyRVNYTEk3VkV5SV85UEpIMnBrb2lIOF85RlBGME81RGN5a2czOGg0dzV0enRDNTJhOGpGbjA?oc=5",
-   "published": "2026-11-24T23:15+09:00",
+   "summary": "Is Jensen Huang the AI 'spirit animal' who will save the stock market?",
+   "title": "Is Jensen Huang the AI 'spirit animal' who will save the stock market?",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2ZPZDBBY284akxhbjBtRFUtUFlRQ1pnVUpNU3JZWWg3N1c1SHNEeEZLaDJrMm5pQ0tMOTJlWTRKdWZBNk5xTnQ0dURmSUg3OFRDVjZka2llTEM5MGdJenBwdkJ2UFUzelVrSnVLV1BSRkhaTThZWXlUUHJhcTNnZTF5czFEczhyd0R6NEdlQVF2Nl9vN3FVX0w1aUczVnVxX1o3TzQ5eHZ4YXJ6SGVWOU1BSWpNYlA3N1JpU2M5OEU0dk51cFNfQnNBVFlKZw?oc=5",
+   "published": "2026-11-25T06:53+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500 Addition Might Change The Case For Investing In SharkNinja (SN)",
+   "title": "S&P 500 Addition Might Change The Case For Investing In SharkNinja (SN)",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEd6bkl4WHZOVmtOcWhLelpPbWZwcUZYX0JuVXliZHFvenc0OHFsOUJnMXNVLUZvbEFQOHNKRWM3TVNDNDNQQnFBUXppQ2FKU2tEVFBfcXZSN3cwYUhQcFB4NF8xYUd2aXplcW5tQjlHWTBPSlN1VjRVMk1DRFhaTUsxZnFaT2w0LTJYRkJRVk5RTjVEU29J?oc=5",
+   "published": "2026-11-25T06:11+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Are short sellers driving Wall Street's wild swings?",
+   "title": "Are short sellers driving Wall Street's wild swings?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3U4ajRNVjAyajJVNmh0aWJXMkYtano4LUFCdThHRmhVbjF5el9sU0paMHo0N2tmV3JxSWlCaGU5LUdWeXpoUVVBQU5STUhCLXd3QVNiUFVHcE9ZR2JURXFYem11bWJ3bmdlNUFHZkZYc3BsenhLbXlCaHM5UHZfdHhoQkNPZC05X28xNDBjYng3Zk0xTFVZX2REUmF1QQ?oc=5",
+   "published": "2026-11-25T04:37+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Anthropic Shares Fall Below IPO Price Days After Nasdaq Debut",
+   "title": "Anthropic Shares Fall Below IPO Price Days After Nasdaq Debut",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODJQaENpemFQX2tMYWZnNjhuOS1PUzJ0c1VTS2tPVjV1NktHeWJrVnhOUU1ydkdESjdpbVAtelNlSk1WclhpUlpydEpVT0pXaklsN29jRTh6VURiZU1CSVRoZFE3cUxVRlEteXE2RXBnVnA0ZGMwRzRRbklmRHRQbWI4QzVWWWk2TG13NWEtSzMxYV9WcUlxNkxuV3E?oc=5",
+   "published": "2026-11-25T03:19+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -80,45 +101,18 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXlmUFZNVDB5elZZekVYZVdHTmlUZnItQ3hpVWtLa0c1NGx3TXlUaFpRVFpIbWNyS2FJblgwaUZSN1RKLWdoNE93dnFxQkx3Q2gtYUlyeV9QdW5MRThTanh0S0Zwamg2Y0NpRzZGLXdjQl9GOHg4UDZCR2Zfd1A2aHpvZnBNTnM?oc=5",
-   "published": "2026-11-24T23:14+09:00",
-   "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    },
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": 6.51,
-     "asOf": "2026-11-23"
+     "chgPct": -1.48,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Nvidia Stock Gave Back Some Gains Today",
-   "title": "Why Nvidia Stock Gave Back Some Gains Today",
+   "summary": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
+   "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVRfNTRnUkRtblgwWEM3aHRGMTlwb2RNcjExM3Z1T1J2MzBrd25nQVRsb3BSclV2T2wzQmEwcFhzWGYtRlg3enF1X2Uzamp0enJWVjdqOVBlbnUzdHlFOTBjU3VJdzNKR3VCNFYyQnpvTnlFWmhfbE92ZXV3RnVuSDVCY0l5N0Y2dE9vMWlZZVNKSUg3OHc?oc=5",
-   "published": "2026-11-25T00:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDNza0JmYlVZRVJ4eXZhZUszNFlzSVA3aHFpaTNKVXp5UlQ1LVdxR2NyV0FDMFBQVm5JbTlGZ1RDUjlWRjlHaHhndG5mS3ExWTQxUkNDdHYzVXBaT3RMbGNGT1NhWk9ZX1BEcVdyUjdvQWIxQ0Vjd19MSG9hTk51SEE4S2hpMmxHcmh2NHNlZURNaGFqVUhhVlBjRTlGem9HaVY0OWNxY21peG9iRlE?oc=5",
+   "published": "2026-11-25T06:34+09:00",
    "holdings": [
     "soxl"
    ],
@@ -126,18 +120,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
-   "title": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBlXzZiTnRCUzFOWEhLRzNKam9oVlVvN2FhSXU0RU9xbVJMRm5yYnRJOEVYaEdKTVVNUFNMTmFfUk5EMVk2ZzRCSTMxTFBRelEzODQtVGJaX25ySWtGNnlVc0I1d3g0cFpOM0ZlaUpqd19GN21TUkRfSDJLaTB5M3VKMDVOWEI2OUNQN09HMlRqN1Bmb2xFeWF2U3hONEw4Z1Uwd0d0SW1TeDMtZGRNdk9MREg?oc=5",
-   "published": "2026-11-25T00:13+09:00",
+   "summary": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
+   "title": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
+   "published": "2026-11-25T04:14+09:00",
    "holdings": [
     "soxl"
    ],
@@ -145,18 +139,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "30 Analysts Have Weighed In on Nvidia. Here’s What Their Price Targets Reveal",
-   "title": "30 Analysts Have Weighed In on Nvidia. Here’s What Their Price Targets Reveal",
+   "summary": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
+   "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEdKNGllY2tkRG1HR1JPTXJJakxiWDNNTjdVLTEtNU1RemRYNTI2bkRGODg5SUVKejVFUjFRQW9ZOFRLWkI1WldiOWFxMGktY0FpU21wSnVHSzNRT0ZaVkk3eHd6VmJLQ0VTRWptVHhnRHJfQ1dQRmNLYURucXVIWFc0SV9hTlpBbGtYQVR5OG50VTNTNVRYQ2RHWlY5QQ?oc=5",
-   "published": "2026-11-25T00:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa080M09UTThMak8tMmItczlCb1RxZkEybElIVmNRZ0RKRDJqaUQ4dlRaaVlYUEl0dzI2cEI0Zkx2X0pQand6UlViQmg1NVg1RGZGSnpXTnZfUThvUHcyWGlMVkJaWGxrMlZRUjFwYXlaYXlPREhoVmFpMWw0MHBQaWFpNlpaNWtMMmktaDFwdEFQMThrZmpiWDItXzhsc2Uyb1pjMg?oc=5",
+   "published": "2026-11-25T04:02+09:00",
    "holdings": [
     "soxl"
    ],
@@ -164,18 +158,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck",
-   "title": "Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYV9FZHRucDRsczJybVQ5cjY2aUFpMWhLT0MwOFBxT0poU0JGM3hFZEF2NEpBMk5xbHYzLVhZX3BUMktRSm5KclRyTWlhQUoyV2pvOHRQeWgxbkdnS0M0WUxqdjBYN1VQMjFJUm1xaEI0NldEbFh2VERZTmU2WWV3NWM0UjBQd1lveTIxVUZ0MEdPVldnWDZDQTVHR2FPeGRYOXFj?oc=5",
-   "published": "2026-11-24T23:45+09:00",
+   "summary": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
+   "title": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFEwYWFtVXI5SVlNTmpJY1N4c3JEUlh6UFprUTlYOVdaSk5fSXdYN2dlbVFyWHpLd3lJY2NXQnViZmZYVGVfSVFyUkw4akYza056ZWVJdmpQTkJUc3VVdkhFalNYQmRxV2prbG9BMUhNNmE4RDB5YThxaGhIN1ZQMkNaTmZvUVk3TW81aERqeUd1QmNEVE0zNDl5NFhSMDRT?oc=5",
+   "published": "2026-11-25T03:49+09:00",
    "holdings": [
     "soxl"
    ],
@@ -183,18 +177,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-   "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "summary": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
+   "title": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5",
-   "published": "2026-11-24T23:16+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnh4d3hqQ0NIRlRYMnBBQ3c0TmxCS3ljUC1iaGVQU0tfSnd0Mm9CTjQtTlp0YWhZNWFtdk5PQ0JGbXlZa241SVg1NDlmRGlZY1paT1RZdnM3YVRfRmpNQnVkT0hrbjg2UnFqc0RvT1ItdkhZSVFhVkd0WGNYRXBDZUNUdWV3VDF1MFlFMDM5azgxQUZiTFBjcnRoNVo0bHpq?oc=5",
+   "published": "2026-11-25T03:35+09:00",
    "holdings": [
     "soxl"
    ],
@@ -202,14 +196,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    },
-    {
-     "symbol": "AVGO",
-     "name": "브로드컴",
-     "chgPct": 3.0,
-     "asOf": "2026-11-23"
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
     }
    ]
   }
