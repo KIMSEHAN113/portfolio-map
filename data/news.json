@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T07:42:19+09:00",
+ "updatedAt": "2026-11-25T08:00:34+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -108,6 +108,25 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "Nvidia’s $4 Trillion Board Is ‘The B Team,’ Says Former CIA Officer",
+   "title": "Nvidia’s $4 Trillion Board Is ‘The B Team,’ Says Former CIA Officer",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakhZNGVkdjc3dTR6dGZ2aE9DdUM0ZkpkZjVFd2NWVHhMRHVfek0xV2t5U3lpTHF6T090X1RzcEkyTW9PaEs4QVNVaW5uWjhqNzRuWEl3YVVmT1BXZVJ3Zm0zQjNiZEg0RlVPV1M5bWdqRHotbm03TngtZnl6c1lGRTVuNnJpdDRXLXpnZDJyWEpXR1ZN?oc=5",
+   "published": "2026-11-25T07:32+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
    "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
    "source": "Yahoo Finance",
@@ -127,11 +146,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
-   "title": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
+   "summary": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down",
+   "title": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down",
    "source": "AP News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
-   "published": "2026-11-25T04:14+09:00",
+   "published": "2026-11-25T06:16+09:00",
    "holdings": [
     "soxl"
    ],
@@ -169,26 +188,7 @@
    "title": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFEwYWFtVXI5SVlNTmpJY1N4c3JEUlh6UFprUTlYOVdaSk5fSXdYN2dlbVFyWHpLd3lJY2NXQnViZmZYVGVfSVFyUkw4akYza056ZWVJdmpQTkJUc3VVdkhFalNYQmRxV2prbG9BMUhNNmE4RDB5YThxaGhIN1ZQMkNaTmZvUVk3TW81aERqeUd1QmNEVE0zNDl5NFhSMDRT?oc=5",
-   "published": "2026-11-25T03:49+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
-   "title": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnh4d3hqQ0NIRlRYMnBBQ3c0TmxCS3ljUC1iaGVQU0tfSnd0Mm9CTjQtTlp0YWhZNWFtdk5PQ0JGbXlZa241SVg1NDlmRGlZY1paT1RZdnM3YVRfRmpNQnVkT0hrbjg2UnFqc0RvT1ItdkhZSVFhVkd0WGNYRXBDZUNUdWV3VDF1MFlFMDM5azgxQUZiTFBjcnRoNVo0bHpq?oc=5",
-   "published": "2026-11-25T03:35+09:00",
+   "published": "2026-11-25T03:50+09:00",
    "holdings": [
     "soxl"
    ],
