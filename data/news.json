@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-11-24T10:31:51+09:00",
+ "updatedAt": "2026-11-24T14:21:29+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang’s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus",
+   "title": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang’s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTRMM0dfQUlWZ3pRMFhtNUJsV1k0RE9UV1dTQ2RhWUZ3SUtIOUhtbGQxa1VidG05ZEszdXRJTFZHTTFXTExSMW1uV05KVEdzb0NBcWtnVDBVa2dQbDdYc0NQaTJlWWxfbVdmQV9JUHZFbmRHcTB3elRkWUt0aUxCOFZVX3hIYnBfTHlqOU5IMGx1T3c?oc=5",
+   "published": "2026-11-24T11:13+09:00",
+   "holdings": [
+    "soxl",
+    "kodex-nasdaq100",
+    "qqqm"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    },
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Jim Cramer on the importance of staying in the stock market",
@@ -38,8 +65,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
     }
    ]
   },
@@ -92,30 +119,85 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Charged: Wall Street warms to Tesla as merger review takes center stage",
-   "title": "Charged: Wall Street warms to Tesla as merger review takes center stage",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjIxZTlqN09GMWwzLXI4ZUFXWEhpZEZ5d0ZfVTh6eTJFbjN4UDBFSW5tdlNSaVFVN3JNV0tHTmZRd2Fxd2hBb1ZhRW5nYjRFY3lITnJ3RENld0pUejM4NGtheVZlZDlWODVPeUNrWk44am11MVZwb2h6c0VmODZMY1pxeC12c250MTM1TlZjaDlJZEV0dVNKMHF2U2g?oc=5",
-   "published": "2026-11-24T09:05+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "Trump owned at least $12 million in Nvidia stock at the end of last year",
+   "title": "Trump owned at least $12 million in Nvidia stock at the end of last year",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm16eGltaFhHdnNpMi1kZi1vVERncG1Qc0pGa2Voa3B5WV82YnhTSTh1WXc3b3Q5VjFudjBpd2lFZExCT2Y4TkZZN0xIXzhlZ2d4dE9wbWpNRXNpcHhoRXRCaUJnWG9mdjJTa242VU9zQThKZVlGZEdUZUJPbi1lVVY4Q1psOXNxaW1jQkxhMNIBlAFBVV95cUxQOXhoLWhSci1qSU5XTHpYclFNTUd5V1NENzRzRksyS185Vmd3VDU4VmxtLUl1MFVtSktfRnpCUzE2RTFnMnd5TFIweHpKSjNITzVMMm9IUWlGMG9FMjl5enFYblFyb25wWHFFVjdCd1h6SFByVjlYQVphMDI4MlA3dE9jamR3N2ZBWlRDUURLOTFCMHRs?oc=5",
+   "published": "2026-11-24T13:51+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "TSLA",
-     "name": "테슬라",
-     "chgPct": -7.64,
-     "asOf": "2026-11-20"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-   "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+   "summary": "Nvidia Corp. (NVDA) Has Made Investors a Fortune — Is Now Time to Book Profits?",
+   "title": "Nvidia Corp. (NVDA) Has Made Investors a Fortune — Is Now Time to Book Profits?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1hLcnE1c2J5MGtkT2tBUUhrc2dIMVBNUmRCVEVqb3pVcGdzU2kxaE5qcXVIUTBPcml1Z216azh6NzdlWVVScjcyRG9oU0xwenVVZ0VwZFhKOTdkQXd5R0ZERkdSbExmcUxYaG5MMmR1RENRWkVDOFJ3ZHprOU5BOEg5TDBPRFR4UkpPLXQ2VjA1c3N3cVdseEtzVk0?oc=5",
+   "published": "2026-11-24T13:47+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Analysts comment on market impact of Huang's return as Nvidia CEO",
+   "title": "Analysts comment on market impact of Huang's return as Nvidia CEO",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXgxRklTc0hOZUZhWWF6aGg4X25fR0UxbVowVGdIRjFxOWctdmtPYTNUYlJjZnpTY2d0UEhqLWRnU3ViSkhFTkZfczlWVXFodndpZmUwNzhoTkpZZER1a3VfVlQ4U1dlYm5iM1BFNFNtc0lMUHVMRU1TTUMwVlc0WVlSSmRHWjVwVXdDSThLVXlxT05kUHBYd3QxOU1FVmZac3o4?oc=5",
+   "published": "2026-11-24T11:33+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar",
+   "title": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1JxR1VoMV9jVk9lU01KWDBrWUNKS0JNbkRRMEZBTEFZbmdQcjI2ZEY1a2dHS01GR2U2b05pbHg5aG03dHdxNElXTDEtU1pZV094TnJacFg5STJtSGNKSjRlRWlmbWd4ZHhDZ0tFNVNXNlVUUklBSjJDcFdMVU4zallLV3VFYUFxUnU3V3VsVXJWVDhPdzdj?oc=5",
+   "published": "2026-11-24T11:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
    "published": "2026-11-24T09:24+09:00",
@@ -126,85 +208,7 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200?",
-   "title": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFYSGdaSDRfU3FIOFFOaFpZS3I0UWNPRFdRcmJyb3NMdVFUaWE4aDBIMUdtUV9LTXFfMzVQTTFlMm9ZWVZ3NzRpQkllZzdGbFBGT2NLTWtFN1JjN2ZLWFdBMjMxVEl0UmdzcDh2bEtFaUZ5MnVJZ0lxYWE3c3J6MnJBTmk5WWJFS0Z2RjFleXU3T2NZZC04MQ?oc=5",
-   "published": "2026-11-24T09:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-   "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFR5anlER29CcG1wdDVENFVibFJfUUEwbVFXNkFHOGh1UmVXV29fYUI3bDVEWVhmd3V0THJnamhlZmtqQk9xWUpBNUpYR1U4UjdfUl9obWd3R2xiOHg4QnE3SXNYdWF3UHN1RXZBTUlJLTZNclBKbDhBaVlyVFRxTzNFU1hEQTc2ajdrSXpudU8tNXNyMHFKVHV6cjF0RTFVMERwX3RPX01Ha0FuWnRWdVJPbjbSAboBQVVfeXFMUFRoNFZKNDdjd1dLRFhlajQ5VGZLblJ6N0dja3dkMFZhQmFyTVhRR1R3aHRuV280Qk9mWHFmQlpaUXc5cER5czVXZy1FNVdvZnZpLUJfd1FLT2R2OHVQRXoyY1ZNVGl0bW81MUpEcmE3MTFBT2l3NEkyR3ZDSHJ3RW1STHN3cFZUY1hVb0x6M0k3NTRzT3pNRG1yTTVyUTQyWWR0Y3NmYURvZzNFTlJKaFVDVkFCVWNiYjJn?oc=5",
-   "published": "2026-11-24T08:24+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-   "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlVU2VRdnRlNnhCclpLeGFWdzRRS0NKQWpDcWNFYnBvVVpRTWowd2V0eGFNVU5ndElhLXR6SFVUUnVYQTlHTnZId3F2dGt2UWFiNDgtYUVLd0Q0ejZoS0NCTnhEaUtxczJPMDMtanhHODkzeG05Qm1lYWNkT0JqTmI5dnXSAYoBQVVfeXFMTzFzUEhwd2QzS3htT0FwNzU5NnlTbGF6WTdYbENqX2lLbkZHWUMtMmpOM2hEdVI2a3E0c3ZuQUNiWFB4Y1NkckhBeWVlWXlaM0JzeEtxZTlIdmdWOXhXeFo5UHpWNnVoQS16UE52YmRZVnlTdUN4ZWl6Wkg1c1dhRDdnR0lBUzNCZ09n?oc=5",
-   "published": "2026-11-24T08:14+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -14.01,
-     "asOf": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Why SK Hynix Stock Skyrocketed Today",
-   "title": "Why SK Hynix Stock Skyrocketed Today",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnlkbXdjRmNMeFhZbFFneUt1RnNTSzNzR1h1OGNLN2V6STNuTjllc1ltYW0yOE5sUXZYUUt2a0JzVVRtSDZYNTBSVGdSM2ZXdlNoMkh1YU9LOVY1STNRbnAwT0pnajN6VWZFRlNxaHV1Q1JtTDQ5VmNlV0lvSG9COWh0c3cxQ1dlVTI3YWR0RXEwMDV6NnlIOGI2OA?oc=5",
-   "published": "2026-11-24T07:56+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -2.52,
+     "chgPct": 31.48,
      "asOf": "2026-11-23"
     }
    ]
