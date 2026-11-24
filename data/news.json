@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-24T23:31:46+09:00",
+ "updatedAt": "2026-11-25T00:01:57+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
-   "title": "MySize Regains Compliance with Nasdaq Minimum Stockholders' Equity Requirement",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkdWTW94VG9oalRTS3U1ZHF3WU5yX3F4ajBhM0h1WGgxRDZOSW1JQWdvc0NKeGlMYTRWcDZpTnF2eDhRaGNkUU5hb19rTlBOdU0wWFltRC11ZmpwelUyRVNYTEk3VkV5SV85UEpIMnBrb2lIOF85RlBGME81RGN5a2czOGg0dzV0enRDNTJhOGpGbjA?oc=5",
-   "published": "2026-11-24T23:15+09:00",
+   "summary": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
+   "title": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjVubEEzRVdETjc4QnJ0eFpUQkNyYVpySkZNRW5RejdRT3ZER2hrUzI2ZlVsR3hnT0JYTzZjcTJuYlNaLVRuR0o3YVJFRmMwazlvOUtIeWRMLWVtQmlkbGctRFVnZV9aSnYwQjBNeERZZmR0RFpjSmQ3UzBkeDZqQXNfMk1GWDVtQmY3WVhwWVNNTmk0MzJRQzVkV3I3TlRa?oc=5",
+   "published": "2026-11-24T23:13+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -18,6 +18,12 @@
      "symbol": "^IXIC",
      "name": "나스닥",
      "chgPct": 6.51,
+     "asOf": "2026-11-23"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 3.01,
      "asOf": "2026-11-23"
     }
    ]
@@ -108,6 +114,46 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck",
+   "title": "Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYV9FZHRucDRsczJybVQ5cjY2aUFpMWhLT0MwOFBxT0poU0JGM3hFZEF2NEpBMk5xbHYzLVhZX3BUMktRSm5KclRyTWlhQUoyV2pvOHRQeWgxbkdnS0M0WUxqdjBYN1VQMjFJUm1xaEI0NldEbFh2VERZTmU2WWV3NWM0UjBQd1lveTIxVUZ0MEdPVldnWDZDQTVHR2FPeGRYOXFj?oc=5",
+   "published": "2026-11-24T23:45+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 31.48,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
+   "title": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTURxSE51WTNsbDhEQ2Fmc2lRNU4wYUY2TFBDM0h1dUM0NFhGemxUTngyVlpQaHZuRDhyeldqN3VDQ2FaRWpsT25QRFNfR2JTaFJOX3lRZmxacTJzQ1ZoSzh6QXZ6aV9YSGFBRGVrMnZYNVN6VENNR2ZDUVVRcFJNc0UtQ1ZKZFBZTVJfbHBVRmJLLURyVlRwaFAzeWM0a1dXSU9faF9mN0NEUDNTQlBR?oc=5",
+   "published": "2026-11-24T23:29+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": 13.63,
+     "asOf": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
    "source": "Yahoo Finance",
@@ -173,46 +219,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia stock dips after Jensen Huang CEO return",
-   "title": "Nvidia stock dips after Jensen Huang CEO return",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41RmxmODUxdE1RS0l2SDZrOFlPbW4tWmhLSHhMdFNVSDJHZDlvZnNrMnd6c05WMzRpcTFzV1lrQndvdW8tenNpNTVzQ0tSRU1mdWVlajczQjhySjQ?oc=5",
-   "published": "2026-11-24T22:50+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 31.48,
-     "asOf": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Why Is Micron Technology Stock Falling 6.4% Today?",
-   "title": "Why Is Micron Technology Stock Falling 6.4% Today?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGE5S0hLbDVuTTdnOEFJaEpEVDBqSVVzbUw0OWhGSmtBOTMyN1VGZjNOMXAyMlZfSVVMb2M0bVBvcXFhaDhWRU5GeTBia0h0ZlhIVzUtT0kwNmU5REhuYUpVcGVncl9LUGotdHZJek01eHE0Zlh4dExzOU1PZGp2dzNKYkZtbmg4c1dnamliTWhFenhmaFhLM0RkVU93emVxS3c?oc=5",
-   "published": "2026-11-24T22:37+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": 19.04,
      "asOf": "2026-11-23"
     }
    ]
