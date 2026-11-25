@@ -1,9 +1,51 @@
 {
- "updatedAt": "2026-11-26T00:02:52+09:00",
+ "updatedAt": "2026-11-26T00:32:16+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "HCA Healthcare, GoodRx 다운그레이드: 월스트리트의 최고 분석가 호출",
+   "summary": "Is the stock market open today, Thanksgiving, and Black Friday?",
+   "title": "Is the stock market open today, Thanksgiving, and Black Friday?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNl8xNGhhS3dpUUxtcmRpeEhhWlc3ekxiZUxsbHRXZExKWmdTNnpBbjJDUjBuMzJEM055dkx1MG11UW00VjJxN0ZxSVd0ZWFRVjRQU1hUU0V2aGRGTHR6NUV2WW5ZMHVhVjZEVGFLb2lpdTlST0VNX0UyZFJtX1pKbkJMaDY2NGhUQXJVQWtSdVd2NTN3WXBMRXRTbDlxQUhoR09rcUcwVUlrOU9WbENXLVpNdjFtcEc1ZmJfNXhwMWtzTXRzeGpQTXlxR2JHdDR2Y2c?oc=5",
+   "published": "2026-11-26T00:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
+   "title": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTRGMXBGUjhqMTQwb00weDZlMDQ3bVJNVkZ1and2LUZ1NDdabndGVWo2aEtadTlUYUYxNUNxM0k3aVVOWnkzS096R1R3b0hpVzRVUnhseDgydV9hajY5OHJfTkFjUEJSX21ZN2xralNpZWJLVUhqVXc3ekJrVWpMUnFpQnVoV3lOMXA5SUd2LU94dGNBNFNJbGh4aUZmdHRFbVJSUXhVb2F1UDFFb3BaekNaR29VbnlCNFVwaDdwNktaYWRUVElhTDdMOFQ?oc=5",
+   "published": "2026-11-26T00:09+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.48,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
    "title": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa29wLWxiMmgwSF9NbE5fZWo0YktkUTVQa2xQd2NPT3dtaVN2ajd1VXR3OEZHOFJNWWY0UE04RUZ6dHU4X2t3N2ZoYXlrdi1SRDZ1WDJoSGhBdGJ1UFp2ZWRRZGw5ZHNjMzA2N1NucWhrUmFyWGZUUXRUTEw4bFlQZVRkS3RiYUpxNldaZ2xBbWxsRUg1NG1SQUxXS1ZpMFRkZUxWeQ?oc=5",
@@ -24,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "기술주가 새로운 매도 압력에 직면하면서 월스트리트 선물은 급격한 손실을 지적합니다: Dow Jones, S&P, Nasdaq",
+   "summary": "Wall Street Futures Point to Sharp Losses as Technology Stocks Face Renewed Selling Pressure: Dow Jones, S&P, Nasdaq",
    "title": "Wall Street Futures Point to Sharp Losses as Technology Stocks Face Renewed Selling Pressure: Dow Jones, S&P, Nasdaq",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeExwZzNGV3QzT3NIZ1lUOThVQ2xzaHMwOTJfcUprNVRCRjdYNzFVY1V1QmZpQ2F3S09kV2tfTXdiVl9SeDlEby1QUVFlbU42V1E2S0hkMlRDLUc3WmpBbmd1N0NnQU4xNUZvdzdaclgtQldjbG81akhEYTQ5Q2ZxZ19mX2QyeGN6UTFDWlZUaVBrVVF6VlNIRlYxV1g?oc=5",
@@ -51,7 +93,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "나스닥 100 선물은 AI 지출 우려와 연준 금리 인상 기대로 인해 월스트리트 압력으로 인해 3.2% 하락: Dow Jones, S&P",
+   "summary": "Nasdaq 100 Futures Drop 3.2% as AI Spending Concerns and Fed Rate Hike Expectations Pressure Wall Street: Dow Jones, S&P",
    "title": "Nasdaq 100 Futures Drop 3.2% as AI Spending Concerns and Fed Rate Hike Expectations Pressure Wall Street: Dow Jones, S&P",
    "source": "Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSjJaSU1OTmFIc1hjR2FfcGE2U3RRTGVmWVFJN0JaMzc0dUc0azR3eE1nZGFsVXpEeGFLSjNpZm4xaEhTVWRlMnhjQk03UTFrVFdsVkJTMU9JeVZDV0czdlR4dDVRcUR2T3dSYWVwbUdrMVM3SVRtS2NXeEU5b3M?oc=5",
@@ -77,50 +119,46 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "수요일 주식시장에서 주목해야 할 10가지",
-   "title": "Our top 10 things to watch in the stock market Wednesday",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWxyYjNyckcwekhXRFp4eHZ5QlVFYWhMQzltZlhKZXBiU1dab251YnFiU2pHdFVzZHZuSlFaVXRpd253N0tadVpYcGtGeVJrTEpac3BJVG1rb0ZPMm9HZEdqRVlscHdhcVJxVmM5Z21aYjRtX1NSQlQ5em54dEJFN3lxaXZRbi1CMHU1SjBFcXZyTE9rcHZGMkwxZkhvVWVxOHRpU0RsT3RYem8?oc=5",
-   "published": "2026-11-25T23:15+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "SK하이닉스, 30일 만에 20% 하락: 월스트리트 전문가 두 명, 260% 상승에 동의",
-   "title": "SK Hynix Sheds 20% in 30 Days: Two Wall Street Pros Agree That 260% Gains Are Coming",
+   "category": "반도체 · 메모리",
+   "summary": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
+   "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFvQ09uTV9zMHdQYXZZLXFBTUNEMHhkVm9xcXhRWGlEUmVsOVFDcUtaUHByamh0TWx6elUyWkJ1TzVzcmtVYVcxNGg4U2h5YkZTVnVubDdfeVozYXZ4MklEcDhtRC1hWkZzVkhPRGI0bklKdjZaMkhUaVBESkJab1VPYmJvYW1GNk9TNXFn?oc=5",
-   "published": "2026-11-25T22:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlZmVDQwWmw3UTJadEl2TkdDc04zTENIS0NHSVh0eS1UdFBrSUc2cl81YjJmQ1NKODNqZFhWZldlSUdLYWY2MHJURF9td052clZQa2t6RnRQOXBWeVNZdDd1VllGRm1jZnhUQ2xGbnFBVElIcTJ6a1JLdndOalN1dUR3d2Q2VHpsTHFtVnhXdjRxZFI2bng1R3ZRT04?oc=5",
+   "published": "2026-11-26T00:08+09:00",
    "holdings": [
-    "dram",
-    "ram",
-    "samsung"
+    "soxl"
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": 6.73,
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -8.27,
      "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "투자자들이 AI 거래를 떠나면서 Nvidia, AMD 및 Micron 주식이 하락합니다.",
+   "summary": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
+   "title": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUtXWTRwbjJyUHJSeW96c01xRU5wT0hINTlCU0hhRXpIc2dQa2hhSkpSRkwyeW9YSFhHOGpPVVRTb0Z4Tzd1Z3cyaWV0NWM2emR1Qk5lTktDdnhwYVBsTWdnOXFsbDVnV2hMVDNQbVNvNFJGeUVrTno2eDZSZExtWjZfZVRKMGNjT3czM2xHSm1OUEtnSG1SN0F3?oc=5",
+   "published": "2026-11-26T00:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.86,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
    "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
@@ -147,7 +185,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "트럼프는 인텔 스타일의 Nvidia 지분을 떠납니다. 10%는 정부에 3,750억 달러의 비용을 발생시킵니다.",
+   "summary": "Trump Floats an Intel-Style Nvidia Stake. 10% Would Cost the Government $375 Billion",
    "title": "Trump Floats an Intel-Style Nvidia Stake. 10% Would Cost the Government $375 Billion",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnpscWdLQVRpOHNrVnh2N3ZtOHB6Ym0xNDdrMTFoTTdFU1RaeWh5WkFIcGhpSVNwYzEwcmFOQ3B1Q0ozc1hmck5jbDZuSmQ2TUlzVU5tdEZscnhUcHlhTEozck9QRXQ3ZkpxbGFYWGxDUXA3eGVZRU5id0N6eWhsZE13VVFIMGJqdUxmSlBXUjFkRlpPVGhvRTFkX0E?oc=5",
@@ -172,7 +210,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "DRAM 전망 약화와 새로운 관세로 인해 메모리 주가가 하락함에 따라 Micron은 7% 하락했습니다. SanDisk 7% 하락: Micron 및 메모리 주식은 이제 가치 있는 주식입니까?",
+   "summary": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play?",
    "title": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVJsOHU0U19rQXoydF81cTI2LXFGMGpnblRtTHdCMFpiZnpnZEZHRW0taEQyOXFKdXNmby1VYVVic0RTby00NThyaW8zYzNjRGJXeHZLVEQzWkIxUFYzeGZFTlRqdDItQl83X2UxeFZXVm9IYW9Hc0tmellMZFktb2hDbVhLZmlDZmg2OExSMHhKNklzanc?oc=5",
@@ -194,46 +232,6 @@
      "name": "샌디스크",
      "chgPct": -2.71,
      "asOf": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Scott Galloway는 Nvidia 주식이 \"연말에 상승\"할 것이라고 예측합니다. 6주 남았습니다",
-   "title": "Scott Galloway Predicts Nvidia Stock Will Be “Up at the End of the Year.” Six Weeks Left",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUVveHEtZHdDMGZkQU9OQ3F3TnhsVDBGWWVELXBWYVl1WjFuR2k1M2VEMEpTdUpxd0ZPX2Vkc0dGS3l3VzFpTTZVM2FxNVhtTG8tdVhIeEMtYUtMWWZJRHh5Z0VodWdsX2lhdkVRVFo5cy1INE05Y2VaRWNQSnVpWjFWRmVLWkpHTWtEVU5iQXdNaG1jWnFCWFYyWFRqcHVwUUpN?oc=5",
-   "published": "2026-11-25T23:05+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "마이크론 주식에 대한 합의가 바뀌고 있습니다. 투자자가 알아야 할 사항은 다음과 같습니다.",
-   "title": "The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDdMdFhtUF9jN20zTHZsZVBmQ2tncU1MODhRVzhHTkU1dGxuMmc3dGJaOUV1Z3d6dXlRa1RtUGJXWWJfR0htYkF2bzJfd3FaVWZHeHV2RlNQR1dIb1JRN0d6N1lHT25MUW8tc1hONEhLUVlNZXM3M1VQeG9zNGp0YVpLU2JfZEtrQTIwRTRiZ3JhYUM3NS16TkItaWlFUnRUblB0STNva3hhUQ?oc=5",
-   "published": "2026-11-25T22:10+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -11.01,
-     "asOf": "2026-11-24"
     }
    ]
   }
