@@ -1,6 +1,75 @@
 {
- "updatedAt": "2026-11-25T13:16:46+09:00",
+ "updatedAt": "2026-11-25T17:02:43+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "S&P 500, 나스닥은 2025년 4월 이후 최고의 날 이후 후퇴",
+   "title": "S&P 500, Nasdaq retreat after best day since April 2025",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySEpHZVNnSWdTQVJ2Qml1ZGlGZ3JuZURiUkFDblB4a2gxQXJ0MkVXOFFpRnVVTTUwZGE4NFBYb19kdWNBdDc0VTRkODZxaE1EYmd5cmVQM050Skk?oc=5",
+   "published": "2026-11-25T13:25+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.48,
+     "asOf": "2026-11-24"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "월스트리트의 후퇴로 인해 AI 주가가 하락함에 따라 아시아 주식은 대부분 하락",
+   "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2QySzBsY1otZVdUbC01elNWUno5ZThNcFpma1FlckUwUmRwZF81Q3I1S0VEblp6dXhSLW9LSk1udTFFRDBhS3VHaFNfMjZMYzBLR0prY2tpTksxQzFvZ1dEbDN0WWw2dWNES2FCWGlUU3oxams2b1RIbnVYbVhrNEl4S3NlWHI2X2JYcXBoUDd1WlZYdGtHV2JpVQ?oc=5",
+   "published": "2026-11-25T13:05+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Kymera Therapeutics(KYMR)는 월스트리트에서 16%의 엄청난 상승세를 얻었습니다.",
+   "title": "Kymera Therapeutics (KYMR) Gets a Massive 16% Lift From Wall Street",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2V4WG1zQlhvM3UxMUpBZ0QwLVA3djU3SXBoYTdGY19nUVNibFZEWEFoek9VNTdGSnRMNFZiX1ZwZk4zWk5acE83ODlJa2xud2E3ai1UWkFZM1NUWmpYZGxSMFBCUHZEVUMtVVJTRWt5MU9VeUJpRWtVUk1ScHJmMkRoNnFJcE9mZTJuUVRIUFd0dlZEU2dseDRScS1kZWs?oc=5",
+   "published": "2026-11-25T11:08+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Jensen Huang은 주식시장을 구할 AI '영적 동물'인가?",
@@ -50,44 +119,23 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "월스트리트 AI 매도가 아시아 기술주 전반에 파문을 일으키면서 SoftBank는 14% 하락",
-   "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3MzSVpVUmVHWUZvX0hLbENVM1oyN3VDUzhqcFRrRTg0TlZEQTNjeEtKektuOTJQM0RxT1EybW03MXJZRHhtZEg1bUtZTXN3Z0g1RUp2cHJTRmxjQW9GSjhIQnE1dVpBUzgtUkhaTFNOY0ppbDJPSXBFRmtxZVhyajlDZnE4UVViaFZKQXFCVXZCZXhz0gGaAUFVX3lxTE1OZTBPc2FtSElJNmVpYTZOTTJfRWUxVExZN1NSajNvbk1ORnRNSHg5RWxXQTVpVXJSVGhjZW8xdkRWQ25XSmwtdXhsV0Q0MGtyaTFzbXhfOC1WVHQ2M0lwdURjUm9QcDk4U1VvTV9oMHRBQ0JiMlJ1TFdJZWluWFdIbHRxeW05aVRYYWZlWGM5bW41Z0hmTThTV1E?oc=5",
-   "published": "2026-11-25T09:52+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "S&P 500, Nasdaq은 Nvidia의 거버넌스 문제와 새로운 수입 관세에 대한 논의로 AI 불안이 다시 나타나면서 하락 마감 — NVDA, DELL, TSLA, TGTX 집중",
-   "title": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs — NVDA, DELL, TSLA, TGTX In Focus",
+   "category": "반도체 · 메모리",
+   "summary": "SK 하이닉스(NasdaqGS:SKHY) 주식은 AI 수요에도 불구하고 할인된 가격으로 거래될 수 있습니다.",
+   "title": "SK Hynix (NasdaqGS:SKHY) Stock May Trade At A Discount Despite AI Demand News",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXpVa25QTGpzYXFUdHh4cEZHblQ4cVl3NmJCREo4U2VueldtcEcxb0RSb0NVeGtjRy1CY1VzV0JPYnI5X29LVXI0WTdKY3lmU090bnl5M1g3TkY3VWlRNUJwZXJyR3ZSbkVqT0ZiUTE4NzJnLVRWa0g2RmJBV2VQajVtdXdtUmNhWUl6QnlDZkM?oc=5",
-   "published": "2026-11-25T09:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJYQ1RYLXpqVTlfd2dqU0pjRmRtNkg3R2NTSnN6WUNUdUQzUXE0cDkyMEhuR3BHYTdOT0UzZTM0S1JJdmsyTHhQWnFHcmhnLTF1amhyblBLUG1DM0VjZVpFanJhdENVSnFWaFVlNmQyQXVodWJLb3p0SnJZczFnN3hNV0IwRGNsNFFKT211RzZuSFFvc0EzUw?oc=5",
+   "published": "2026-11-25T14:11+09:00",
    "holdings": [
-    "soxl",
-    "kodex-nasdaq100",
-    "qqqm"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -11.05,
+     "asOf": "2026-11-25"
     },
     {
      "symbol": "^IXIC",
@@ -98,52 +146,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "주식 시장은 Jensen Huang의 복직에 대한 초당적 분노와 관련하여 하락세를 보이고 있습니다.",
-   "title": "Stock market sees declines tied to bipartisan fury over Jensen Huang's reinstatement",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTlPUzhtVzZhNjlXTmNScXN6VWJ2bjJ1UDIxM3Jya1hwbFA5cjdqSUhvR01RV3FoRURZSDBheVYycEV1OTVRak9OSWpKV2V0RGVwU04xZkhiMGx4MjlKWVZ1U1NZdDh2V2tRTnN4dHZjMkx6TGx4WGRYSURSZWI4WURPTWM5ZnNJbmh0OEY4RTdleE5mQUNkcDBiT2pyRzRnU0tHdmNVd0dodw?oc=5",
-   "published": "2026-11-25T09:06+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia가 지원하는 Nscale은 AI 시장에서 클라우드가 350억 달러 규모의 IPO 계획을 매각함에 따라 전용 경로를 주목하고 있는 것으로 알려졌습니다.",
-   "title": "Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
+   "summary": "Nvidia가 주도하는 AI 랠리 이후 COHR 주식 변동: 1,500만 달러 규모의 내부자 매수로 주목",
+   "title": "COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOU1MVVhYcktVMnVtMDlBWXFvcHRTdWlsMWx4ZVVVTkVnU2tLdVpUUzJaLXpjcHZ0Mmd5N0pPb2d6OHVReEdiaWFRbU5aV0loZVdpS2xwdGNpSlFxTG4wM2ZQSGJGdGg4WkpOUVNQbXMxcTBWd1p3VlZtenUxQ2hZYjlvczVqTW1RM2p3WjFzZGpBUFNLMGlLbzg2YThadm13alE?oc=5",
-   "published": "2026-11-25T09:16+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) 주가, 뉴스, 시세 및 역사",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "published": "2026-11-25T09:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmw2aENNMGVKd2RITGd2dkpWQ3Z2YXNyWDItSm1oQjhkaHg1RngzUExQQTEtWEZQcVY0d285ZVRpOWhwUnFCTlNyYTNrQ1RjWHVCV2g3Vmk2Wk5nVjhNeDVBSTdXa1FSVC1GY3M4b3dJTkV3Ql9nSmt5ZEFVcnhjeUM4TTBDMzFiRHpvU25iX3Bqai1hYjVxVQ?oc=5",
+   "published": "2026-11-25T13:40+09:00",
    "holdings": [
     "soxl"
    ],
@@ -181,7 +189,7 @@
    "title": "'Fast Money' traders react to Nvidia shares retreating from Monday rally",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGh0RGRFenhyekJEdGJwVjF2emIwNl90bzFZeS1UcnR3LXhyUVNRc0N1T3JGX1BtWEVER1hfZUNOWFlOOFFaazBNTXlxZXRTdXMxV1NYSm1FVnRuVmVFUXhWUTd2Rm9DNWYzbVV1SlVtRE1BN0FTN0R2c0lYVkNNZkZ0N2tBQ1lfZUxYc0Y4aG95MV9BUHk0RncwUnMwNVc2elowelBOaUpqb09CalZ0b1F1Zw?oc=5",
-   "published": "2026-11-25T07:23+09:00",
+   "published": "2026-11-25T07:36+09:00",
    "holdings": [
     "soxl"
    ],
