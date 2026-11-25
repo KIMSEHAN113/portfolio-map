@@ -1,9 +1,72 @@
 {
- "updatedAt": "2026-11-25T22:10:54+09:00",
+ "updatedAt": "2026-11-25T23:32:31+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Jim Cramer Says Tuesday’s Stock Market Pullback Is Actually Good News",
+   "summary": "수요일 주식시장에서 주목해야 할 10가지",
+   "title": "Our top 10 things to watch in the stock market Wednesday",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWxyYjNyckcwekhXRFp4eHZ5QlVFYWhMQzltZlhKZXBiU1dab251YnFiU2pHdFVzZHZuSlFaVXRpd253N0tadVpYcGtGeVJrTEpac3BJVG1rb0ZPMm9HZEdqRVlscHdhcVJxVmM5Z21aYjRtX1NSQlQ5em54dEJFN3lxaXZRbi1CMHU1SjBFcXZyTE9rcHZGMkwxZkhvVWVxOHRpU0RsT3RYem8?oc=5",
+   "published": "2026-11-25T23:15+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SK하이닉스, 30일 만에 20% 하락: 월스트리트 전문가 두 명, 260% 상승에 동의",
+   "title": "SK Hynix Sheds 20% in 30 Days: Two Wall Street Pros Agree That 260% Gains Are Coming",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFvQ09uTV9zMHdQYXZZLXFBTUNEMHhkVm9xcXhRWGlEUmVsOVFDcUtaUHByamh0TWx6elUyWkJ1TzVzcmtVYVcxNGg4U2h5YkZTVnVubDdfeVozYXZ4MklEcDhtRC1hWkZzVkhPRGI0bklKdjZaMkhUaVBESkJab1VPYmJvYW1GNk9TNXFn?oc=5",
+   "published": "2026-11-25T22:45+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -11.05,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SharkNinja, S&P 500 지수에 합류 예정",
+   "title": "SharkNinja Set to Join the S&P 500 Index",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNendWZmp1aDhGUkpUSnc1SlctSV9yWUZwQ200UDBsbVd1aDAzQkV1SjVLR3hvalJCS0lUX2V4V2Z1SzNaUjZYN1JGUk1nZ2JCVFdqbHN1Nkd2OGhqejZwMHJVRWRnbUpQR19vTW5lNVFOdU92eEdSRFBFcWdOUjdnRTYzaDk1RC1hX25xdlVDWXZ5aW9E?oc=5",
+   "published": "2026-11-25T22:30+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer는 화요일의 주식 시장 하락이 실제로 좋은 소식이라고 말했습니다.",
    "title": "Jim Cramer Says Tuesday’s Stock Market Pullback Is Actually Good News",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHk2Sm1FX0YyM1VUWEp0SHNOVzVDYllxUTlZRjFUaVVlX1dBbDBDckxyVXZPNnNvdnFZZWdnSkxhX1dVajBsYUt4djJkYzYzcWdDYWFfNFZoR3Z5QWszY2N4Yk1tVWU4NE81SGY3emphY3hRYWhFVnpLNkRmLVBPenZWY1ZDNEFlSGYtQ3R4MWRDMWl0MnFNVWt3?oc=5",
@@ -24,7 +87,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Oracle Can Reach $240 in 2027: Wall Street Needs 4 Things to Happen",
+   "summary": "오라클은 2027년에 240달러에 도달할 수 있습니다: 월스트리트에는 4가지 일이 필요합니다",
    "title": "Oracle Can Reach $240 in 2027: Wall Street Needs 4 Things to Happen",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWhfeTlWa0o1ckM2eEVxdWFyWl8yNi00U2VpYUVUNnE3bkZRSDA5MDdVWGExc2Z4WWdYOVc5TU5ZRUp6eHlSUWxqXzM1SllnU1dseWZscjVyU3hZaUU2S1EyR2xZckxfSzVwTUZTRUcyREJiM2doOENBUlVuVzh5LTN0aEtkcTFrQUY2ak1nR2Z6VjRjX1E?oc=5",
@@ -44,94 +107,85 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies",
-   "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakd5YkhEMWtNbHc1eVYxX1RBU1JDY1U3MXdIZEVaR1pRUE04YTRJbDNfT2pxRFlYYURxS3ZzLWFOdjhaVGN4UmVoYTBXQ1ZxVFdiUkd4MHRfS25xbTlxcV9tQ2tlTmlkcUVhNkMwaUlMSk44NGE4dlgwTXJ1cWpfclY2bzh1amdGYW4tLTJWUHFoWkQ5R3JfZ0JVWG9iRUdGN0phWWNkWG5lSzRBaU9Ga2w0Qm9qc3NkU2h4TzZMaTB1aG8?oc=5",
-   "published": "2026-11-25T21:03+09:00",
+   "category": "반도체 · 메모리",
+   "summary": "DRAM 전망 약화와 새로운 관세로 인해 메모리 주가가 하락함에 따라 Micron은 7% 하락했습니다. SanDisk 7% 하락: Micron 및 메모리 주식은 이제 가치 있는 주식입니까?",
+   "title": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVJsOHU0U19rQXoydF81cTI2LXFGMGpnblRtTHdCMFpiZnpnZEZHRW0taEQyOXFKdXNmby1VYVVic0RTby00NThyaW8zYzNjRGJXeHZLVEQzWkIxUFYzeGZFTlRqdDItQl83X2UxeFZXVm9IYW9Hc0tmellMZFktb2hDbVhLZmlDZmg2OExSMHhKNklzanc?oc=5",
+   "published": "2026-11-25T23:13+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.48,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -11.01,
      "asOf": "2026-11-24"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -2.71,
+     "asOf": "2026-11-19"
     }
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "The S&P 500 Entered Correction Territory. Here’s What History Says Happens Next.",
-   "title": "The S&P 500 Entered Correction Territory. Here’s What History Says Happens Next.",
+   "category": "반도체 · 메모리",
+   "summary": "투자자들이 AI 거래를 떠나면서 Nvidia, AMD 및 Micron 주식이 하락합니다.",
+   "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkFjV2JqbkZkZjQtNWVsdkVwMXhSZ2QySFVtb2Z4eGdWckVZNE93bGszOS1aOXQ1SlRCb21rTnVjUmlGakRhWTFrbXVXcXdPX1JfTmYwT2VwTlZ0OVhWZEpIOGVlU2s4dkk0YjYzNkdGRUxMN01iNkRWdF90MUlCM0dKb2N5SmxKWTVoNkV2WHpOMmVmM2cxeXVMZGpzY1pk?oc=5",
-   "published": "2026-11-25T20:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+   "published": "2026-11-25T22:45+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -11.01,
      "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Dell stock tanks after blowout earnings. Wall Street Just Isn't Impressed.",
-   "title": "Dell stock tanks after blowout earnings. Wall Street Just Isn't Impressed.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT29kMGwwZHNqZTdpeW5sMG5WMVZCMGhNX0lrcUV6cjJybG9lald0U0FQUnNRb051U1pwcElxczR1MGJfcFNHU1UzdnNRSmJaVktadFlMVTZLOGw2UURJQ2xhNmxPUExRNzh1TlZydXlGXzlDb2NpdkprVnFpTW5aRkwtUTF0ck9rcEpfNl9XRU03RTE1emhtTW1FLVF4X0ZsSzZFdHEzbHBRRmhJS2lLZHp2aWZwbUFWMHNUQzU5R2lkT2dmTzdLdGJ1aVFSV1FD?oc=5",
-   "published": "2026-11-25T19:30+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -5.86,
      "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "US Semiconductor Stocks Extend Losses as AI Investment Concerns, Tariff Risks and Rate Expectations Weigh on Markets",
-   "title": "US Semiconductor Stocks Extend Losses as AI Investment Concerns, Tariff Risks and Rate Expectations Weigh on Markets",
+   "summary": "대만 반도체 제조업은 고점 대비 거의 30% 하락했습니다. 특가 구매인가요?",
+   "title": "Taiwan Semiconductor Manufacturing Is Down Nearly 30% From Its High. Is It a Bargain Buy?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHZMOTU3Q0l3aXlRSi1WdW1kVkVxZWo3WW1uRGZSRTlTOEFfTjliZzB5ck1fdEhXdXNrVk94ZGVhOXBmVW9KcU5zQ2l4V0l6N3Q4T0xwNVJhY2R6TFNNNzdWYXN5NVI0RHYwQnY3NUxkbFUxQlJpdGdwTkFjU3pIUGVXc24zT1lvTkQzaVVtWWhycVJ0eWRwQldKakU3bFE?oc=5",
-   "published": "2026-11-25T20:34+09:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUG1CLWd6UFFmUUhnN3FheVlWZzFRd05DeFk2TFVsTlBoYzBJbzYzYkdoTlk4RlRUWFc1eFZEdGJJRWJnRUlWcmd1dmU2ekVCeUp0RnNmbFlJMWZMUFdFSVFQNkJoRnB2Z2NoNzlBYzlGcUJLVVVqakVzQ3BHWm9BaDVNaFVPNUNyMHRVUjkzTGZKRG9aNXdnUDhoUERtUFd1X01rWjRJaFpXNjRMSDRNUQ?oc=5",
+   "published": "2026-11-25T22:00+09:00",
    "holdings": [
     "soxl"
    ],
    "moves": [
     {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -8.27,
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -3.96,
      "asOf": "2026-11-24"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Buy, Sell Or Hold Nvidia Stock After A 31.5% Day?",
-   "title": "Buy, Sell Or Hold Nvidia Stock After A 31.5% Day?",
+   "summary": "Nvidia는 여전히 시장 가치가 2조 달러에 달하는 문제에 직면해 있습니다.",
+   "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1kxVExEaEhqRnpabkQxQ2ZMbWlsX1JmbHREQkRFX01xQ0tjaHJFZXlxZEo1ek1vNDhiNUxqV3FCakZtU3o3WGN0QzZObTI0bWliM3FVLXZoenhOZ2pCenJmWklmRng0aVJJM3ZvUDk3UTEzVmNXM0ltVFRmN3BtOVBCa1VLVzlpTlVtX2J5YjExalk3YWc?oc=5",
-   "published": "2026-11-25T20:23+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXZEelVsdlBnMkdGVy1jUGx2bVJUdHNETHZ0V1c0UGxMcG9hcThRa3NDQjJTUTU4UG1hR2JCRkplRDUwODF0Tm5XQ2VzcDR5YmhlU21rOUJVal8xanhPUnExYm1waS0tZGYtRWM5emZyY0F0RGRWT0dUc18yVm9WSXoyei05SjNyQVJMZ0F1MTJzYldNMGF6YWZFZw?oc=5",
+   "published": "2026-11-25T21:20+09:00",
    "holdings": [
     "soxl"
    ],
@@ -146,58 +200,28 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang",
-   "title": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5",
-   "published": "2026-11-25T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Trump cites his own Nvidia stock as a reason the US won't buy into the company: 'I don't want to sue the government'",
-   "title": "Trump cites his own Nvidia stock as a reason the US won't buy into the company: 'I don't want to sue the government'",
+   "summary": "AI가 침몰을 두려워하면서 Huang Boost가 빠르게 사라짐 TSMC, SK 하이닉스 주식",
+   "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGU2R0hWSFFONTR2SXdfWUh5c19wbFFvakNJRkcyYmRxeGNNanFjcDR6THBrcWhDTEFuVEgtczNCYW1hWWFsemtpb25tZmJCZ255MWpjYU9VNnFVclRkY2x6eVNRN1gzQlJGaEJWbTFJMTBkUGUyUG1EaUtnblVXVXgyeWJLemVrbFJERVJqMGdibGFzTmxRQw?oc=5",
-   "published": "2026-11-25T20:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnVQX0EyNnpsTDJhNldDLUZpQWh2am54cXVKTlN1LTVidU50TkZPVFh0UzhZUmpfQno3UHlWaE5qcW9IaFlQaUdXcWFjNjVkVWdCX3VBYXBQMllvY2hoTEFOWVFBQl9qQVhnMXRvNExRTHVzbjIwUVMzNzBpMFlaVmZ0cXNLbW42eXFaVWxmWHlMcVNJeDJfdw?oc=5",
+   "published": "2026-11-25T21:19+09:00",
    "holdings": [
-    "soxl"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
+     "symbol": "TSM",
+     "name": "TSMC",
+     "chgPct": -3.96,
      "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
-   "title": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHFqVC1sVmpKQ2p3NkZtXzFHd01TckVvZ2pTV1ZBQmVPcmMwNmJMeUQ0LWFPYjY1ZFpEajJ3RnhnXzE1dnhZbmZ4Y0tTSXplX0NmanRpLWNVNE9HYmlSeTBNNXdrVHRtTkFkSDB5LVRnd3RXQ1VVcVdEZUhkTzV4REJMTFpRZVJFSk5SYTNoVl9DSjFyMVR0cmJkYlBXZ0NHeEhnR3E0QVEyZ01yTkx0S2ZpeVUzWmdBNnY0RmdBb2JVdU1SQi1ITy03WGt2ZjUzNHZFZHRHdndzbnpBSXZsYVJmLVlCanZWSU1naTVRUjVpai1P?oc=5",
-   "published": "2026-11-25T20:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
+    },
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -11.05,
+     "asOf": "2026-11-25"
     }
    ]
   }
