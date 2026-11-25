@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-26T00:32:16+09:00",
+ "updatedAt": "2026-11-26T07:43:14+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Is the stock market open today, Thanksgiving, and Black Friday?",
-   "title": "Is the stock market open today, Thanksgiving, and Black Friday?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNl8xNGhhS3dpUUxtcmRpeEhhWlc3ekxiZUxsbHRXZExKWmdTNnpBbjJDUjBuMzJEM055dkx1MG11UW00VjJxN0ZxSVd0ZWFRVjRQU1hUU0V2aGRGTHR6NUV2WW5ZMHVhVjZEVGFLb2lpdTlST0VNX0UyZFJtX1pKbkJMaDY2NGhUQXJVQWtSdVd2NTN3WXBMRXRTbDlxQUhoR09rcUcwVUlrOU9WbENXLVpNdjFtcEc1ZmJfNXhwMWtzTXRzeGpQTXlxR2JHdDR2Y2c?oc=5",
-   "published": "2026-11-26T00:14+09:00",
+   "summary": "Wall street recovers most early losses as pullback in AI stocks eases",
+   "title": "Wall street recovers most early losses as pullback in AI stocks eases",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
+   "published": "2026-11-26T07:10+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -17,39 +17,39 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
-   "title": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
+   "summary": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTRGMXBGUjhqMTQwb00weDZlMDQ3bVJNVkZ1and2LUZ1NDdabndGVWo2aEtadTlUYUYxNUNxM0k3aVVOWnkzS096R1R3b0hpVzRVUnhseDgydV9hajY5OHJfTkFjUEJSX21ZN2xralNpZWJLVUhqVXc3ekJrVWpMUnFpQnVoV3lOMXA5SUd2LU94dGNBNFNJbGh4aUZmdHRFbVJSUXhVb2F1UDFFb3BaekNaR29VbnlCNFVwaDdwNktaYWRUVElhTDdMOFQ?oc=5",
-   "published": "2026-11-26T00:09+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
+   "published": "2026-11-26T07:06+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.48,
-     "asOf": "2026-11-24"
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
-   "title": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
+   "summary": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine?",
+   "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa29wLWxiMmgwSF9NbE5fZWo0YktkUTVQa2xQd2NPT3dtaVN2ajd1VXR3OEZHOFJNWWY0UE04RUZ6dHU4X2t3N2ZoYXlrdi1SRDZ1WDJoSGhBdGJ1UFp2ZWRRZGw5ZHNjMzA2N1NucWhrUmFyWGZUUXRUTEw4bFlQZVRkS3RiYUpxNldaZ2xBbWxsRUg1NG1SQUxXS1ZpMFRkZUxWeQ?oc=5",
-   "published": "2026-11-25T23:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0dTZnFiVE9FYTRQZ25vWUgwYU5ickpIYU5vNVYtVGUtVzdOUFBuTGhPbmJ2b0tGeFRNWk8xa0xWMVUyaWFXeDFhcjhOY2l1cncwaVlhTVJRY1Q5dThyMi1LN3Z3N0t3aXhhVUUyeXgzQklzYWtKcTZQQW0wMnB0MzVDQzBESTlBb2pLd3BzRExmbU83?oc=5",
+   "published": "2026-11-26T07:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -59,18 +59,45 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Wall Street Futures Point to Sharp Losses as Technology Stocks Face Renewed Selling Pressure: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Point to Sharp Losses as Technology Stocks Face Renewed Selling Pressure: Dow Jones, S&P, Nasdaq",
+   "summary": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+   "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
+   "published": "2026-11-26T06:20+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.62,
+     "asOf": "2026-11-25"
+    },
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
+   "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeExwZzNGV3QzT3NIZ1lUOThVQ2xzaHMwOTJfcUprNVRCRjdYNzFVY1V1QmZpQ2F3S09kV2tfTXdiVl9SeDlEby1QUVFlbU42V1E2S0hkMlRDLUc3WmpBbmd1N0NnQU4xNUZvdzdaclgtQldjbG81akhEYTQ5Q2ZxZ19mX2QyeGN6UTFDWlZUaVBrVVF6VlNIRlYxV1g?oc=5",
-   "published": "2026-11-25T23:22+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
+   "published": "2026-11-26T05:04+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -80,51 +107,43 @@
     {
      "symbol": "^IXIC",
      "name": "나스닥",
-     "chgPct": -1.48,
-     "asOf": "2026-11-24"
+     "chgPct": -0.62,
+     "asOf": "2026-11-25"
     },
     {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.85,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq 100 Futures Drop 3.2% as AI Spending Concerns and Fed Rate Hike Expectations Pressure Wall Street: Dow Jones, S&P",
-   "title": "Nasdaq 100 Futures Drop 3.2% as AI Spending Concerns and Fed Rate Hike Expectations Pressure Wall Street: Dow Jones, S&P",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSjJaSU1OTmFIc1hjR2FfcGE2U3RRTGVmWVFJN0JaMzc0dUc0azR3eE1nZGFsVXpEeGFLSjNpZm4xaEhTVWRlMnhjQk03UTFrVFdsVkJTMU9JeVZDV0czdlR4dDVRcUR2T3dSYWVwbUdrMVM3SVRtS2NXeEU5b3M?oc=5",
-   "published": "2026-11-25T23:21+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.48,
-     "asOf": "2026-11-24"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.85,
-     "asOf": "2026-11-24"
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
-   "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
+   "summary": "Market strategist reveals how Nvidia hearings will sway market direction",
+   "title": "Market strategist reveals how Nvidia hearings will sway market direction",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Nm5CODZISlFKMjZYakNUb191RnVEV2tsYnhPUFVpU2xIUkNKUmQ5c1A5WWY3SG5RQUdxOE9jM1VDVjlTbllLaWh4VFB5R3piNUVpbHVBT1BsNUk?oc=5",
+   "published": "2026-11-26T06:53+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "The $2 trillion chip rally is unraveling — here's what history says comes next",
+   "title": "The $2 trillion chip rally is unraveling — here's what history says comes next",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlZmVDQwWmw3UTJadEl2TkdDc04zTENIS0NHSVh0eS1UdFBrSUc2cl81YjJmQ1NKODNqZFhWZldlSUdLYWY2MHJURF9td052clZQa2t6RnRQOXBWeVNZdDd1VllGRm1jZnhUQ2xGbnFBVElIcTJ6a1JLdndOalN1dUR3d2Q2VHpsTHFtVnhXdjRxZFI2bng1R3ZRT04?oc=5",
-   "published": "2026-11-26T00:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTItRThMZmVpLXZjUHotbGRmUFBMT3MwQnJBWjBKX2NOeHBRQlBwbnY0VFh3Z05vekN5RzhHdHlkQjcyaXNtdGZUU1hZSXM5b0c3NjBaY0lhTFlhWk1oS0xCYnZ0NmZscWo3ZEE0VFFZalJVZ0xwMFFHUlFjejVteWVVQ0ZmUndQWXhJa0FqOFRDdld2dndpR0RHSHp3bnFXNTdHUkN0UHpQTl8zRHVJWmg0bG1JSkVtUmxJM1RiMnRpUlNGRm8yU3Q4RkZldVRuSTc0bTNn?oc=5",
+   "published": "2026-11-26T06:28+09:00",
    "holdings": [
     "soxl"
    ],
@@ -132,18 +151,18 @@
     {
      "symbol": "SOXX",
      "name": "반도체지수",
-     "chgPct": -8.27,
-     "asOf": "2026-11-24"
+     "chgPct": -0.5,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
-   "title": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
+   "summary": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+   "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUtXWTRwbjJyUHJSeW96c01xRU5wT0hINTlCU0hhRXpIc2dQa2hhSkpSRkwyeW9YSFhHOGpPVVRTb0Z4Tzd1Z3cyaWV0NWM2emR1Qk5lTktDdnhwYVBsTWdnOXFsbDVnV2hMVDNQbVNvNFJGeUVrTno2eDZSZExtWjZfZVRKMGNjT3czM2xHSm1OUEtnSG1SN0F3?oc=5",
-   "published": "2026-11-26T00:00+09:00",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1B3bHNsUzdYc1J2TWdmZXpoVHhNOV9RZzN1NV81WVpRZklfZXNQbUZqcmVoLVhuSkx5MWxvVVBUQlQ0WDliU2xoMkZycU9GTjBaeFhyNGxNLWhEUzBlVEFWWk1ITzgxUlhjM0h0OFNaS2tUcjN5S3RYQTdWSFRFR2Z0UFJyN2lJUmlyS2Rmb19YYTR2eHMzUy1TamhTN3VMWkx6aWJqUTNOa21zSzVZMUVMNjdjYnNzR1lCZFVR?oc=5",
+   "published": "2026-11-26T06:28+09:00",
    "holdings": [
     "soxl"
    ],
@@ -151,18 +170,18 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
-   "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
+   "summary": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
+   "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
-   "published": "2026-11-25T23:41+09:00",
+   "published": "2026-11-26T06:18+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -172,49 +191,24 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -11.01,
-     "asOf": "2026-11-24"
+     "chgPct": -4.53,
+     "asOf": "2026-11-25"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Trump Floats an Intel-Style Nvidia Stake. 10% Would Cost the Government $375 Billion",
-   "title": "Trump Floats an Intel-Style Nvidia Stake. 10% Would Cost the Government $375 Billion",
+   "summary": "SK hynix (KOSE:A000660) AI Memory Narrative Puts Valuation Back In Focus",
+   "title": "SK hynix (KOSE:A000660) AI Memory Narrative Puts Valuation Back In Focus",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnpscWdLQVRpOHNrVnh2N3ZtOHB6Ym0xNDdrMTFoTTdFU1RaeWh5WkFIcGhpSVNwYzEwcmFOQ3B1Q0ozc1hmck5jbDZuSmQ2TUlzVU5tdEZscnhUcHlhTEozck9QRXQ3ZkpxbGFYWGxDUXA3eGVZRU5id0N6eWhsZE13VVFIMGJqdUxmSlBXUjFkRlpPVGhvRTFkX0E?oc=5",
-   "published": "2026-11-25T23:28+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -5.86,
-     "asOf": "2026-11-24"
-    },
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -8.15,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play?",
-   "title": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVJsOHU0U19rQXoydF81cTI2LXFGMGpnblRtTHdCMFpiZnpnZEZHRW0taEQyOXFKdXNmby1VYVVic0RTby00NThyaW8zYzNjRGJXeHZLVEQzWkIxUFYzeGZFTlRqdDItQl83X2UxeFZXVm9IYW9Hc0tmellMZFktb2hDbVhLZmlDZmg2OExSMHhKNklzanc?oc=5",
-   "published": "2026-11-25T23:13+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTdYeVJiSjNDLUZqeXFHYjdIRFk2ZTdTY25KcjFlQm9DSzZUWFoxei16SkgzbWY4STBXTDl3Mk9nN19lTEtjWXFOMWtndWQ3RTF0dDJwM19PU0FOdW5qNnM2VXhRRGZnSEhrXzdBdlFONHMzY3ZXOFV1TDNuNmItVE94czU4NGlaVHJubEFUZXZrMW8?oc=5",
+   "published": "2026-11-26T06:14+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -222,16 +216,10 @@
    ],
    "moves": [
     {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -11.01,
-     "asOf": "2026-11-24"
-    },
-    {
-     "symbol": "SNDK",
-     "name": "샌디스크",
-     "chgPct": -2.71,
-     "asOf": "2026-11-19"
+     "symbol": "000660.KS",
+     "name": "SK하이닉스",
+     "chgPct": -11.05,
+     "asOf": "2026-11-25"
     }
    ]
   }
