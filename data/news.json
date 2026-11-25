@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:00:34+09:00",
+ "updatedAt": "2026-11-25T09:32:33+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -18,6 +18,54 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "SharkNinja (SN) Joins The S&P 500 As Fair Value Debate Heats Up",
+   "title": "SharkNinja (SN) Joins The S&P 500 As Fair Value Debate Heats Up",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkNPZzlKRGR6dGZjOG9JMGxDZEcxWDFBUEdLRkhGRFdrTEt5WUdZeUU4NGJvSUQ0N3kzbUdUajJOYVRnWGhpQUE0aVJfNTlCQ01xZExORXZnMzVZbktjazBIdnZBX2lmN0xmaktadjRGS1VJZER1QkNaZ1k0RXJYM2NWeS0yd29tb282NS1naVc0OW4x?oc=5",
+   "published": "2026-11-25T07:14+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+   "title": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGtvc1R6Y1RvSXFZeW5KTVdmOUkzMnE3MEFvNWt6UTJkSi1pUDZTSWs4YzdvTk5DR1NLYmtVOHBZOWhRY1NwVXZUVEVKOWNGeHpySXlpOF9qcmo5YllkTWpvb1MwRi0zOUEtbDFpQUJnMmdSUXZWSWhjdVhVOVZlbzhmUHhzQlZSRms3T2otRlV5YTlv?oc=5",
+   "published": "2026-11-25T07:11+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -1.48,
+     "asOf": "2026-11-24"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 0.85,
      "asOf": "2026-11-24"
     }
    ]
@@ -65,54 +113,12 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "Are short sellers driving Wall Street's wild swings?",
-   "title": "Are short sellers driving Wall Street's wild swings?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3U4ajRNVjAyajJVNmh0aWJXMkYtano4LUFCdThHRmhVbjF5el9sU0paMHo0N2tmV3JxSWlCaGU5LUdWeXpoUVVBQU5STUhCLXd3QVNiUFVHcE9ZR2JURXFYem11bWJ3bmdlNUFHZkZYc3BsenhLbXlCaHM5UHZfdHhoQkNPZC05X28xNDBjYng3Zk0xTFVZX2REUmF1QQ?oc=5",
-   "published": "2026-11-25T04:37+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.5,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Anthropic Shares Fall Below IPO Price Days After Nasdaq Debut",
-   "title": "Anthropic Shares Fall Below IPO Price Days After Nasdaq Debut",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODJQaENpemFQX2tMYWZnNjhuOS1PUzJ0c1VTS2tPVjV1NktHeWJrVnhOUU1ydkdESjdpbVAtelNlSk1WclhpUlpydEpVT0pXaklsN29jRTh6VURiZU1CSVRoZFE3cUxVRlEteXE2RXBnVnA0ZGMwRzRRbklmRHRQbWI4QzVWWWk2TG13NWEtSzMxYV9WcUlxNkxuV3E?oc=5",
-   "published": "2026-11-25T03:19+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.48,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia’s $4 Trillion Board Is ‘The B Team,’ Says Former CIA Officer",
-   "title": "Nvidia’s $4 Trillion Board Is ‘The B Team,’ Says Former CIA Officer",
+   "summary": "Nvidia's Huang says he is in therapy as comeback rally fades",
+   "title": "Nvidia's Huang says he is in therapy as comeback rally fades",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakhZNGVkdjc3dTR6dGZ2aE9DdUM0ZkpkZjVFd2NWVHhMRHVfek0xV2t5U3lpTHF6T090X1RzcEkyTW9PaEs4QVNVaW5uWjhqNzRuWEl3YVVmT1BXZVJ3Zm0zQjNiZEg0RlVPV1M5bWdqRHotbm03TngtZnl6c1lGRTVuNnJpdDRXLXpnZDJyWEpXR1ZN?oc=5",
-   "published": "2026-11-25T07:32+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXdYc3EtZFZCV3k0c29LZFZ1Q0g5djdYTjNsWml2RS1UYnYwQ0VFdHZ1SmdOOTF0Sk8xZVNieDNCTXFZeTFVN1p5LXFocXRyWWw3YzN0VjFfS0NUdHBTNnJ0MjBkTFc4bXF0MU1GU21GY3ZuSWFaSXlMX25nNXpfTTlQd3p5YmlLYVpFWTRJMnNGSXZqbWYyNmNkOFZkOWc?oc=5",
+   "published": "2026-11-25T07:01+09:00",
    "holdings": [
     "soxl"
    ],
@@ -165,11 +171,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
-   "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa080M09UTThMak8tMmItczlCb1RxZkEybElIVmNRZ0RKRDJqaUQ4dlRaaVlYUEl0dzI2cEI0Zkx2X0pQand6UlViQmg1NVg1RGZGSnpXTnZfUThvUHcyWGlMVkJaWGxrMlZRUjFwYXlaYXlPREhoVmFpMWw0MHBQaWFpNlpaNWtMMmktaDFwdEFQMThrZmpiWDItXzhsc2Uyb1pjMg?oc=5",
-   "published": "2026-11-25T04:02+09:00",
+   "summary": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
+   "title": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFEwYWFtVXI5SVlNTmpJY1N4c3JEUlh6UFprUTlYOVdaSk5fSXdYN2dlbVFyWHpLd3lJY2NXQnViZmZYVGVfSVFyUkw4akYza056ZWVJdmpQTkJUc3VVdkhFalNYQmRxV2prbG9BMUhNNmE4RDB5YThxaGhIN1ZQMkNaTmZvUVk3TW81aERqeUd1QmNEVE0zNDl5NFhSMDRT?oc=5",
+   "published": "2026-11-25T03:50+09:00",
    "holdings": [
     "soxl"
    ],
@@ -184,11 +190,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
-   "title": "T. Rowe Price’s Tony Wang on the risks surrounding Nvidia stock",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFEwYWFtVXI5SVlNTmpJY1N4c3JEUlh6UFprUTlYOVdaSk5fSXdYN2dlbVFyWHpLd3lJY2NXQnViZmZYVGVfSVFyUkw4akYza056ZWVJdmpQTkJUc3VVdkhFalNYQmRxV2prbG9BMUhNNmE4RDB5YThxaGhIN1ZQMkNaTmZvUVk3TW81aERqeUd1QmNEVE0zNDl5NFhSMDRT?oc=5",
-   "published": "2026-11-25T03:50+09:00",
+   "summary": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
+   "title": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnh4d3hqQ0NIRlRYMnBBQ3c0TmxCS3ljUC1iaGVQU0tfSnd0Mm9CTjQtTlp0YWhZNWFtdk5PQ0JGbXlZa241SVg1NDlmRGlZY1paT1RZdnM3YVRfRmpNQnVkT0hrbjg2UnFqc0RvT1ItdkhZSVFhVkd0WGNYRXBDZUNUdWV3VDF1MFlFMDM5azgxQUZiTFBjcnRoNVo0bHpq?oc=5",
+   "published": "2026-11-25T03:35+09:00",
    "holdings": [
     "soxl"
    ],
