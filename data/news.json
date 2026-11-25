@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-25T21:34:55+09:00",
+ "updatedAt": "2026-11-25T22:10:54+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Jim Cramer Says Tuesday’s Stock Market Pullback Is Actually Good News",
+   "title": "Jim Cramer Says Tuesday’s Stock Market Pullback Is Actually Good News",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHk2Sm1FX0YyM1VUWEp0SHNOVzVDYllxUTlZRjFUaVVlX1dBbDBDckxyVXZPNnNvdnFZZWdnSkxhX1dVajBsYUt4djJkYzYzcWdDYWFfNFZoR3Z5QWszY2N4Yk1tVWU4NE81SGY3emphY3hRYWhFVnpLNkRmLVBPenZWY1ZDNEFlSGYtQ3R4MWRDMWl0MnFNVWt3?oc=5",
+   "published": "2026-11-25T21:22+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.5,
+     "asOf": "2026-11-24"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Oracle Can Reach $240 in 2027: Wall Street Needs 4 Things to Happen",
@@ -81,27 +102,6 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": -0.5,
-     "asOf": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus",
-   "title": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-   "published": "2026-11-25T19:08+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -1.48,
      "asOf": "2026-11-24"
     }
    ]
