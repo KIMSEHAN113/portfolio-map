@@ -1,76 +1,13 @@
 {
- "updatedAt": "2026-11-26T12:37:17+09:00",
+ "updatedAt": "2026-11-26T22:10:58+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Trump blames midterm election results for stock market volatility",
-   "title": "Trump blames midterm election results for stock market volatility",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzVRQ1hnM3hvQy14d1N4eFpEWjJxMWtwWVREdG5POTAzdDY5NU5iMXh3T3VwTmk1ZTVqdUpvT090V0RIYUdrQ2ZHVVVUZG9WLWVIdk5Ka3lDNC1RWmxqMkg5LWFUMUUtUjhJVnRaYXlaTUxLZ2FZZUVvNGsyTF9kTWJJSGRxcTBxQTVTRVlzMFJLMlRmaDJTLWs2VkN3eDFIZm9PQg?oc=5",
-   "published": "2026-11-26T10:37+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Trump blames volatile stock market on midterm election results",
-   "title": "Trump blames volatile stock market on midterm election results",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHBMRWFlN3o0QTZTZjEyQUUtazFzcFN5N3ljemVBYUxVVnJpVXU2VXFTXzF1UDZYSUpDaTdLcnhfbWZveXl5OEJhV256NVBYU1diek5hc2tFNWFEd2NvNV9sLXJ3ZkcxajFCQWt3WXVyUW1ta2dpT05MNmJMNVFQazRrcjFHMkxFVm85ZGpKQ2lmR2E0?oc=5",
-   "published": "2026-11-26T09:12+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "summary": "월스트리트는 혼란에 빠졌습니다. 추수감사절을 망치지 마세요.",
+   "title": "Wall Street is in chaos. Don't let it ruin your Thanksgiving.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
-   "published": "2026-11-26T08:20+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street recovers most early losses as pullback in AI stocks eases",
-   "title": "Wall Street recovers most early losses as pullback in AI stocks eases",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
-   "published": "2026-11-26T08:05+09:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHNtN0FMdy1Benl2VHVMLU4xUFpORWs1ZDBieVZUYjZDTlVNbFI3TUF2RzVOYmV1SGd1UGE5anYtQXR5Wk5aUHVWeGx1M3Q5Y3ltVEgzbG16SVdCTGRSekFLaGVXUnF5Tmtta195bmxIeGxnbVprT0Roc0M1X2pkazRLa1BsT1VzUlZrcjBsVVZIRWwwS0Uzc2R5b1hOcjZxdC1PZ2ZoWE43TjZLcDhfUVZpbkpBQQ?oc=5",
+   "published": "2026-11-26T22:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,32 +24,95 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Scilex Holding Company Announces Receipt of Notice from Nasdaq",
-   "title": "Scilex Holding Company Announces Receipt of Notice from Nasdaq",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVk3UmhfYk5ZS1BsUmQ5bjU4S01oSmE4UGsxSy1aeTJyQlhNXy1ra3I1blROQzZCcXk2cmtwQ2FqN0NQRE1OVUhWTUF3dUJPRVJZSmlZOVVRWFFXeHVEMnF5UHN5TnZsRXA2WXBEUElGRFFlQ3FianhuTl8yRUVlbDBzekhJdWgwS2RCN1pKVDQxc00?oc=5",
-   "published": "2026-11-26T07:20+09:00",
+   "summary": "워렌 버핏은 저축자들에게 \"시장이 하락하면 기뻐하라\"고 말했습니다. 2000~2002년 약세장 이후 S&P 500은 5년 만에 두 배로 올랐습니다.",
+   "title": "Warren Buffett Told Savers to \"Rejoice When Markets Decline.\" After the 2000-2002 Bear Market, the S&P 500 Doubled in 5 Years.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTjYtSWI4dkdTOGttaUoxT0ZwVnNfZWNEcjN5S2xncXV4MnRpRmEyM0FWN21vUUNuUE1UdjUwRkJ6UVB1anJVc3FfQ01uc2VNYUFxNUx3TUhaSHd4Z1lhSFJvcUNIXzdrVGNiRzRZa0hpeVlBUkx2RkZweG9Cd29TZ3lNTWEwOERaVVl3ZmE4SnFSX0drTHJZU3pFNmREbERJ?oc=5",
+   "published": "2026-11-26T20:49+09:00",
    "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
    ],
    "moves": [
     {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "주식 시장의 결함과 그것이 장기 투자자에게 중요한 이유",
+   "title": "Stock market flaws and why they matter to long-term investors",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRUMC0tR3NBZGp6Wnpma2NVcElIQ25LYmpMUDNSYmlIMlcxdllINTVWY2tIRzJ5d3hOd0hVWVpnVEo4c01wMl9IYVRGbzc5V3VkWU1pVWJUY2VKM2tVcTFlNWdtZmpzdG9laExZN01xTzBCYlJGQUZ3X0hWdVVhYg?oc=5",
+   "published": "2026-11-26T20:00+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "트럼프 대통령이 좋지 않은 시기에 나쁜 소식으로 주식시장 투자자들을 강타했다",
+   "title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw?oc=5",
+   "published": "2026-11-26T19:32+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Invesco S&P 500 Equal Weight Technology ETF(RSPT)가 현재 강력한 ETF인가요?",
+   "title": "Is Invesco S&P 500 Equal Weight Technology ETF (RSPT) a Strong ETF Right Now?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGFhbkc1TUVtS3FkVU9HY3I0cng0YkV3cWN6THRyMUNzR3pmZUloM3dqcExKc1Q4WC1pSzc2WS11cDFqNTJZeXZ3aFVwRDFDeUdsR1kwYUcteEpFd1ZTeTFvOEZuV25zdjNMQ0FWWDVrVnRBRmxIaEFqOWtteXpXbGc3amVJSXJWRnBNQ1Q2LWk0NWdBNmc?oc=5",
+   "published": "2026-11-26T19:20+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
      "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
-   "title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
+   "summary": "S&P의 신용 경고가 Nvidia 주식에 영향을 미치나요?",
+   "title": "Does S&P's Credit Warning Matter For Nvidia Stock?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1ZPMzdaVlFSTnZ6Ym50ZmswU01QaWRlazJFY1EySkNMS1lkWkQ1dnhCTmttWWRVLTVSSlBnbV9hYVFUUEF1Y0VTMGp0bDZBcGdMVmV6WXZHV3R0djgxOVU0elpLM1hnSFFoLXhLR3p2TGo1TmMzY2FmNTlOMk1rQUZidzFVWENtVTk4a0ZaWXNLQXFMRkQ2V3Rn?oc=5",
-   "published": "2026-11-26T12:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU4tbkNUaWVWelZQY1lSRDFKb3I3b0JCeDhUa0VMWXBLTGE4UnJtbDdtTEJyMWN5NW1TaUplLWR6SHYtRm51OURlcFp3M3NvSl9TV2lGU2ZhQTdnMG5raDVjUnFMQi1yaUtOdlM1UnFGMEQzNDFMZkotQTd1N3lMVzhGc3hfcklxa29NZHI0SHJrNWs4Tlg4blR3?oc=5",
+   "published": "2026-11-26T21:03+09:00",
    "holdings": [
     "soxl"
    ],
@@ -127,11 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
-   "title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
+   "summary": "Nvidia는 미국의 수출 통제가 강화되면서 동남아시아 4개국에 대한 AI 서버 배송을 중단한 것으로 알려졌습니다.",
+   "title": "Nvidia Reportedly Halts AI Server Shipments to Four Southeast Asian Countries Amid Tighter US Export Controls",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkwwaEEtY3lVNTJENlZ1NVNGMFZrSTlxYU5tMXFGMnVGdk1fYXo0a2pUTy1NRVBOWGhfSEo4UTNXNlFBY285b016NnVJNHgyZWwzbWpZcHM1NENDekdoUE9DMTFpbXBEcDRTZVZrZll6cm5wSXRlV3FCMXZFczRpUGFleVR6MVlNcnlzN0pvWmV4eEFPQ1NjVzBR?oc=5",
-   "published": "2026-11-26T11:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3dMNG5nSXB6aWtwVVpJSTc5SU5ST0l3MjZkdUtVOGhHalBMaGFBaWVHT1UxM3dLTXd3QlhmaW5iV2dxQ0N6R1F3R3Zwd0p2cjQzajM5NUVuRDhnallFMHpGa1VObVZvb0pfaWRlX3ZuQTF5RVYxOWV1ZzRZQ0IybVlUZWIwM0xOb2RnRWh4MWF1a1BmMzRXNEdSaUl6dw?oc=5",
+   "published": "2026-11-26T19:59+09:00",
    "holdings": [
     "soxl"
    ],
@@ -141,22 +141,35 @@
      "name": "엔비디아",
      "chgPct": -3.91,
      "asOf": "2026-11-25"
-    },
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang이 돌아왔습니다. 2027년 내 Nvidia 주식 예측은 다음과 같습니다.",
+   "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW45SVhVaGlqeURHZmpFRHdiMEVwNlRpZXRaTTN3TmttbEFqdVdmNlV2RlRkRzluRlBxS2Ryd2MyTllSQU1GcU5nR1o3MFhIelNuZXNkNGxqcEZ4U18xSnVrTlJLaTBVVWg1VGFERkJ0eEhlZ2xKTGVLZ3dhakg5cXhvY0tpWXp1LTdyN0w0VHdFRDEwS0Y2ZVdDcw?oc=5",
+   "published": "2026-11-26T19:49+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
     {
-     "symbol": "MSFT",
-     "name": "마이크로소프트",
-     "chgPct": -1.25,
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
      "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
-   "title": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+   "summary": "Nvidia가 Kioxia 메모리 픽스를 테스트하면서 MU, SNDK, SKHY 점프 - 분석가가 '대규모' 환매를 위해 메모리 거대 기업을 압박",
+   "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkVwbVBmWFBxbkxMSUd2eUZCRE81TklNUktiNnRUWUdlZ2J6Z2RGWXlIZU9XTkVSak1MNFVDQTdSTWdzbGZZNV8wUTNXS0M4U2ZTR0U4RGt2OGt2RXQxQU10aXNMSm0wTGNRTHVYQUpZUmR1NVZrdEtHSzZSQm9sa2t1SXlLdWFYWDZUc1o3QWxCXzRPWVExNl9VMVJ3cndh?oc=5",
-   "published": "2026-11-26T09:54+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnZkQXk4VGxKb3BMQ2RkX3BhZVdVRzJrRWFsaEhjQi0tdDV5ZmNIVWE2X0JtUXlFLTZBTXN2TkV1Z2Z6NU5CNU1MSmkyb3NCeTVTZ0hqekw0VWQ5dHMzemxyQjZWV2JaVEJtdEpRVnNELTh0YXN3R2lrVGlMcjBDazZNa241YzVjUi0wbVluWW5hSFU?oc=5",
+   "published": "2026-11-26T15:30+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -164,33 +177,6 @@
    ],
    "moves": [
     {
-     "symbol": "000660.KS",
-     "name": "SK하이닉스",
-     "chgPct": -11.05,
-     "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "005930.KS",
-     "name": "삼성전자",
-     "chgPct": -9.87,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
-   "title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbENRVnBzcnpBdE9FVnhraHY4TjhONTFvV2ZqZzRndURuY0lockF5UDZHWGlkWEVhXzRfQ1NsS0JmMk1BZ2hkaFNqQU53ZHhDc0VLZGh6RHlTVE4tMFVDaW5URGxCLXhFYzRXSHBkWVlrOV8tSk5LSGxDTzFQNFRXMHJ2Wm16MlBkelBGZThhN2lpWk05STJPTm1pbWVsbzNDaGc?oc=5",
-   "published": "2026-11-26T08:39+09:00",
-   "holdings": [
-    "soxl",
-    "rise-sp500",
-    "irp-kodex-sp500"
-   ],
-   "moves": [
-    {
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -3.91,
@@ -200,11 +186,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Trump owned millions in Nvidia stock while pushing for Jensen Huang's reinstatement",
-   "title": "Trump owned millions in Nvidia stock while pushing for Jensen Huang's reinstatement",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTVFd0lscmZjX0hMeHpIcFNDeGZUNDlRbE5jakZ3dnQ1RnZENDRUcmN1TXUwUnM0aF84eTJQUGJRb2w2R0E5OEp6VFVFeG02WmlhQWJzX0k3X1gtSlZnMWFKd0RFY2h4VGpyNFJNTGJiWUg4RkNTTi1iWG5sUF95YXFoZ1R1VDFCcnIxRFpXcVR3YXJvSkdGSk8tNkFualZzM09Nc2xuZDJ3eUI5WDNoeGxaV0lvN05HZWFyaURTM1lLOEM0N0NRbmYzYjE?oc=5",
-   "published": "2026-11-26T08:35+09:00",
+   "summary": "칩 재고 반등으로 Nvidia 협력 후 Kioxia 14% 상승",
+   "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOG1SZ0NJWURGMzVNSTdMM2NWdW9mVFhNMUVQZTlMWVBQNFlaVFNLSEVSMnIwNXRYbVM0SnlOVTJkbWNXTmpTZEJnTW81aXlxMm9hU3JWX2NmR2lOQkRKQnBnNnJfQmFVVzJ2RUNIS3RtRjhxdHNKWEJVN3FlX3V2OFU0LUhib3pKcUZFSzhHbTIyVE45dmQtei03UmlKT19wbU1j?oc=5",
+   "published": "2026-11-26T15:28+09:00",
    "holdings": [
     "soxl"
    ],
