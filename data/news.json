@@ -1,13 +1,55 @@
 {
- "updatedAt": "2026-11-26T08:00:37+09:00",
+ "updatedAt": "2026-11-26T12:37:17+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "나스닥, S&P 500은 하락세를 보였지만 투자자들이 헐값에 매수하면서 저점을 크게 벗어났습니다.",
-   "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "summary": "Trump blames midterm election results for stock market volatility",
+   "title": "Trump blames midterm election results for stock market volatility",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzVRQ1hnM3hvQy14d1N4eFpEWjJxMWtwWVREdG5POTAzdDY5NU5iMXh3T3VwTmk1ZTVqdUpvT090V0RIYUdrQ2ZHVVVUZG9WLWVIdk5Ka3lDNC1RWmxqMkg5LWFUMUUtUjhJVnRaYXlaTUxLZ2FZZUVvNGsyTF9kTWJJSGRxcTBxQTVTRVlzMFJLMlRmaDJTLWs2VkN3eDFIZm9PQg?oc=5",
+   "published": "2026-11-26T10:37+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Trump blames volatile stock market on midterm election results",
+   "title": "Trump blames volatile stock market on midterm election results",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHBMRWFlN3o0QTZTZjEyQUUtazFzcFN5N3ljemVBYUxVVnJpVXU2VXFTXzF1UDZYSUpDaTdLcnhfbWZveXl5OEJhV256NVBYU1diek5hc2tFNWFEd2NvNV9sLXJ3ZkcxajFCQWt3WXVyUW1ta2dpT05MNmJMNVFQazRrcjFHMkxFVm85ZGpKQ2lmR2E0?oc=5",
+   "published": "2026-11-26T09:12+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+   "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-   "published": "2026-11-26T07:19+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjRoVk1Qc0gyQ3pocFpDUnMwc2VXOGs0dzBwMHVhb3hrTjJXSWVCY2U5aXRqWmRjZVVkRHMta3E5aW1odWhvZG1zUjVGRTlsTWJPM2NMUzFwMWVrb2JFOGZzMTFaUGlrck5TUjZ3LXZXRE4wemZnV2ZIOEItcjc0NnZaNTY4eUw2c1Qtb0tkelNpNjlPZU9qYjFwTld6UQ?oc=5",
+   "published": "2026-11-26T08:20+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -19,43 +61,16 @@
      "name": "나스닥",
      "chgPct": -0.62,
      "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 11월 25일 주식 시장: 월스트리트가 극적인 장중 반등을 하면서 다우지수는 1,100포인트 하락을 지웠습니다.",
-   "title": "Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXlUNjZxa3BkdXd3Z2VfMWZhanhZeklCeUZJaTd4QTFCM2RVYW1lYnRVZTk5TlhUR05ER2txV0h5X1VzQzRoOXlmY3I4NnVMcGpxSFV5WTN1S3RoYmV0anQ3TzRvZE1KMWM5dW5mcnlNbjJhTjJmRkp2MzNRdmhKcS1SaFJqd0Jia2YzaEpKS1hOWmtu?oc=5",
-   "published": "2026-11-26T07:17+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.33,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "월스트리트는 AI 주식 하락이 완화되면서 대부분의 초기 손실을 회복했습니다.",
-   "title": "Wall street recovers most early losses as pullback in AI stocks eases",
+   "summary": "Wall Street recovers most early losses as pullback in AI stocks eases",
+   "title": "Wall Street recovers most early losses as pullback in AI stocks eases",
    "source": "AP News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
-   "published": "2026-11-26T07:10+09:00",
+   "published": "2026-11-26T08:05+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -72,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "오늘, 11월 25일 주식 시장: SpaceX는 1백만 개의 위성에 대해 역사적인 FCC 승인을 받았습니다. 이것이 차세대 성장 엔진인가?",
-   "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0dTZnFiVE9FYTRQZ25vWUgwYU5ickpIYU5vNVYtVGUtVzdOUFBuTGhPbmJ2b0tGeFRNWk8xa0xWMVUyaWFXeDFhcjhOY2l1cncwaVlhTVJRY1Q5dThyMi1LN3Z3N0t3aXhhVUUyeXgzQklzYWtKcTZQQW0wMnB0MzVDQzBESTlBb2pLd3BzRExmbU83?oc=5",
-   "published": "2026-11-26T07:05+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "다우지수는 S&P 500, 나스닥 하락으로 1,100포인트 하락세를 만회한 뒤 상승 마감",
-   "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
-   "published": "2026-11-26T06:20+09:00",
+   "summary": "Scilex Holding Company Announces Receipt of Notice from Nasdaq",
+   "title": "Scilex Holding Company Announces Receipt of Notice from Nasdaq",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVk3UmhfYk5ZS1BsUmQ5bjU4S01oSmE4UGsxSy1aeTJyQlhNXy1ra3I1blROQzZCcXk2cmtwQ2FqN0NQRE1OVUhWTUF3dUJPRVJZSmlZOVVRWFFXeHVEMnF5UHN5TnZsRXA2WXBEUElGRFFlQ3FianhuTl8yRUVlbDBzekhJdWgwS2RCN1pKVDQxc00?oc=5",
+   "published": "2026-11-26T07:20+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -109,22 +103,16 @@
      "name": "나스닥",
      "chgPct": -0.62,
      "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "시장 전략가는 Nvidia 청문회가 시장 방향을 어떻게 바꿀 것인지 밝힙니다.",
-   "title": "Market strategist reveals how Nvidia hearings will sway market direction",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Nm5CODZISlFKMjZYakNUb191RnVEV2tsYnhPUFVpU2xIUkNKUmQ5c1A5WWY3SG5RQUdxOE9jM1VDVjlTbllLaWh4VFB5R3piNUVpbHVBT1BsNUk?oc=5",
-   "published": "2026-11-26T06:53+09:00",
+   "summary": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
+   "title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1ZPMzdaVlFSTnZ6Ym50ZmswU01QaWRlazJFY1EySkNMS1lkWkQ1dnhCTmttWWRVLTVSSlBnbV9hYVFUUEF1Y0VTMGp0bDZBcGdMVmV6WXZHV3R0djgxOVU0elpLM1hnSFFoLXhLR3p2TGo1TmMzY2FmNTlOMk1rQUZidzFVWENtVTk4a0ZaWXNLQXFMRkQ2V3Rn?oc=5",
+   "published": "2026-11-26T12:07+09:00",
    "holdings": [
     "soxl"
    ],
@@ -139,30 +127,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "2조 달러 규모의 칩 랠리가 풀리고 있습니다. 역사가 다음에 올 것이라고 말하는 것은 다음과 같습니다.",
-   "title": "The $2 trillion chip rally is unraveling — here's what history says comes next",
+   "summary": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
+   "title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTItRThMZmVpLXZjUHotbGRmUFBMT3MwQnJBWjBKX2NOeHBRQlBwbnY0VFh3Z05vekN5RzhHdHlkQjcyaXNtdGZUU1hZSXM5b0c3NjBaY0lhTFlhWk1oS0xCYnZ0NmZscWo3ZEE0VFFZalJVZ0xwMFFHUlFjejVteWVVQ0ZmUndQWXhJa0FqOFRDdld2dndpR0RHSHp3bnFXNTdHUkN0UHpQTl8zRHVJWmg0bG1JSkVtUmxJM1RiMnRpUlNGRm8yU3Q4RkZldVRuSTc0bTNn?oc=5",
-   "published": "2026-11-26T06:28+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.5,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Jensen Huang이 Nvidia에서 왕좌를 되찾았습니다. 투자자를 위한 결론은 다음과 같습니다.",
-   "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1B3bHNsUzdYc1J2TWdmZXpoVHhNOV9RZzN1NV81WVpRZklfZXNQbUZqcmVoLVhuSkx5MWxvVVBUQlQ0WDliU2xoMkZycU9GTjBaeFhyNGxNLWhEUzBlVEFWWk1ITzgxUlhjM0h0OFNaS2tUcjN5S3RYQTdWSFRFR2Z0UFJyN2lJUmlyS2Rmb19YYTR2eHMzUy1TamhTN3VMWkx6aWJqUTNOa21zSzVZMUVMNjdjYnNzR1lCZFVR?oc=5",
-   "published": "2026-11-26T06:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkwwaEEtY3lVNTJENlZ1NVNGMFZrSTlxYU5tMXFGMnVGdk1fYXo0a2pUTy1NRVBOWGhfSEo4UTNXNlFBY285b016NnVJNHgyZWwzbWpZcHM1NENDekdoUE9DMTFpbXBEcDRTZVZrZll6cm5wSXRlV3FCMXZFczRpUGFleVR6MVlNcnlzN0pvWmV4eEFPQ1NjVzBR?oc=5",
+   "published": "2026-11-26T11:39+09:00",
    "holdings": [
     "soxl"
    ],
@@ -171,44 +140,23 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia, AMD 및 Micron 주식은 불안한 AI 거래로 인해 급격한 손실을 줄였습니다.",
-   "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
-   "published": "2026-11-26T06:18+09:00",
-   "holdings": [
-    "dram",
-    "ram",
-    "samsung"
-   ],
-   "moves": [
-    {
-     "symbol": "MU",
-     "name": "마이크론",
-     "chgPct": -4.53,
      "asOf": "2026-11-25"
     },
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
+     "symbol": "MSFT",
+     "name": "마이크로소프트",
+     "chgPct": -1.25,
      "asOf": "2026-11-25"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "SK하이닉스(KOSE:A000660) AI 메모리 내러티브로 가치 평가에 다시 집중",
-   "title": "SK hynix (KOSE:A000660) AI Memory Narrative Puts Valuation Back In Focus",
+   "summary": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+   "title": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTdYeVJiSjNDLUZqeXFHYjdIRFk2ZTdTY25KcjFlQm9DSzZUWFoxei16SkgzbWY4STBXTDl3Mk9nN19lTEtjWXFOMWtndWQ3RTF0dDJwM19PU0FOdW5qNnM2VXhRRGZnSEhrXzdBdlFONHMzY3ZXOFV1TDNuNmItVE94czU4NGlaVHJubEFUZXZrMW8?oc=5",
-   "published": "2026-11-26T06:14+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkVwbVBmWFBxbkxMSUd2eUZCRE81TklNUktiNnRUWUdlZ2J6Z2RGWXlIZU9XTkVSak1MNFVDQTdSTWdzbGZZNV8wUTNXS0M4U2ZTR0U4RGt2OGt2RXQxQU10aXNMSm0wTGNRTHVYQUpZUmR1NVZrdEtHSzZSQm9sa2t1SXlLdWFYWDZUc1o3QWxCXzRPWVExNl9VMVJ3cndh?oc=5",
+   "published": "2026-11-26T09:54+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -219,6 +167,52 @@
      "symbol": "000660.KS",
      "name": "SK하이닉스",
      "chgPct": -11.05,
+     "asOf": "2026-11-25"
+    },
+    {
+     "symbol": "005930.KS",
+     "name": "삼성전자",
+     "chgPct": -9.87,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+   "title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbENRVnBzcnpBdE9FVnhraHY4TjhONTFvV2ZqZzRndURuY0lockF5UDZHWGlkWEVhXzRfQ1NsS0JmMk1BZ2hkaFNqQU53ZHhDc0VLZGh6RHlTVE4tMFVDaW5URGxCLXhFYzRXSHBkWVlrOV8tSk5LSGxDTzFQNFRXMHJ2Wm16MlBkelBGZThhN2lpWk05STJPTm1pbWVsbzNDaGc?oc=5",
+   "published": "2026-11-26T08:39+09:00",
+   "holdings": [
+    "soxl",
+    "rise-sp500",
+    "irp-kodex-sp500"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Trump owned millions in Nvidia stock while pushing for Jensen Huang's reinstatement",
+   "title": "Trump owned millions in Nvidia stock while pushing for Jensen Huang's reinstatement",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTVFd0lscmZjX0hMeHpIcFNDeGZUNDlRbE5jakZ3dnQ1RnZENDRUcmN1TXUwUnM0aF84eTJQUGJRb2w2R0E5OEp6VFVFeG02WmlhQWJzX0k3X1gtSlZnMWFKd0RFY2h4VGpyNFJNTGJiWUg4RkNTTi1iWG5sUF95YXFoZ1R1VDFCcnIxRFpXcVR3YXJvSkdGSk8tNkFualZzM09Nc2xuZDJ3eUI5WDNoeGxaV0lvN05HZWFyaURTM1lLOEM0N0NRbmYzYjE?oc=5",
+   "published": "2026-11-26T08:35+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
      "asOf": "2026-11-25"
     }
    ]
