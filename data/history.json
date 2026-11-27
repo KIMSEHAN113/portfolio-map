@@ -17600,9 +17600,9 @@
   },
   {
    "date": "2026-11-27",
-   "updatedAt": "2026-11-27T08:00:29+09:00",
+   "updatedAt": "2026-11-27T11:32:24+09:00",
    "fx": {
-    "usdkrw": 1343.06,
+    "usdkrw": 1341.23,
     "source": "Yahoo Finance KRW=X"
    },
    "holdings": [
@@ -17616,8 +17616,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 770,
-     "price": 23245.0,
-     "chgPct": 0.0,
+     "price": 23580.0,
+     "chgPct": 1.44,
      "asOf": "2026-11-27",
      "dca": "매주 월 +2"
     },
@@ -17631,8 +17631,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 607,
-     "price": 21000.0,
-     "chgPct": 0.0,
+     "price": 21190.0,
+     "chgPct": 0.9,
      "asOf": "2026-11-27",
      "dca": "매주 월 +2"
     },
@@ -17646,8 +17646,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 2,
-     "price": 171500.0,
-     "chgPct": 0.0,
+     "price": 175800.0,
+     "chgPct": 2.63,
      "asOf": "2026-11-27"
     },
     {
@@ -17660,8 +17660,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 50,
-     "price": 6470.0,
-     "chgPct": 0.0,
+     "price": 6700.0,
+     "chgPct": 3.55,
      "asOf": "2026-11-27"
     },
     {
@@ -17824,8 +17824,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 110,
-     "price": 10855.0,
-     "chgPct": 0.0,
+     "price": 11040.0,
+     "chgPct": 1.7,
      "asOf": "2026-11-27"
     },
     {
@@ -17838,8 +17838,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 140,
-     "price": 21755.0,
-     "chgPct": 0.0,
+     "price": 21970.0,
+     "chgPct": 0.99,
      "asOf": "2026-11-27"
     },
     {
@@ -17852,8 +17852,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 120,
-     "price": 23245.0,
-     "chgPct": 0.0,
+     "price": 23580.0,
+     "chgPct": 1.44,
      "asOf": "2026-11-27"
     },
     {
@@ -17866,8 +17866,8 @@
      "market": "KR",
      "currency": "KRW",
      "qty": 100,
-     "price": 14035.0,
-     "chgPct": 0.0,
+     "price": 14115.0,
+     "chgPct": 0.57,
      "asOf": "2026-11-27"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T08:00:36+09:00",
+ "updatedAt": "2026-11-27T11:32:29+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -45,11 +45,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Bank of America, S&P 500에 2027년 경착륙 경고 발령",
-   "title": "Bank of America issues blunt 2027 hard-landing warning on S&P 500",
-   "source": "Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9jTnI5YXZYa0R6TGFxT2s4V1NyZ3Vkd1hIS0cwdVdHN09NaUVRUEhacjI2NFdmY3lTV25qc2x1U2Y2ai1SQVoxMjRUZUFNcmJZNXF3UFhTdmczQ1NHQlJqdExmVHY5VnByejhaeWN0UFZMc0hUYkN3ZmstZV9DR2h3c3NsQQ?oc=5",
-   "published": "2026-11-27T02:03+09:00",
+   "summary": "W.W. Grainger 주식 전망: 월스트리트는 강세인가, 약세인가?",
+   "title": "W.W. Grainger Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWFlQTR5cFpsd2Vyd3NEc3hkMldTLUxFcVdsQ2g0ZXlDaTRRSC00aV9LLUZIZlRoUnl3dUJBX1B2bXM5UkRNcmZNdVFVcEUzcU5MWDlLVDdJcnVfUi1zSC1FenNId0F4ODBBaDh0WVpLWk9BY1ZwU0ptRy1LZTdSZWN6YVRtbmJYel8yck5CNE53MjdFWUE?oc=5",
+   "published": "2026-11-27T04:51+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "2026년에 S&P 500보다 뒤처지고 2027년에는 앞설 수 있는 2가지 성장주",
+   "title": "2 Growth Stocks That Lagged the S&P 500 in 2026 and Could Lead in 2027",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVZIR3RSaVFnTzJjR1c1LVlIaENXb1ZWb1BaYjVoTmRPUkZGYmxPTnRxV0I3QzdQS3BLUUx3Vm9Sdk9pTC1MZzNqWVZxYmx0MUhIRHFaRlJFQ0N2dy02MFZ3RGxBTUE1Q21RZjVuakRRbkI4NkFqSlh4VC0yc0R1dGhmUFRsUnRCOXZYWmsyZlZnTXc?oc=5",
+   "published": "2026-11-27T03:31+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -86,27 +107,6 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "트럼프, 주식시장 폭락 원인은 중간선거 탓",
-   "title": "Trump Blames the Midterm Election Results for the Stock Market Selloff",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkFxdFB4RVFyYVlLRml0UVVYWVdoTW5pUHZnZUlQdG1CbnRXNThOcGFaU1RjRWNHbUFaYkRHRGIwSHNCTjhXU2M2UVRXYzJGUURYVHZoc3RiUi1tblRyNTJyVzNxQTRDdWNfY1JSSGFsZWRHdW42SWFDTlhiR2JvN1pzOTFwM0F2RkZJSmJrYmI2Tm9hM0ljSGhrMTZXX002VGtlVA?oc=5",
-   "published": "2026-11-27T00:12+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
    "summary": "Jensen Huang의 복귀로 인해 Nvidia 주식(NVDA)을 매수할 수는 없습니다",
    "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
@@ -121,6 +121,50 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 현재 SpaceX 주식 포트폴리오의 41%를 보유하고 있습니다. Nvidia 주주들에게 이것이 의미하는 바는 다음과 같습니다.",
+   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
+   "published": "2026-11-27T03:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia는 Intel 주식에 대한 190억 달러 규모의 신뢰 표를 공개했습니다.",
+   "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHU2RFNjQk1ablhVU1NGdWZxNUItMGxNMURqb2tpSFpNQ2FfejBXa2c4V0U1bnFmZzQyTTc4d1NudlF5WG4wRnhBTm5fZjI0UjRxcDd6NG9wZ1NIUl9HQmpzTG5NUmF2akQwbmpjaXRVdXlweURNbmFrUUNkczVzVkl6S2xZX1NjZzlLOUVURFhISDRCd3pQRFFn?oc=5",
+   "published": "2026-11-27T01:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    },
+    {
+     "symbol": "INTC",
+     "name": "인텔",
+     "chgPct": -0.6,
      "asOf": "2026-11-25"
     }
    ]
@@ -159,44 +203,6 @@
      "symbol": "SOXX",
      "name": "반도체지수",
      "chgPct": -0.5,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "FormFactor 및 주목해야 할 기타 AI 칩 주식 2개",
-   "title": "FormFactor And 2 Other AI Chip Stocks To Watch",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWIzTjE4SWYxb0dFZWpTMnVqclJkVVU4X0NxUVEwUEpGMmhPd2p5Yk9zV1kzOG9KYkhXSmZNR2xmSFJBNlRaWFdIN0ppb1o1dUtsam8xUDBwNW5mdjVGZzlkZjZRNTNmeUVhZkJBdU5zRWVEZk5KRXFLOU5Gc1QxV3RVWUVUd2pEYXBQNkF3MmlvRVZf?oc=5",
-   "published": "2026-11-27T01:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.5,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "구매자 조심하세요? Nvidia의 불안정한 변동으로 인해 단일 주식 ETF의 위험이 노출되었습니다.",
-   "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX25IV1otSXF1N2JqSWF2MDlxaUJtanYtaE1hcUF6SE9tdDg3YzZtXy1tbFhTQm84cXBtdG1TTmxaUUxSYzZockR4dXZ1TjlfYnhDVFJMVXJ5eVBPNTZFeHBSb0NaRnZqZjFqQXhYRVFWTDc5ZmZOa0FDV2hXSm54ejQxZGhwUnp1RlBDQlIyS3FVMm51M3doTHd30gGfAUFVX3lxTE1jYVNXRlpkVERiTmJDMWJLN3dsTzI5M0VNUkZEckFOeFBlUGNMZUVFaG13VmVWdmpsbTVucUhERmRXZkk0MGQ2RFAwdVBjT0dpSE5lUWVGUGZoRS04RFRYTzU5ZEw4MnJRUFZ2NVhwMWVVb1l3UnVNcFBaY21abll1MHVxcXEzV2FfRnlSeVZkZWhkRFdoa054b0hEM0w5OA?oc=5",
-   "published": "2026-11-27T01:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
      "asOf": "2026-11-25"
     }
    ]
