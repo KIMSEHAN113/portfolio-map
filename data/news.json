@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-27T14:32:42+09:00",
+ "updatedAt": "2026-11-27T22:10:44+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
-   "title": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjNUclZ5dldLaDNQamhLRjFxWmV6S202aDREaDQ2ang5S3VseVhuQzN3ek9Kb2RWbE92aWx6Q3IzeTRhaEZ2MjUxOW5uRTFOc0NxQTN5NVlKWUlkYW1PeWs2V0RqU3R2dEdMeUhjMldMRHB1ZGNxSHJtOWtGSGtwYjBMYVJOdHpiMVJPanRnbXNZU1VMWjdUM1hSTdIBoAFBVV95cUxOWmgxTlA4QkY4SmhvcC0zY01MZE1sektXbXkxM2VwR3JyYUZJSU5COEp5TVpSeVZodVdpSHNWYmVmQzZ6dk43NHo1QVZoR2g2ZnltWWliOG5LSG9jSkRBdlBVNGNva1hfcDNrOEt1dTViS0JrSVM4TUMxWUlOWUFNWWRUTjVOZFBySF9SZVA1bFFPSEpZczc0WG5ZNERWb1Bm?oc=5",
-   "published": "2026-11-27T11:57+09:00",
+   "summary": "S&P 500이 조정을 받고 있습니다. 약세장과 불황이 항상 따라오는 것은 아닙니다.",
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
+   "published": "2026-11-27T21:06+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,53 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "NASDAQ Canada Financials NTR In (^NQCA30N) Seasonal returns chart",
-   "title": "NASDAQ Canada Financials NTR In (^NQCA30N) Seasonal returns chart",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSkV1ZXYzQktjbEx2ZmJiZE1ybnpWVU9HaGZ4OERUUlpLb0twZnZKbHViTE5VNkFSTlRlODJWR1N5SWZiLUFLRTlzRGx4RzdyM3NSRG1IOGZOdUJ0MUNDSUJ4SjV1Yk1oclE?oc=5",
-   "published": "2026-11-27T10:01+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Nasdaq Developed Markets Basic (^NQDM5510LMT) Seasonal returns chart",
-   "title": "Nasdaq Developed Markets Basic (^NQDM5510LMT) Seasonal returns chart",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JSXpjNEVzb0JXaHplVGprWWxhM3JrV2tkN3BaZGlXRU9iajlyME9QMjdkZGlCRm5OMGxMcUZ6bWlqZHYwVF8ta1FLbHNqOHN4OUZXdGVCZ2pFaHM3cWVQU0FYZklJMTk3aWE1QzFFaw?oc=5",
-   "published": "2026-11-27T06:24+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Jim Cramer sends strong words to stock market investors",
-   "title": "Jim Cramer sends strong words to stock market investors",
+   "summary": "BofA는 2027년 S&P 500이 8% 상승할 것으로 예상합니다. 귀하의 ETF는 연착륙할 준비가 되어 있습니까?",
+   "title": "BofA Sees S&P 500 Rising 8% in 2027: Are Your ETFs Ready for a Soft Landing?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVNvZU5ac2NQb0R3NDVVcWU2TG9zdF84TXdMOTVzeVMxazRjMTBIbkxPWnFVMUlyamhrNWlMQjBOWTNJQ1RBeDhsQ3RIQk9rWV84R3A5MlBZV1hyWUk4dzB0c1V0cEFyRXNCVXF5U2U5OHJMVzlKTHdTb3RxX2ZPcHp5alFBZUNWNUxGaXY0NEx4T213UWpYSmJ3?oc=5",
-   "published": "2026-11-27T06:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHQ2Z2tBd0xZQmFRckZTcWNIdFo2Szh0cnJDbWg5SmpjUHM2N2ZXZnc4cjh5bDNkWEtLc0d1eExRTG9Hcng3ZXR1cXJyZzFlM2pLR2UtV1gxOVlHcWIwT3pxX2xXYWpncFdKekcxT0E4NUVtUTQySFprMmllcHpZMzlxeHkzUDQ1Q1VBd0loUUY?oc=5",
+   "published": "2026-11-27T20:08+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -87,15 +45,57 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wall Street Sees Upside in AstraZeneca PLC (AZN) as Shares Retreat",
-   "title": "Wall Street Sees Upside in AstraZeneca PLC (AZN) as Shares Retreat",
+   "summary": "워렌 버핏은 2009년 2월에 주식이 가격이 하락하면 양말처럼 주식을 산다고 썼습니다. S&P 500은 내년에 50% 상승했습니다.",
+   "title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSm1mMGdDSWlpS1R0bkh6bVFNSnZMNDFxRTA3SktkbFgtMU1sLWoyTXU5MXJwbG1ManVuUDBid3QtSm9md1MyWklfRXpwSklPMkE3ZkZuNC1COEZxQjhEdVZLemE1em02UXNxRlptd0Y3S1lHS2cyZGFOcHNhTWhnYml4RDAtQ195a1lYYzBoYnF4NFlnMDlPVlZiNGo?oc=5",
-   "published": "2026-11-27T05:37+09:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSm5KWlNRWnFpQ0h4LUtTSFhKYW5UTjdWLUV0NkE3cXZpZVJfLUJGSFBFdUdtZTM2eHhPcjlsX2kxUmJVdFFFekd6QUhfek54R3lJVWZnM2FEVm5LemxqS05XUzZsYmJVUzRvSTJmRy1od0YzWHlpTmRVLVEtdzlQc0VBNzVuOVB3RVFmY0JFLTVTWkRlMFFGYlp3VHE3eHgy?oc=5",
+   "published": "2026-11-27T19:50+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
     "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "주식 폭등 이후 월스트리트의 블랙 프라이데이 희망 목록에 있는 4가지",
+   "title": "4 things on Wall Street’s Black Friday wish list after a wild stretch for stocks",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVJBUjI0czBJMUFOejB3ckNjV3NQQ2JOamVsWU5OWTNVcU45R0RJSjBQb1NXZkV2Vm80RXJrOE1qVGdtNjRJT3VGa2ZBdk11RjlVLTctT0RjRjNLZkVfRTdoTTZ6T1JwUmxlTURlSFZGeUcxRnhwejNmaFpLcWtCbGVObURpLU5qUWctUXpYZjR6U3pwQUE?oc=5",
+   "published": "2026-11-27T19:50+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Bill Ackman은 월스트리트가 모르는 것을 알고 있습니까? 억만장자 투자자는 지난 1년 동안 44% 하락한 기술주를 계속 구매하고 있습니다.",
+   "title": "Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVFmb2ZBel9qNnd3bmRKNzNvRTZXZURtZ0NPczVTVDhfbFZ5VnhJOXd5N0kwMkpyOFBzTGRKWnRWQWZ1dHpEdkpVQlkwWmt1N1ZYVTVqT1BZQm5wZnV2d1ZPUkdpMEtCZGN0dDRUbjF6X29KbmNTM0ZPWkp2RG03NUJma1BmOWNmWERSMGcwVXIwS2VPbFJpakRvQ0o?oc=5",
+   "published": "2026-11-27T19:40+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
@@ -108,11 +108,70 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
-   "title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
+   "summary": "엔비디아 주식은 여전히 ​​Jensen Huang CEO 드라마의 대가를 치르고 있습니다.",
+   "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOamM0M051dndpNkFXREREWHBBdTF2a1RHSGotakFUQlpxNFhhRXRzOTBtdVZfXzBLMDgxdGdqNXZycnhKNzA1R1p0RzEyS212Y1poRTFUeHN5TmlTUmdyMFdza2FzQTVtSjVVTWt0TmJlc2I0ZmZ2MU5halRYbTZHbVVQazRpZndCelRkbkc4NlA4QlVlalNWLQ?oc=5",
-   "published": "2026-11-27T12:12+09:00",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEw1bXM4LW9fQ280Q256NWtHYXowN2YzeGFmb29VZzVZcXZacTNwODZubi1TR2lzSXYtZFUzWVpMS2RPdkdYeVZmd29HMkZNaFZOdXlQRl9vN3czUDNoUFZENUtvQ0ltWUdGUHR4OXNTdFNzMkRLNHJMTUUwYkJobmNTd1R4aExmRjhFTExpaFJhdTJ5MlJOWnZEelltN0QwMzZGbTlmRHYwTnl4amQ0M1VwYkVCcl9zdVVHaVY0UGI4Y3J4WThVOTZlSWxOUQ?oc=5",
+   "published": "2026-11-27T21:49+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "도널드 트럼프 대통령은 미국 정부가 엔비디아 지분을 매입한다는 아이디어를 언급했지만 회사의 가장 큰 결점을 고치지는 못할 것입니다.",
+   "title": "President Donald Trump Just Floated the Idea of the U.S. Government Buying a Stake in Nvidia -- but It Wouldn't Fix the Company's Biggest Flaw",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjJrdzluTE9jeFp5SG85VDJrQ2xueG5IVndSck5kbWw5dXJvbkhQVldYYU16LUhlMVdoaGhWeGl0M2dwUE5MT2g4WElfT0RPSEEycUpjQV9FVm5KS2Vqek1rVjlCYmpIa05CaXh6Q3I5N2llYURZbFJucHNiNUtrSHRxR2VRUVZrei1hY2htb0hsTHY2WGY2S2taZFZzQkVYMUE?oc=5",
+   "published": "2026-11-27T21:26+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "트럼프 대통령이 젠슨 황을 지지함에 따라 엔비디아 주가가 상승했습니다.",
+   "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
+   "published": "2026-11-27T21:02+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "오늘 마이크론 테크놀로지 주식이 급등하는 이유는 무엇입니까?",
+   "title": "Why Is Micron Technology Stock Surging Today?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDM2VUo4OEx2NGdYWjVmUUVmNkx4NWc0Q2lTQmhfQmdqUzMzSjFqSXpLdTY3VFNrNlZUTGlHdzZWU0lIWi1pNGpBb3kyMEw5c2ltQ1FUb1RqVjJnWjZlRFdYUFBSVERkQ05LV0ViVS04bFBvMmxueGtrSW5FcmlRTkRncnFZblFjT2Fud1lrbFVGZFhGdThZUDFKNWJOOG0zNFE?oc=5",
+   "published": "2026-11-27T20:55+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -129,11 +188,11 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-   "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+   "summary": "엔비디아는 이번 가을에 1조 7천억 달러의 손실을 입었습니다. 누가 이겼나요?",
+   "title": "Nvidia Lost $1.7 Trillion This Fall. Who Won?",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndtT1dTZXdiYWpqTXRoMktMU3pTZ3U0d1lMTURLenJTa1BpdkE5c0IwNnVPTFJYX2NidVRlb2FuT3BNZFptMDBvQ3ZPdTVEbGowUlRvbVlpNXpZRFlTQUkyd0VMTmtmUUZfWjlnWWJYbVJYY0VGa3BDVEU2clpGR18zbmlaV0xOTWRDb2xWYnBhWE5iZUdJ?oc=5",
-   "published": "2026-11-27T06:22+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTThtZmVKZVJnVV9CbmJSc29BQ0h4UC1JbVFHX1VTRG9tbGUyaDFzSkhmYlFVNFlzX3RRNVpnVUNtYWNrYlZZVVdjMXhablllZGY1WlFNXy1COWxvQ3NwMWpnX2QwVThqQmd4UzlOR25QYTdBcEdvYnFNOXZ0Wk0wNHlnRjJrOU55WWZma21sRTNBY0k?oc=5",
+   "published": "2026-11-27T20:00+09:00",
    "holdings": [
     "soxl"
    ],
@@ -142,69 +201,6 @@
      "symbol": "NVDA",
      "name": "엔비디아",
      "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
-   "published": "2026-11-27T03:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-   "published": "2026-11-27T01:54+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
-   "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHU2RFNjQk1ablhVU1NGdWZxNUItMGxNMURqb2tpSFpNQ2FfejBXa2c4V0U1bnFmZzQyTTc4d1NudlF5WG4wRnhBTm5fZjI0UjRxcDd6NG9wZ1NIUl9HQmpzTG5NUmF2akQwbmpjaXRVdXlweURNbmFrUUNkczVzVkl6S2xZX1NjZzlLOUVURFhISDRCd3pQRFFn?oc=5",
-   "published": "2026-11-27T01:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "INTC",
-     "name": "인텔",
-     "chgPct": -0.6,
      "asOf": "2026-11-25"
     }
    ]
