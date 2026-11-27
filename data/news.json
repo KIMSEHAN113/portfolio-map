@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-28T07:43:04+09:00",
+ "updatedAt": "2026-11-28T08:00:31+09:00",
  "items": [
+  {
+   "category": "미국 지수",
+   "summary": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+   "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEpydjNOdzBWT01oa0UzWHRXUUMzSWh5OU9PNnRzME4wNTludDFUdTgtQWdwOEgyZ1liTEstZnZjZ3RrTzlWY0dTNXR5RVFNZk5xSHhJZmRHSnhUVnpoVDI2Njh0aWFSNE9sZlQ0MXRPZ1gtbmJKVm03NnRfNmJPUA?oc=5",
+   "published": "2026-11-28T03:43+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
   {
    "category": "미국 지수",
    "summary": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
@@ -71,27 +92,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2hNM3ZpSi1sTUlvYkNJQjFkVnhtUW1OMXhsM1dYVjk5TExxQXRRbE5UbTNRQ19DWF85cHFRSXhVLUhqR0N2R0E0amF5SHFEQzhGdDNHVElRRURDQ0l1aEt1RnlIVVp1allEUmZnLXU0bkNUY1FnRGw1S1NKMGkyQUVFaURhUEFaazlzQnFQY2ZPa3prWF9Xb3hlaGRyRWM?oc=5",
    "published": "2026-11-28T02:03+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.6,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Are banks open Black Friday? What about the stock market?",
-   "title": "Are banks open Black Friday? What about the stock market?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmxOa2pfREg5b29lVlZxVldnaGppbDlPNE1sUzFwVDJLU0VSR3pzMXR6N1pkZUZtNTJnZ1dxUm9STXVGS21JMnkwSEJ4VHJIXzZnZ0hzaXVfZXNSUFNXUkVTS0N5blpseS15SHN1dWtkX0d4RjZZcjd6SXFwMk1nUE9FdDQ3d01VY0htbDdUN3Z4N2xZX2xIU1hB?oc=5",
-   "published": "2026-11-28T01:51+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
