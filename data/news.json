@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:39:43+09:00",
+ "updatedAt": "2026-11-27T14:32:42+09:00",
  "items": [
   {
    "category": "미국 지수",
@@ -24,11 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Nasdaq Next Generation 100 Tota (^NGXT) Seasonal returns chart - Yahoo Finance",
-   "title": "Nasdaq Next Generation 100 Tota (^NGXT) Seasonal returns chart - Yahoo Finance",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iYW4xSVJDSVRFelJLdUQ5bUl2NXpEVTExd3Zqb09YVkI5d3ZyUXBmYm1XcXpFdWY4dEZ5d2E3ZGwxM3h0TUVrQUFDaWVHTkZ0WE8xRm4tblYxOVhCYnRlYXZkOVJrZw?oc=5",
-   "published": "2026-11-27T06:27+09:00",
+   "summary": "NASDAQ Canada Financials NTR In (^NQCA30N) Seasonal returns chart",
+   "title": "NASDAQ Canada Financials NTR In (^NQCA30N) Seasonal returns chart",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSkV1ZXYzQktjbEx2ZmJiZE1ybnpWVU9HaGZ4OERUUlpLb0twZnZKbHViTE5VNkFSTlRlODJWR1N5SWZiLUFLRTlzRGx4RzdyM3NSRG1IOGZOdUJ0MUNDSUJ4SjV1Yk1oclE?oc=5",
+   "published": "2026-11-27T10:01+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.62,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Nasdaq Developed Markets Basic (^NQDM5510LMT) Seasonal returns chart",
+   "title": "Nasdaq Developed Markets Basic (^NQDM5510LMT) Seasonal returns chart",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JSXpjNEVzb0JXaHplVGprWWxhM3JrV2tkN3BaZGlXRU9iajlyME9QMjdkZGlCRm5OMGxMcUZ6bWlqZHYwVF8ta1FLbHNqOHN4OUZXdGVCZ2pFaHM3cWVQU0FYZklJMTk3aWE1QzFFaw?oc=5",
+   "published": "2026-11-27T06:24+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -86,22 +107,22 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
-   "title": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
+   "category": "반도체 · 메모리",
+   "summary": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
+   "title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTNndXFkS2ZqSElxU3o2OFJhdVZNNVo2bUZuZ3VYN2YyQTY5a05NU3RQS1NmYXoxY0wwR0lYd3h3N29kQzRrZWpXX1F0eWVoUy04S3lPOVFmcGNYdGh4VUU2UVFZVHVGSVZuT2JMcTdIMm50bmNJdG9ybE9CNzdSRS1ISDVVdmJQbHFtajhWWUY?oc=5",
-   "published": "2026-11-27T05:02+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOamM0M051dndpNkFXREREWHBBdTF2a1RHSGotakFUQlpxNFhhRXRzOTBtdVZfXzBLMDgxdGdqNXZycnhKNzA1R1p0RzEyS212Y1poRTFUeHN5TmlTUmdyMFdza2FzQTVtSjVVTWt0TmJlc2I0ZmZ2MU5halRYbTZHbVVQazRpZndCelRkbkc4NlA4QlVlalNWLQ?oc=5",
+   "published": "2026-11-27T12:12+09:00",
    "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
+    "dram",
+    "ram",
+    "samsung"
    ],
    "moves": [
     {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": -4.53,
      "asOf": "2026-11-25"
     }
    ]
@@ -113,6 +134,44 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndtT1dTZXdiYWpqTXRoMktMU3pTZ3U0d1lMTURLenJTa1BpdkE5c0IwNnVPTFJYX2NidVRlb2FuT3BNZFptMDBvQ3ZPdTVEbGowUlRvbVlpNXpZRFlTQUkyd0VMTmtmUUZfWjlnWWJYbVJYY0VGa3BDVEU2clpGR18zbmlaV0xOTWRDb2xWYnBhWE5iZUdJ?oc=5",
    "published": "2026-11-27T06:22+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
+   "published": "2026-11-27T03:12+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "published": "2026-11-27T01:54+09:00",
    "holdings": [
     "soxl"
    ],
@@ -146,63 +205,6 @@
      "symbol": "INTC",
      "name": "인텔",
      "chgPct": -0.6,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
-   "title": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHFqVC1sVmpKQ2p3NkZtXzFHd01TckVvZ2pTV1ZBQmVPcmMwNmJMeUQ0LWFPYjY1ZFpEajJ3RnhnXzE1dnhZbmZ4Y0tTSXplX0NmanRpLWNVNE9HYmlSeTBNNXdrVHRtTkFkSDB5LVRnd3RXQ1VVcVdEZUhkTzV4REJMTFpRZVJFSk5SYTNoVl9DSjFyMVR0cmJkYlBXZ0NHeEhnR3E0QVEyZ01yTkx0S2ZpeVUzWmdBNnY0RmdBb2JVdU1SQi1ITy03WGt2ZjUzNHZFZHRHdndzbnpBSXZsYVJmLVlCanZWSU1naTVRUjVpai1P?oc=5",
-   "published": "2026-11-27T01:17+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "3 AI Semiconductor Stocks Retail Investors Are Watching For Data Center Growth",
-   "title": "3 AI Semiconductor Stocks Retail Investors Are Watching For Data Center Growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUM3aDJDQnVhUlc0YlJSbzFBdUVpQjRYWl96ZTJOdW1LbjNlaUs1UkhCY3BWTXRKQjlzVU1QNjhKTWJJV2dDYU51azRPT2g2aUI4U0VidGpndFF4WWNwOGdPTFMwUm4ybFZPeEpmYjR5VldFclB4Y2Q3dnpfeHJETEJZOXRsbk1Zck0yejYyS1RGLThJLXFzODYwVE0?oc=5",
-   "published": "2026-11-27T01:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.5,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "FormFactor And 2 Other AI Chip Stocks To Watch",
-   "title": "FormFactor And 2 Other AI Chip Stocks To Watch",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWIzTjE4SWYxb0dFZWpTMnVqclJkVVU4X0NxUVEwUEpGMmhPd2p5Yk9zV1kzOG9KYkhXSmZNR2xmSFJBNlRaWFdIN0ppb1o1dUtsam8xUDBwNW5mdjVGZzlkZjZRNTNmeUVhZkJBdU5zRWVEZk5KRXFLOU5Gc1QxV3RVWUVUd2pEYXBQNkF3MmlvRVZf?oc=5",
-   "published": "2026-11-27T01:10+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "SOXX",
-     "name": "반도체지수",
-     "chgPct": -0.5,
      "asOf": "2026-11-25"
     }
    ]
