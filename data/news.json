@@ -1,34 +1,13 @@
 {
- "updatedAt": "2026-11-28T02:02:15+09:00",
+ "updatedAt": "2026-11-28T07:43:04+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "HubSpot, AST SpaceMobile downgraded: Wall Street's top analyst calls",
-   "title": "HubSpot, AST SpaceMobile downgraded: Wall Street's top analyst calls",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVNzRHZaa1NmcnJ6M2JMdGpCRm9oblRPUHRNNmUxLUwtX1BXNkQ4b19VMG5hSk83NXF6aU1xVlFDT0V4dk41bV8zaFNGQlZXbmttdkRqUVRlX1RadzFvMDFiVll1TTdma1JtSE1WQTlicVhZMjgzMWRucmZqT1BYdjZJNWZHV3dycnBDQ0YwczF0WERBR19vYXlDQUM2QkZWQTRFMFN2RQ?oc=5",
-   "published": "2026-11-27T23:35+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Top 10 things to watch in the stock market on Black Friday",
-   "title": "Top 10 things to watch in the stock market on Black Friday",
+   "summary": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
+   "title": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmFQYmdIbUxBZEYyQmlTU3I4TDlSejdSdC1VWG9NMHN0b05aUWVZVlhxN2FxMDdwYWtQMFVvODctcE1FbEFaQWV1YmxjMURoVFdka3ZnU1NnV2h5ek1XNmdEUTV3MkUtU0YwOGl2dWJfV09ybk5YY05LLVV4UXBvVUtLODJJMi1UUGRETHpSaWNDcE4wcGxmaUdfblBPWHBldHBLMUl0ZVQwQWZDS1E?oc=5",
-   "published": "2026-11-27T23:25+09:00",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnNCajkwVERYTno3TTY3MVJEYktDYW9ocFFpZ3lBSWxiS0FTMnVSeVh5LXVVNlpBQ05PbTBmR1d3OWJLazdLYU02cjBta1doZXJ2TXJwc1FkUmNtNmYyRWZTUlhnWEN0aUdRazJTVktUd2tLcUNDdEpwOEFvYkc2VWY1c3pFUm1USGc5c0VYSFJIWlg0U3lIeUZBU1c0LUF0d2M2a1VkSy1ZaDhIVHZ6TFg2ZzlmQ1V1NGhJakxSWFRMZDhjRC0zMDNzODc?oc=5",
+   "published": "2026-11-28T03:33+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -38,72 +17,18 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "US Stock Futures Climb as Technology Shares Lead Post-Thanksgiving Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
-   "title": "US Stock Futures Climb as Technology Shares Lead Post-Thanksgiving Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVRkaTFIRm1LdkdNQkZuc1A4TWdnNWxnenJuQ2NsNlZsUTM1aHkxb0ZrLXU1MGk1TVNOczI5eExyUC14Ykt0dDZCZjZvbTloVWJ5dzJlWkstZ211T3JaNmJSSjE4MHFlMUNEbXhocmFaZ3dQQW1lWlNtakd1RWZwdS1XdnZLXzVIdkE?oc=5",
-   "published": "2026-11-27T23:17+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.33,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
-   "title": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
+   "summary": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFZPYlR1Zk9NaE9DRm1va1F3ZkdPQ3YtT3VEVmNXeGlINzdiMGpyclBsN19rRnJ5RVRRcUx5VzhhQU1wVkxCNDlrbV9VV1h3QW93a3ZLOVhMU3dqbXpyUGtqNW9tMlZzOW0wVnhseVJSdkV0b3VzT3JsbXJHNmZmLUo2R2ROSF9MTTU5ZmxoTkxCMjVFVUxYdGJtTzR0bkU?oc=5",
-   "published": "2026-11-27T23:15+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    },
-    {
-     "symbol": "^DJI",
-     "name": "다우",
-     "chgPct": 0.33,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street Analysts Think Howmet (HWM) Could Surge 39.21%: Read This Before Placing a Bet",
-   "title": "Wall Street Analysts Think Howmet (HWM) Could Surge 39.21%: Read This Before Placing a Bet",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWNtcHpNMVhSNUsyNmJ0UXdTSzVvcms5NGJtMTVTWmItUmhLZ1ZPYkdOb2Facy1HMGxGaHR1dGRNckhWYmJWSWNkRldVQ0Exb2lXT2Y5bE1tRU1NTHF1SDVUNkh4cnROd1llSVZwVU5USWhPdXQxREh4YklGT0EtQU16bjVjeGRqLUZ2dUJWeXJrUE9GUlRxbnF2WDVudVk?oc=5",
-   "published": "2026-11-27T22:55+09:00",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+   "published": "2026-11-28T03:02+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -113,37 +38,81 @@
     {
      "symbol": "^GSPC",
      "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
     }
    ]
   },
   {
-   "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-   "published": "2026-11-28T00:22+09:00",
+   "category": "미국 지수",
+   "summary": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
+   "title": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3JTY0diX3V1djFVdWpWVkM0ekRibzNMZ3RmeXlqanRNaGVMYUpFSi1YUGtDOGhUUGpQTnNTMlV4RTRqT3pQa014dVBHelp5MTNkZloyek5fT1psQkFpbDJPd3dnTWZqTVpUdjFINm9VUXdHY0NRNWpma25zVklIWG03NG1XR29HUU9Nd21VRHdobWlRVWc?oc=5",
+   "published": "2026-11-28T02:31+09:00",
    "holdings": [
-    "soxl"
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
    ],
    "moves": [
     {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
+     "symbol": "AMZN",
+     "name": "아마존",
+     "chgPct": 3.96,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Dell delivers record results, but Wall Street sees a catch",
+   "title": "Dell delivers record results, but Wall Street sees a catch",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2hNM3ZpSi1sTUlvYkNJQjFkVnhtUW1OMXhsM1dYVjk5TExxQXRRbE5UbTNRQ19DWF85cHFRSXhVLUhqR0N2R0E0amF5SHFEQzhGdDNHVElRRURDQ0l1aEt1RnlIVVp1allEUmZnLXU0bkNUY1FnRGw1S1NKMGkyQUVFaURhUEFaazlzQnFQY2ZPa3prWF9Xb3hlaGRyRWM?oc=5",
+   "published": "2026-11-28T02:03+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Are banks open Black Friday? What about the stock market?",
+   "title": "Are banks open Black Friday? What about the stock market?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmxOa2pfREg5b29lVlZxVldnaGppbDlPNE1sUzFwVDJLU0VSR3pzMXR6N1pkZUZtNTJnZ1dxUm9STXVGS21JMnkwSEJ4VHJIXzZnZ0hzaXVfZXNSUFNXUkVTS0N5blpseS15SHN1dWtkX0d4RjZZcjd6SXFwMk1nUE9FdDQ3d01VY0htbDdUN3Z4N2xZX2xIU1hB?oc=5",
+   "published": "2026-11-28T01:51+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
     }
    ]
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-   "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+   "summary": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+   "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
-   "published": "2026-11-28T00:12+09:00",
+   "published": "2026-11-28T03:32+09:00",
    "holdings": [
     "dram",
     "ram",
@@ -153,14 +122,73 @@
     {
      "symbol": "MU",
      "name": "마이크론",
-     "chgPct": -4.53,
-     "asOf": "2026-11-25"
+     "chgPct": 7.6,
+     "asOf": "2026-11-27"
     },
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Micron CEO Expects Memory Shortages to Worsen in 2028, but TrendForce Sees Prices Falling",
+   "title": "Micron CEO Expects Memory Shortages to Worsen in 2028, but TrendForce Sees Prices Falling",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmgwc21hdHg3M1A0M3VZTXB1WnUtM3ZRY0tiYk1TVFVLUHZyYW5ENHVkX29lNGZBdm00ZmhjMjBrV1BJQ05NVVVSekJTTW03MGJHaHlIbjdFR083bU5VTlpUQ09Vd3psOFZla0g2UlZhZ1NLSUtNREtta0VOeHVhaXpaY3V2Q1JIOTFzajFVU0tyeFp5cnBRR1RzeU1QN2VXQUE?oc=5",
+   "published": "2026-11-28T03:15+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "MU",
+     "name": "마이크론",
+     "chgPct": 7.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
+   "published": "2026-11-28T01:00+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia Stock Had Its Best Day in 23 Years. Huang’s Return Revives the AI Bull Case.",
+   "title": "Nvidia Stock Had Its Best Day in 23 Years. Huang’s Return Revives the AI Bull Case.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkQtR013MUFudXlacjZZdGI3UEhPd0NXcGVyQzI5eFJyVWhpX3BMTGVJdEhuc2JTdktGOVZZQzEtVHpvcHpqOS1yeUNEQUVHWFZ5Q1Y5VHRjUWRUa1JzSGUxMDRyYUtCVkhsNzFtM2hyWTN0dm5ER3dtYmx6Y0VkYnZwTXdxQWdCeWI3VDlMV3JjNW9u?oc=5",
+   "published": "2026-11-28T00:30+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
     }
    ]
   },
@@ -178,46 +206,8 @@
     {
      "symbol": "NVDA",
      "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Stocks gain as tech rebound holds, but Nvidia dips",
-   "title": "Stocks gain as tech rebound holds, but Nvidia dips",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVRmV2RSRFR6ejB1OWwtMUgzR0N4MVludzFjT2c0bExHQTdnLXdCTW13aEJkWUNmRktMdTNvN0hOc21hb1hSR0ZNUEg5WTgxdVp5eDU3VnRhbVVlQktZRGxUVW4zblFZd1hiU0c1dGFkeEt3WkVXNjFDSDRRUFNKNFJmS0lrdkpK?oc=5",
-   "published": "2026-11-28T00:09+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck",
-   "title": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkxyTV9zSklTSFBpa3A3S0o3YnNudHVjamUtNlBVQWUyZ0xIb3FrS1ptbVNiR1dESHlSVGFLUERKUFZXeHlVLVlNSDVvQ3gyNDJ6UnlZUTFvOW9iTjMycG9TLWhuSUFCdjQ0X3BWelR1UXZSbjlKNHkwRDVzNW1qWlFiVkItanAwV1BsVWJYd19jVkdsYkFpYTRSUGRxdkhHLVBHZDVxV2Izbmg0NHo0R3JSakJEczB4cHd0LUxwQkxNWTBZckE?oc=5",
-   "published": "2026-11-27T23:57+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
     }
    ]
   }
