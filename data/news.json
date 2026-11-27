@@ -1,9 +1,30 @@
 {
- "updatedAt": "2026-11-27T11:32:29+09:00",
+ "updatedAt": "2026-11-27T12:03:03+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "월스트리트는 주가 하락으로 AstraZeneca PLC(AZN)의 상승세를 보고 있습니다.",
+   "summary": "Asian shares mostly rise ahead of Wall Street’s reopening after the Thanksgiving holiday",
+   "title": "Asian shares mostly rise ahead of Wall Street’s reopening after the Thanksgiving holiday",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3hvSHlmM1QwQVMyanhDWEpTak5ZZkVwd2RBck9ObnBheXJoYWQxcUxMYXJqb2VhdWRiUVM2ZlNrSmNTYlZVZ1JmYXlRZ0lvclBleFJzRGZjUktHREZkY1JjOS15OVdGdmN5SVRmZUN2T1RVNTR2bnJwWjhfQnR5S015XzZtNmpNd19xbHFUbExjQk1OUTdPRDFxcUotZEZn?oc=5",
+   "published": "2026-11-27T11:18+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Sees Upside in AstraZeneca PLC (AZN) as Shares Retreat",
    "title": "Wall Street Sees Upside in AstraZeneca PLC (AZN) as Shares Retreat",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSm1mMGdDSWlpS1R0bkh6bVFNSnZMNDFxRTA3SktkbFgtMU1sLWoyTXU5MXJwbG1ManVuUDBid3QtSm9md1MyWklfRXpwSklPMkE3ZkZuNC1COEZxQjhEdVZLemE1em02UXNxRlptd0Y3S1lHS2cyZGFOcHNhTWhnYml4RDAtQ195a1lYYzBoYnF4NFlnMDlPVlZiNGo?oc=5",
@@ -24,7 +45,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "HP 주식은 5월 이후 최고의 날을 보냈으며 월스트리트의 목표 가격을 넘어섰습니다.",
+   "summary": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
    "title": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTNndXFkS2ZqSElxU3o2OFJhdVZNNVo2bUZuZ3VYN2YyQTY5a05NU3RQS1NmYXoxY0wwR0lYd3h3N29kQzRrZWpXX1F0eWVoUy04S3lPOVFmcGNYdGh4VUU2UVFZVHVGSVZuT2JMcTdIMm50bmNJdG9ybE9CNzdSRS1ISDVVdmJQbHFtajhWWUY?oc=5",
@@ -45,7 +66,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "W.W. Grainger 주식 전망: 월스트리트는 강세인가, 약세인가?",
+   "summary": "W.W. Grainger Stock Outlook: Is Wall Street Bullish or Bearish?",
    "title": "W.W. Grainger Stock Outlook: Is Wall Street Bullish or Bearish?",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWFlQTR5cFpsd2Vyd3NEc3hkMldTLUxFcVdsQ2g0ZXlDaTRRSC00aV9LLUZIZlRoUnl3dUJBX1B2bXM5UkRNcmZNdVFVcEUzcU5MWDlLVDdJcnVfUi1zSC1FenNId0F4ODBBaDh0WVpLWk9BY1ZwU0ptRy1LZTdSZWN6YVRtbmJYel8yck5CNE53MjdFWUE?oc=5",
@@ -66,7 +87,7 @@
   },
   {
    "category": "미국 지수",
-   "summary": "2026년에 S&P 500보다 뒤처지고 2027년에는 앞설 수 있는 2가지 성장주",
+   "summary": "2 Growth Stocks That Lagged the S&P 500 in 2026 and Could Lead in 2027",
    "title": "2 Growth Stocks That Lagged the S&P 500 in 2026 and Could Lead in 2027",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVZIR3RSaVFnTzJjR1c1LVlIaENXb1ZWb1BaYjVoTmRPUkZGYmxPTnRxV0I3QzdQS3BLUUx3Vm9Sdk9pTC1MZzNqWVZxYmx0MUhIRHFaRlJFQ0N2dy02MFZ3RGxBTUE1Q21RZjVuakRRbkI4NkFqSlh4VC0yc0R1dGhmUFRsUnRCOXZYWmsyZlZnTXc?oc=5",
@@ -86,29 +107,8 @@
    ]
   },
   {
-   "category": "미국 지수",
-   "summary": "나스닥(NDAQ) 주식은 기록적인 반복 수익으로 인해 18% 과대평가될 수 있습니다.",
-   "title": "Nasdaq (NDAQ) Stock Could Be 18% Overvalued Following Record Recurring Revenue",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVZGSERmbWI5bzJuNE5ETUVpNjZEemxFYTAwLUIwOVZsVFpVVTVFM056cVVKa0plM3NOS3lfQ0pKbVA2VXdsV29adjZDRGxWRHZGSGozVnZrUllUTUpSSkMyLVdkajQ5bllZMG5lQ2lJTG01bHdIb0RSZkktb1ZCNzd4OFp4eXVaaVZoTlE3SnpWUTZmNlE?oc=5",
-   "published": "2026-11-27T01:13+09:00",
-   "holdings": [
-    "kodex-nasdaq100",
-    "qqqm",
-    "tqqq"
-   ],
-   "moves": [
-    {
-     "symbol": "^IXIC",
-     "name": "나스닥",
-     "chgPct": -0.62,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
    "category": "반도체 · 메모리",
-   "summary": "Jensen Huang의 복귀로 인해 Nvidia 주식(NVDA)을 매수할 수는 없습니다",
+   "summary": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
    "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndtT1dTZXdiYWpqTXRoMktMU3pTZ3U0d1lMTURLenJTa1BpdkE5c0IwNnVPTFJYX2NidVRlb2FuT3BNZFptMDBvQ3ZPdTVEbGowUlRvbVlpNXpZRFlTQUkyd0VMTmtmUUZfWjlnWWJYbVJYY0VGa3BDVEU2clpGR18zbmlaV0xOTWRDb2xWYnBhWE5iZUdJ?oc=5",
@@ -127,26 +127,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia는 현재 SpaceX 주식 포트폴리오의 41%를 보유하고 있습니다. Nvidia 주주들에게 이것이 의미하는 바는 다음과 같습니다.",
-   "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5",
-   "published": "2026-11-27T03:12+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia는 Intel 주식에 대한 190억 달러 규모의 신뢰 표를 공개했습니다.",
+   "summary": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
    "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHU2RFNjQk1ablhVU1NGdWZxNUItMGxNMURqb2tpSFpNQ2FfejBXa2c4V0U1bnFmZzQyTTc4d1NudlF5WG4wRnhBTm5fZjI0UjRxcDd6NG9wZ1NIUl9HQmpzTG5NUmF2akQwbmpjaXRVdXlweURNbmFrUUNkczVzVkl6S2xZX1NjZzlLOUVURFhISDRCd3pQRFFn?oc=5",
@@ -171,7 +152,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "터키 문제를 해결해야 할 10가지 큰 돈 주제: Nvidia, 시장 등에 대한 Yahoo Finance 가이드",
+   "summary": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
    "title": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHFqVC1sVmpKQ2p3NkZtXzFHd01TckVvZ2pTV1ZBQmVPcmMwNmJMeUQ0LWFPYjY1ZFpEajJ3RnhnXzE1dnhZbmZ4Y0tTSXplX0NmanRpLWNVNE9HYmlSeTBNNXdrVHRtTkFkSDB5LVRnd3RXQ1VVcVdEZUhkTzV4REJMTFpRZVJFSk5SYTNoVl9DSjFyMVR0cmJkYlBXZ0NHeEhnR3E0QVEyZ01yTkx0S2ZpeVUzWmdBNnY0RmdBb2JVdU1SQi1ITy03WGt2ZjUzNHZFZHRHdndzbnpBSXZsYVJmLVlCanZWSU1naTVRUjVpai1P?oc=5",
@@ -190,10 +171,29 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "3 AI 반도체 주식 소매 투자자들이 데이터 센터 성장을 주시하고 있습니다",
+   "summary": "3 AI Semiconductor Stocks Retail Investors Are Watching For Data Center Growth",
    "title": "3 AI Semiconductor Stocks Retail Investors Are Watching For Data Center Growth",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUM3aDJDQnVhUlc0YlJSbzFBdUVpQjRYWl96ZTJOdW1LbjNlaUs1UkhCY3BWTXRKQjlzVU1QNjhKTWJJV2dDYU51azRPT2g2aUI4U0VidGpndFF4WWNwOGdPTFMwUm4ybFZPeEpmYjR5VldFclB4Y2Q3dnpfeHJETEJZOXRsbk1Zck0yejYyS1RGLThJLXFzODYwVE0?oc=5",
+   "published": "2026-11-27T01:10+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "SOXX",
+     "name": "반도체지수",
+     "chgPct": -0.5,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "FormFactor And 2 Other AI Chip Stocks To Watch",
+   "title": "FormFactor And 2 Other AI Chip Stocks To Watch",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWIzTjE4SWYxb0dFZWpTMnVqclJkVVU4X0NxUVEwUEpGMmhPd2p5Yk9zV1kzOG9KYkhXSmZNR2xmSFJBNlRaWFdIN0ppb1o1dUtsam8xUDBwNW5mdjVGZzlkZjZRNTNmeUVhZkJBdU5zRWVEZk5KRXFLOU5Gc1QxV3RVWUVUd2pEYXBQNkF3MmlvRVZf?oc=5",
    "published": "2026-11-27T01:10+09:00",
    "holdings": [
     "soxl"
