@@ -1,27 +1,6 @@
 {
- "updatedAt": "2026-11-28T01:32:18+09:00",
+ "updatedAt": "2026-11-28T02:02:15+09:00",
  "items": [
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Today: Markets Off to a Strong Black Friday Start",
-   "title": "Stock Market Today: Markets Off to a Strong Black Friday Start",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0pOam9UMEtVZDBhTVJmX1dfcFZ1cFFERjNqRDdzLW9DWFBmaW90VnRlN2FHZVZ2RTkzRllrUUo5M0x4UU5NRWJ2bm9nN3N5TDdZMVJQangwOTUyNzhxcVhlaV92R2EyaXVET1V4MjJoVGRWNS1EYzlMT09wRjlSeVNraE93akFaeDIycE0waEhUbEoySm00ZXlZZw?oc=5",
-   "published": "2026-11-28T00:03+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
   {
    "category": "미국 지수",
    "summary": "HubSpot, AST SpaceMobile downgraded: Wall Street's top analyst calls",
@@ -34,23 +13,6 @@
     "irp-kodex-sp500",
     "schd"
    ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": -0.25,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "US stocks open higher as battered AI shares claw back losses",
-   "title": "US stocks open higher as battered AI shares claw back losses",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzNWWlJucW5jdm1VMjZiVzdGRkpiRUlRVDUwY2ExWDQxTDhac1VKZl9zMGRVaTNNT3NwN2Q1eWdWOVpQR3BSeHZKQi1EaVlSMGdZbnMzOFMyV283UjU3NGI4RUNxZ1loRkoxYllmZ0stdXU5Ml9yWUEtM0JLTENoUVhvR1N6dExsaTlRZWN4RlZPN3hoRlNrTEpzVQ?oc=5",
-   "published": "2026-11-27T23:35+09:00",
-   "holdings": [],
    "moves": [
     {
      "symbol": "^GSPC",
@@ -104,6 +66,73 @@
      "symbol": "^DJI",
      "name": "다우",
      "chgPct": 0.33,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
+   "title": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFZPYlR1Zk9NaE9DRm1va1F3ZkdPQ3YtT3VEVmNXeGlINzdiMGpyclBsN19rRnJ5RVRRcUx5VzhhQU1wVkxCNDlrbV9VV1h3QW93a3ZLOVhMU3dqbXpyUGtqNW9tMlZzOW0wVnhseVJSdkV0b3VzT3JsbXJHNmZmLUo2R2ROSF9MTTU5ZmxoTkxCMjVFVUxYdGJtTzR0bkU?oc=5",
+   "published": "2026-11-27T23:15+09:00",
+   "holdings": [
+    "kodex-nasdaq100",
+    "qqqm",
+    "tqqq"
+   ],
+   "moves": [
+    {
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": -0.62,
+     "asOf": "2026-11-25"
+    },
+    {
+     "symbol": "^DJI",
+     "name": "다우",
+     "chgPct": 0.33,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Wall Street Analysts Think Howmet (HWM) Could Surge 39.21%: Read This Before Placing a Bet",
+   "title": "Wall Street Analysts Think Howmet (HWM) Could Surge 39.21%: Read This Before Placing a Bet",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWNtcHpNMVhSNUsyNmJ0UXdTSzVvcms5NGJtMTVTWmItUmhLZ1ZPYkdOb2Facy1HMGxGaHR1dGRNckhWYmJWSWNkRldVQ0Exb2lXT2Y5bE1tRU1NTHF1SDVUNkh4cnROd1llSVZwVU5USWhPdXQxREh4YklGT0EtQU16bjVjeGRqLUZ2dUJWeXJrUE9GUlRxbnF2WDVudVk?oc=5",
+   "published": "2026-11-27T22:55+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": -0.25,
+     "asOf": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "published": "2026-11-28T00:22+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": -3.91,
      "asOf": "2026-11-25"
     }
    ]
@@ -180,25 +209,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkxyTV9zSklTSFBpa3A3S0o3YnNudHVjamUtNlBVQWUyZ0xIb3FrS1ptbVNiR1dESHlSVGFLUERKUFZXeHlVLVlNSDVvQ3gyNDJ6UnlZUTFvOW9iTjMycG9TLWhuSUFCdjQ0X3BWelR1UXZSbjlKNHkwRDVzNW1qWlFiVkItanAwV1BsVWJYd19jVkdsYkFpYTRSUGRxdkhHLVBHZDVxV2Izbmg0NHo0R3JSakJEczB4cHd0LUxwQkxNWTBZckE?oc=5",
    "published": "2026-11-27T23:57+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": -3.91,
-     "asOf": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
-   "title": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEtOWU9IX1pkT3VPQ3A1UzlMLWpUa01YdGlxV1E4YmluLWdBM3BfQ0M1RU9kM0pZZnVmVkxxS1FoblZLUXFQcUFnSUpHcTRoLVJkcnZBX01hS244SkhkUlRqNmRwUjlKbWpnU2pLdEVsc00xd2k3V0EtSHFUSzNNcDgzNkdSWWRJSmh3N3Nsa1Ytb0xCNWc?oc=5",
-   "published": "2026-11-27T23:28+09:00",
    "holdings": [
     "soxl"
    ],
