@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-28T08:00:31+09:00",
+ "updatedAt": "2026-11-28T12:20:48+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
-   "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEpydjNOdzBWT01oa0UzWHRXUUMzSWh5OU9PNnRzME4wNTludDFUdTgtQWdwOEgyZ1liTEstZnZjZ3RrTzlWY0dTNXR5RVFNZk5xSHhJZmRHSnhUVnpoVDI2Njh0aWFSNE9sZlQ0MXRPZ1gtbmJKVm03NnRfNmJPUA?oc=5",
-   "published": "2026-11-28T03:43+09:00",
+   "summary": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+   "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORklZSzRQTEViM1gtRnQ5TVNuOWgtMjJVY1A2elhaYzQyajZ4V3hWWWlXbHFvN1pnRmM3TXVYempobkdjcGJRQi1lb2FudDFfNEpvRDRXRnJQWkR2UGk1MFZrRFI2Qi13SE9ZWE9KNU82azFRLXFpS0hFOE1xX01FRzdKSDJCNV9RcHNuM2tWQk0wQU5LdU1jU280YU5RSXVPUUNPRDFqcU3SAa4BQVVfeXFMTi0tWjBERU54S2Z2RmQ0VmNzdFNfNzlfNWNKV200RkFFVnlOaHFLQ3JTU0NidnJIM2VoNTJXZHQzcW9udU1KdEhBRkpESnRhTmtfd3lScXg3V0tCLUpZTTdLQkdKdzJCTjN3U0RCZnNBSUhhQmtwTG9mNTBCaktqcmxFVmpFOExwNUllQlgyTVhiVDdOUXNfWTBSTDBWWFBkZ1VLM1pBdkNmcmkzanhR?oc=5",
+   "published": "2026-11-28T11:00+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,53 +24,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
-   "title": "Anthropic likely to join major indexes, but not S&P 500 yet, says TD Securities Peter Haynes",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnNCajkwVERYTno3TTY3MVJEYktDYW9ocFFpZ3lBSWxiS0FTMnVSeVh5LXVVNlpBQ05PbTBmR1d3OWJLazdLYU02cjBta1doZXJ2TXJwc1FkUmNtNmYyRWZTUlhnWEN0aUdRazJTVktUd2tLcUNDdEpwOEFvYkc2VWY1c3pFUm1USGc5c0VYSFJIWlg0U3lIeUZBU1c0LUF0d2M2a1VkSy1ZaDhIVHZ6TFg2ZzlmQ1V1NGhJakxSWFRMZDhjRC0zMDNzODc?oc=5",
-   "published": "2026-11-28T03:33+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.6,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Wall Street ends higher as battered AI stocks gain in volatile week",
-   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "summary": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
+   "title": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-   "published": "2026-11-28T03:02+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.6,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
-   "title": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3JTY0diX3V1djFVdWpWVkM0ekRibzNMZ3RmeXlqanRNaGVMYUpFSi1YUGtDOGhUUGpQTnNTMlV4RTRqT3pQa014dVBHelp5MTNkZloyek5fT1psQkFpbDJPd3dnTWZqTVpUdjFINm9VUXdHY0NRNWpma25zVklIWG03NG1XR29HUU9Nd21VRHdobWlRVWc?oc=5",
-   "published": "2026-11-28T02:31+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFoMnBkRDRiaV9PcXlMdlJWd0NFSlB2T1ltYS12Y2hpanhsWTVFd0hmRmp6WVl3UnUzblVuYVo0cGJrdnBRQjd0VTZaS1paNTlUbE9NSXkwQ1FKMzRNOWNfbFBuWV9sUVM4UGR1LW9Ja203NERxS09MZThJa1RvcjNhel9GNEFDY0o4aGlKV2Z2cjZGb2NUUXVrMA?oc=5",
+   "published": "2026-11-28T08:08+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -78,20 +36,20 @@
    ],
    "moves": [
     {
-     "symbol": "AMZN",
-     "name": "아마존",
-     "chgPct": 3.96,
+     "symbol": "^IXIC",
+     "name": "나스닥",
+     "chgPct": 2.31,
      "asOf": "2026-11-27"
     }
    ]
   },
   {
    "category": "미국 지수",
-   "summary": "Dell delivers record results, but Wall Street sees a catch",
-   "title": "Dell delivers record results, but Wall Street sees a catch",
+   "summary": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
+   "title": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2hNM3ZpSi1sTUlvYkNJQjFkVnhtUW1OMXhsM1dYVjk5TExxQXRRbE5UbTNRQ19DWF85cHFRSXhVLUhqR0N2R0E0amF5SHFEQzhGdDNHVElRRURDQ0l1aEt1RnlIVVp1allEUmZnLXU0bkNUY1FnRGw1S1NKMGkyQUVFaURhUEFaazlzQnFQY2ZPa3prWF9Xb3hlaGRyRWM?oc=5",
-   "published": "2026-11-28T02:03+09:00",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5",
+   "published": "2026-11-28T06:45+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -102,6 +60,67 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
+   "title": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEZGWnVIVjdSdUNFNjNDa29udFlOTjRZcEtKN0hWM09jajViXzVQcUphMF9FdTFiVm1Bc2lLWWVXN3JMbXJ5STRPWHVTcGd2UUp5Skg0dF9EVjBCc2VOM0E5Y3ZuOWxkcFRiVHczakVzUXc0bjdSc1M3amZOdEVVU3g0MHVjc0gzNXQ5a0RnY29KY1Y0aWI0Rm04a0M?oc=5",
+   "published": "2026-11-28T06:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
+   "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa01VV2lJTWEyWm1WRTJGZnA4eUQzQUhrUFRLZ1ZETmQ3NnJ1RFdrTnBzQ1BoZVpSelUyZUNaM0JUblpBUHhvRG9FZ0NxYmNjYThCQjRIby10V09SQURmWFFvNmRqV0k5TUQzR0JqbHdkWHg2R0JHNW5hYVVMWnlnLUtLX1Z4MXltRjFDejRwRWFWeEdMMDhQTUVOYw?oc=5",
+   "published": "2026-11-28T06:45+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+   "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "published": "2026-11-28T06:18+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.8,
      "asOf": "2026-11-27"
     }
    ]
@@ -156,49 +175,30 @@
   },
   {
    "category": "반도체 · 메모리",
+   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "published": "2026-11-28T01:23+09:00",
+   "holdings": [
+    "soxl"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
    "summary": "Nvidia stock rallies as President Trump backs Jensen Huang",
    "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
    "published": "2026-11-28T01:00+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.8,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia Stock Had Its Best Day in 23 Years. Huang’s Return Revives the AI Bull Case.",
-   "title": "Nvidia Stock Had Its Best Day in 23 Years. Huang’s Return Revives the AI Bull Case.",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkQtR013MUFudXlacjZZdGI3UEhPd0NXcGVyQzI5eFJyVWhpX3BMTGVJdEhuc2JTdktGOVZZQzEtVHpvcHpqOS1yeUNEQUVHWFZ5Q1Y5VHRjUWRUa1JzSGUxMDRyYUtCVkhsNzFtM2hyWTN0dm5ER3dtYmx6Y0VkYnZwTXdxQWdCeWI3VDlMV3JjNW9u?oc=5",
-   "published": "2026-11-28T00:30+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.8,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
-   "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEZiY01ybEpCUmlueVNrSVdVQjlzTFJRNVFwaV9qN3Z4SHB0NVNxeUZPYmo4bE5lZ1J5NFJfV2RaYUR1SWJUXzJrYS1DcHVTbjRqQjJGRGJPd1JsMDNVZ2piRzBUMzloenpSbnIxajF6VVppVERzVXVqY1A4a0M3Z09VY0FsQXV0bXc3ckJEdzZvVnNXc04wbEhROHlKdmhUX1laRVVKazNrNWhsQ3ljY2haQQ?oc=5",
-   "published": "2026-11-28T00:10+09:00",
    "holdings": [
     "soxl"
    ],
