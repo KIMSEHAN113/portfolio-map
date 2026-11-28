@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-28T12:20:48+09:00",
+ "updatedAt": "2026-11-28T22:10:52+09:00",
  "items": [
   {
    "category": "미국 지수",
-   "summary": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
-   "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORklZSzRQTEViM1gtRnQ5TVNuOWgtMjJVY1A2elhaYzQyajZ4V3hWWWlXbHFvN1pnRmM3TXVYempobkdjcGJRQi1lb2FudDFfNEpvRDRXRnJQWkR2UGk1MFZrRFI2Qi13SE9ZWE9KNU82azFRLXFpS0hFOE1xX01FRzdKSDJCNV9RcHNuM2tWQk0wQU5LdU1jU280YU5RSXVPUUNPRDFqcU3SAa4BQVVfeXFMTi0tWjBERU54S2Z2RmQ0VmNzdFNfNzlfNWNKV200RkFFVnlOaHFLQ3JTU0NidnJIM2VoNTJXZHQzcW9udU1KdEhBRkpESnRhTmtfd3lScXg3V0tCLUpZTTdLQkdKdzJCTjN3U0RCZnNBSUhhQmtwTG9mNTBCaktqcmxFVmpFOExwNUllQlgyTVhiVDdOUXNfWTBSTDBWWFBkZ1VLM1pBdkNmcmkzanhR?oc=5",
-   "published": "2026-11-28T11:00+09:00",
+   "summary": "주식시장은 조정 국면에 빠졌다. 역사는 다음에 무슨 일이 일어날지 명확하게 보여줍니다.",
+   "title": "The Stock Market Just Dropped Into a Correction. History Is Crystal Clear About What Happens Next.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRURQM3R3YUhxYmhJQm9vV2FUb0ZrMWZMeG85cVREc3kzOFZfTXRHbkE0Tkg5dENRYWxWU3lwelpLaVVzZENEbXNrUkpPWlJkOExmQ2JQYTFyV2diY0QtRkFvcXhQbEpBQVdaOWdYNFhvOS1rMVJCM3hNNXZkbERhbW9EYUpIR2Ntc005U284RlpFbG9hMjNtUmRqMkItU0Q5X3o0?oc=5",
+   "published": "2026-11-28T20:32+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -24,11 +24,32 @@
   },
   {
    "category": "미국 지수",
-   "summary": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
-   "title": "History Says the Nasdaq's Wild Ride Probably Isn't Over. Here's the Case for QQQI and Its 14% Yield.",
+   "summary": "VOO의 50만 달러 지분은 2025년 4월 이후 S&P 500의 최악의 주에 41,700달러를 잃었습니다. 1950년 이후 10% 하락 후 매수는 1년 후 평균 15% 수익을 올렸습니다.",
+   "title": "A $500,000 Stake in VOO Lost $41,700 in the S&P 500’s Worst Week Since April 2025. Since 1950, Buying After a 10% Drop Has Returned 15% on Average a Year Later",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFoMnBkRDRiaV9PcXlMdlJWd0NFSlB2T1ltYS12Y2hpanhsWTVFd0hmRmp6WVl3UnUzblVuYVo0cGJrdnBRQjd0VTZaS1paNTlUbE9NSXkwQ1FKMzRNOWNfbFBuWV9sUVM4UGR1LW9Ja203NERxS09MZThJa1RvcjNhel9GNEFDY0o4aGlKV2Z2cjZGb2NUUXVrMA?oc=5",
-   "published": "2026-11-28T08:08+09:00",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXFkNERBMEFwZzIxaTNiMXlVMjBWdHJxNS1HYWRNcWo0dWxVeWc3ellDY1d3VzROaEdySTYwUnhFd3V3SU5DUWZWeFZRU3l3aEEwNVpXeTdRWmlCUXdqdjZ0ck4xcEVGSElFdXVrWHVyUXVORzBGZnp4NGY2SnVNeFQxRmdrX2VheHVsVW9HZkY?oc=5",
+   "published": "2026-11-28T18:28+09:00",
+   "holdings": [
+    "rise-sp500",
+    "irp-kodex-sp500",
+    "schd"
+   ],
+   "moves": [
+    {
+     "symbol": "^GSPC",
+     "name": "S&P 500",
+     "chgPct": 1.6,
+     "asOf": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "category": "미국 지수",
+   "summary": "NASDAQ 라틴 아메리카 소형주(^NQLASC) 구성요소",
+   "title": "NASDAQ Lat America Small Cap In (^NQLASC) components",
+   "source": "Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQjFnYXRHM0pINDJvV0NlV2w1WGFkQnFnZzV2M0xsdjNxSldWMHVCR2FrRy03S2VKSVd0R1BSYmRsbnpBTXJCR3FFOHNOVkN3aVlqM0hoTmk0MXdSSEZsdGdlRzB3c1k?oc=5",
+   "published": "2026-11-28T17:34+09:00",
    "holdings": [
     "kodex-nasdaq100",
     "qqqm",
@@ -45,11 +66,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
-   "title": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
+   "summary": "워렌 버핏은 주식 시장 붕괴가 다가오고 있다면 이것이 당신이 할 수 있는 가장 현명한 조치라고 말합니다.",
+   "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5",
-   "published": "2026-11-28T06:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajJfZUotekl2ZGFnbVRjU0JtMzJTLVd3RlJTakhELUl6bnZYbC1sTEpkcC1Dc19ocWFuR2UwY0hoaDk3ckQ0TU15eXFwT1RmLXctckU3UU1kekk4d3JEczlVVEJQZlZiVzM1TWFqeE5VNUY0dDJraDBpT09pVjZzUGVhRlh3bHlhdktlSTFfejlSZXRRSzlJQVF2WEZLQQ?oc=5",
+   "published": "2026-11-28T17:20+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -66,32 +87,11 @@
   },
   {
    "category": "미국 지수",
-   "summary": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
-   "title": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
+   "summary": "S&P 500이 조정되면 4년 안에 돈이 두 배로 늘어날 수 있습니다. 주식 시장의 역사는 희망의 이유를 보여줍니다.",
+   "title": "After an S&P 500 Correction, Your Money Could Double in 4 Years. Stock Market History Shows Reasons for Hope.",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEZGWnVIVjdSdUNFNjNDa29udFlOTjRZcEtKN0hWM09jajViXzVQcUphMF9FdTFiVm1Bc2lLWWVXN3JMbXJ5STRPWHVTcGd2UUp5Skg0dF9EVjBCc2VOM0E5Y3ZuOWxkcFRiVHczakVzUXc0bjdSc1M3amZOdEVVU3g0MHVjc0gzNXQ5a0RnY29KY1Y0aWI0Rm04a0M?oc=5",
-   "published": "2026-11-28T06:45+09:00",
-   "holdings": [
-    "rise-sp500",
-    "irp-kodex-sp500",
-    "schd"
-   ],
-   "moves": [
-    {
-     "symbol": "^GSPC",
-     "name": "S&P 500",
-     "chgPct": 1.6,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "미국 지수",
-   "summary": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
-   "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa01VV2lJTWEyWm1WRTJGZnA4eUQzQUhrUFRLZ1ZETmQ3NnJ1RFdrTnBzQ1BoZVpSelUyZUNaM0JUblpBUHhvRG9FZ0NxYmNjYThCQjRIby10V09SQURmWFFvNmRqV0k5TUQzR0JqbHdkWHg2R0JHNW5hYVVMWnlnLUtLX1Z4MXltRjFDejRwRWFWeEdMMDhQTUVOYw?oc=5",
-   "published": "2026-11-28T06:45+09:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGZzc2VFUlRPVkprM3YxVi1GTTdzR2pvLXk4VHAxQnRacy1qVGF6TGh1S1JmQ292Rk9aXzNaaG1MQlIzUDlfdVhPYkdZYWFHTU12ZTVBaHFTS0VYSXZrQjNxUmNxcFdJWmx4bEVDNkFXdUJlaUtqajNUU3RvVHNLdU1abzVsa1JiYWswV0RzaGxfN2o3RmpxSw?oc=5",
+   "published": "2026-11-28T16:48+09:00",
    "holdings": [
     "rise-sp500",
     "irp-kodex-sp500",
@@ -108,10 +108,37 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+   "summary": "Kioxia와 Nvidia가 플래시 드라이브를 추가 AI 메모리로 테스트한 후 Sandisk 주식을 매수할 수 있나요?",
+   "title": "Is Sandisk Stock a Buy After Kioxia and Nvidia Tested Flash Drives as Extra AI Memory?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWTlSMkE0WnBsSldEQXpmdWhWN3dxNU1nSWx2bERYZk9IOWQ0WmVDMEhEMWZERnRVYUJjR0EwQWZwSEo1SHU5aXpOTUhOZXFJUGJYQlZpSS1veTkwVVdZdXI0MGlYUHhiejBYeGZuQU1EaG9DMDV1NWFGWG0yWFFWdkQyMll0ck9BSWh5cEFNb3owVzB0ZVVQTGpjVzQ?oc=5",
+   "published": "2026-11-28T18:33+09:00",
+   "holdings": [
+    "dram",
+    "ram",
+    "samsung"
+   ],
+   "moves": [
+    {
+     "symbol": "NVDA",
+     "name": "엔비디아",
+     "chgPct": 0.8,
+     "asOf": "2026-11-27"
+    },
+    {
+     "symbol": "SNDK",
+     "name": "샌디스크",
+     "chgPct": -2.71,
+     "asOf": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "category": "반도체 · 메모리",
+   "summary": "Jensen Huang 스캔들과 미국의 단속으로 인해 공급이 질식됨에 따라 Nvidia 칩이 중국에서 300만 달러에 판매됩니다.",
    "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNHTjdIUlp0OUVGTWdNZnJtcTdWeGpSSE5UbE9WSmhYVFRYUGhPOHRBd2VIa2tuVU9PZUJOS2wxTjZUWWdUXzFmdG14QzlueFZLYXVqZDJIeEFQTkYxbjVlekw3WGZBNmVsdGtBbTZPZ2tSQkQwQjM0d25PRDlrZkM4T2tHc2lFY1pTOExyNmRHZXEyRW1TMlE5VWFZQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE51enZXN3pnUnkxSy1xYWIzNXRjLTJMV3phcHBsRFJjVURSUXJFTk9nTC1GUWF5N25JVWxiUDlNcC1KbDQ1THZUV2FTNDNfR1o3OWJHWVRwTWFTOWMtZkt0M21QQ0Q1WW9mM1k1WWRMamlDeFJHMGY1bkpVXzJCMWxuUUR5LUdvYlJWRlNZWDBZVEVR?oc=5",
    "published": "2026-11-28T06:18+09:00",
    "holdings": [
     "soxl"
@@ -127,7 +154,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+   "summary": "엔비디아(Nvidia), 마이크론(Micron), 스페이스X(SpaceX)가 반등하면서 주가는 6조 달러 손실에서 3조 5천억 달러 급등으로 급등했다.",
    "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
@@ -154,7 +181,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "Micron CEO Expects Memory Shortages to Worsen in 2028, but TrendForce Sees Prices Falling",
+   "summary": "Micron CEO는 2028년에 메모리 부족이 악화될 것으로 예상하지만 TrendForce는 가격이 하락할 것으로 예상합니다.",
    "title": "Micron CEO Expects Memory Shortages to Worsen in 2028, but TrendForce Sees Prices Falling",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmgwc21hdHg3M1A0M3VZTXB1WnUtM3ZRY0tiYk1TVFVLUHZyYW5ENHVkX29lNGZBdm00ZmhjMjBrV1BJQ05NVVVSekJTTW03MGJHaHlIbjdFR083bU5VTlpUQ09Vd3psOFZla0g2UlZhZ1NLSUtNREtta0VOeHVhaXpaY3V2Q1JIOTFzajFVU0tyeFp5cnBRR1RzeU1QN2VXQUE?oc=5",
@@ -175,26 +202,7 @@
   },
   {
    "category": "반도체 · 메모리",
-   "summary": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-   "published": "2026-11-28T01:23+09:00",
-   "holdings": [
-    "soxl"
-   ],
-   "moves": [
-    {
-     "symbol": "NVDA",
-     "name": "엔비디아",
-     "chgPct": 0.8,
-     "asOf": "2026-11-27"
-    }
-   ]
-  },
-  {
-   "category": "반도체 · 메모리",
-   "summary": "Nvidia stock rallies as President Trump backs Jensen Huang",
+   "summary": "트럼프 대통령이 젠슨 황을 지지함에 따라 엔비디아 주가가 상승했습니다.",
    "title": "Nvidia stock rallies as President Trump backs Jensen Huang",
    "source": "Fox Business",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PUkpVWXNNWnpJa3ZBOHlnMGNuNjVHTXV3ci1za0FjX1ZvOWhpNWFmc09LTWxtbE1QS1l3T3ViMUdoZG9fV0ZLM2tHSVVaU0VQTTdBZXNMYzYyamc?oc=5",
